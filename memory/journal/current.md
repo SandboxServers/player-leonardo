@@ -56,3 +56,6 @@
 - 15:49 act: {"say":"Macdonald, coming with you. I'll head south first. Call out any pig or cow.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":360}}]}
 - 15:49 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":385}}],"say":"Nothing south at the yellow beds. Going south-east farther to look."}
 - 15:49 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":390}}],"say":"No animals yet at the south-east trees. Pushing east."}
+- 15:50 act: {"say":"Leonardo here, respawned at the yellow beds with nothing after dying out south-east. Zack is with me. Anyone with a spare sword, or food, come close.","intent":{"goal":"stay_near_group_until_m
+- 15:54 act: {"say":"Thank you Zack, I'm here at the yellow beds with Worf. I'll pick up the sword. Wesley and the weakest get food first; I'm full for now."}
+- 16:02 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
