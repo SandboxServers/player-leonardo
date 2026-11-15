@@ -132,3 +132,4 @@
 - 18:17 act: {"actions":[{"do":"sleep"}],"say":"Back at the white beds with the group. No food yet, hunger 17. I'll try the bed now."}
 - 18:21 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the south bed, hunger 17, health 19, no food. Jason, you are lowest by my reading; LaForge, the chicken goes to Jason first."}
 - 18:25 act: {"actions":[{"do":"sleep"}]}
+- 18:26 act: {"say":"Leonardo here, no food on me. Chapman and Jason are lowest; I have none to give. I'll sleep in the bed here.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reaso
