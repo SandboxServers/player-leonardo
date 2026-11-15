@@ -43,3 +43,12 @@
 - 15:29 act: {"actions":[],"say":"Jason, Riker is weaker than me at health 3, so the chicken goes to him. Riker, eat it. I'm at 9.8 and will take the next food.","reasoning":"Dawn. Riker is weakest; he should get 
 - 15:31 act: {"actions":[{"do":"goto","target":{"x":-246,"y":68,"z":348}}],"say":"Stepping clear onto open ground so Jason can hand the chicken to Riker. Riker, I'm out of the way now.","reasoning":"Jason says my 
 - 15:31 act: {"actions":[],"say":"Leonardo: I hold one wheat but cannot get it into my hand to eat. Bcrusher or Wcrusher, at health 2, come into reach and it's yours. Riker, if you're weaker, say so.","reasoning":
+- 15:34 act: {"actions":[{"do":"use","item":"wheat"},{"do":"eat"}],"say":"Riker, I still have one wheat. Trying to eat it now; if it works I'll share what I can.","reasoning":"Hunger 8, one wheat. Try to get it in
+- 15:34 act: {"actions":[{"do":"goto","target":"ag_riker_01"},{"do":"give","to":"ag_riker_01","item":"wheat","count":1}],"say":"Riker, your health was low earlier. Here is my last wheat.","reasoning":"Eating the w
+- 15:35 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"wheat","count":1}],"reasoning":"Give failed as the items are on the ground near Riker. Riker is in reach; retry once."}
+- 15:35 act: {"actions":[],"say":"Riker, my wheat seems to have dropped on the ground near you. It's yours; please take it and eat.","reasoning":"Wheat left my pack but the give did not finish; it is on the ground
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":345}}],"say":"Riker, I have no meat, only the wheat I gave you. Dusk is here, so I'm going to my bed by the yellow beds to rest. Picard is scouti
+- 15:40 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"sleep"}],"reasoning":"Dusk. Move onto the bed and sleep for the night."}
+- 15:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come and I am beside a bed with no hostile near. Sleep."}
+- 15:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom has gone from the beds. Try sleep again."}
+- 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom listed now. Try sleep in the white bed."}
