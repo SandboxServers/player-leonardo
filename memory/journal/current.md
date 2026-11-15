@@ -24,3 +24,9 @@
 - 08:17 act: {"say":"No animals found to the west either. I have only logs, planks and a sword. Going back to the village.","intent":{"goal":"return_to_village","program":"travel","arguments":{"target":{"x":-251,"
 - 08:21 act: {"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"acti
 - 08:24 act: {"actions":[{"do":"sleep"}]}
+- 08:24 act: {"say":"I'm awake in the village bed. Hunger is 17 and I have no food. Looking for food at first light.","actions":[],"intent":{"goal":"await_daylight_then_find_food","program":"rest","arguments":{},"
+- 08:26 act: {"actions":[{"do":"sleep"}],"say":"Still night, hunger 17 and no food. I'll try the bed again and look for food at first light."}
+- 08:30 act: {"say":"Dawn. I have no food either, hunger 17. Wheat Seeker, where is the lake? I'll come for salmon and bring what I can.","actions":[]}
+- 08:32 act: {"say":"Going north-east to look for animals or wheat. Anything I find goes to Trini first.","actions":[],"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-22
+- 08:36 act: {"say":"No animals here. I'll break some leaves in case they drop apples.","actions":[{"do":"mine","block":"oak_leaves","count":8}],"intent":{"goal":"gather_leaves_for_apples","program":"gather","argu
+- 08:40 act: {"say":"Leaves gave nothing. Dusk is coming, so I'm heading back to the village bed for the night.","actions":[],"intent":{"goal":"return_to_village_bed","program":"travel","arguments":{"target":{"x":
