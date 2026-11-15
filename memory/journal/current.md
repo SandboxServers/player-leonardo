@@ -33,3 +33,13 @@
 - 15:17 act: {"actions":[{"do":"use","at":{"x":-275,"y":67,"z":338},"item":"wheat"},{"do":"eat"}],"say":"Leonardo here, hunger 9, holding dirt. Trying to get my one wheat into hand to eat it.","reasoning":"Eat nee
 - 15:20 act: {"actions":[],"say":"Chapman, the ripe wheat is at the south farm, Data knows the way. I have one wheat in my pack, and I am hunger 9 with no way to eat it yet. Whoever gets meat, weakest first.","int
 - 15:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, I am at the white beds with the group, no hostile near. Sleep here."}
+- 15:23 act: {"actions":[{"do":"use","at":{"x":-261,"y":68,"z":352},"item":"wheat"},{"do":"eat"}],"say":"Leonardo here, hunger 9, one wheat in pack. Trying to get it into my hand to eat.","reasoning":"Eating needs
+- 15:23 act: {"actions":[{"do":"use","at":{"x":-264,"y":67,"z":355},"item":"wheat"},{"do":"eat"}],"reasoning":"Crafting table refused as a container. Try a plain log block to bring wheat into hand, then eat."}
+- 15:23 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"dirt","count":1},{"do":"use","at":{"x":-264,"y":67,"z":355},"item":"wheat"},{"do":"eat"}],"say":"Macdonald, I'm giving you a dirt block to clear
+- 15:23 act: {"actions":[{"do":"use","at":{"x":-261,"y":66,"z":353},"item":"wheat"},{"do":"eat"}],"reasoning":"Hand is empty now. Try the grass block under my feet as the click target to bring wheat into hand, the
+- 15:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Leonardo: I can't get my wheat into hand to eat, so I'm going to sleep at the yellow bed for the night. Wheat kept f
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"I drifted to -242,69,344; sleep failed here. Walk back to the yellow bed and sleep."}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Sleep keeps failing as the way is blocked. Try a standing spot beside the yellow bed, from the east side."}
+- 15:29 act: {"actions":[],"say":"Jason, Riker is weaker than me at health 3, so the chicken goes to him. Riker, eat it. I'm at 9.8 and will take the next food.","reasoning":"Dawn. Riker is weakest; he should get 
+- 15:31 act: {"actions":[{"do":"goto","target":{"x":-246,"y":68,"z":348}}],"say":"Stepping clear onto open ground so Jason can hand the chicken to Riker. Riker, I'm out of the way now.","reasoning":"Jason says my 
+- 15:31 act: {"actions":[],"say":"Leonardo: I hold one wheat but cannot get it into my hand to eat. Bcrusher or Wcrusher, at health 2, come into reach and it's yours. Riker, if you're weaker, say so.","reasoning":
