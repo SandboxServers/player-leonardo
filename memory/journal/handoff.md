@@ -1,0 +1,1 @@
+Handoff: I am sheltered in a village bed at -263,67,354 (night, day 271). I have no items and hunger is full. Oak logs are around -247,70,369 and -241,67,375; one gather try failed because water would flow in, and another because the way was blocked. Next: gather oak and birch logs carefully, and offer help to the village, which is short of food.
