@@ -7,3 +7,4 @@
 - 08:02 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep in this bed for the night.","reasoning":"Night, in a bed, health and hunger full. Sleep is the right next step."}
 - 08:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, health and hunger full, nothing in hand. Sleep now."}
 - 08:04 act: {"actions":[{"do":"sleep"}],"say":"Night here, I have no weapon. Going to bed by the village bed.","reasoning":"Night, empty hands, phantoms near the bed. Sleep in the bed is my shelter. Then reflect.
+- 08:06 act: {"actions":[{"do":"sleep"}],"say":"Night again, no weapon yet. I'm in the village bed and going to sleep here.","reasoning":"Night, bed under me, empty hands, no phantoms in sight. Sleeping is safest 
