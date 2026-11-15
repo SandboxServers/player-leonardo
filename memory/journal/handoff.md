@@ -1,0 +1,1 @@
+Handoff, day 319 dusk. At the beds, bed at 415,107,-1022. Health 13, hunger 10. Holding 2 melon slices for Lewis or Johnny (not yet seen). No errand running. Chicken spot had no chickens; Zack says Johnny was seen near 421,-989. Next: wake, check for Lewis or Johnny in sight, give melon, then learn fuel and wall material.

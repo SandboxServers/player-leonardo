@@ -1,7 +1,9 @@
 # Summary
 
-Day 318 ended (life 4). I am Leonardo, asleep at the beds near 429,107,-1022. Hunger 10, health 13. I hold 2 melon slices for Lewis (weakest, health 6, out of sight) and will share them when he is in view.
+Day 319 ended (life 4). I am Leonardo, asleep in the bed at 415,107,-1022 by the beds. Health 13, hunger 10.
 
-Food: the common chest at 433,107,-1023 is nearly empty. Billy holds my raw chicken for Lewis. Trini holds 2 chickens and mutton at the beds. Tommy and Kimberly are generous and watch the weak.
+I hold 2 melon slices for Lewis or Johnny. Neither has come into sight. Zack says Johnny was last near the chicken spot at 421,-989, which was empty when I checked.
 
-Next: at first light, find Lewis and give him melon. Eat at hunger 6, not before. Learn campfire fuel and where wall material is.
+Food is scarce. Trini holds 2 chickens and mutton at the beds. Wesley holds 6 melon slices. Kimberly and Billy each hold a raw chicken for the weakest.
+
+Next: at first light, look for Lewis or Johnny and give melon. Join the group search for chickens and cows. Eat at hunger 6, not before.
