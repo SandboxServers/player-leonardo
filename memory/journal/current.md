@@ -159,3 +159,29 @@
 - 19:10 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I'm perched on a ledge at -298,73,362 with health falling. Putting dirt under my feet to stand on."}
 - 19:10 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
 - 19:10 act: {"say":"Leonardo at -271,67,355 by the yellow beds, health 15, hunger 14, no food. LaForge, Chapman, Riker, Billy: if any food comes, I'm next after Clark. I'll scout with you."}
+- 19:14 act: {"say":"Leonardo at the yellow beds, health 15, hunger 14, no food. Clark and Chapman first, I'll wait here and go with anyone who finds meat.","intent":{"goal":"hold_at_beds_for_meat","program":"rest
+- 19:23 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the yellow bed, health 15, hunger 14, no food. Going to sleep with the group. Jason has rotten flesh for whoever drops to 6."}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 19:25 act: {"say":"Leonardo: sleep is blocked at the yellow bed again. I'll hold here by the beds with the golems, which have not attacked, and try again once it is quieter.","intent":{"goal":"hold_by_beds_until
+- 19:26 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the yellow bed beside -282,69,371, hunger 13, health 15. Trying to sleep here."}
+- 19:26 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"sleep"}],"say":"Leonardo: sleep keeps failing while I hang in the air by the bed. I'm putting dirt under my feet to stand on the ground, th
+- 19:30 act: {"say":"Leonardo, morning 306, health 20, hunger 13, no food. Joining Worf and Data scouting east, staying in sight. Any meat goes to Chapman and Kimberly first.","intent":{"goal":"scout_east_with_wor
+- 19:31 act: {"say":"Leonardo at the east spot -222,68,351, hunger 13. Worf, Data, Kimberly: I'm here, no animals in sight yet. Call out if you find any."}
+- 19:40 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":353}}],"say":"Leonardo: going to the yellow beds at -263,67,353 for the night. Hunger 13, no food. Riker, Lewis: meet there.","intent":{"goal":"r
+- 19:41 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"reasoning":"At the yellow bed with Jason beside me; iron golem not hostile. Try to sleep in the bed."}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:43 act: {"actions":[{"do":"sleep"}],"say":"Leonardo: trying the bed at -263,67,353 again. No food, hunger 13. Chapman, if you have chicken, I'm fine until hunger 6; Riker and Chapman first."}
+- 19:44 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"sleep"}]}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}],"intent":{"goal":"return_to_yellow_bed","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":354}},"wake_on":["directly_addressed
+- 19:45 act: {"actions":[{"do":"sleep"}]}
+- 19:45 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":343}},{"do":"sleep"}]}
+- 19:50 act: {"actions":[],"say":"Leonardo, dawn 307, health 15, hunger 12, no food. Sleep keeps failing at the beds. I'll scout west with anyone who goes; call out any meat. Chapman, your chickens go to the lowes
+- 19:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}],"say":"Leonardo alone at the west edge, rejoining the group at the white beds. Hunger 12, no food."}
+- 20:00 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the white beds, dusk 307, health 15, hunger 12, no food. Going to sleep with the group. Meat goes to Chapman and Clark first."}
+- 20:04 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, night 307, health 15, hunger 12, no food. Sleeping by the white beds with the group. Meat to Chapman and Clark first."}
+- 20:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":338}},{"do":"sleep"}]}
+- 20:10 act: {"actions":[{"do":"goto","target":{"x":-271,"y":68,"z":338}}],"say":"Leonardo, dawn 308, health 15, hunger 11, no food. Clark, Wesley: Chapman and Troi first, then me if there is one left. I'm coming 
+- 20:14 act: {"actions":[{"do":"goto","target":{"x":-272,"y":68,"z":336}}],"say":"Leonardo, morning 308, hunger 11, health 15, no food. Clark, I'm in reach at the beds; I'll take a chicken only after Data, Chapman
+- 20:18 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":336}}],"say":"Data, keep the chicken for Kimberly, she is at health 8. I'm at hunger 11, I'll take the next one at hunger 6. Thank you."}
+- 20:18 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 20:22 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, night 308, health 15, hunger 11, no food. Trying the bed with the group in reach. Meat to Kimberly and Data first."}
