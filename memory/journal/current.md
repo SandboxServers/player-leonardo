@@ -156,3 +156,30 @@
 - 12:52 act: {"say":"Leonardo at -235,68,340: no animals east or south-east, only water and oak trees. Hunger 12, no food. Heading back to the group.","reasoning":"Nothing found east. Report and return to the grou
 - 12:56 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":325}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
 - 13:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, I am sheltered with the group and no errand running. Go to the bed and sleep."}
+- 13:04 act: {"say":"Leonardo, night of day 286. Hunger 12, health 9.8, no food. Troi and Zack are lower or equal, so bread goes to them first.","intent":{"goal":"rest_until_dawn","program":"rest","arguments":{},"
+- 13:06 act: {"actions":[{"do":"eat"}],"say":"Thank you, Bcrusher. Eating the porkchop now."}
+- 13:06 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Bcrusher, the porkchop did not reach me; my eat said no food. Thank you for offering. Trying to sleep now."}
+- 13:10 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":298}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 13:10 act: {"intent":{"goal":"scout_farther_north","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":265}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 13:10 act: {"intent":{"goal":"scout_north_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":255}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"ma
+- 13:10 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks"
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Leonardo, night 287, no food, health 9.8. Going to sleep at the white bed. Food to Lewis and LaForge first when I wa
+- 13:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:28 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 13:29 act: {"actions":[],"say":"Leonardo, dawn 288. No food, hunger 11, health 9.8. Sleep was blocked by phantoms all night. Anyone with food: Lewis and LaForge first, then me."}
+- 13:34 act: {"actions":[],"say":"Leonardo, dawn 288. No food. LaForge, give the rotten flesh to whoever is weakest, Troi or Lewis. I'll scout the east grass for animals in sight of the beds."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":331}}],"say":"Leonardo, day 289 midday. No food, hunger 11. Zack's mutton: give it to Picard (hunger 14) first, then Worf (16). I'm heading to Pi
+- 13:58 act: {"say":"Leonardo at the wheat patch, hunger 11, no food. Billy, where is the west lake cow area? I'll come help hunt if it is near.","intent":{"goal":"wait_for_cow_news","program":"trade_wait","argume
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Leonardo, dusk 289, hunger 11, no food. Troi, I'm walking to the white bed at -271,67,318 now. Hand the chicken over there when you
+- 14:02 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"red_mushroom","count":1}],"say":"Leonardo at the white bed, hunger 11, lowest in reach. Troi, please give me LaForge's chicken now. Thank you."}
+- 14:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Clark, the mushroom went to you by mistake; please give it back, it is not food for us. Troi, the chicken for me when you can, hung
+- 14:02 act: {"actions":[{"do":"sleep"}]}
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 14:03 act: {"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks
+- 14:03 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 14:08 act: {"say":"Leonardo at -273,67,337 near Riker, night 289, hunger 10. Troi, I'm here with the group, close to the north-south bed path. Please come and hand me the chicken, or I'll eat at first light."}
+- 14:12 act: {"say":"Leonardo here at -273,67,337, dawn 290, hunger 10, holding still. Troi, I'm in sight; the chicken is for me, or split it with Zack (also 10) if he is closer."}
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":-273,"y":67,"z":337}}],"say":"Troi, I'm right here at -273,67,337, one block from you. Hunger 10. Please hand over the chicken; I'll share it with Zack if he is 
