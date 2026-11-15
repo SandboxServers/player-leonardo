@@ -52,3 +52,7 @@
 - 15:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come and I am beside a bed with no hostile near. Sleep."}
 - 15:45 act: {"actions":[{"do":"sleep"}],"reasoning":"Phantom has gone from the beds. Try sleep again."}
 - 15:47 act: {"actions":[{"do":"sleep"}],"reasoning":"No phantom listed now. Try sleep in the white bed."}
+- 15:49 act: {"say":"Dawn, Leonardo at the white beds, no food, hunger 8. Riker, Lewis, anyone with meat or wheat: the weakest first. I'll scout south for pigs or cows.","intent":{"goal":"scout_south_for_animals",
+- 15:49 act: {"say":"Macdonald, coming with you. I'll head south first. Call out any pig or cow.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":360}}]}
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":385}}],"say":"Nothing south at the yellow beds. Going south-east farther to look."}
+- 15:49 act: {"actions":[{"do":"goto","target":{"x":-215,"y":67,"z":390}}],"say":"No animals yet at the south-east trees. Pushing east."}
