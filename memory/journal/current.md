@@ -125,3 +125,34 @@
 - 12:05 act: {"say":"Worf, I'm in the south beds with no food, hunger 14. Trying to sleep here through the night.","actions":[{"do":"sleep"}]}
 - 12:06 act: {"intent":{"goal":"return_to_south_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
 - 12:06 act: {"actions":[{"do":"sleep"}],"say":"Back at the south beds. Sleeping now."}
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Night, day 283. I have no food, hunger 14. I'm going to the bed to sleep with the group.","reasoning":"It is night a
+- 12:07 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"reasoning":"Sleep keeps failing for blocked way or monsters. One more try at the other bed; if it fails I will wait for li
+- 12:07 act: {"actions":[{"do":"sleep"}],"say":"Worf, I'm in the bed here at -263,67,353. I have no food either. Trying to sleep.","reasoning":"I am at the bed with Worf beside me and nothing hostile in reach. Sle
+- 12:07 act: {"actions":[{"do":"sleep"}],"reasoning":"I am at a white bed now. A creeper was 8 blocks away. Try once more; if it fails, I'll stay put and wait for light."}
+- 12:12 act: {"actions":[],"say":"Leonardo, morning of day 284. Still no food, hunger 14. Picard and Trini are lowest, so any meat goes to them first. I'll scout the grass south-west for animals and call out what 
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"No animals out west at -299,67,350. Heading back to the white beds to be with the group. Any meat goes to Picard and Trini first.",
+- 12:12 act: {"actions":[{"do":"note","text":"Day 284 midday: back at white beds (-270,67,330). Phantoms 13 blocks NE/E. Billy at health 3 calling for help. No food."}],"say":"Back at the beds. No animals west. Ph
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":-273,"y":66,"z":331}}],"say":"Phantom 6 blocks south-east. I'm moving in by the iron golem, near the wheat. Bcrusher, come to the golem.","intent":{"goal":"stay_
+- 12:12 act: {"actions":[{"do":"note","text":"Day 284 midday: by the golem at -272,66,331 with Picard, Jason, Data, Lewis, Billy. Phantoms circling nearby. Hunger 14, no food. Wheat still unripe."}],"say":"Billy, 
+- 12:16 act: {"actions":[{"do":"note","text":"Day 284 midday: by the golems with the group. Kimberly has mutton for Picard; Trini has rotten flesh. I have no food to give, hunger 14. Waiting."}],"say":"Kimberly's 
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Dusk. Going to the white bed to sleep with the group. Picard and Trini first for any food at dawn.","intent":{"goal"
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}},{"do":"sleep"}],"say":"A creeper blocked my sleep. I'm trying the yellow bed close by. I picked up one wheat seed; it's for planting at daw
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Creeper is still in range of the yellow bed. Trying the white bed at -270,67,336."}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trying the white bed again. No food, hunger 14. Picard and Trini first at dawn."}
+- 12:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:29 act: {"intent":{"goal":"scout_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 12:29 act: {"intent":{"goal":"scout_further_west_for_animals","program":"travel","arguments":{"target":{"x":-330,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 12:31 act: {"actions":[{"do":"unstick"}]}
+- 12:31 act: {"intent":{"goal":"return_to_group_by_beds","program":"travel","arguments":{"target":{"x":-278,"y":67,"z":328}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 12:31 act: {"say":"Back by the beds. No animals west. Still no food, hunger 13. Picard and Trini first if the wheat ripens."}
+- 12:35 act: {"say":"Picard, Trini: making bread is good. I have no wheat, hunger 13. Whoever has bread, I'm next after you two."}
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Night. Going to the white bed to sleep with the group. Food goes to Picard and Trini first at dawn."}
+- 12:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to the white bed to sleep again. Food goes to Picard and Trini first at dawn.","reasoning":"Night, no hostile 
+- 12:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Sleep at the bed at 318 was blocked, likely occupied. Try the second white bed beside it."}
+- 12:46 act: {"actions":[{"do":"wait","seconds":60}],"reasoning":"A creeper 6 blocks away blocks sleep. Wait for it to leave range, then try the bed again."}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Trini, keep the chicken for Picard if he is hungrier than me. I am at 12 hunger, so I can wait for the next food.","
+- 12:51 act: {"intent":{"goal":"scout_south_east_for_animals","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":345}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits"
+- 12:51 act: {"intent":{"goal":"scout_east_for_animals","program":"travel","arguments":{"target":{"x":-235,"y":67,"z":340}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max
+- 12:52 act: {"say":"Leonardo at -235,68,340: no animals east or south-east, only water and oak trees. Hunger 12, no food. Heading back to the group.","reasoning":"Nothing found east. Report and return to the grou
+- 12:56 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":325}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Dusk, I am sheltered with the group and no errand running. Go to the bed and sleep."}
