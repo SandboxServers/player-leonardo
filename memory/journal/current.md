@@ -8,3 +8,14 @@
 - 08:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, bed adjacent, health and hunger full, nothing in hand. Sleep now."}
 - 08:04 act: {"actions":[{"do":"sleep"}],"say":"Night here, I have no weapon. Going to bed by the village bed.","reasoning":"Night, empty hands, phantoms near the bed. Sleep in the bed is my shelter. Then reflect.
 - 08:06 act: {"actions":[{"do":"sleep"}],"say":"Night again, no weapon yet. I'm in the village bed and going to sleep here.","reasoning":"Night, bed under me, empty hands, no phantoms in sight. Sleeping is safest 
+- 08:08 act: {"intent":{"goal":"gather_oak_logs","program":"gather","arguments":{"block":"oak_log","count":8},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"
+- 08:10 act: {"actions":[{"do":"goto","target":{"x":-246,"y":70,"z":369}},{"do":"mine","block":"oak_log","count":8}],"say":"Walking to the oak logs at the edge of the village."}
+- 08:10 act: {"actions":[{"do":"mine","block":"oak_log","count":8}],"say":"I am close to the oak logs; mining them from here."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":355}},{"do":"craft","item":"oak_planks","count":8}],"say":"I have 8 oak logs. Going to the crafting table to make planks for the village."}
+- 08:11 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"I made planks. Next, a wooden sword."}
+- 08:11 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Making sticks, then the sword."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":355}}],"say":"Riker, I have a sword now. I will scout the south-east grass for animals too, and any meat goes to Trini."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-232,"y":67,"z":380}}],"say":"Scouting south-east for animals."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":384}}],"say":"A creeper is near. I am moving away east."}
+- 08:11 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":357}}],"say":"A creeper blew up near me. Going back to the village to recover."}
+- 08:12 act: {"actions":[],"say":"I'm back at the village. I carry 6 oak logs, 4 planks, and a wooden sword. Who needs them? I'll look for food next."}
