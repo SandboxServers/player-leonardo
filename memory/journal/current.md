@@ -101,3 +101,23 @@
 - 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Creeper nearby, so I can't sleep yet. I'm moving to the south bed with the group and will try again after it passes."}
 - 11:02 act: {"actions":[{"do":"sleep"}],"say":"I'm at the south white bed with the group. Going to sleep now."}
 - 11:05 act: {"actions":[{"do":"sleep"}],"say":"Night, day 280. No food on me, hunger 16. Trying the white bed here with the group. Food goes to LaForge, then Trini, then Picard at dawn."}
+- 11:15 act: {"say":"Leonardo here, day 281. Hunger 16, health 9.8, no food. I have a wooden sword and 2 arrows. I'll scout the grass to the north for animals and report back.","actions":[{"do":"goto","target":{"x
+- 11:16 act: {"say":"Leonardo: reached the north grass, no animals here. Macdonald has been slain, so I'll stay close to the group and keep the sword ready. LaForge, is the chicken still with you? Trini first.","a
+- 11:20 act: {"say":"Leonardo: dusk, no food on me, sorry Picard. Going to the white bed at -271,67,336 to sleep with the group nearby.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],
+- 11:24 act: {"say":"Leonardo: a creeper is 8 blocks off, so sleep was refused. I'll wait a little and try the bed again.","actions":[{"do":"wait","seconds":60},{"do":"sleep"}]}
+- 11:25 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 11:26 act: {"say":"Leonardo, first light day 281. No food still. I'm going to scout the grass to the east for animals and call out anything I find; Trini first.","actions":[],"intent":{"goal":"scout_east_for_ani
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":320}}]}
+- 11:26 act: {"actions":[{"do":"sleep"}],"intent":{"goal":"rest_night_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,
+- 11:30 act: {"say":"Leonardo, dawn day 282. Hunger 15, no food. I'll scout far south past the south beds for animals; any meat goes to Trini first, then Picard.","actions":[],"intent":{"goal":"scout_south_for_ani
+- 11:31 act: {"say":"Leonardo: scouted south to -290,71,380, no animals, and got stuck on the stone edge. Heading back to the beds near the group.","actions":[],"intent":{"goal":"return_to_beds","program":"travel"
+- 11:36 act: {"say":"Leonardo here, hunger 15, no food. I'll hold by the beds. If anyone finds an animal or wheat, call the place and I'll come help carry it to Trini and Picard.","intent":{"goal":"hold_with_group
+- 11:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 11:40 act: {"actions":[{"do":"sleep"}]}
+- 11:44 act: {"actions":[{"do":"sleep"}]}
+- 11:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 11:48 act: {"say":"Leonardo at dawn, day 282. Hunger 15, no food. I'll go with whoever leaves for the pig lead. Any meat goes to LaForge, Trini, then Picard."}
+- 11:52 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":328}}],"say":"Leonardo, day 283. I don't know the pig lead; I've not seen it. I have no food. LaForge is health 2 here: Picard, the chicken goes 
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 12:00 act: {"actions":[{"do":"sleep"}]}
