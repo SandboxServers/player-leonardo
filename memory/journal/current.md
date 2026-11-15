@@ -145,3 +145,11 @@
 - 18:35 act: {"say":"Leonardo, stuck in a stone pit around -336,68,359. No pickaxe. If anyone is near, please dig a way to me. Hunger 15, health 19."}
 - 18:40 act: {"actions":[{"do":"unstick"}]}
 - 18:43 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a pit at night with no food. Anyone near, please tell me.","reasoning":"Stuck in pit, dark, hunger 15, no food. Try unstick once, then wait for help o
+- 18:47 act: {"intent":{"goal":"climb_out_of_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_tick
+- 18:48 act: {"intent":{"goal":"climb_out_of_pit_2","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 18:48 act: {"intent":{"goal":"climb_out_of_pit_3","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ti
+- 18:52 act: {"say":"Leonardo, morning. I'm out of the pit at -339,72,361, no food, hunger 15. If anyone has spare food or knows where animals are, please tell me.","intent":{"goal":"scout_for_animals_east","progr
+- 18:53 act: {"intent":{"goal":"climb_out_of_stone_pit","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_worl
+- 18:54 act: {"actions":[{"do":"unstick"}],"say":"Leonardo, still boxed in at -320,75,362, dark, hunger 14. Trying to get free toward the gap on my right."}
+- 18:54 act: {"intent":{"goal":"climb_out_again","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 18:54 act: {"say":"Leonardo at -320,77,361, out of the stone and on dirt. No food, hunger 14, health 19. Anyone nearby with food, or who knows where animals are, please tell me."}
