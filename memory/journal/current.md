@@ -59,3 +59,10 @@
 - 15:50 act: {"say":"Leonardo here, respawned at the yellow beds with nothing after dying out south-east. Zack is with me. Anyone with a spare sword, or food, come close.","intent":{"goal":"stay_near_group_until_m
 - 15:54 act: {"say":"Thank you Zack, I'm here at the yellow beds with Worf. I'll pick up the sword. Wesley and the weakest get food first; I'm full for now."}
 - 16:02 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 16:03 act: {"say":"Leonardo here at the yellow beds, empty-handed, hunger 20. Zack, I'll take the sword if it's still coming. I'll scout with the group for food, not alone.","intent":{"goal":"hold_at_beds_for_sw
+- 16:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 16:08 act: {"say":"Jason, Leonardo here, right beside you, empty-handed. Could you spare a wooden sword? I'll hold it and stay with the group."}
+- 16:11 act: {"say":"Jason, thank you, I have the sword. I'm armed and with the group at the yellow beds. Wesley is lowest, so meat goes to him first. I'll scout for animals with whoever goes.","intent":{"goal":"h
+- 16:12 act: {"say":"Morning 296. I'm armed with a wooden sword and with Jason. No food found yet. I propose we scout together to the west, past the golems, for pigs or cows, and bring any meat to Wesley first."}
+- 16:16 act: {"say":"Scout west now with Jason, Riker, Worf and Bcrusher. Stay within sight of each other. Call out any pig or cow.","actions":[{"do":"goto","target":{"x":-284,"y":66,"z":354}}]}
+- 16:16 act: {"say":"I'm at -284,67,354, west of the beds, in the open. Jason, Riker, Worf: come to me so we scout together. No food seen here yet."}
