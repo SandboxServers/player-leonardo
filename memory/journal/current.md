@@ -153,3 +153,9 @@
 - 18:54 act: {"actions":[{"do":"unstick"}],"say":"Leonardo, still boxed in at -320,75,362, dark, hunger 14. Trying to get free toward the gap on my right."}
 - 18:54 act: {"intent":{"goal":"climb_out_again","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
 - 18:54 act: {"say":"Leonardo at -320,77,361, out of the stone and on dirt. No food, hunger 14, health 19. Anyone nearby with food, or who knows where animals are, please tell me."}
+- 19:01 act: {"intent":{"goal":"wall_in_for_night","program":"build","arguments":{"blueprint":"wall","block":"dirt"},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_world_ticks
+- 19:09 act: {"say":"Leonardo, dawn on day 305. No food, hunger 14, health 19. Scouting east on foot for animals; anyone who sees a cow, pig or sheep, please call out.","intent":{"goal":"scout_east_for_food","prog
+- 19:10 act: {"say":"Leonardo here at -299,67,353, health 15, hunger 14, no food. Zack, Clark: I'm coming to the beds. I have dirt only. If meat or wheat turns up, the weakest eats first.","intent":{"goal":"reach_
+- 19:10 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"say":"I'm perched on a ledge at -298,73,362 with health falling. Putting dirt under my feet to stand on."}
+- 19:10 act: {"intent":{"goal":"reach_group_beds","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tick
+- 19:10 act: {"say":"Leonardo at -271,67,355 by the yellow beds, health 15, hunger 14, no food. LaForge, Chapman, Riker, Billy: if any food comes, I'm next after Clark. I'll scout with you."}
