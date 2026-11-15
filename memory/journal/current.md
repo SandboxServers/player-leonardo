@@ -4,3 +4,4 @@
 - 23:11 act: {"say":"Thank you Trini. Lewis and Picard are weakest; I will hold my chicken for them and I am keeping the melon for myself until hunger is 6.","actions":[{"do":"note","text":"Day 317. Got 2 melon sl
 - 23:11 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1023}},{"do":"deposit","at":{"x":433,"y":107,"z":-1023},"item":"chicken","count":1}],"say":"Leonardo: I am putting my chicken in the food chest 
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo: dusk, I am going to the bed to sleep. Lewis, the chicken is in the chest at 433,107,-1023."}
+- 23:16 act: {"say":"Evening, Trini and Billy. I'm still here by the beds. Any food to spare?"}
