@@ -19,3 +19,8 @@
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-220,"y":67,"z":384}}],"say":"A creeper is near. I am moving away east."}
 - 08:11 act: {"actions":[{"do":"goto","target":{"x":-251,"y":67,"z":357}}],"say":"A creeper blew up near me. Going back to the village to recover."}
 - 08:12 act: {"actions":[],"say":"I'm back at the village. I carry 6 oak logs, 4 planks, and a wooden sword. Who needs them? I'll look for food next."}
+- 08:15 act: {"say":"Ag_leonardo here. I have no food either. I'm going to look for animals to the south-west, and will bring any meat or bread to Trini.","intent":{"goal":"explore_for_animals","program":"travel",
+- 08:15 act: {"intent":{"goal":"explore_west_for_animals","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":370}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complet
+- 08:17 act: {"say":"No animals found to the west either. I have only logs, planks and a sword. Going back to the village.","intent":{"goal":"return_to_village","program":"travel","arguments":{"target":{"x":-251,"
+- 08:21 act: {"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":64}},"acti
+- 08:24 act: {"actions":[{"do":"sleep"}]}
