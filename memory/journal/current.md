@@ -88,3 +88,16 @@
 - 10:10 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":323}}],"say":"Riker, I have no food and no tools since my death. Hunger 17. If you have any bread or meat to spare, I'd be grateful. I'll bring T
 - 10:16 act: {"say":"LaForge, I'm Leonardo at the north beds with hunger 17, health 10, and no food or weapon. I'm among the hungriest now. Please bring the beef here, or tell me where you are and I'll come."}
 - 10:20 act: {"say":"Chapman, I'm Leonardo at the north beds, around -266,67,323. Please bring the beef here, I'm the hungriest in reach. Thank you, Data, for the sword, I'll look for you."}
+- 10:25 act: {"actions":[{"do":"note","text":"Got beef from Chapman and a wooden sword from Data. Trini is hungriest-first; Kimberly 7 too."}],"say":"Thank you Chapman and Data. I have one beef and a wooden sword 
+- 10:25 act: {"intent":{"goal":"reach_trini_with_beef","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 10:25 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"beef","count":1}],"say":"Trini isn't here, and Kimberly is the weakest in reach with hunger 7, so the beef goes to Kimberly. Trini gets the next 
+- 10:28 act: {"actions":[],"say":"Leonardo here, hunger 17, no food. Trini and Kimberly come first for food; I'll stay by the beds and go for any animal I see at first light."}
+- 10:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Dusk, going to the white bed to sleep. Still hungry, and any meat I find goes to Trini first, then the hungriest."}
+- 10:44 act: {"actions":[{"do":"sleep"}],"say":"Night. LaForge is weakest at health 2, so the wheat goes to him first. I'm sleeping in the bed here; any meat I find goes to the hungriest."}
+- 10:49 act: {"actions":[],"say":"Leonardo at dawn of day 280, hunger 17, no food. I'll scout west for animals, close to the beds, and come back. Any meat goes to LaForge, then Trini.","intent":{"goal":"scout_west
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"Nothing edible to the west. Heading back to the beds; I'll watch for animals near the camp."}
+- 10:57 act: {"actions":[{"do":"note","text":"Day 280 midday: no food here. Picard (hunger 4) is weaker than me; Trini is handing him wheat. I have 2 arrows, 1 bone, a wooden sword."}],"say":"Picard, I have no bre
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Dusk on day 280. Go to the south white bed and try to sleep. Hunger is still 17 with no food."}
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}],"say":"Creeper nearby, so I can't sleep yet. I'm moving to the south bed with the group and will try again after it passes."}
+- 11:02 act: {"actions":[{"do":"sleep"}],"say":"I'm at the south white bed with the group. Going to sleep now."}
+- 11:05 act: {"actions":[{"do":"sleep"}],"say":"Night, day 280. No food on me, hunger 16. Trying the white bed here with the group. Food goes to LaForge, then Trini, then Picard at dawn."}
