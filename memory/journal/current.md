@@ -66,3 +66,19 @@
 - 16:12 act: {"say":"Morning 296. I'm armed with a wooden sword and with Jason. No food found yet. I propose we scout together to the west, past the golems, for pigs or cows, and bring any meat to Wesley first."}
 - 16:16 act: {"say":"Scout west now with Jason, Riker, Worf and Bcrusher. Stay within sight of each other. Call out any pig or cow.","actions":[{"do":"goto","target":{"x":-284,"y":66,"z":354}}]}
 - 16:16 act: {"say":"I'm at -284,67,354, west of the beds, in the open. Jason, Riker, Worf: come to me so we scout together. No food seen here yet."}
+- 16:19 act: {"actions":[{"do":"note","text":"Woke day 296 at -284,67,354 with Jason adjacent, Riker 22 away. Iron golems nearby to the NE. Plan: scout west with the group for pigs or cows, meat to Wesley first."}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}}]}
+- 16:23 act: {"actions":[{"do":"sleep"}]}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep. Golems are close but have not attacked me."}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 16:23 act: {"actions":[{"do":"sleep"}]}
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}]}
+- 16:23 act: {"intent":{"goal":"sleep_at_yellow_bed","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16
+- 16:28 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}}]}
+- 16:28 act: {"actions":[{"do":"sleep"}]}
+- 16:32 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Leonardo, dawn 297, health 20, hunger 20, no food. Going to the bed to sleep, then scouting for animals with Riker and Jason. Clark
+- 16:33 act: {"intent":{"goal":"scout_east_for_pigs","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 16:33 act: {"intent":{"goal":"rejoin_group_at_beds","program":"travel","arguments":{"target":{"x":-265,"y":67,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 16:33 act: {"say":"Leonardo back at the yellow beds with Jason. No food, health 20. I'll join the animal hunt with whoever is going, and any meat goes to Clark first."}
+- 16:36 act: {"intent":{"goal":"east_scout_with_group","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
+- 16:37 act: {"say":"At the east spot with Jason, no animals in sight yet. Riker, come here and we'll look together."}
