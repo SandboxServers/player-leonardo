@@ -76,3 +76,15 @@
 - 09:58 act: {"intent":{"goal":"search_cow_near_228_209","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":215}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
 - 10:02 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fa
 - 10:02 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
+- 10:03 act: {"intent":{"goal":"rest_night_at_white_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations
+- 10:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Phantom closing from the south-east. I'm getting into the white bed now."}
+- 10:03 act: {"actions":[{"do":"sleep"}],"say":"I'm at the white bed with other people near. Trying to sleep now."}
+- 10:08 act: {"intent":{"goal":"search_sheep_for_food","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":226}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"
+- 10:08 act: {"intent":{"goal":"reach_sheep_away_from_skeleton","program":"travel","arguments":{"target":{"x":-210,"y":73,"z":234}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","preconditio
+- 10:08 act: {"intent":{"goal":"flee_skeleton_south_east","program":"travel","arguments":{"target":{"x":-185,"y":68,"z":262}},"wake_on":["goal_completed","precondition_failed"],"limits":{"max_world_ticks":1200,"ma
+- 10:09 act: {"actions":[{"do":"goto","target":{"x":-200,"y":68,"z":296}}],"say":"A zombie is on me and I'm in water with no weapon. Swimming away south-east."}
+- 10:09 act: {"intent":{"goal":"reach_sheep_by_daylight","program":"travel","arguments":{"target":{"x":-210,"y":73,"z":236}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 10:10 act: {"intent":{"goal":"return_to_village_for_food","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":322}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 10:10 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":323}}],"say":"Riker, I have no food and no tools since my death. Hunger 17. If you have any bread or meat to spare, I'd be grateful. I'll bring T
+- 10:16 act: {"say":"LaForge, I'm Leonardo at the north beds with hunger 17, health 10, and no food or weapon. I'm among the hungriest now. Please bring the beef here, or tell me where you are and I'll come."}
+- 10:20 act: {"say":"Chapman, I'm Leonardo at the north beds, around -266,67,323. Please bring the beef here, I'm the hungriest in reach. Thank you, Data, for the sword, I'll look for you."}
