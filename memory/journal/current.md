@@ -4,3 +4,4 @@
 - 07:57 act: {"actions":[{"do":"goto","target":{"x":-247,"y":70,"z":367}}],"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":6},"wake_on":["directly_addressed","preconditi
 - 08:01 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}},{"do":"sleep"}],"intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_co
 - 08:01 act: {"actions":[{"do":"sleep"}]}
+- 08:02 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep in this bed for the night.","reasoning":"Night, in a bed, health and hunger full. Sleep is the right next step."}
