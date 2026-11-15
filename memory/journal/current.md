@@ -133,3 +133,14 @@
 - 18:21 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the south bed, hunger 17, health 19, no food. Jason, you are lowest by my reading; LaForge, the chicken goes to Jason first."}
 - 18:25 act: {"actions":[{"do":"sleep"}]}
 - 18:26 act: {"say":"Leonardo here, no food on me. Chapman and Jason are lowest; I have none to give. I'll sleep in the bed here.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reaso
+- 18:29 act: {"say":"Leonardo awake at the white beds, hunger 17, no food. I'm going out to look for animals and will call out anything I find.","intent":{"goal":"find_food_animals","program":"travel","arguments":
+- 18:29 act: {"intent":{"goal":"scout_animals_west","program":"travel","arguments":{"target":{"x":-330,"y":67,"z":330}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"
+- 18:30 act: {"intent":{"goal":"scout_animals_south","program":"travel","arguments":{"target":{"x":-330,"y":67,"z":360}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 18:32 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":338}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limi
+- 18:34 act: {"actions":[{"do":"unstick"}]}
+- 18:34 act: {"intent":{"goal":"return_to_beds_east","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":340}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 18:35 act: {"actions":[{"do":"unstick"}]}
+- 18:35 act: {"intent":{"goal":"climb_out_toward_beds","program":"travel","arguments":{"target":{"x":-300,"y":67,"z":340}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world
+- 18:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-336,"y":69,"z":359}},{"do":"unstick"}]}
+- 18:35 act: {"say":"Leonardo, stuck in a stone pit around -336,68,359. No pickaxe. If anyone is near, please dig a way to me. Hunger 15, health 19."}
+- 18:40 act: {"actions":[{"do":"unstick"}]}
