@@ -31,3 +31,48 @@
 - 08:36 act: {"say":"No animals here. I'll break some leaves in case they drop apples.","actions":[{"do":"mine","block":"oak_leaves","count":8}],"intent":{"goal":"gather_leaves_for_apples","program":"gather","argu
 - 08:40 act: {"say":"Leaves gave nothing. Dusk is coming, so I'm heading back to the village bed for the night.","actions":[],"intent":{"goal":"return_to_village_bed","program":"travel","arguments":{"target":{"x":
 - 08:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Night is here, and I am at the village bed. No food yet; I will search at first light."}
+- 08:42 act: {"actions":[{"do":"sleep"}],"say":"Still no food. I'll sleep in the bed and search for animals or wheat at first light.","intent":{"goal":"rest_in_bed","program":"rest","arguments":{},"wake_on":["goal
+- 08:44 act: {"actions":[{"do":"sleep"}]}
+- 08:48 act: {"say":"Dawn on day 274. Still no food, hunger 16. I'm heading south to look for animals or wheat; any food goes to Trini first.","intent":{"goal":"scout_south_for_food","program":"travel","arguments"
+- 08:49 act: {"say":"Nothing to eat to the south, and it's dark. Going back to the village bed for the night.","intent":{"goal":"return_to_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":354}},"
+- 08:49 act: {"say":"Back at the village bed. Still no food; hunger 16. If anyone has bread, meat or seeds, I can help plant or carry. I'll keep watch for animals."}
+- 08:53 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":353}},{"do":"craft","item":"wooden_hoe","count":1}],"say":"I'll make a hoe from my planks and sticks so I can till ground for the wheat. Macdonal
+- 08:53 act: {"say":"I have a hoe now. Chapman, if you give me some seeds I'll till by the yellow beds for the planting."}
+- 09:01 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I have a hoe and no seeds yet. I'll sleep in the bed and till at first light if seeds come."}
+- 09:05 act: {"say":"Worf, I have a hoe and can till at the north beds at first light. Tell me the spot."}
+- 09:09 act: {"say":"Going to the north beds to help Worf till and plant. Any wheat goes to Trini first.","intent":{"goal":"help_plant_north_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":320}
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":-267,"y":67,"z":322}}],"say":"Worf, I'm here with my hoe. Tell me which ground to till and I'll do it."}
+- 09:12 act: {"actions":[],"say":"Worf, I have my hoe here. Tell me which grass to till next to your seed at -264,66,318 and I'll turn it. Any food goes to Trini first."}
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":-263,"y":65,"z":316}},{"do":"till","at":{"x":-262,"y":65,"z":316}},{"do":"goto","target":{"x":-263,"y":65,"z":320}},{"do":"till","at":{"x":-262,"y":65,"z":320}}]
+- 09:15 act: {"actions":[{"do":"goto","target":{"x":-261,"y":66,"z":320}},{"do":"till","at":{"x":-262,"y":65,"z":320}}]}
+- 09:15 act: {"actions":[],"say":"Worf, I tilled -262,65,320. It is dry, no water within 4 blocks. The one at -262,65,316 had a block above it, so I left it. Do you want me to try another spot?"}
+- 09:18 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":262}}],"say":"Worf, I'm going north-east toward where Lewis saw the sheep, to look for food for Trini. Call me back if you need tilling."}
+- 09:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"say":"Phantoms are close and night is here. Heading to the beds near -270,67,318 to sleep. Still looking for mutton for Trini tomorrow."}
+- 09:22 act: {"actions":[],"intent":{"goal":"rest_night","program":"rest","arguments":{},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":12000,"max_block_operations":16}}}
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Phantom close, going into the white bed to sleep."}
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 09:27 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_tick
+- 09:28 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"At the bed. Monsters were not listed nearby now. Try to sleep."}
+- 09:28 act: {"actions":[{"do":"sleep"}],"reasoning":"Use on the bed was refused as a bed; try the sleep verb now that no monsters are listed nearby."}
+- 09:28 act: {"intent":{"goal":"scout_for_food_sheep","program":"travel","arguments":{"target":{"x":-242,"y":68,"z":259}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 09:29 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_addressed"]
+- 09:29 act: {"say":"Leonardo, dawn day 276. No food at the sheep spot. I have a hoe and can till for Worf. Where is Trini? I will bring her any food I find."}
+- 09:33 act: {"say":"Worf, I have my hoe and I'm at the north beds. Tell me the next spot to till and I'll do it."}
+- 09:37 act: {"actions":[{"do":"goto","target":{"x":-267,"y":66,"z":322}},{"do":"till","at":{"x":-266,"y":65,"z":322}}],"reasoning":"Worf asked me to till near -266,65,322 for his seeds. Hoe in hand, go there and 
+- 09:37 say: {"text":"Worf, I am tilling at -266,65,322 now. Macdonald, the dry-farmland note is right: water is needed within 4 blocks."}
+- 09:37 act: {"say":"Worf, the till at -266,65,322 worked. It is dry, no water within 4 blocks. Plant it when you are ready; I am free to till another spot."}
+- 09:41 act: {"say":"LaForge, where was the cow? Hunger 15 here, no food. I can go hunt cows if you show me the spot."}
+- 09:49 act: {"intent":{"goal":"reach_cow_near_sheep","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":215}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"]
+- 09:49 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":-220,"y":68,"z":212}}]}
+- 09:49 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 09:49 say: {"text":"Chapman, I died to a creeper out by -213,206 and lost my tools there. I have nothing now. Do you have any food to spare?"}
+- 09:51 act: {"intent":{"goal":"reach_sheep_by_day","program":"travel","arguments":{"target":{"x":-210,"y":73,"z":232}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"],"
+- 09:52 act: {"say":"Lewis, Bcrusher: I am at -210,72,232 with no food and no tools. The sheep I saw here is gone. Let's share the mutton with Troi and Trini first, and I'll hunt the next animal I find."}
+- 09:56 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":-213,"y":68,"z":206}},"wake_on":["directly_addressed","goal_completed","precondition_failed","unexpected_damage"
+- 09:56 act: {"actions":[{"do":"goto","target":{"x":-213,"y":68,"z":206}}]}
+- 09:56 say: {"text":"My things are gone from the spot where I died, so I have nothing. Who has a spare hoe or sword? I'll help with wheat and hunting, keeping clear of creepers."}
+- 09:58 act: {"say":"Thank you, Troi. Keep the beef for Trini. If you can spare a sword or hoe, I'd be glad of it. I'm heading to the sheep near -210,73,234.","intent":{"goal":"reach_sheep_area","program":"travel"
+- 09:58 act: {"intent":{"goal":"search_cow_near_228_209","program":"travel","arguments":{"target":{"x":-227,"y":68,"z":215}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_faile
+- 10:02 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fa
+- 10:02 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
