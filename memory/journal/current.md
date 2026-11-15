@@ -144,3 +144,4 @@
 - 18:35 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-336,"y":69,"z":359}},{"do":"unstick"}]}
 - 18:35 act: {"say":"Leonardo, stuck in a stone pit around -336,68,359. No pickaxe. If anyone is near, please dig a way to me. Hunger 15, health 19."}
 - 18:40 act: {"actions":[{"do":"unstick"}]}
+- 18:43 act: {"actions":[{"do":"unstick"}],"say":"I'm stuck in a pit at night with no food. Anyone near, please tell me.","reasoning":"Stuck in pit, dark, hunger 15, no food. Try unstick once, then wait for help o
