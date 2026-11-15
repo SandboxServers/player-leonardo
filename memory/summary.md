@@ -1,7 +1,7 @@
 # Summary
 
-Day 315 (life 4). I am Leonardo, at the white beds near x430 z-1020. Food is scarce: chickens are far north near x435 z-1000 and many folk here are starving. I gave a chicken to Billy, and I keep my last raw chicken for Lewis, the weakest. Lewis is not yet in sight. Trini and Kimberly are carrying chickens to the beds.
+Day 316 (life 4). I am Leonardo, at the white beds near 430,107,-1023. Hunger 10, health 13. Food is scarce. I hold one raw chicken for the weakest, Lewis first, then Picard, then Billy. Trini and Jason left two chickens in the food chest at 433,107,-1051 for Lewis and Picard.
 
-I slept at dusk on day 315. Beds: 429,107,-1022 and -1023 (use on a bed failed; sleep worked).
+I slept at dusk on day 316 at the bed 429,107,-1023.
 
-Next: give the chicken to Lewis when he appears. Eat only at hunger 6. Learn how to make a wall and cook (campfire needs fuel). Keep sharing with the weakest.
+Next: at first light, check the food chest and the chicken fields north-east near x 434-501, z -995 to -1010. Eat at hunger 6. Learn how the campfire is fuelled and how to get wall material.
