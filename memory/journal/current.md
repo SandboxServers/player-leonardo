@@ -30,3 +30,6 @@
 - 15:13 act: {"actions":[{"do":"eat"}],"say":"Leonardo here at the white beds, hunger 9, holding one wheat. Calling out: any pig or cow sighted goes to the weakest first.","reasoning":"Hunger 9, only food is one w
 - 15:13 act: {"actions":[{"do":"goto","target":"Macdonald"}],"say":"Leonardo at the white beds, hunger 9, health 9.8. My one wheat is not in hand, so I cannot eat it yet. Any meat or wheat: Riker and Macdonald fir
 - 15:15 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336},"item":"wheat"},{"do":"eat"}],"reasoning":"Eat needs wheat in hand. Equip wheat via use with item, then eat. Bed click may fail but equip may sti
+- 15:17 act: {"actions":[{"do":"use","at":{"x":-275,"y":67,"z":338},"item":"wheat"},{"do":"eat"}],"say":"Leonardo here, hunger 9, holding dirt. Trying to get my one wheat into hand to eat it.","reasoning":"Eat nee
+- 15:20 act: {"actions":[],"say":"Chapman, the ripe wheat is at the south farm, Data knows the way. I have one wheat in my pack, and I am hunger 9 with no way to eat it yet. Whoever gets meat, weakest first.","int
+- 15:21 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, I am at the white beds with the group, no hostile near. Sleep here."}
