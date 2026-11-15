@@ -30,3 +30,4 @@
 - 08:32 act: {"say":"Going north-east to look for animals or wheat. Anything I find goes to Trini first.","actions":[],"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-22
 - 08:36 act: {"say":"No animals here. I'll break some leaves in case they drop apples.","actions":[{"do":"mine","block":"oak_leaves","count":8}],"intent":{"goal":"gather_leaves_for_apples","program":"gather","argu
 - 08:40 act: {"say":"Leaves gave nothing. Dusk is coming, so I'm heading back to the village bed for the night.","actions":[],"intent":{"goal":"return_to_village_bed","program":"travel","arguments":{"target":{"x":
+- 08:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":354}}],"say":"Night is here, and I am at the village bed. No food yet; I will search at first light."}
