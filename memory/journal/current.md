@@ -121,3 +121,7 @@
 - 11:52 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":328}}],"say":"Leonardo, day 283. I don't know the pig lead; I've not seen it. I have no food. LaForge is health 2 here: Picard, the chicken goes 
 - 12:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 12:00 act: {"actions":[{"do":"sleep"}]}
+- 12:03 act: {"say":"Leonardo at the south white beds, hunger 14, no food. Whoever finds meat or bread, I'm hungry but will share with anyone worse off.","intent":{"goal":"rest_night_in_bed","program":"rest","argu
+- 12:05 act: {"say":"Worf, I'm in the south beds with no food, hunger 14. Trying to sleep here through the night.","actions":[{"do":"sleep"}]}
+- 12:06 act: {"intent":{"goal":"return_to_south_beds","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 12:06 act: {"actions":[{"do":"sleep"}],"say":"Back at the south beds. Sleeping now."}
