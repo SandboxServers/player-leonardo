@@ -1,1 +1,21 @@
 # Journal
+- 21:44 act: {"say":"Hello Kimberly. It is night and I am hungry with no food. Do you know where I can find food, or a bed?","actions":[]}
+- 21:46 act: {"say":"Leonardo here. I have no food and no bed, only 12 dirt. I am staying still here until first light, then I will search for food with Kimberly and Billy.","actions":[]}
+- Night 312: no food, no bed, hunger 10, 10 days since sleep. Phantoms about. Many folk gathered by the beds near Trini's chest. Waiting for light, then searching for food with Kimberly and Billy.
+- 21:50 act: {"say":"Morning. I have no food either. I will walk north with Tommy and look for animals; I will call out if I find any.","actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1045}}]}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1030}}],"say":"I am walking north now, looking for animals. Trini, Tommy, I am ahead of you."}
+- 21:50 act: {"say":"Clark, Kimberly: I am Leonardo, hungry at 10, with no food. If you have a spare chicken after Meriwether and Picard, I would be grateful. I am near the planks wall to the north.","actions":[]}
+- 21:53 act: {"say":"Wesley, Leonardo here. I have 12 dirt I can give you for walls, and I am starving. Could you spare some beef? I am north of the planks wall, near the signs at x 415 z -1030.","actions":[]}
+- 22:00 act: said I have no food or bed, asked Wesley for beef (he gave his to Picard). Night 313: no food, no bed, no shelter yet. Standing by planks wall at x415 z-1030, waiting. Plan at first light: hunt with Trini and Tommy, and find a bed.
+- 22:12 act: {"say":"Tommy, thank you for the news. I am starving at 10 and will go north-east to the chickens near x 435 z -1000, and I will call out when I am there.","actions":[{"do":"goto","target":{"x":430,"y
+- 22:12 act: {"actions":[{"do":"goto","target":{"x":424,"y":107,"z":-994}},{"do":"attack","target":"chicken"}]}
+- 22:12 act: {"actions":[{"do":"eat"}],"say":"I got a chicken near x 418 z -996. Trini, Meriwether is weakest, so if she is in sight I will share. I am eating this one now."}
+- 22:12 act: {"say":"Raw chicken can only be eaten at hunger 6 or less, so I will hold it. Trini, Meriwether is the weakest; if you see her, give it to her and I will find another.","actions":[]}
+- Day 314 midday: hunger 10, health 13, holding 1 raw chicken and 12 dirt, no bed. Clark is 22 blocks east at the chicken grounds with chickens and eggs. Waiting for Meriwether or a chance to give the chicken.
+- 22:15 act: {"say":"Clark, Leonardo here, at x418 z-996. I hold one raw chicken and I am at hunger 10. If you have a spare chicken, I will trade you 12 dirt for it.","reasoning":"Clark has chickens. I can offer d
+- 22:17 act: {"say":"Thank you, Clark. I will keep the dirt for you if you need walls. I will eat when my hunger is 6 or lower.","reasoning":"Clark gave me a chicken. I have two now; I can only eat them at hunger 
+- 22:21 act: {"say":"Clark, I have not seen Meriwether since the morning. Billy is 18 blocks east. I have no bed either, only 12 dirt, so I will dig in near here for the night.","reasoning":"Night is near, no bed 
+- 22:26 act: {"say":"Morning. I have 2 raw chickens and hunger 10. Trini, Lewis first. I am walking to the beds now to give one to whoever is weakest there, then I keep the other.","reasoning":"Two chickens, sever
+- 22:26 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"chicken","count":1}],"say":"Billy, here is one raw chicken for you. Keep it until your hunger is 6 or lower, then eat. I am keeping the other one fo
+- 22:26 act: {"say":"Tommy, that chicken went to you by mistake; it was meant for Billy. Please give it to Billy, he is hungry.","reasoning":"The give landed on Tommy, not Billy. I ask Tommy to pass it on."}
+- 22:28 act: {"say":"Billy has the chicken now, thank you Tommy. I keep my last one for Lewis, the weakest, when he is here. Zack, I cannot spare it yet.","reasoning":"Billy is fed, Lewis is the weakest not yet he
