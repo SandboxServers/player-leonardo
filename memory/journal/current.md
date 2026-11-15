@@ -27,3 +27,6 @@
 - 15:12 act: {"actions":[],"intent":{"goal":"reach_ripe_wheat","program":"travel","arguments":{"target":{"x":-272,"y":66,"z":331}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
 - 15:12 act: {"actions":[{"do":"mine","block":"wheat","count":1}],"say":"Leonardo at the south wheat, hunger 9. No pigs seen. Checking the wheat here.","reasoning":"I reached the ripe wheat spot. The food list is 
 - 15:12 act: {"actions":[],"intent":{"goal":"reach_south_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"ma
+- 15:13 act: {"actions":[{"do":"eat"}],"say":"Leonardo here at the white beds, hunger 9, holding one wheat. Calling out: any pig or cow sighted goes to the weakest first.","reasoning":"Hunger 9, only food is one w
+- 15:13 act: {"actions":[{"do":"goto","target":"Macdonald"}],"say":"Leonardo at the white beds, hunger 9, health 9.8. My one wheat is not in hand, so I cannot eat it yet. Any meat or wheat: Riker and Macdonald fir
+- 15:15 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336},"item":"wheat"},{"do":"eat"}],"reasoning":"Eat needs wheat in hand. Equip wheat via use with item, then eat. Bed click may fail but equip may sti
