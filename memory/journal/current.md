@@ -82,3 +82,53 @@
 - 16:33 act: {"say":"Leonardo back at the yellow beds with Jason. No food, health 20. I'll join the animal hunt with whoever is going, and any meat goes to Clark first."}
 - 16:36 act: {"intent":{"goal":"east_scout_with_group","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":351}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world
 - 16:37 act: {"say":"At the east spot with Jason, no animals in sight yet. Riker, come here and we'll look together."}
+- 16:41 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-271,"y":68,"z":364}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":364}},{"do":"sleep"}],"say":"Leonardo at the yellow bed, health 20, hunger 20, no food. Trying to sleep now; golems are out to the north-west, no
+- 16:46 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the yellow bed, health 20, no food. Riker is beside me; I'm trying to sleep. Wesley, eat the chicken when your hunger is low."}
+- 16:46 act: {"intent":{"goal":"sleep_at_yellow_bed_263_67_353","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":353}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"
+- 16:46 act: {"actions":[{"do":"sleep"}]}
+- 16:49 act: {"intent":{"goal":"scout_north_for_animals","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 16:52 act: {"intent":{"goal":"join_east_pig_hunt","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":351}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 17:01 act: {"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-241,"y":69,"z":344}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 17:01 act: {"actions":[{"do":"sleep"}],"say":"At the yellow bed at -241,69,344, dusk, no hostile near. Trying to sleep."}
+- 17:01 act: {"say":"Night 298, at the white bed -270,67,336 with Billy, Wcrusher and Troi. Sleep was blocked again; an iron golem is 4 blocks south. Waiting for it to move, then I will try once more.","intent":{"
+- 17:01 act: {"actions":[{"do":"sleep"}],"say":"Trying the white bed once more. Golem still 4 blocks south."}
+- 17:02 act: {"intent":{"goal":"hold_until_dawn_with_group","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_block_operati
+- 17:02 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":338}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Back at the white beds with Wcrusher. Trying the other white bed, -271,67,336."}
+- 17:11 act: {"intent":{"goal":"hunt_chickens_north_west_with_group","program":"travel","arguments":{"target":{"x":-257,"y":66,"z":199}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limit
+- 17:12 act: {"actions":[{"do":"goto","target":{"x":-253,"y":66,"z":206}}],"say":"Enderman next to me hit me. Moving away south-east toward the sheep. Billy, stay clear of the enderman."}
+- 17:12 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":338}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 17:12 act: {"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":338}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_wor
+- 17:13 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":338}}],"say":"Wcrusher, I am back at the beds with no sword and no food. If you can spare a sword or any meat after Wesley and Picard, I would be
+- 17:17 act: {"actions":[],"say":"Thank you Wcrusher, I have the sword. My hunger is full, so give food to Wesley and Jason first. I will take food when I am low. Staying at the white beds."}
+- 17:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Going to bed at the white beds for the night. Food goes to whoever is weakest."}
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:22 act: {"intent":{"goal":"sleep_at_north_white_bed","program":"rest","arguments":{"bed":{"x":-271,"y":67,"z":318}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 17:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 17:23 act: {"actions":[{"do":"sleep"}]}
+- 17:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Leonardo going to the north white bed to sleep. Health and hunger are full. Food goes to whoever is weakest; come fi
+- 17:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"First bed was blocked. Try the other white bed, one block east, on the same row."}
+- 17:29 say: {"text":"Leonardo, dawn 300. Health and hunger full. I'll scout with the group for pigs or cows; if anyone finds one, call it out."}
+- 17:32 say: {"text":"Leonardo at the beds, hunger 20, no food. I'm here if a hunt needs an extra sword. Call out where you are."}
+- 17:36 say: {"text":"Leonardo joining the west pig hunt with Worf and Billy. Hunger 20, sword in hand. Meat goes to the weakest first; wait for me at the beds."}
+- 17:36 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"intent":{"goal":"join_west_pig_hunt","program":"travel","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addressed","unexpected_damage","goa
+- 17:39 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_north_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addr
+- 17:43 act: {"actions":[{"do":"sleep"}],"say":"Leonardo trying the bed for the night. Health and hunger full. Call out if you are low.","reasoning":"Night, bed in reach, no monster visible. Try sleep."}
+- 17:46 act: {"actions":[{"do":"sleep"}],"say":"Leonardo: hunger 20, health 20, trying the bed right north of me again."}
+- 17:49 say: {"text":"Leonardo, dawn 301, health 20, hunger 20, no food, wooden sword. Bcrusher is lowest at 9: Billy's beef goes to him. I will scout south-west with Picard for sheep or cows, and call out any fin
+- 17:51 say: {"text":"Leonardo, hunger 20: I have no food to give. Zack is lowest at 8, and Zack has the mutton and chicken. I'll go east after Clark's cow lead near -152,100,327 and call out if I find meat."}
+- 17:51 act: {"actions":[{"do":"goto","target":{"x":-200,"y":67,"z":330}}],"intent":{"goal":"scout_east_for_cow","program":"travel","arguments":{"target":{"x":-200,"y":67,"z":330}},"wake_on":["directly_addressed",
+- 17:51 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"scout_east_for_cow","program":"travel","arguments":{"target":{"x":-152,"y":100,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_compl
+- 17:54 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":332}}],"intent":{"goal":"return_to_group_at_beds","program":"travel","arguments":{"target":{"x":-268,"y":67,"z":332}},"wake_on":["directly_addres
+- 18:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"sleep"}],"say":"Leonardo, night 301, hunger 20, no food. Going to the south white bed to sleep with the group."}
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"sleep"}]}
+- 18:10 say: {"text":"Leonardo, dawn 302, hunger 20, no food. Going east to the pig area at -220,69,350 with Chapman and Picard. Zack is lowest at 7: Zack, eat first. I'll call out any meat I find."}
+- 18:10 act: {"actions":[{"do":"goto","target":{"x":-220,"y":69,"z":350}}],"intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-220,"y":69,"z":350}},"wake_on":["directly_addressed",
+- 18:14 act: {"actions":[{"do":"note","text":"Dawn 302 midday at -220,69,350 with Chapman. No food, no animals in view. Chapman asked about pigs, cows or sheep; I know of none here now."}],"say":"Chapman, I have n
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"A phantom is on me. Fighting it."}
+- 18:16 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom again, south-east of me. Fighting it."}
+- 18:16 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["directly_addressed","une
+- 18:17 act: {"actions":[{"do":"sleep"}],"say":"Back at the white beds with the group. No food yet, hunger 17. I'll try the bed now."}
+- 18:21 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the south bed, hunger 17, health 19, no food. Jason, you are lowest by my reading; LaForge, the chicken goes to Jason first."}
+- 18:25 act: {"actions":[{"do":"sleep"}]}
