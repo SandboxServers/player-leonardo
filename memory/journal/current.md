@@ -33,3 +33,4 @@
 - 09:17 act: {"actions":[{"do":"note","text":"Day 347 night. Slept at the bed row, sleep worked. Holding 3 chicken for the lowest."}],"intent":{"goal":"rest_at_beds_until_light","program":"rest","arguments":{},"wa
 - 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 09:17 act: {"actions":[{"do":"sleep"}]}
+- 09:18 act: {"say":"Night. I'm at the bed row with the group, sleeping here. Chicken held for the lowest, call me at 6."}
