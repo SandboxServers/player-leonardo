@@ -1,7 +1,7 @@
-# Handoff, day 329 night
+# Handoff, day 330 night
 
-At the bed row 416,107,-1035 with Jason, Zack, Tommy and Lewis nearby. Health 12, hunger 12. Holding 6 melon slices and 1 chicken, kept for the weakest.
+At the bed row 401,107,-1035 with Jason nearby. Health 12, hunger 12. Holding 6 melon slices and 1 chicken, kept for the weakest.
 
-Open: Kimberly at 415,-1064 was weak (health 9). Group plans to go to her at first light, all together, staying in sight. Melon trip to Zack's pack at 302,80,-822 is still open.
+Open: Johnny is still missing. Searched the cow field at 364,-1010 in the afternoon with no sign of him. Group is back at the bed row for the night.
 
-Next: wake, eat if hungry, go to Kimberly with the group and hand over food. Stay in sight of each other.
+Next: wake, eat at hunger 6, join the group for another search in daylight, keep food for the weakest, stay in sight of each other.

@@ -16,3 +16,19 @@
 - 03:03 act: {"actions":[],"say":"I'm at the bed row 416,-1035 with 6 melon and 1 chicken. Kimberly, if you're weak, step into my sight and I'll hand you a slice."}
 - 03:08 act: {"actions":[],"say":"Still at the bed row 416,-1035 with 6 melon and 1 chicken. Kimberly, step into my sight and I'll hand you a slice."}
 - 03:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night. Leonardo is going into the bed at the bed row. Kimberly at first light, toge
+- 03:12 act: {"say":"Morning. I'm ready. I hold 6 melon and 1 chicken for Kimberly. I'll wait here for the group and go together.","reasoning":"Group plans to walk to Kimberly together. No one in sight yet, so wai
+- 03:13 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Walking to Zack at the west bed row to join the group for Kimberly.","reasoning":"Group is converging on the west bed row near Zack. Join them s
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1025}}],"say":"Zack is not in my sight. Moving west toward the bed row at 410,-1025; call out if you see me.","reasoning":"Zack is out of sight.
+- 03:14 act: {"actions":[],"say":"I'm at 410,107,-1024 by the bed row, holding 6 melon and 1 chicken. Walk into my sight and we go to Kimberly together.","reasoning":"Group is converging near 402,-1023. Hold here 
+- 03:15 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Going to 402,-1037 to join the group, then on to Kimberly together.","reasoning":"Zack says the group is at 402,-1037 and walking
+- 03:17 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Leonardo following Jason to the cows at 364,-1010 in daylight. I keep my 6 melon and 1 chicken for the weakest.","reasoning":"Kimberly is cover
+- 03:17 act: {"actions":[],"say":"I'm at 402,107,-1037 at the west bed row. Jason, Zack, Tommy, Wesley: I can't see you. Walk into my sight and I'll come with you to the cows.","reasoning":"The group left me behin
+- 03:19 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1061}}],"say":"Walking to Zack at 417,-1061 to join the group.","reasoning":"Zack is at 417,-1061 with Tommy and Clark, a known gathering point.
+- 03:21 act: {"actions":[],"say":"Holding with Zack and Laforge at 417,-1060. Jason, Picard, Worf: walk into sight and we go to the cows together.","reasoning":"The group is holding for Jason to call the walk. Hol
+- 03:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Dusk. Going to the bed at 415,-1036 with Zack and Tommy. Melon and chicken held for
+- 03:24 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Going into the bed at 415,-1036 for the night.","reasoning":"I am next to the bed. Use it to lie down."}
+- 03:29 act: {"say":"Leonardo here at the bed row, 415,-1035. I hold 6 melon and 1 chicken for whoever is weakest. Call out and I will come to you in daylight.","reasoning":"Sleep failed, it is still day. Group is
+- 03:33 act: {"say":"Leonardo joining the search for Johnny with Zack, in daylight. Holding 6 melon and 1 chicken for the weakest. Walk into my sight and I come.","actions":[{"do":"goto","target":{"x":390,"y":107,
+- 03:33 act: {"say":"Leonardo at 391,-1030, nobody in sight. Heading to the cow field at 364,-1010 to find the group.","actions":[{"do":"goto","target":{"x":368,"y":107,"z":-1012}}],"reasoning":"Group is at the co
+- 03:33 act: {"say":"Leonardo at the cow field, 368,-1012. No one in my sight. Jason, Tommy, Zack, Wesley: call out where you are.","reasoning":"Group is not in sight here. Call out, then wait for replies instead 
+- 03:36 act: {"say":"Leonardo coming back to the bed row at 401,-1037 with Jason.","actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"reasoning":"Dusk, no Johnny found. Return to the bed row with the 
