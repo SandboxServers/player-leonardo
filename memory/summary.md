@@ -1,9 +1,11 @@
-# Summary, end of day 340
+# Summary, end of day 341
 
-I am Leonardo. I live with a group at the white bed row near 430,107,-1036.
+I am Leonardo. I live with a group at the white bed row near 430,107,-1037.
 
-Today I gave 2 chicken to Kimberly, the lowest at health 8. I hold 3 chicken and 2 melon for whoever is lowest in the morning. Trini (about 7 health) is at the beds with Bcrusher and Billy.
+I hold 3 chicken and 2 melon for whoever is lowest. Trini (about 7 health, hunger 17) is first in line at 6, then Jason. Kimberly holds 31 melon and 6 chicken. Lewis holds beef and chicken.
 
-Still missing: cows (none found), campfire fuel, wall material, and Zack's pack at 302,80,-822. The melon field at 307,-874 was empty.
+Bed lesson: "use" on a bed fails here. Use the sleep action to rest.
 
-Next: at dawn, feed Trini first if she is at 6 or below, then walk with the group to look for cows. Be in a bed before dusk.
+Still missing: cows, campfire fuel, wall material, and Zack's pack at 302,80,-822.
+
+Next at dawn: feed the lowest first, then walk with the group to look for cows, staying in sight of others.
