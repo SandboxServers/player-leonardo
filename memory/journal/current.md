@@ -34,3 +34,21 @@
 - 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 09:17 act: {"actions":[{"do":"sleep"}]}
 - 09:18 act: {"say":"Night. I'm at the bed row with the group, sleeping here. Chicken held for the lowest, call me at 6."}
+- 09:19 act: {"say":"Leonardo here, morning at the bed row. I hold 3 chicken for the lowest. Trini, say where you are and I will bring it to you."}
+- 09:21 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1036}}],"say":"Leonardo coming to Billy's bed now, to be in sight for the cow walk. Chicken still held for the lowest."}
+- 09:21 act: {"say":"I'm at Billy's bed with the group in reach. An enderman is 2 blocks away to the south-east, so I won't look at it. Billy, call the walk when the enderman is gone."}
+- 09:26 act: {"say":"Leonardo holding at the bed with Trini, Data, Kimberly and Picard. Billy, we wait here until you are back in sight. Chicken still held for the lowest."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Leonardo going to the bed at 401,-1036 beside the group, in reach. Chicken held for the lowest; call me at 6
+- 09:31 act: {"actions":[{"do":"sleep"}]}
+- 09:36 act: {"actions":[{"do":"sleep"}],"say":"Enderman has gone from sight. Leonardo trying the bed now, with the group in reach."}
+- 09:45 act: {"say":"Leonardo here, still at the bed row with the group. I'll stay in sight and join the cow walk when Billy calls. I have 3 chicken for the lowest, Trini first at 6.","intent":{"goal":"hold_with_g
+- 09:49 act: {"say":"Leonardo, ready. Billy or Jason, call the walk when you are both set, and I'll walk in sight of the group. Trini eats first."}
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Leonardo going to the bed at 401,-1037 with the group in reach. I have 3 chicken for whoever drops to 6, Tr
+- 09:57 act: {"say":"Leonardo here at the bed 401,-1037, in sight of the group. Billy, I'm ready to walk when you call. Trini is at 13, so I'll hold my 3 chicken for her."}
+- 10:05 act: {"actions":[{"do":"sleep"}],"say":"Night. Leonardo sleeping at the bed 401,-1037, group in reach. Chicken held for Trini, call at 6."}
+- 10:05 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1035}}],"say":"Morning. Leonardo slept and woke at 387,-1035; walking back to the bed row to stay in sight of the group."}
+- 10:09 act: {"say":"Leonardo holding at the bed row, 401,-1034. Billy, I can't see you now. I'll walk when you're back in my sight, with Kimberly, Picard and Tommy near me."}
+- 10:12 act: {"say":"Billy, I see you now and I'm in reach. Let's all go together: you lead, we stay within a few blocks, and we wait at each stop until everyone is in sight."}
+- 10:15 act: {"say":"It's dusk now, so I'll not walk out tonight. I'm staying at the bed row with the group and will sleep here. Billy, cows at first light, together."}
+- 10:20 act: {"actions":[{"do":"sleep"}]}
+- 10:20 act: {"say":"Morning. Leonardo here at the bed row, health 20, hunger 20, 3 chicken held for the lowest. I'm in reach. Billy, call the walk and I'll stay in sight."}
