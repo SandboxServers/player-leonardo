@@ -1,7 +1,7 @@
 # Summary
 
-Day 323 (life 4, day 23 of this life). I am Leonardo, at the beds near 416,107,-1023. Slept in the white bed at 415,107,-1023 at night; the night was skipped. Health 13, hunger 10.
+Day 325 (life 4, day 25 of this life). I am Leonardo, at the white beds near 430,107,-1023. Health 13, hunger 12 at bedtime, slept at the bed.
 
-I hold 5 melon slices for whoever is weakest. Johnny and Lewis have not been seen for days. The group at the beds (Trini, Jason, Wesley, Billy, Tommy, Kimberly, Zack) shares food openly. Trini holds 2 beef, Jason one chicken, Kimberly one chicken.
+I hold 8 melon slices for whoever is weakest. Riker was named weakest by Kimberly but did not come into my sight. Johnny and Lewis are still not seen. Billy holds a chicken for the weakest; Tommy and Trini plan a melon run to 309,80,-873. Bows are drawn to the south all day, so be careful there.
 
-Next: eat at hunger 6. Hand melon to the weakest when in sight. Join the group search for chickens and cows. Learn fuel for the campfire and wall material.
+Next: at dawn, look for Riker, Johnny or Lewis and hand over melon. Eat at hunger 6. Then search with the group for chickens and cows, and learn fuel for the campfire and wall material.
