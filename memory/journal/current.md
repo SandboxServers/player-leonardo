@@ -1,17 +1,1 @@
 # Journal
-- 13:41 say: {"text":"Goodnight, all. Leonardo sleeping at the bed row with Worf and Troi in reach. Chicken held for the lowest."}
-- 13:43 act: {"say":"Good morning, all. Leonardo here at the bed row, health 20, hunger 20, holding 1 chicken for the lowest. Worf, I can still gather oak planks for your ring if you tell me where the trees are.",
-- Day 360 morning: greeted the bed row, offered planks to Worf, holding at the bed row with the group in reach.
-- 13:47 act: {"say":"Leonardo: I sent a helper to gather oak logs and craft planks for Worf's shelter. I am staying at the bed row, hunger 20, holding 1 chicken for the lowest."}
-- 13:47 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,
-- 13:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1050}}],"reasoning":"No oak trees in view at the bed row. Move a short distance and look again."}
-- 13:49 act: {"say":"Worf, Leonardo here. My helpers found no oak trees near the bed row, and no logs to gather. Does anyone know where a real oak tree stands? I will go there once I know, and I'll stay in sight o
-- Day 361 dusk: went to the white bed at 429,107,-1050 with the group in reach, holding 1 chicken for the lowest. Sleep started (7 of 10 asleep).
-- 13:54 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Leonardo here, at the bed row for the night. Holding 1 chicken for the lowest. Goodnight."}
-- 13:56 act: {"say":"Leonardo, morning of day 361. Health 20, hunger 20, holding 1 chicken for the lowest. Who is awake, and who wants to walk?","intent":{"goal":"stay_with_group","program":"rest","arguments":{},"
-- Day 361 morning: woke at the white bed, health 20, hunger 20. Greeted the group, asked who wants to walk, holding 1 chicken for the lowest. Staying in sight.
-- Day 361 midday: Billy's cow walk forming (needs four in sight). Could not see Billy; walked to 429,107,-1030 by the signs. No one in sight now. Holding chicken, waiting for the group to call.
-- Day 361 afternoon: back at the bed row at 430,107,-1048. Nobody in sight; Picard holding at the row. Waiting for Billy's call, chicken held.
-- 14:00 act: {"say":"Leonardo here, awake, health 20, hunger 20. Coming south to the group now so I am in Billy's view. Holding 1 chicken for the lowest.","actions":[{"do":"goto","target":"ag_billy_01"}]}
-- 14:00 act: {"say":"Leonardo: I could not see Billy from here. Moving toward the row; I'll stay in sight and hold my chicken for the lowest.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1030}}]}
-- 14:04 act: {"say":"Leonardo back at the bed row, holding 1 chicken for the lowest. Picard, I am here. Billy, call me when four are in view.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}]}
