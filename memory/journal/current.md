@@ -26,3 +26,7 @@
 - 09:03 act: {"say":"Dusk. Leonardo going to the bed at 429,-1036 with the group in sight. Chicken held for the lowest; Trini first at 6.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
 - 09:03 act: {"say":"Leonardo at the bed, health 20, hunger 20. Going to sleep with the group. Chicken held for the lowest.","actions":[{"do":"sleep"}]}
 - 09:03 act: {"say":"Leonardo sleeping at the bed with the group in sight.","actions":[{"do":"sleep"}]}
+- 09:07 act: {"say":"Leonardo coming to Billy at 415,-1035 to walk to the cows together, in sight. Chicken held for the lowest.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1035}}]}
+- 09:07 act: {"say":"Following Billy to the cow field, in sight. Lead on.","actions":[],"intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addresse
+- 09:08 act: {"say":"Billy is out of my sight, so I'm holding here at 416,-1034 with Trini and Jason. I won't walk alone. Billy, call when you're back in sight.","actions":[]}
+- 09:16 act: {"say":"Dusk. Leonardo going to the bed at 415,-1036 with the group in sight. Chicken held for the lowest.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}]}
