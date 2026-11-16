@@ -1,2 +1,18 @@
 # Journal
 - 02:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at bed, bows nearby; stay sheltered and rest."}
+- 02:45 act: {"say":"Leonardo here at the beds, health 13, hunger 12. I hold 8 melon and 1 chicken for whoever is weakest. Billy, Zack, Tommy: I'm in your sight; we go to the melon field together at first light.",
+- Woke at the beds (430,107,-1023), health 13, hunger 12, holding 8 melon and 1 chicken. Said my position to the group and set a rest intent to hold here until light. Rest intent failed; slept at the bed instead, it worked, still night. Waiting for light to start the melon trip with the group.
+- Morning day 328: went west toward Jason (health 1, zombie) with melon. Zombie hit me; no weapon, so I fled by reflex back east to the beds at 435,107,-1018. Zack is fighting it with a sword. Health 12, hunger 12.
+- Midday day 328: Jason is fine (health 20), so the melon was not needed. Skeleton to the north-west; group fell back. Back at the east beds 429,107,-1024 with the group at dusk. Still holding 8 melon and 1 chicken; the pile at 411,-1055 waits for morning.
+- Morning day 329 (time jumped): gave Jason 2 melon slices at the bed row 416,-1037; he is at health 20 and wants a sword. I hold 6 melon and 1 chicken, hunger 12, health 12.
+- 02:45 act: {"actions":[{"do":"sleep"}],"say":"Night, Zack. Leonardo is sleeping at the bed here. Melon trip at first light, all together."}
+- 02:49 act: {"say":"Leonardo coming to the west beds with melon for Jason. Zack and Tommy, hold the zombie off, I'm on my way.","intent":{"goal":"reach_jason_with_melon","program":"travel","arguments":{"target":{
+- 02:49 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zombie 4 blocks north-west of me. I have no sword, so I'm moving to Zack."}
+- 02:50 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zack, the zombie is 2 blocks east of me and it's hitting me. Please strike it with your sword."}
+- 02:52 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1025}}],"say":"Zombie is gone from sight. Jason, Zack, Tommy: I'm heading to 410,-1025 with melon. Jason, tell me where you are and I'll hand it
+- 02:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1024}}],"say":"Agreed: Jason is fine at health 20, so I keep my melon. We go back to the beds together now, not out at dusk. The pile waits for 
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1034}}],"say":"Morning. Jason, I'm coming to you at the bed row with melon for you. Zack and Tommy, come along."}
+- 02:59 act: {"actions":[{"do":"goto","target":"ag_jason_01"},{"do":"give","to":"ag_jason_01","item":"melon_slice","count":2}],"say":"Jason, two melon slices for you. Eat them, and tell us if you need more."}
+- 03:03 act: {"actions":[],"say":"I'm at the bed row 416,-1035 with 6 melon and 1 chicken. Kimberly, if you're weak, step into my sight and I'll hand you a slice."}
+- 03:08 act: {"actions":[],"say":"Still at the bed row 416,-1035 with 6 melon and 1 chicken. Kimberly, step into my sight and I'll hand you a slice."}
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}}],"say":"Night. Leonardo is going into the bed at the bed row. Kimberly at first light, toge
