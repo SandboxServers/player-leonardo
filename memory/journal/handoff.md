@@ -1,7 +1,7 @@
-# Handoff, day 331 night
+# Handoff, day 332 night
 
-Asleep in the white bed at 401,107,-1023 at the bed row. Health 12, hunger 12. Holding 6 melon and 1 chicken, kept for the weakest. Zack is in sight nearby; Tommy, Jason, Wesley, Billy and Trini are at the bed row.
+Asleep at the white bed 401,107,-1023 at the bed row. Health 12, hunger 12. Holding 5 melon and 2 chicken, kept for the weakest. Wesley, Tommy, Billy, Jason and Zack are at the bed row.
 
-Group is fed: Tommy about 15 health, Jason and Wesley at 20. Johnny is found and safe.
+Tommy gave me a chicken; Wesley left me a melon. Group is fed.
 
-Next: wake, eat at hunger 6, go to the cows at 364,-1010 and the chicken field at 360,-1008 with the group, keep food for the weakest, stay in sight.
+Next: wake, eat at hunger 6, walk to the cows at 364,-1010 when Jason calls, stay in sight. Help Zack fetch his pack at 302,80,-822 at first light with the group.

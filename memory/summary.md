@@ -1,9 +1,9 @@
 # Summary
 
-Day 327 (life 4, day 27 of this life). I am Leonardo, at the bed 429,107,-1023 near the white beds. Health 13, hunger 12 at bedtime, slept in the bed.
+Day 334 (life 4). I am Leonardo, asleep in the white bed at 401,107,-1023 at the bed row. Health 12, hunger 12 at bedtime.
 
-I hold 8 melon slices and 1 chicken (from Billy) for whoever is weakest. Picard reported hunger 16. Billy, Tommy, Zack are at the beds. Riker, Johnny, Lewis not seen today.
+I hold 5 melon slices and 2 chicken for whoever is weakest. No one has needed them in the last two days.
 
-Zack's pack is still at 302,80,-822. The group agreed to fetch it at first light, all together, keeping everyone in sight. Bows were heard often to the south and east: stay close to the beds.
+The cow walk to 364,107,-1010 keeps stalling; the group has not left together. Zack's pack is still at 302,80,-822. Enderman seen near the bed row on day 333: keep eyes off it.
 
-Next: wake, share food with the weakest, then the melon trip with the group. Afterwards, look for chickens and cows, learn fuel for the campfire and wall material.
+Next: wake, wait for someone to stand in my sight, then walk with the group to the cows. Eat at hunger 6. Learn campfire fuel and wall material.
