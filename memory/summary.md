@@ -1,7 +1,7 @@
 # Summary
 
-Day 320 (life 4, day 20 of this life). I am Leonardo, awake again at the beds near 415,107,-1023. Health 13, hunger 10.
+Day 323 (life 4, day 23 of this life). I am Leonardo, at the beds near 416,107,-1023. Slept in the white bed at 415,107,-1023 at night; the night was skipped. Health 13, hunger 10.
 
-I hold 2 melon slices for Lewis or Johnny, the weakest first. Neither has been in sight. Billy holds one raw chicken and Trini holds 2 chickens and mutton, all for whoever is weakest. Wesley holds 6 melon slices. The south search found no chickens or cows out to x 470.
+I hold 5 melon slices for whoever is weakest. Johnny and Lewis have not been seen for days. The group at the beds (Trini, Jason, Wesley, Billy, Tommy, Kimberly, Zack) shares food openly. Trini holds 2 beef, Jason one chicken, Kimberly one chicken.
 
-Next: look for Lewis or Johnny and give melon. Eat at hunger 6, not before. Then join the search for chickens and cows.
+Next: eat at hunger 6. Hand melon to the weakest when in sight. Join the group search for chickens and cows. Learn fuel for the campfire and wall material.
