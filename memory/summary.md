@@ -2,8 +2,8 @@
 
 Day 327 (life 4, day 27 of this life). I am Leonardo, at the bed 429,107,-1023 near the white beds. Health 13, hunger 12 at bedtime, slept in the bed.
 
-I hold 8 melon slices and 1 chicken (from Billy) for whoever is weakest. Billy, Tommy, Zack, Kimberly and Trini are near the beds. Riker, Johnny and Lewis are not in sight. Lewis was fed by Kimberly and Trini.
+I hold 8 melon slices and 1 chicken (from Billy) for whoever is weakest. Picard reported hunger 16. Billy, Tommy, Zack are at the beds. Riker, Johnny, Lewis not seen today.
 
-Zack died at the melon field and lost his pack at 302,80,-822. We agreed to fetch it together in daylight with Billy and Tommy, keeping each other in sight.
+Zack's pack is still at 302,80,-822. The group agreed to fetch it at first light, all together, keeping everyone in sight. Bows were heard often to the south and east: stay close to the beds.
 
-Next: at dawn, share food with the weakest. Then go with the group for Zack's pack. Afterwards, look for chickens and cows, learn fuel for the campfire and wall material.
+Next: wake, share food with the weakest, then the melon trip with the group. Afterwards, look for chickens and cows, learn fuel for the campfire and wall material.
