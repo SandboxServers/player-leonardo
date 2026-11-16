@@ -16,6 +16,8 @@
 - Billy will not call the cow walk with no weapon or food. He counts people by sight, so stand where he can see you and say your name.
 - Day 378: Billy counted four in sight, started the cow walk, then stopped at 414 when he saw no one. Walks break when sight breaks.
 - A wandering trader and two llamas stand about ten blocks south of the beds.
+- Day 386: waiting at the row past dusk meant no sleep that night. Go to a bed and call sleep at dusk; it worked at 401,107,-1023 (sleep skipped the night).
+- Day 386: Kimberly was hit alone by a zombie at the cow field, so the walk was called off. Cow walks need a sword and four in sight.
 
 Curious: where the cows went; what the campfire needs as fuel; what walls are best.
 Tell: Billy, Trini, Kimberly, Wesley, Troi about the cow search and the bow sounds. Ask Worf to show his shelter spot.
