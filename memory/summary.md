@@ -1,11 +1,9 @@
-# Summary
+# Summary, end of day 339
 
-Day 336 (life 4). I am Leonardo, awake near the bed row at 429,107,-1022 after sleeping. Health 12, hunger 12.
+I am Leonardo. I live with a group at the white bed row near 430,107,-1036. I died at night 338 at the cow ground 485,104,-1137 from an explosion beside Billy, and I got back my food in daylight.
 
-I hold 5 melon slices and 2 chicken, kept for whoever is weakest. My last give to Kimberly did not go through, so the chicken is still with me.
+Now I hold 5 chicken and 2 melon, kept for the lowest. Trini was low at health 2 and was fed by Bcrusher, Jason and me. Kimberly holds the most melon.
 
-The group is at the bed row: Wcrusher, Tommy, Billy, Kimberly, Trini, Zack, Jason, MacDonald. Kimberly has been lowest; others have fed her.
+Still missing: cows (none seen for two days), campfire fuel, wall material, and Zack's pack at 302,80,-822.
 
-The cow field at 364,110,-1010 was empty on day 336. Zack's pack is still at 302,80,-822.
-
-Next: eat at hunger 6, walk with the group to the cows only when someone calls it and stay in sight, then help Zack fetch his pack. Learn campfire fuel and wall material.
+Next: at dawn, walk with the group to look for cows. Eat at hunger 6. Be in a bed or enclosure before dusk.

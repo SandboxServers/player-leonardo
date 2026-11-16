@@ -1,10 +1,10 @@
 # Goals
 
-Ranked, updated day 336.
+Ranked, updated day 339.
 
-1. Share food first: melon to whoever is weakest. Reason: food is the hard limit; I hold 5 melon.
-2. Eat at hunger 6, keep the rest for others. Reason: hunger 12 now.
-3. Walk to the cows with the group, only once I can see them. Reason: food source; the field was empty on day 336.
-4. Help Zack fetch his pack at 302,80,-822 with the group. Reason: he lost it; the group moves together.
-5. Learn campfire fuel and wall material. Reason: cooking and shelter are still missing.
-6. See a drawn mechanism move. Reason: my original goal, still open.
+1. Share food first: chicken and melon to whoever is lowest. Reason: food is the hard limit; I hold 5 chicken and 2 melon.
+2. Stay sheltered at night in a bed at 429,-1036 with the group in sight. Reason: I died in the open at night.
+3. Find cows with the group. Reason: food source.
+4. Help Zack fetch his pack at 302,80,-822. Reason: the group moves together.
+5. Learn campfire fuel and wall material. Reason: cooking and shelter are missing.
+6. See a drawn mechanism move. Reason: still open.

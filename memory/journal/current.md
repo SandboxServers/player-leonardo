@@ -18,3 +18,25 @@
 - 06:14 act: {"actions":[{"do":"note","text":"Morning day 338. At 437,107,-1081, health 8 and rising. Staying put for Bcrusher, who is bringing melon."}],"say":"Morning. I'm at 437,-1081 with health 8, rising. Bcr
 - 06:14 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"say":"Nobody came to me, so I'm going to the cow ground at 480,-1137 to join Billy, MacDonald and Trini. Health 9."}
 - 06:15 act: {"actions":[{"do":"note","text":"Day 338 morning. At the cow ground 480,104,-1137 with Billy and Wcrusher. Health 9, hunger 17. Holding 5 chicken and 2 melon for the lowest."}],"say":"I'm at the cow g
+- 06:17 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":2}],"say":"Trini, you are the lowest here. I am giving you two chicken. Tell me when you have eaten."}
+- 06:20 Give to Trini was interrupted. Trini is at hunger 20 and keeps the melon with Billy. I hold 5 chicken and 2 melon for the lowest. Holding at the cow ground with Billy.
+- 06:45 Waited out the afternoon with the group; no cows seen. Dusk now. Staying here with Billy, Trini and Wcrusher, who is building a dirt shelter next to us. I will go in with them.
+- 06:55 Night. Wcrusher is in a pit elsewhere and I could not find it. Hit from behind, health 6.6. Building dirt cover with a pillar beside Billy at the cow ground 482,104,-1138.
+- 06:19 act: {"actions":[{"do":"note","text":"Day 338 midday. Give of 2 chicken to Trini was interrupted; Trini says hunger 20, so she keeps the melon and I keep the chicken for whoever is lowest. Billy and Trini 
+- 06:25 act: {"actions":[{"do":"note","text":"Dusk. Staying with Billy, Trini and Wcrusher; going into their shelter."}],"say":"Dusk. I'll stay here with Billy, Trini and Wcrusher and go into the shelter with you.
+- 06:25 act: {"actions":[],"say":"Wcrusher, where is your dirt shelter? I'm at the cow ground and can walk to it now, with Billy and Trini."}
+- 06:27 act: {"intent":{"goal":"pillar_cover_dirt","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["unexpected_damage","goal_completed","precondition_failed"],"limits":{"max_world_ti
+- 06:27 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"melon_slice","count":2}],"say":"Billy, here are my two melon slices. Eat them now."}
+- 06:27 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"melon_slice","count":2}],"say":"Billy, I'm right beside you. Taking the melon out to you now."}
+- 06:27 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"chicken","count":2}],"say":"Billy, trying chicken now. Eat it if you can."}
+- 06:27 act: {"actions":[{"do":"note","text":"Night 338. Melon gives to Billy failed twice; 2 chicken given to Billy and it worked. I hold 3 chicken, 2 melon. Health 6.6, hunger 17. Staying near Billy at the cow g
+- 06:30 act: {"actions":[{"do":"note","text":"Died at night 338 at 485,104,-1137 (explosion while beside Billy). Respawned at bed row 430,107,-1037 with nothing. Dropped 2 melon, 3 chicken, 10 dirt, misc at 485,10
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":485,"y":104,"z":-1137}}]}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":486,"y":105,"z":-1137}},{"do":"goto","target":{"x":482,"y":104,"z":-1138}},{"do":"goto","target":{"x":487,"y":103,"z":-1141}}]}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":486,"y":102,"z":-1137}},{"do":"goto","target":{"x":490,"y":104,"z":-1136}}]}
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":487,"y":101,"z":-1137}},{"do":"goto","target":{"x":486,"y":104,"z":-1143}}]}
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"note","text":"Day 339 morning. Recovered 5 chicken and 2 melon from the drop at the cow ground. Hunger 20, health 20. Holding food
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1037}}],"intent":{"goal":"feed_trini","program":"travel","arguments":{"target":{"x":420,"y":107,"z":-1037}},"wake_on":["directly_addressed","une
+- 06:34 act: {"actions":[],"say":"Trini, Billy, Jason: I'm at 421,-1037 by the beds with 5 chicken and 2 melon. Trini, where are you? Say so and I'll come to your sight."}
+- 06:35 act: {"actions":[{"do":"note","text":"Day 339 midday. Trini is being fed by Bcrusher (4 melon) and Jason. Lewis holds chicken for her too. I hold 5 chicken and 2 melon for whoever is lowest next. Standing 
+- 06:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do":"note","text":"Dusk day 339. Going to the bed at 429,-1036 with the group at the beds. Hold 5 chicken, 2 melon for the lowest."}],"

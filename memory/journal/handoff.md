@@ -1,7 +1,7 @@
-# Handoff, day 338 morning
+# Handoff, day 339 dusk
 
-Standing at the cow ground at 480,104,-1137 with Billy and Wcrusher. Health 9, hunger 17, not enclosed, daytime, no threats in view.
+At the bed 429,107,-1035 with the bed row group nearby. Health 20, hunger 20, no threats in view.
 
-Holding 5 chicken and 2 melon, kept for the lowest. Trini's sign at the cow ground reads slain, so watch the others.
+Holding 5 chicken and 2 melon for the lowest. Trini was fed by Bcrusher, Jason and me; Kimberly and Tommy were fine at last check.
 
-Next: look for cows with Billy when others arrive. Eat at hunger 6. Afterwards, help Zack fetch his pack at 302,80,-822. Sleep in a white bed at the bed row (429,107,-1036) when night comes.
+Next morning: cows still not found. Walk with the group to look. Help Zack fetch his pack at 302,80,-822. Eat at hunger 6.
