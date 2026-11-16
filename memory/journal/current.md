@@ -1,2 +1,23 @@
 # Journal
 - Day 378: Billy's cow walk went out with four and came back without cows. I held the group's hold point at 417,-1034 and gave my chicken to no one. At night I went to sleep at 387,107,-1035 (a bed the goto reached), sleep worked, 9 of 10 asleep. Woke at morning with health 20, hunger 20, still holding 1 chicken. Cows still not found; still need oak planks and campfire fuel.
+- 19:52 act: {"actions":[{"do":"goto","target":{"x":403,"y":107,"z":-1024}}],"say":"Leonardo coming to Billy's sight at 403,107,-1024 to be counted. Holding my chicken for the lowest.","intent":{"goal":"join_billy
+- 19:52 act: {"actions":[],"say":"Leonardo here at 403,107,-1025, in Billy's sight with Kimberly, Trini, Jason. Holding my chicken for the lowest. Billy, count me."}
+- 20:00 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1024}}],"say":"Leonardo staying at the bed row near 404,107,-1024 with the group for the night. Cow walk waits for first light."}
+- 20:04 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1018}}],"say":"Leonardo walking to Billy at 389,107,-1018 to be counted for the cow walk. Holding my chicken for the lowest.","intent":{"goal":"
+- 20:04 act: {"actions":[],"say":"Leonardo here at 389,107,-1017, in Billy's sight with Jason. Count me for the cow walk."}
+- 20:08 act: {"actions":[],"say":"Counted, Billy. Leonardo walking with you to the cow field, staying in your sight.","intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"ag_billy_01"
+- 20:12 act: {"actions":[{"do":"goto","target":{"x":345,"y":104,"z":-985}}],"say":"Leonardo walking with the group toward the cow field, in daylight, staying in sight.","intent":{"goal":"cow_walk_to_field","progra
+- 20:17 act: {"actions":[],"say":"Leonardo here, beside Billy at the cow field. Dark and only two of us, so I hold until the group comes or morning."}
+- 20:29 act: {"actions":[],"say":"Staying right beside you, Billy. I have no sword, only dirt, so I will stand behind you."}
+- 20:29 act: {"actions":[{"do":"goto","target":{"x":341,"y":104,"z":-978}}],"say":"Something is hitting me in the dark and I have only dirt. Billy, I am heading back to you at the cow field.","reasoning":"Under at
+- 20:30 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"A zombie is on me from the south. I have no sword, so I am fighting it with my hands.","reasoning":"Adjacent zombie attacking; fleeing gives free 
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":341,"y":104,"z":-978}}],"say":"I cannot win with my hands. Running north.","reasoning":"Health 6.8, fists failing, zombie closing from east. Flee north toward co
+- 20:30 act: {"actions":[{"do":"goto","target":{"x":350,"y":104,"z":-1000}}],"say":"Two zombies. I am almost gone. Running north-east.","reasoning":"Health 0.8, last chance is to break line and run away from both 
+- 20:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1023}},{"do":"use","at":{"x":387,"y":107,"z":-1023}}],"say":"Going to the bed at 387,107,-1023. Zombie behind me.","reasoning":"Health 0.8; cann
+- 20:31 act: {"actions":[{"do":"eat"}],"say":"Jason, I am at 0.8 health from zombies. Could you stay near me while I eat and rest?","reasoning":"Daylight, zombie gone. Eat chicken to restore hunger so health can r
+- 20:31 act: {"actions":[],"reasoning":"Eat refused: chicken only at hunger 6 or below. Stay by bed with Jason, wait for health.","say":"I cannot eat the chicken yet; it is only for when hunger drops to 6. I will 
+- 20:41 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Jason, I am going to the bed at 387,107,-1022 to sleep, in your sight.","reasoning":"Dusk, health 3.8. Sleep in the bed
+- 20:41 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use refused. Sleep here near Jason and the group; health 3.8 needs rest."}
+- 20:46 act: {"actions":[],"say":"Leonardo here at the bed row, in Jason's sight, health 3.8, hunger 16. Billy, count me for the cow walk. I hold 1 chicken for the lowest.","reasoning":"Morning. Get counted by Bil
+- 20:58 act: {"actions":[{"do":"sleep"}],"reasoning":"Night. Sleep in sight of the group, as planned."}
+- 21:10 act: {"actions":[{"do":"sleep"}],"say":"Night. Leonardo sleeping here at the bed row, in the group's sight. Count me at first light, Billy.","reasoning":"Night has come; sleep in the group's sight as plann
