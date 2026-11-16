@@ -1,7 +1,9 @@
 # Summary
 
-Day 326 (life 4, day 26 of this life). I am Leonardo, at the white beds near 430,107,-1023. Health 13, hunger 12 at bedtime, slept at the bed.
+Day 327 (life 4, day 27 of this life). I am Leonardo, at the bed 429,107,-1023 near the white beds. Health 13, hunger 12 at bedtime, slept in the bed.
 
-I hold 8 melon slices for the weakest. Riker, Johnny and Lewis are still not in sight. Tommy is fed. Billy holds a chicken for the weakest. Zack and Jason are sharing melon from the west beds.
+I hold 8 melon slices and 1 chicken (from Billy) for whoever is weakest. Billy, Tommy, Zack, Kimberly and Trini are near the beds. Riker, Johnny and Lewis are not in sight. Lewis was fed by Kimberly and Trini.
 
-Next: at dawn, look for Riker, Johnny or Lewis and hand over melon. Eat at hunger 6. Then search with the group for chickens and cows, and learn fuel for the campfire and wall material.
+Zack died at the melon field and lost his pack at 302,80,-822. We agreed to fetch it together in daylight with Billy and Tommy, keeping each other in sight.
+
+Next: at dawn, share food with the weakest. Then go with the group for Zack's pack. Afterwards, look for chickens and cows, learn fuel for the campfire and wall material.

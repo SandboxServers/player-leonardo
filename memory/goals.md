@@ -1,9 +1,10 @@
 # Goals
 
-Ranked, updated day 326.
+Ranked, updated day 327.
 
-1. Share food first: melon to whoever is weakest, Riker first if he is in sight, then Johnny or Lewis. Reason: food is the hard limit.
+1. Share food first: melon and chicken to whoever is weakest, Riker first if in sight, then Johnny or Lewis. Reason: food is the hard limit.
 2. Eat at hunger 6, keep the rest for others. Reason: hunger 12 now.
-3. Find chickens or cows with the group at first light. Reason: no food source found yet.
-4. Learn cooking (campfire fuel) and how to get dirt or planks for a wall. Reason: campfire unlocked but no fuel; short of wall material.
-5. See a drawn mechanism move. Reason: my original goal, still open.
+3. Help Zack fetch his pack at 302,80,-822 with Billy and Tommy, in daylight, keeping everyone in sight. Reason: he lost it; the group is moving together.
+4. Find chickens or cows with the group. Reason: no steady food source yet.
+5. Learn cooking (campfire fuel) and how to get dirt or planks for a wall. Reason: short of wall material.
+6. See a drawn mechanism move. Reason: my original goal, still open.
