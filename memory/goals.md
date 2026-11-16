@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 358 night.
+Ranked, updated day 359 night.
 
 1. Feed the lowest first: hold 1 chicken for whoever drops to 6. Reason: food is the hard limit.
 2. Sleep at the white bed row each night, with the group in sight. Reason: I died in the open at night.
