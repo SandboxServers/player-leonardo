@@ -15,3 +15,14 @@
 - 08:25 act: {"say":"Night at the beds with the group. Going to sleep here.","actions":[{"do":"sleep"}]}
 - 08:25 act: {"actions":[{"do":"sleep"}]}
 - 08:29 act: {"say":"Morning, day 345. Leonardo going back to the group at 429,107,-1035. No cows at the field, so we stay at the beds.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}]}
+- 08:37 act: {"say":"Dusk. Leonardo sleeping at the beds with the group, chicken held for the lowest.","actions":[{"do":"sleep"}]}
+- 08:38 act: {"actions":[{"do":"sleep"}]}
+- 08:42 act: {"say":"Morning. Leonardo awake, health 20, hunger 20. Ready for Billy's cow walk in sight of the group. Chicken held for the lowest.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}]}
+- 08:50 act: {"say":"Dusk. Leonardo at the beds with the group, health 20, hunger 20. Going to sleep.","actions":[{"do":"sleep"}]}
+- 08:50 act: {"actions":[{"do":"sleep"}]}
+- 08:54 act: {"say":"Leonardo at the beds, health 20, hunger 20. Holding 3 chicken for the lowest. I'll join Billy's cow walk only when everyone is in sight.","actions":[],"intent":{"goal":"hold_at_beds_for_group"
+- 08:58 act: {"say":"Leonardo joining the group at 421,-1034, in sight. Chicken held for the lowest. Billy, call the walk when everyone is here.","actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1034}}]}
+- 08:58 act: {"say":"Leonardo here at 422,-1034 with Trini, Jason, Troi and Wesley in sight. Holding 3 chicken for the lowest. Billy, call the walk.","actions":[],"intent":{"goal":"wait_with_group_for_walk","progr
+- 09:03 act: {"say":"Dusk. Leonardo going to the bed at 429,-1036 with the group in sight. Chicken held for the lowest; Trini first at 6.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
+- 09:03 act: {"say":"Leonardo at the bed, health 20, hunger 20. Going to sleep with the group. Chicken held for the lowest.","actions":[{"do":"sleep"}]}
+- 09:03 act: {"say":"Leonardo sleeping at the bed with the group in sight.","actions":[{"do":"sleep"}]}
