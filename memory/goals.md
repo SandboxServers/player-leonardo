@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 325.
+Ranked, updated day 326.
 
 1. Share food first: melon to whoever is weakest, Riker first if he is in sight, then Johnny or Lewis. Reason: food is the hard limit.
 2. Eat at hunger 6, keep the rest for others. Reason: hunger 12 now.
