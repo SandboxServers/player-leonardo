@@ -30,3 +30,6 @@
 - 09:07 act: {"say":"Following Billy to the cow field, in sight. Lead on.","actions":[],"intent":{"goal":"follow_billy_to_cows","program":"follow","arguments":{"target":"ag_billy_01"},"wake_on":["directly_addresse
 - 09:08 act: {"say":"Billy is out of my sight, so I'm holding here at 416,-1034 with Trini and Jason. I won't walk alone. Billy, call when you're back in sight.","actions":[]}
 - 09:16 act: {"say":"Dusk. Leonardo going to the bed at 415,-1036 with the group in sight. Chicken held for the lowest.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1035}},{"do":"sleep"}]}
+- 09:17 act: {"actions":[{"do":"note","text":"Day 347 night. Slept at the bed row, sleep worked. Holding 3 chicken for the lowest."}],"intent":{"goal":"rest_at_beds_until_light","program":"rest","arguments":{},"wa
+- 09:17 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 09:17 act: {"actions":[{"do":"sleep"}]}
