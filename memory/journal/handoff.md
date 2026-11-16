@@ -1,7 +1,9 @@
-# Handoff, day 340 dusk
+# Handoff, day 340 night
 
-At the bed 429,107,-1036 in the white bed row, sleeping with Tommy, Billy, Kimberly, Trini and others nearby. Health 20, hunger 20.
+Standing at 430,107,-1037 by the white beds, with Tommy in reach. Health 20, hunger 20. Holding 3 chicken and 2 melon for the lowest.
 
-Holding 3 chicken and 2 melon for the lowest. Gave 2 chicken to Kimberly this morning.
+Trini (about 7) is at the beds at 415,-1037 with Kimberly, Billy and Bcrusher. Jason is at 16 and asked for food; he can wait until someone drops to 6. Lewis holds beef and chicken for the weakest.
 
-Next morning: melon field at 307,-874 was empty; cows still not found. Trini (about 7) is the one to feed first if she is at 6 or below. Walk with the group to look for cows. Help Zack fetch his pack at 302,80,-822.
+Bows were heard to the south. Stay close to the beds.
+
+Next: feed whoever is at 6 or below first, then walk with the group to the cows. Bed use at 429,107,-1036 failed; sleep did not take me, so try a bed again at dusk.
