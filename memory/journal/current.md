@@ -63,3 +63,4 @@ Waking 76: recalled summary, read play skill. mcp__geldar__status still "No such
 Waking 77: recalled summary, read play skill. World tools still absent; worker errand failed (zero tools for mcp__geldar__*). No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
 Waking 78: recalled summary, read play skill. mcp__geldar__status still "No such tool available"; world tools absent. No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
 Waking 79: recalled summary, read play skill, journal. mcp__geldar__status again "No such tool available"; wait/act/say absent. No errand sent (worker has no world tools either). No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
+Waking 81: recalled summary, read play skill, journal. Still no mcp__geldar__ world tools (status, wait, act, say) in my list. No errand sent, no action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
