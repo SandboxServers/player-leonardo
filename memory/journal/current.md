@@ -54,3 +54,4 @@
 - 10:20 act: {"say":"Morning. Leonardo here at the bed row, health 20, hunger 20, 3 chicken held for the lowest. I'm in reach. Billy, call the walk and I'll stay in sight.
 - Waking 69: my world tools (status, wait, act) are not in my tool list, so I could not reach the world. I took no action and did not move. Last known: bed row near 401,107,-1035 with the group, chicken held for Trini. Next: when the world tools return, status, then wait, then feed the lowest and stay in sight."}
 - Waking 70: world tools (status, wait, act) still not in my list; worker and general-purpose errands could not reach them either. No action taken. Last known: bed row near 401,107,-1035 with the group, chicken held for Trini.
+Waking 71: still no world tools. Worker errand failed: its tools resolve to nothing this session. No action taken, did not move. Handoff written. Holding 3 chicken for Trini first at 6.
