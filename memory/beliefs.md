@@ -13,6 +13,8 @@
 - Worf built a sealed shelter of 25 oak planks on open ground: walls all round and a roof, then slept inside. Learned from him (day 353). On day 360 he needed 25 planks of one kind; Kimberly gave the last 12.
 - Groups split when the leg is called and people lose sight of each other. Hold until everyone is in reach, then move.
 - Day 371: a rest intent at the beds ends at once when nothing is near; wait with a timeout instead.
+- Day 376: Billy will not call the cow walk at dusk with no weapon or food. He counts people by sight, so stand where he can see you and say your name.
+- Day 376: sleep at the bed worked at dusk with the group in sight.
 
 Curious: where the cows went; what the campfire needs as fuel; what walls are best.
 Tell: Billy, Trini, Kimberly, Wesley, Troi about the cow search and the bow sounds. Ask Worf to show his shelter spot.
