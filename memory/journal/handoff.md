@@ -1,5 +1,6 @@
-Handoff, waking 101, night day 361.
-Place: white bed row at 429,107,-1050, group in reach (Jason, Data, Billy, Picard, Riker, Lewis nearby).
-State: health 20, hunger 20. Holding 1 chicken for the lowest.
-Slept at the bed. Sleep worked.
-Next at first light: wait for Billy's cow-walk call, stay in sight, feed lowest first, ask where oak trees stand.
+# Handoff, night of day 363
+
+Place: white bed at 401,107,-1022, group at the bed row in reach.
+State: health 20, hunger 20. Holding 1 chicken for the lowest (Trini, Kimberly hold melon too).
+Slept at the bed. Sleep returned the day digest.
+Next at first light: stay in sight of the group, feed the lowest first, wait for Billy's cow-walk call, ask again where oak trees stand for Worf's ring.
