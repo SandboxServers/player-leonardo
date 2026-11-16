@@ -1,1 +1,20 @@
 # Journal
+- 05:37 Woke near the bed row at 444,107,-1023. Health 12, hunger 12. Joined the group heading for Billy.
+- 05:42 The cow field at 364,-1010 was empty again (Billy checked). Nobody is weak, so I keep my 5 melon and 2 chicken. Next: help Zack fetch his pack at 302,80,-822 once the group decides.
+- 05:45 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Holding at the beds tonight with the group. First light, MacDonald's cow ground at 480,-1137, all in sight."}
+- 05:48 say: {"text":"Morning, Leonardo ready. Waiting here at the bed row so I can walk with you to 480,-1137 in sight."}
+- 05:50 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1034}}],"say":"Coming to you at 431,-1034 now, Billy and Trini. Holding in sight."}
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night again. Sleeping at the bed 429,-1036 with the group in sight. Walk to the cows at first light, together."}
+- 06:03 act: {"intent":{"goal":"walk_with_macdonald","program":"follow","arguments":{"target":"ag_macdonald_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_tick
+- 06:03 act: {"say":"MacDonald has gone out of my sight, so I'm holding here with Kimberly. Who is lowest? I still have 5 melon and 2 chicken."}
+- 06:07 act: {"actions":[{"do":"goto","target":{"x":460,"y":105,"z":-1090}}],"say":"Going with the group toward 460,-1090 now, for the cow ground. Holding melon and chicken for the lowest."}
+- 06:08 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"say":"With Troi and Tommy, heading on to the cow ground at 480,-1137."}
+- 06:08 act: {"say":"I'm at the cow ground 480,-1138 with Billy, MacDonald, Trini and Wesley in sight. Hunger 12. Holding melon and chicken for the lowest. Looking for cows."}
+- 06:12 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":2}],"say":"Trini, I'm giving you my 2 chicken now. Eat when your hunger is low. Billy's melon is yours too. We stay together tonigh
+- 06:14 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"Zombie is on me from the north. Fighting it with my hands, staying near Billy."}
+- 06:14 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}],"say":"I'm at 439,-1090 with health 6, alone after a zombie fight. Heading to the bed row at 429,-1035 to sleep in the group's shelter."
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
+- 06:14 act: {"actions":[{"do":"note","text":"Morning day 338. At 437,107,-1081, health 8 and rising. Staying put for Bcrusher, who is bringing melon."}],"say":"Morning. I'm at 437,-1081 with health 8, rising. Bcr
+- 06:14 act: {"actions":[{"do":"goto","target":{"x":480,"y":105,"z":-1137}}],"say":"Nobody came to me, so I'm going to the cow ground at 480,-1137 to join Billy, MacDonald and Trini. Health 9."}
+- 06:15 act: {"actions":[{"do":"note","text":"Day 338 morning. At the cow ground 480,104,-1137 with Billy and Wcrusher. Health 9, hunger 17. Holding 5 chicken and 2 melon for the lowest."}],"say":"I'm at the cow g
