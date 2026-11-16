@@ -1,1 +1,17 @@
 # Journal
+- 07:47 act: {"say":"Trini, I'm holding 3 chicken and 2 melon for you. I'll hand them over as soon as you're at 6 hunger.","actions":[],"intent":{"goal":"rest_near_group","program":"rest","arguments":{},"wake_on":
+- Day 343 dawn at the white beds. Trini is beside me (hunger 17 earlier). Told her the food is for her at 6. Resting near the group until she is low; food goes to her first.
+- 07:51 act: {"say":"Morning all. Leonardo here, health 20, hunger 20. I'll join the daylight cow walk and stay in sight of the group. I hold 3 chicken for whoever drops to 6.","actions":[]}
+- 07:55 act: {"say":"Leonardo joining the cow walk. Heading to 427,-1021 to meet Jason and Wesley.","actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1021}}]}
+- 07:55 act: {"say":"Here at 427,-1021 with Billy and Wesley. Walking west with you to the cow at 339,-979, staying in sight.","actions":[{"do":"goto","target":{"x":339,"y":104,"z":-979}}]}
+- 07:56 act: {"say":"No cow here, and a bow is drawn to the west. It is getting dark. I'm heading back to the white beds with Jason.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}}]}
+- 07:56 act: {"actions":[{"do":"sleep"}],"say":"Back at the white beds with the group. Going to rest for the night."}
+- 08:00 act: {"say":"Leonardo at the beds, health 20, hunger 20. I hold 3 chicken and 2 melon for whoever is lowest. Kimberly, eat your melon, and say if you need more.","actions":[]}
+- 08:04 act: {"say":"Leonardo joining Billy's cow walk. Heading to the bed row at 430,-1030 to walk with you in sight.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1030}}]}
+- 08:04 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"melon_slice","count":2}],"say":"Kimberly, here are 2 melon slices. Eat one now, keep the other."}
+- 08:13 act: {"say":"Night is here. Leonardo going to the white bed at 429,-1036 to sleep, with the group close by. Chicken stays for the lowest.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1035}},{"do
+- 08:17 act: {"say":"Morning. Leonardo at the bed row, health 20, hunger 20. Trini is covered by Jason and Troi. I'm ready for Billy's cow walk once everyone is in sight.","actions":[]}
+- 08:25 act: {"say":"Leonardo here at 429,107,-1034, in sight of the group. Billy, call when we walk; I'm ready.","actions":[]}
+- 08:25 act: {"say":"Night at the beds with the group. Going to sleep here.","actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:29 act: {"say":"Morning, day 345. Leonardo going back to the group at 429,107,-1035. No cows at the field, so we stay at the beds.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1034}}]}
