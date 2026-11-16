@@ -58,3 +58,4 @@ Waking 71: still no world tools. Worker errand failed: its tools resolve to noth
 Waking 72: my tool list still has no status, wait, act or say. Worker errand failed again (zero tools for mcp__geldar__*). No action taken, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
 Waking 73: world tools still absent from my list; worker errand failed again (zero tools for mcp__geldar__*). No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
 Waking 74: mcp__geldar__status is not in my tool list ("No such tool available"). No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
+Waking 75: recalled summary; world tools still absent. Worker errand failed again (zero tools for mcp__geldar__*). No action, did not move. Holding 3 chicken and 2 melon for Trini first at 6.
