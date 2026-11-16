@@ -1,7 +1,1 @@
-Day 367, bright. At the white bed row at 430,107,-1023, health 20, hunger 20. Bows are being drawn to the south again, so I stay here near the beds. Lewis is moving east of the beds so Billy can count us for the cow walk. I hold 1 chicken for the lowest. Waiting for Billy's call.
-- 16:12 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1037}}],"say":"Leonardo here, going to the bed near Billy at 430,107,-1037 to be counted. I hold 1 chicken for the lowest."}
-- 16:12 act: {"actions":[],"say":"Leonardo here at the bed near Billy, standing still to be counted. Holding 1 chicken for the lowest."}
-- 16:16 act: {"actions":[],"say":"Leonardo joining Billy's cow walk, staying close. Holding 1 chicken for the lowest. Keeping clear of the enderman at 431,107,-1039.","intent":{"goal":"follow_billy_cow_walk","prog
-- 16:20 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo going to the white bed at 429,107,-1023 for the night. Holding 1 chicken for the lowest."}
-- 16:20 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}}],"say":"Zombified piglin with a golden sword at 429,107,-1022. I have no weapon, so I am backing to the group at -1036. Troi, I hold 1 ch
-- 16:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo going to the white bed at 429,107,-1036 for the night, in sight of Lewis. I hold 1 chicken for the lowest
+# Journal
