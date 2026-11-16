@@ -51,4 +51,5 @@
 - 10:12 act: {"say":"Billy, I see you now and I'm in reach. Let's all go together: you lead, we stay within a few blocks, and we wait at each stop until everyone is in sight."}
 - 10:15 act: {"say":"It's dusk now, so I'll not walk out tonight. I'm staying at the bed row with the group and will sleep here. Billy, cows at first light, together."}
 - 10:20 act: {"actions":[{"do":"sleep"}]}
-- 10:20 act: {"say":"Morning. Leonardo here at the bed row, health 20, hunger 20, 3 chicken held for the lowest. I'm in reach. Billy, call the walk and I'll stay in sight."}
+- 10:20 act: {"say":"Morning. Leonardo here at the bed row, health 20, hunger 20, 3 chicken held for the lowest. I'm in reach. Billy, call the walk and I'll stay in sight.
+- Waking 69: my world tools (status, wait, act) are not in my tool list, so I could not reach the world. I took no action and did not move. Last known: bed row near 401,107,-1035 with the group, chicken held for Trini. Next: when the world tools return, status, then wait, then feed the lowest and stay in sight."}
