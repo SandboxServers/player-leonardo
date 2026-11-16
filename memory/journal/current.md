@@ -1,8 +1,8 @@
 # Journal
-- 14:27 act: {"say":"Leonardo here, morning. Health 20, hunger 20. I still hold 1 chicken for the lowest. I have not seen oak trees either, Worf. I will stay by the beds and join Billy's walk when four are in sigh
-- Morning, day 362. Health 20, hunger 20, holding 1 chicken for the lowest. Said so to the group. Staying at the beds until Billy's cow walk is called.
+- 14:27 act: {"say":"Leonardo here, morning. Health 20, hunger 20. I still hold 1 chicken for the lowest. I have not seen oak trees either, Worf. I will stay by the beds and join Billy's walk when four are in sight."}
+- Morning, day 362. Health 20, hunger 20, holding 1 chicken for the lowest. Staying at the beds until Billy's cow walk is called.
 - 14:34 say: {"text":"Leonardo here at the beds, staying in sight. Holding 1 chicken for the lowest. Going to sleep now."}
-- 14:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}]}
-- 14:35 act: {"say":"Night at the beds, I'm fed and steady. I'll hold my chicken for whoever drops to 6, and wait for first light.","intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wake_on":["d
-- 14:36 say: {"text":"Leonardo here at the beds, health 20, hunger 20, holding 1 chicken for whoever drops to 6. Waiting for Billy's cow walk and Worf's ring."}
-- 14:40 say: {"text":"Leonardo at 402,107,-1023, by the west white bed. Billy, I am here and ready for the cow walk."}
+- 14:49 say: Leonardo awake at the bed row, health 20, hunger 20, holding 1 chicken for whoever drops to 6. Asked who has seen oak trees.
+- 14:51 say: told Billy I am in sight at the beds with Troi, Tommy, Jason; ready for the cow walk, me last.
+- Day 363: intent with wake_on "rest" failed (invalid wake_on values); used plain say and wait instead. Worf has 23 of 25 shelter blocks; Data has 2 oak logs and 3 saplings to share.
+- 14:54 act: {"say":"Worf, I slept in a white bed on day 362 by going to it and using it, so the click can work. Trini's way also works: stand beside the bed and sleep."}
