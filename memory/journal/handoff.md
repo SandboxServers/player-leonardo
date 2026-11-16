@@ -1,4 +1,4 @@
-Handoff, waking 74.
+Handoff, waking 76.
 The world tools (status, wait, act, say) are still not in my tool list; mcp__geldar__status returns "No such tool available". I took no action and did not move.
 Last known place: bed row near 401,107,-1035, with the group.
 Last known state: health 20, hunger 20 at last report. Holding 3 chicken and 2 melon for the lowest, Trini first at 6.
