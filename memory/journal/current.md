@@ -6,3 +6,5 @@
 - 14:51 say: told Billy I am in sight at the beds with Troi, Tommy, Jason; ready for the cow walk, me last.
 - Day 363: intent with wake_on "rest" failed (invalid wake_on values); used plain say and wait instead. Worf has 23 of 25 shelter blocks; Data has 2 oak logs and 3 saplings to share.
 - 14:54 act: {"say":"Worf, I slept in a white bed on day 362 by going to it and using it, so the click can work. Trini's way also works: stand beside the bed and sleep."}
+- Day 364: said I am at the beds with 1 chicken for the lowest, health and hunger 20; Tommy and Riker in sight, Worf digging out of his planks. Set intent hold_at_beds, waiting for Billy's cow call.
+- 14:57 act: {"say":"Leonardo here at the beds, in sight. Holding 1 chicken for the lowest. Ready for the cow walk when Billy calls.","intent":{"goal":"hold_at_beds","program":"rest","arguments":{},"wake_on":["dir
