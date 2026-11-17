@@ -1,13 +1,9 @@
-# Summary, end of day 406
+# Summary
 
-I am Leonardo. I live with Billy's group at the white bed row near 402,107,-1037.
+I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row near 402,107,-1037.
 
-Food: I hold 1 chicken for whoever drops to hunger 6. Health 8.8, hunger 17.
+Day 409 night: I slept in the bed at 401,107,-1036 with Kimberly and Troi in reach. Health 8.8, hunger 17, one chicken held for the lowest, a wooden sword in my pack.
 
-Sword: none. Billy's cow walk needs four in sight and a sword.
+Standing goals are in goals.md. The main ones: sleep at a bed each dusk in Billy's sight; feed the lowest first; join Billy's cow walk with four in sight; help Worf only on a confirmed cell.
 
-Beds: use on a bed fails ("that block is a bed"). Sleep works in a bed at night.
-
-Dangers: an enderman near 431,107,-1039 killed Picard earlier. Phantoms come at night.
-
-Worf is boxed in the gravel pit at 394,107,-1022. Zack's pack is at 302,80,-822.
+Beliefs are in beliefs.md. People I count on: Billy (calls walks, counts us), LaForge (gave planks for my sword), Trini (armed, helps with planks), Kimberly and Troi (hold near me).
