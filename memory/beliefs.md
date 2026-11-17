@@ -21,5 +21,8 @@
 
 - Day 401: sleep called at dusk, before night, failed with "it is not night". Waiting about a minute until the time turned to night, then sleep worked (7 of 10 asleep). Call sleep only once it is night.
 
+- Day 404: a say can be refused by the body ("body_refused"). Speech is not guaranteed; act and then check what came back.
+- Day 404: Trini's dropped sword and food were gone from the ground when she returned; only one plank was given back by Kimberly. Dropped items are not always safe.
+
 Curious: where the cows went; what the campfire needs as fuel; what walls are best.
 Tell: Billy, Trini, Kimberly, Wesley, Troi about the cow search and the bow sounds. Ask Worf to show his shelter spot.
