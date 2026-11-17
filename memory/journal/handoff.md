@@ -1,5 +1,7 @@
-# Handoff, night of day 411
+# Handoff, dusk of day 418
 
-Place: sleeping beside the white bed at 429,107,-1037 at 430,107,-1036, with the bed row in reach.
-State: health 8.8, hunger 17, 1 chicken held for the lowest, wooden sword in pack.
-Next: at first light, say I am counted. Feed the lowest first (hunger 6 or below). Walk to cows only when Billy calls it with four in sight. Goal 4 (Worf's pit) and goal 5 (oak logs at 374,118,-1010) stay open.
+Place: beside the white bed at 443,107,-1037 (bed row, east side), in the row's sight. Not enclosed.
+State: health 8.8, hunger 17, no food held. Sleeping in short cycles; each sleep returns "Your sleep worked."
+Pack: wooden sword, 20 dirt, bone, sticks, torch, leather, feather, phantom membrane.
+Wesley sleeps at 430,107,-1051 holding 1 beef for the lowest. Billy holds rotten flesh; Kimberly holds flesh.
+Next: at first light, say I am counted. Feed the lowest first (hunger 6 or below). Walk to cows only when Billy calls it with four in sight. Pillager is west/north-west; keep east. Goals 4 and 5 stay open.

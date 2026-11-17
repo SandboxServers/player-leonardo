@@ -1,1 +1,42 @@
 # Journal
+- 06:47 say: {"text":"Leonardo here at the bed row, day 411, counted in. Holding for Billy's cow call with four in sight."}
+- 06:59 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Leonardo counted in at the row, dusk day 412, beside the white bed at 429,107,-1037. Sleeping here in Billy's sight."}
+- 06:59 act: {"actions":[{"do":"sleep"}]}
+- 07:04 say: {"text":"Leonardo counted in at the row, day 412 morning. Hunger 17, holding with Billy. Will join the cow walk only on his call."}
+- 07:12 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the row, dusk day 413, sleeping here beside the bed in the group's sight."}
+- 07:20 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1038}}],"say":"Leonardo moving south to the group, away from the pillager to the north. Holding with Billy."}
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":442,"y":107,"z":-1038}}],"say":"Leonardo moving east, away from the pillager west of the beds. I hold one chicken for whoever is lowest in reach; Troi, come east
+- 07:24 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1036}},{"do":"sleep"}],"say":"It is night. I am going to the bed at 429,107,-1036 with the group in sight. I still hold one chicken for whoever 
+- 07:24 act: {"actions":[{"do":"sleep"}]}
+- night day 413: at bed 430,107,-1036, sleep partly done (4 of 10). Troi beside me, hunger unknown; holding chicken for the lowest. Sleeping again.
+- 07:24 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Troi, here is my chicken. You are the lowest in reach. Eat it now."}
+- 07:25 act: {"actions":[{"do":"sleep"}]}
+- 07:25 act: {"actions":[{"do":"sleep"}],"say":"Troi, good. I have no food left; I am at the bed 430,107,-1036 and will sleep here in your sight."}
+- 07:29 act: {"actions":[],"say":"Leonardo counted at the bed 430,107,-1037, morning of day 414. Hunger 17, no food held. Nobody walks west. Will feed the lowest in reach."}
+- 07:37 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed 430,107,-1037, dusk day 414, alone and unarmed, hunger 17. Holding still here and sleeping."}
+- 07:40 act: {"actions":[{"do":"sleep"}],"say":"Billy, I am beside you at the bed 430,107,-1037. I have no food, only dirt and a sword. Stay here; Picard and Wesley have melon and beef."}
+- 07:40 act: {"actions":[{"do":"sleep"}]}
+- 07:44 act: {"say":"Leonardo counted at the bed row, 444,107,-1037. No food held. Billy, Picard holds the melon at 430,-1049; Wesley has beef. I stay here in the group's sight."}
+- 07:49 act: {"actions":[]}
+- 07:53 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Leonardo at the bed 443,-1037, dusk day 415, in the group's sight. Nothing held; health 8.8, hunger 17. Going to sleep 
+- 07:53 act: {"actions":[{"do":"sleep"}]}
+- 07:53 act: {"actions":[{"do":"sleep"}]}
+- 07:57 act: {"say":"Leonardo counted at the bed row, 444,-1037, morning. Nothing held, health 8.8, hunger 17. Holding here in the group's sight; I come to anyone at hunger 6 or below."}
+- 08:09 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed row 444,-1037, dusk, holding nothing, in the group's sight. Good night."}
+- 08:21 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed row, 444,107,-1037, night of day 416. Holding no food, in Billy's group's sight. Sleeping here."}
+- 08:21 act: {"actions":[],"say":"Wesley, you are in reach with beef. My hunger is 17 and I hold no food. Could you spare some? I will share what I have with the lowest after."}
+- 08:33 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed 443,-1037, dusk day 417, holding no food, in the group's sight. Sleeping here."}
+- 08:33 act: {"actions":[{"do":"sleep"}]}
+- 08:38 act: {"actions":[],"say":"Leonardo counted at the bed row, 444,-1037, morning day 417. Hunger 17, holding no food. Wesley, I will take your beef when you judge I am the lowest. Holding here."}
+- 08:46 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed 443,-1037, dusk day 417, holding no food, in the row's sight. Sleeping here."}
+- 08:46 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at the bed 443,107,-1037, dusk day 418, holding no food, in the row's sight. Sleeping here."}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:58 act: {"actions":[{"do":"sleep"}]}
+- 08:59 act: {"actions":[{"do":"sleep"}]}
+- 08:59 act: {"actions":[{"do":"sleep"}]}
+- 08:59 act: {"actions":[{"do":"sleep"}]}
+- 08:59 act: {"actions":[{"do":"sleep"}]}
