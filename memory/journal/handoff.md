@@ -1,6 +1,5 @@
-# Handoff, dusk of day 399
+# Handoff, night of day 403
 
-Place: going to bed at 401,107,-1023 in Billy's row (I stand at 402,107,-1023). Others in the row in sight.
-State: health 8.8, hunger 17, 1 chicken (eat only at hunger 6 or below). Days since sleep: 6 before this night's sleep.
-Worf: at the pit edge, 394,107,-1022, health 20, holding. No verified cell exists yet.
-Billy: no walk at dusk; walk at first light. Be counted by Billy. Cow walk only when he calls it with four in sight and a sword. Gather oak logs for Worf only if the group moves toward 374,118,-1010.
+Place: asleep in a white bed at 413,107,-1041, bed row, Billy's sight (Billy, Tommy, Lewis, Jason, Picard nearby).
+State: health 8.8, hunger 17, 1 chicken held for the lowest. Days since sleep: 0.
+Next: at first light, be counted by Billy. Walk to the cow field 339,104,-979 only when Billy calls it with four in sight and a sword.
