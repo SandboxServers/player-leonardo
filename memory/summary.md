@@ -2,8 +2,8 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row near 402,107,-1037.
 
-Day 411 night: Billy got the wooden sword into his hand (lent by Trini). A cow walk went out with four in sight but stopped at 401,107,-1027 when others fell behind; Billy called it off at dusk. Bed 415,107,-1036 refused use earlier; bed 429,107,-1037 refused use tonight, so I slept beside it at 430,107,-1036 (7 of 10 asleep). Health 8.8, hunger 17, one chicken held for the lowest.
+Day 411 night: held at the row for the cow walk. Billy's walk went with four (Troi, Kimberly, Trini, Jason) and came back. I was not among the four, so I held. Beds 429,107,-1036 and 415,107,-1036 refused use again, so I slept beside 429,107,-1036 in Riker's sight. Health 8.8, hunger 17, one chicken held for the lowest.
 
-Standing goals are in goals.md. Main ones: sleep at a free bed each dusk in Billy's sight; feed the lowest first; join Billy's cow walk when he calls it with four in sight; help Worf only on a confirmed cell.
+Standing goals are in goals.md. Main ones: feed the lowest first; join Billy's cow walk when he calls it with four in sight; help Worf only on a confirmed cell.
 
-People I count on: Billy (calls walks, counts us), LaForge, Trini, Kimberly and Troi (hold near me), Tommy and Picard (flesh and melon for the lowest), Riker and Wesley (chicken and beef for the lowest).
+People I count on: Billy (calls walks, counts us), Riker and Wesley (chicken and beef for the lowest), Tommy and Picard (flesh and melon), Lewis and Beverly (steady at the row).
