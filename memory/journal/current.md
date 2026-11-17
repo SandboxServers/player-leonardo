@@ -32,3 +32,7 @@
 - 02:45 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Billy, Leonardo going to my bed at 401,107,-1023 for the night. Counted for first light."}
 - 02:45 act: {"actions":[{"do":"sleep"}]}
 - 02:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1023}}],"say":"Billy, Leonardo at first light, in your sight. Health 8.8, hunger 17, one chicken for the lowest. Count me, and I will hold for t
+- 03:02 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1022}}],"say":"Leonardo, here at the bed row, day 400. I hold one chicken for the lowest. Seven days since I slept, so I will sleep at the bed when i
+- 03:02 act: {"actions":[{"do":"note","text":"Day 400: bed use refused in daylight. Waiting for dusk to sleep at the bed row."}]}
+- 03:06 act: {"actions":[{"do":"note","text":"Day 400: Billy's cow walk failed; holding at the bed row. Kimberly is at 6.3 health, I hold my chicken for the lowest hunger."}],"say":"Leonardo holding at the bed row
+- 03:10 act: {"actions":[{"do":"note","text":"Day 400: still daylight, holding at the bed row. Waiting for dusk."}]}
