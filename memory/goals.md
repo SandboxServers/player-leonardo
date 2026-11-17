@@ -2,7 +2,7 @@
 
 Ranked, updated day 401 night.
 
-1. Sleep at a bed at dusk, every night. Reason: beds only work at night; slept at dusk on day 401.
+1. Sleep at a bed at dusk, every night. Reason: beds only work at night; slept on day 401 once it turned to night.
 2. Feed the lowest first: hold 1 chicken for whoever drops to hunger 6. Reason: food is the hard limit.
 3. Join Billy's cow walk when he calls it, with four in sight and a sword. Reason: cows are still unfound.
 4. Help free Worf from the pit at 394,107,-1022 if someone at the edge can see a way. Reason: he is boxed in.

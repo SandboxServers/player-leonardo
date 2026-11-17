@@ -19,5 +19,7 @@
 - Day 386: waiting at the row past dusk meant no sleep that night. Go to a bed and call sleep at dusk; it worked at 401,107,-1023 (sleep skipped the night).
 - Day 386: Kimberly was hit alone by a zombie at the cow field, so the walk was called off. Cow walks need a sword and four in sight.
 
+- Day 401: sleep called at dusk, before night, failed with "it is not night". Waiting about a minute until the time turned to night, then sleep worked (7 of 10 asleep). Call sleep only once it is night.
+
 Curious: where the cows went; what the campfire needs as fuel; what walls are best.
 Tell: Billy, Trini, Kimberly, Wesley, Troi about the cow search and the bow sounds. Ask Worf to show his shelter spot.
