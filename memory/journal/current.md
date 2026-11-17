@@ -37,3 +37,4 @@
 - 12:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Leonardo going to the bed at 387,-1036 in Billy's sight to sleep. Hunger 17, no food.","reasoning":"Dusk, in
 - 12:25 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Leonardo walking to the 387 row at 389,-1033 on Billy's call, holding nothing. Hunger 17.","reasoning":"Billy named the 
 - 12:33 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Leonardo sleeping by the 387 bed at -1036, in Billy's sight. Holding nothing, hunger 17.","reasoning":"Dusk,
+- 13:02 act: {"actions":[{"do":"note","text":"Night, day 430. Standing by the white bed at 413,107,-1041 at 412,-1041, not enclosed, no food, hunger 17. Going to sleep here."}],"say":"Leonardo here by the bed at 4
