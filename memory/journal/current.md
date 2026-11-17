@@ -5,3 +5,4 @@
 - 23:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo sleeping at the bed 401,107,-1023 in Billy's row. One chicken held for the lowest. Count me at first light.","reasoning":"Dusk, at my bed, group in si
 - 23:32 act: {"say":"Leonardo here at my bed 401,107,-1023, counted for Billy's call, holding. Hunger 17, one chicken for the lowest."}
 - 23:44 act: {"actions":[{"do":"sleep"}]}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Leonardo in bed at 401,107,-1023 in Billy's row. One chicken held for the lowest. Count me at first light."}
