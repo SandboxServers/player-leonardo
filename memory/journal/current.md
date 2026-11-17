@@ -10,3 +10,30 @@
 - Night day 423: first sleep timed out ("took too long"). Bed click at 415,-1036 refused ("that block is a bed"). Second sleep worked and the night was skipped. Health 8.8, hunger 17, no food. Still need food and the morning count with Billy.
 - 10:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo trying the bed again at 415,-1036 in Billy's group's sight. Tommy and Trini nearby."}
 - 10:34 act: {"actions":[{"do":"sleep"}],"say":"Leonardo lying down to sleep now, Billy's group in sight."}
+- 10:39 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1034}},{"do":"note","text":"Leonardo awake, morning day 423, holding no food, hunger 17. Walking to Billy's group to be counted."}],"say":"Leona
+- 10:39 act: {"actions":[],"say":"Leonardo counted with Billy's group at 404,-1033. Holding no food, hunger 17. Waiting for the cow walk call."}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Leonardo going to the bed at 401,-1036 for the night, in Billy's group's sight. Hol
+- 10:48 act: {"actions":[{"do":"sleep"}]}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo lying down to sleep at the 401 beds, Billy's group in sight. No food, hunger 17."}
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}},{"do":"note","text":"Day 424 morning. Slept at the 401 beds with the group in sight. No food, hunger 17. Walking to Billy's count."}],"sa
+- 10:53 act: {"actions":[],"say":"Leonardo counted with Billy's group, holding no food, hunger 17. Waiting for the cow walk call."}
+- 11:01 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo going to the bed at 401,-1036 for the night, in Billy's sight. No food, hunger 17. Good night."}
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Leonardo counting in at the row, holding no food, hunger 17. I can carry food to the weakest when I find some."}
+- 11:09 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1033}}],"say":"Leonardo walking to Billy at 390,-1033 in daylight to stand in his sight. Holding no food, hunger 17."}
+- 11:14 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Leonardo going to the bed at 387,-1036 with Billy's group for the night. Holding no food, hunger 17."}
+- 11:14 act: {"actions":[{"do":"sleep"}]}
+- 11:18 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Leonardo awake at midday, 412,-1042, holding no food, hunger 17. Walking to Billy's group at 387 to be counted in sight."}
+- 11:26 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Leonardo at the 387 bed row for the night, in Billy's group's sight. Holding no food, hunger 17."}
+- 11:43 act: {"actions":[{"do":"sleep"}],"say":"Leonardo sleeping beside the 387 bed, in Billy's group's sight."}
+- 11:43 act: {"actions":[],"say":"Morning. Leonardo at the 387 row, no food, hunger 17. Holding in Billy's sight for the count and any food handed over."}
+- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Leonardo sleeping beside the 387 bed, in Billy's group's sight. No food, hunger 17."}
+- 11:55 act: {"actions":[{"do":"sleep"}],"say":"Leonardo woke at the 415 beds, apart from the group. Sleeping here again until dawn, then walking to the 387 row."}
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1034}}],"say":"Leonardo walking to the 387 row with Kimberly and Lewis, in daylight, as Billy called. Hunger 17, no food."}
+- 12:04 act: {"actions":[],"say":"Leonardo counted at the 387 row by Billy. Holding no food, hunger 17. Waiting for the walk call and any food for the lowest."}
+- 12:08 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Leonardo going to sleep beside the 387 bed, in Billy's sight. No food, hunger 17."}
+- 12:08 act: {"actions":[{"do":"sleep"}]}
+- 12:12 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Morning. Leonardo walking to the 387 row to stand in Billy's sight. Holding nothing for food, hunger 17.","reasoning":"Daylight, 
+- 12:12 act: {"actions":[],"say":"Leonardo at the 387 row in Billy's sight, holding. Hunger 17, no food. Billy, name the cell and I will go.","reasoning":"Arrived at the row in daylight. Holding until Billy calls 
+- 12:21 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk. Leonardo going to the bed at 387,-1036 in Billy's sight to sleep. Hunger 17, no food.","reasoning":"Dusk, in
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1033}}],"say":"Morning. Leonardo walking to the 387 row at 389,-1033 on Billy's call, holding nothing. Hunger 17.","reasoning":"Billy named the 
+- 12:33 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Leonardo sleeping by the 387 bed at -1036, in Billy's sight. Holding nothing, hunger 17.","reasoning":"Dusk,
