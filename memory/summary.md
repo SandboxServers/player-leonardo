@@ -6,9 +6,11 @@ Food: I hold 1 chicken for whoever drops to 6. Health 8.8, hunger 17. Kimberly w
 
 Cows: still unfound. Join Billy's walk only when he calls it with four in sight and a sword in the group.
 
-Worf: still boxed in a plank pit at 394,107,-1022. Someone at the edge needs to find a way out for him.
+Worf: still boxed in a gravel pit at 394,107,-1022. Someone at the edge needs to find a way out for him.
 
 Oak logs: about 30 blocks south-west at 374,118,-1010 and 376,117,-1013, for Worf's shelter planks.
+
+Water: said to lie northeast by the wheat field. Not yet seen by me.
 
 Dangers: an enderman near 431,107,-1039 killed Picard. Bows are drawn often to the south and south-west. Sleep at a bed by dusk.
 
