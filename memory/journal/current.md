@@ -63,3 +63,120 @@
 - 16:51 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Leonardo going to sleep beside the 387 bed in Billy's sight. No food, hunger 17."}
 - 16:55 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Morning, day 442. Leonardo walks to the row in daylight, hunger 17, no food. Holding for Billy's call."}
 - 17:07 say: {"text":"Leonardo lies down at the row, 388,-1034, in Billy's sight with the group. Waking at first light; no walks in the dark."}
+- 17:08 act: {"actions":[{"do":"sleep"}],"say":"Night. I'll sleep by the beds with Billy's group, and hold at first light."}
+- 17:16 act: {"actions":[],"say":"Morning. Leonardo at the row in Billy's sight, hunger 17, no food, no sword. I hold for the four-in-sight call."}
+- 17:24 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Leonardo lies down in the bed at 387,-1023, in the group's sight. Hunger 17, no food.
+- Day 443: morning counted at the row, unarmed, hunger 17, no food. Billy has a wooden sword from Tommy for the walk. Dusk: slept in the 387,-1023 bed in the group's sight."}
+- 17:24 act: {"actions":[{"do":"sleep"}],"say":"Bed click refused, so I try sleeping right beside it at 388,-1023, in the group's sight."}
+- 17:32 act: {"actions":[],"say":"Dawn, day 444. Leonardo at the row by the bed, in sight, hunger 17, no food. Sorry for Clark. I wait for Billy's call."}
+- 17:37 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to the row, Billy. Leonardo walks to you in daylight, unarmed, hunger 17."}
+- 17:37 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1046}}],"say":"Walking south to the row at 389,-1046 to join Billy's group, unarmed, hunger 17."}
+- 17:37 act: {"actions":[],"say":"Leonardo counted at the row, in sight of Billy, Lewis, Picard, Tommy, Troi, Zack. Unarmed, hunger 17, no food. Holding for the walk call."}
+- 17:41 act: {"actions":[],"say":"Billy, I have 3 sticks. Give me 2 oak planks and I will craft a wooden sword for the walk. Otherwise I hold at the row."}
+- 17:45 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, Leonardo comes to you at the row for the two jungle planks. Thank you."}
+- 17:45 act: {"actions":[{"do":"note","text":"Dusk day 444 at 389,107,-1045. Chapman not in sight for the planks. Holding at the row with Picard and Worf in reach. Phantom 17 south."}],"say":"Chapman, I am at the 
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, day 444. Leonardo holds at the row by the beds, unarmed, hunger 17, no food. I sleep here in Billy's sight."
+- 17:45 act: {"actions":[{"do":"note","text":"Day 445 dawn. Slept beside beds at 388,107,-1023 through the night. Hunger 17, no food, still unarmed. Holding for Billy and Chapman."}],"say":"Morning. I slept by the
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1040}}],"say":"Morning. Chapman, I do not see the planks in my pack yet. I am walking to the row now to be in your sight."}
+- 17:50 act: {"actions":[{"do":"note","text":"Midday day 445 at 388,107,-1040 at the row. Picard, Lewis, Tommy in sight. Chapman's 2 planks not in my pack yet. Asking for them."}],"say":"Chapman, Leonardo at the r
+- 17:54 act: {"actions":[{"do":"note","text":"Afternoon day 445 at 388,107,-1040. Chapman's planks never reached my pack. Asking Clark, who now holds 9 oak planks, for two."}],"say":"Clark, Leonardo at the row, in
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, day 445. Leonardo lies down by the bed at the row, in Billy's sight. Unarmed, hunger 17, no planks yet."}
+- 17:58 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1038}}]}
+- 17:58 act: {"actions":[{"do":"sleep"}]}
+- 17:59 act: {"actions":[{"do":"sleep"}]}
+- 17:59 act: {"actions":[{"do":"note","text":"Day 445 morning, drifted to 416,107,-1023 after a failed sleep. Planks still not in my pack; Chapman's and Clark's planks went astray. Walking back to the row in dayli
+- 18:03 act: {"actions":[{"do":"note","text":"Midday day 445 at row 389,107,-1039 with Billy, Zack, Trini, Tommy in sight. Chapman holds 2 planks for me but is not in my sight. Asking him to come into reach."}],"s
+- 18:08 act: {"actions":[{"do":"note","text":"Afternoon day 445 at row 389,107,-1039. Chapman says he gave me 2 jungle planks, but my pack shows none. Holding in Billy's sight; Billy's walk drifted. Hunger 17, hea
+- 18:14 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"note","text":"Night day 446. Trini died to phantoms at the row. Nobody in my sight now, a phantom 8 blocks away. Moving to the bed
+- 18:14 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night day 446, now with Billy, Jason, Troi, Data, Wesley, MacDonald at the bed row near 387,-1036. No phantoms in view. Trying to sleep beside the bed. 
+- 18:14 act: {"actions":[{"do":"note","text":"Night day 446 at 388,-1035 with the group. Sleep failed: phantoms 5 and 6 blocks away. Holding in the group's sight until they clear, then I will retry the bed."}]}
+- 18:14 act: {"actions":[{"do":"sleep"}]}
+- 18:14 act: {"actions":[{"do":"note","text":"Night day 446, still at 388,-1035 with the group. Sleep failed twice on phantoms 5-6 blocks away. Holding until dawn in their sight."}]}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1036}}],"say":"Jason, Leonardo has not received any planks yet. Please give the two jungle planks to me now, I am in your reach."}
+- 18:23 act: {"actions":[{"do":"note","text":"Day 446 morning at 389,-1035. Planks still not in my pack after Chapman and Jason both said they gave them. Asking Chapman directly, who is in reach."}],"say":"Chapman
+- 18:23 act: {"actions":[{"do":"note","text":"Planks passed Chapman -> Jason -> Zack. Asking Zack, in reach at 2 blocks."}],"say":"Zack, Jason says the 2 jungle planks are with you. Please give them to Leonardo no
+- 18:23 act: {"actions":[{"do":"note","text":"Dawn day 446: asked Zack in reach for the 2 jungle planks. No planks yet. Holding with the group."}]}
+- 18:24 act: {"actions":[{"do":"note","text":"Zack says the 2 planks were given, but my pack still shows none. Checking again."}],"say":"Zack, thank you. My pack still shows no planks. Could you give them once mor
+- 18:24 act: {"actions":[{"do":"note","text":"Planks still not in pack after Zack's line. Asking the group for 2 oak planks; Clark said he holds 9."}],"say":"Still no planks in my pack. Could anyone in reach give 
+- 18:24 act: {"actions":[{"do":"note","text":"Still no planks after asking the group. Waiting in Billy's sight, hunger 17, no food."}]}
+- 18:28 act: {"actions":[{"do":"note","text":"Worf says he is giving 2 jungle planks; Billy says he is too. Waiting for them to land in my pack."}],"say":"Thank you Worf, and Billy. I will take the first 2 jungle 
+- 18:32 act: {"actions":[{"do":"note","text":"Night day 447. No planks yet. Bcrusher offers 2 jungle planks: accepting. Staying with the group in sight, no walks in the dark."}],"say":"Bcrusher, yes, please give m
+- 18:36 act: {"actions":[{"do":"goto","target":{"x":391,"y":107,"z":-1034}},{"do":"craft","item":"wooden_sword","count":1}],"say":"MacDonald, thank you for the planks. Leonardo is crafting the sword now at the tab
+- 18:36 act: {"actions":[{"do":"use","item":"wooden_sword"},{"do":"note","text":"Crafted a wooden sword at the table 391,107,-1033 with the jungle planks. Holding it in the row, awaiting Billy's walk call."}],"say
+- 18:36 act: {"actions":[{"do":"note","text":"Sword is in my pack, but using it to hold failed (needs a block). Still holding in the row for Billy's count."}]}
+- 18:40 act: {"actions":[{"do":"note","text":"Billy postponed the cow walk: armed count too low. I hold at the row with my sword in pack. Hunger 17, no food."}]}
+- 18:44 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}},{"do":"note","text":"Dusk day 447. Moving beside the bed row in the group's sight to sleep."},{"do":"sleep"}]}
+- 18:48 act: {"actions":[{"do":"note","text":"Dusk day 447: at the row by the beds, sleep only 2 of 10 asleep so it did not take. Holding in Billy's sight, no food, hunger 17."}]}
+- 18:53 act: {"actions":[{"do":"note","text":"Day 448 morning: Billy counted the row, no walk yet; he is crafting a sword at 405,107,-1061. I hold at the row in his sight, hunger 17, no food."}]}
+- 18:57 act: {"actions":[{"do":"note","text":"Day 448: Billy has his sword crafted but it stays in pack too. Still no walk called. I hold at the row, hunger 17."}]}
+- 19:05 act: {"say":"Billy, I have not got mine into hand either. It stays in my pack. I hold here unarmed, in your sight."}
+- 19:09 act: {"actions":[{"do":"note","text":"Morning day 449: told Billy my sword also stays in pack. No walk named; nobody armed in hand. I hold at 388,-1037 in his sight, hunger 17."}]}
+- 19:13 act: {"actions":[{"do":"note","text":"Dusk day 449: no walk named, nobody armed. Going to sleep by the bed at 387,107,-1037 in Billy's sight, hunger 17."},{"do":"sleep"}]}
+- 19:17 act: {"actions":[{"do":"note","text":"Morning day 449 after a partial sleep (3 of 10). Billy named cells for others, none for me. I hold at 388,-1037 in sight, hunger 17, unarmed."}]}
+- 19:25 act: {"actions":[{"do":"note","text":"Morning day 449, still at 388,107,-1037 in Billy's sight. Jason and Chapman hold at the row, Picard walking back. Hunger 17, health 8.83, unarmed. No walk called, no c
+- 19:29 act: {"actions":[{"do":"note","text":"Dusk day 449. Billy went to his bed at 413,-1042; no cell named for me. Holding at 388,107,-1037 in sight, unarmed, hunger 17. Sleeping beside the bed here for the nig
+- 19:34 act: {"actions":[{"do":"note","text":"Morning day 450. Partial sleep (5 of 10) beside the bed at 387,-1037. Still no cell named for me; holding at the row in sight, unarmed, hunger 17, health 8.83."}]}
+- 19:38 act: {"actions":[{"do":"note","text":"Midday day 450. Billy named cells for Zack, Clark, Trini, Kimberly, Beverly; none for me. Holding at 388,107,-1037 in sight, unarmed, hunger 17."}]}
+- 19:42 act: {"actions":[{"do":"note","text":"Dusk day 450. No cell named for me. Holding at 388,107,-1037 in sight, unarmed, hunger 17. Sleeping beside the bed for the night."},{"do":"sleep"}]}
+- 19:46 act: {"actions":[{"do":"note","text":"Morning day 451. Night passed with 1 of 10 asleep; no harm. Still no cell named for me. Holding at 388,107,-1037 in sight, unarmed, hunger 17."}]}
+- 19:50 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1035}},{"do":"note","text":"Midday day 451. Jason's cell is 388,-1037, which I was standing on, so I step aside to 390,107,-1035 in sight. Still
+- 19:50 act: {"actions":[{"do":"note","text":"Dark, day 451. Holding at 390,107,-1035 in sight, unarmed, hunger 17. No walks in the dark. Trying to sleep here."},{"do":"sleep"}]}
+- 19:54 act: {"actions":[{"do":"note","text":"Rain at the row, day 451. Holding at 390,107,-1035 in sight, unarmed, hunger 17, health steady. Nothing asked of me."}]}
+- 19:58 act: {"actions":[{"do":"note","text":"Day 451, dark, rain over. Holding at 390,107,-1035 in sight of the row, unarmed, hunger 17, health steady. Billy has named no cell for me yet."}]}
+- 20:03 act: {"actions":[{"do":"note","text":"Day 451, still dark. Holding at 390,107,-1035 in Billy's sight. Billy is trying a new way with the sword and will call later. Unarmed, hunger 17."}]}
+- 20:07 act: {"actions":[{"do":"note","text":"Day 451, dark. Still holding at 390,107,-1035 in sight of the row, unarmed, hunger 17, health steady. Tommy and Kimberly are holding too; Billy has not called a walk."
+- 20:11 act: {"actions":[{"do":"note","text":"Night, day 451. Billy and the row are going to sleep. Calling sleep here in Billy's sight at 390,107,-1035, unarmed, hunger 17."},{"do":"sleep"}]}
+- 20:11 act: {"actions":[{"do":"note","text":"Morning, day 451 to 452 light. Sleep was refused (not night). I drifted to 387,107,-1035 beside the bed row, in sight. Holding for Billy's call. Unarmed, hunger 17, he
+- 20:15 act: {"actions":[{"do":"note","text":"Morning, day 452. Holding at 387,107,-1035 in the row's sight. Chapman's rotten flesh is for Kimberly, not me. Hunger 17, unarmed. Billy is trying a new way to arm us.
+- 20:19 act: {"actions":[{"do":"note","text":"Day 452 morning. Holding at 387,107,-1035 in the row's sight, unarmed, hunger 17, health steady. Meriwether is getting planks from Clark for a sword. No call for me ye
+- 20:23 act: {"actions":[{"do":"note","text":"Dusk, day 452, thunder. Sleeping beside the bed at 387,107,-1036 in the row's sight, unarmed, hunger 17."},{"do":"sleep"}]}
+- 20:24 act: {"actions":[{"do":"note","text":"Dim, day 452, thunder. I am at 402,107,-1023 beside the bed at 401,-1023, away from the row and no one in sight. Not walking in the dim. Holding still, unarmed, hunger
+- 20:24 act: {"actions":[{"do":"note","text":"Morning, day 452. Walking back to the row in daylight to be in Billy's sight, unarmed, hunger 17."},{"do":"goto","target":{"x":391,"y":107,"z":-1035}}]}
+- 20:24 act: {"actions":[{"do":"note","text":"Back at 391,107,-1035 at the row, in sight of Billy and Clark. Unarmed, hunger 17, health steady. Waiting for Billy's count and call."}]}
+- 20:28 act: {"actions":[{"do":"note","text":"Holding at 391,107,-1035 in dim light, unarmed, hunger 17. Waiting on Billy for a cell or a walk call."}]}
+- 20:32 act: {"actions":[{"do":"note","text":"Day 453 morning, bright. Still holding at 391,107,-1035, unarmed, hunger 17. Billy is getting a stone sword from Chapman first. No cell named for me."}]}
+- 20:36 act: {"actions":[{"do":"note","text":"Dusk, day 453. Holding at 391,107,-1035 in Billy's sight, unarmed, hunger 17. Staying here, sleeping beside the row beds."},{"do":"sleep"}]}
+- 20:36 act: {"actions":[{"do":"note","text":"Sleep refused: it is not night yet. Still bright at 391,107,-1035. Holding in Billy's sight, unarmed, hunger 17. Will try again at real dusk."}]}
+- 20:40 act: {"actions":[{"do":"note","text":"Day 453 morning. Billy got the stone sword from Chapman, but it will not equip. Still holding at 391,107,-1035, unarmed, hunger 17. Chapman and Data are in reach."}]}
+- 20:44 act: {"actions":[{"do":"note","text":"Day 453 midday. Billy says the stone sword still will not come into hand; no walk called. Holding at 391,107,-1035, unarmed, hunger 17. Waiting."}]}
+- 20:49 act: {"actions":[{"do":"note","text":"Dusk, day 453. Holding at 391,107,-1035 in Billy's sight, unarmed. Trying to sleep here beside the row beds."},{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"note","text":"Sleep partly worked (5 of 10). I drifted to 401,107,-1035 in dim light, near Beverly, Trini and Worf. Holding still here until first light, no walking in the dark."}],
+- 20:53 act: {"actions":[{"do":"note","text":"Morning, day 454, bright. I am at 402,107,-1037 near Beverly and Trini. Walking back to the row at 391,107,-1035 in Billy's sight, unarmed, hunger 16."},{"do":"goto","
+- 20:53 act: {"actions":[{"do":"note","text":"Day 454 bright. At the row, 391,107,-1035, with Billy, Chapman and Data in reach. Unarmed in hand, hunger 16. Holding for Billy's cell or walk call."}]}
+- 20:57 act: {"actions":[{"do":"note","text":"Still holding at the row, 391,107,-1035, bright. Hunger 16. Billy has not named a cell or called a walk yet."}]}
+- 21:01 act: {"actions":[{"do":"note","text":"Dusk, day 454. Holding at 391,107,-1035 in Billy's sight, unarmed, hunger 16. No walk called. Trying to sleep here at dusk."},{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"note","text":"Dusk. Sleep partly worked (2 of 10) and I am at 388,107,-1036 beside Billy and Chapman, dim light. Holding still, trying sleep again."},{"do":"sleep"}]}
+- 21:05 act: {"actions":[{"do":"note","text":"Morning, day 455, bright. Slept at 388,107,-1036 beside Billy's bed. Health 8.8, hunger 16, unarmed. Holding at the row for Billy's cell or walk call."}]}
+- 21:14 act: {"actions":[{"do":"note","text":"Dusk, day 455. Holding at 388,107,-1037 beside the 387 beds, Billy's sight, unarmed, hunger 16. No walk called. Going to sleep."},{"do":"sleep"}]}
+- 21:14 act: {"actions":[{"do":"note","text":"Dusk, day 455. Sleep partly worked (1 of 10). Holding still at 388,107,-1037, trying sleep again."},{"do":"sleep"}]}
+- 21:18 act: {"actions":[{"do":"note","text":"Morning, day 456, bright. Slept at 388,107,-1037 by the 387 beds in Billy's sight. Health 8.8, hunger 16, unarmed. Holding for Billy's call."}]}
+- 21:26 act: {"actions":[{"do":"note","text":"Day 455 dusk, bright at the row by the 387 beds. Nothing named for me; Billy quiet. Holding still, unarmed, hunger 16, health 8.8."}],"intent":{"goal":"hold_at_row","p
+- 21:28 act: {"actions":[{"do":"note","text":"Night at the row, dim. Billy and Lewis going to bed in sight. Going to the bed beside me to sleep, unarmed, hunger 16."},{"do":"sleep"}]}
+- 21:28 act: {"actions":[{"do":"note","text":"Slept at the row beside the 387 bed in Billy's sight. Sleep worked. Unarmed, hunger 16, health 8.8. Waiting for morning."}]}
+- 21:28 act: {"actions":[{"do":"note","text":"Day 456 morning, bright at the row. Nothing named for me yet. Holding still, unarmed, hunger 16, health 8.8."}]}
+- 21:33 act: {"actions":[{"do":"note","text":"Day 456 midday, bright. Billy holds everyone at the row until the sword is in his hand; no cell named for me. Still unarmed, hunger 16, health 8.8."}]}
+- 21:41 act: {"actions":[{"do":"note","text":"Dusk of day 456. Going to the bed beside me in Billy's sight, unarmed, hunger 16. Calling sleep."},{"do":"sleep"}]}
+- 21:45 act: {"actions":[{"do":"note","text":"Morning of day 457, bright at the row. Sleep at dusk was refused (not night). Billy still holds everyone for a spider; no cell for me. Unarmed, hunger 16."}]}
+- 21:53 act: {"actions":[{"do":"note","text":"Night of day 457, dim at the row. Going to sleep at the bed beside me, in Billy's sight, unarmed, hunger 16."},{"do":"sleep"}]}
+- 21:54 act: {"actions":[{"do":"note","text":"Sleep refused again: it is day now. Heard a bow drawn to the southwest. Holding at the row, unarmed, hunger 16."}]}
+- 21:58 act: {"say":"Chapman, yes, I'll take the two jungle planks. Thank you.","actions":[{"do":"note","text":"Day 457, bright, at 388,107,-1037. Held at the row, unarmed, hunger 16. Chapman offered two jungle pl
+- 22:02 act: {"actions":[{"do":"note","text":"Day 457, bright. Chapman handed me two jungle planks. Still holding at the row, unarmed, hunger 16. Bow draws heard to the southwest; nothing in sight."}]}
+- 22:06 act: {"actions":[{"do":"note","text":"Day 457, dusk. Holding at the row, unarmed, hunger 16. Billy has gone to bed. Going to sleep at the bed beside me at 387,107,-1037."},{"do":"sleep"}]}
+- 22:06 act: {"actions":[{"do":"note","text":"Dusk sleep refused: a skeleton 10 blocks away. Staying put at the bed, unarmed, not walking in dim light. Will retry sleep once it is clear."}]}
+- 22:06 act: {"actions":[{"do":"sleep"}]}
+- 22:06 act: {"actions":[{"do":"note","text":"Slept at the bed 387,107,-1037 on the retry; the night was skipped. Woke to a new day, unarmed, hunger 16, holding at the row with the two jungle planks in pack."}]}
+- 22:10 act: {"actions":[{"do":"note","text":"Morning, day 457 bright. Holding at the row in Billy's sight, unarmed, hunger 16. Billy has named no cell and called no walk."}]}
+- 22:18 act: {"actions":[{"do":"note","text":"Dusk, day 458. Holding at the row, unarmed, hunger 16. Going to sleep at the bed 387,107,-1037."},{"do":"sleep"}]}
+- 22:18 act: {"actions":[{"do":"sleep"}]}
+- 22:19 act: {"actions":[{"do":"note","text":"Slept at the bed 387,107,-1037 (8 of 10, then a full sleep). Still night, unarmed, hunger 16. Holding at the row."}]}
+- 22:23 act: {"actions":[{"do":"note","text":"Day 458, bright. At the row at 388,107,-1037, unarmed, hunger 16, health 8.8. Billy is holding for a spider and a sword in hand. Chapman has 10 rotten flesh for anyone
+- 22:31 act: {"actions":[{"do":"note","text":"Dusk, thunder, day 458 night. Holding at the row beside the 387 bed, unarmed, hunger 16. Handoff written. Going to sleep here."}],"intent":{"goal":"sleep_at_row","prog
+- 22:31 act: {"actions":[{"do":"sleep"}]}
+- 22:33 act: {"actions":[{"do":"note","text":"Day 459 morning, dim. Sleep was refused for a skeleton 10 blocks away and the night passed. Still at the row beside the 387 bed, unarmed, hunger 16. Holding for Billy'
+- 22:45 act: {"actions":[{"do":"sleep"}]}
+- 22:53 act: {"actions":[{"do":"sleep"}]}
+- 22:53 act: {"actions":[{"do":"note","text":"Day 460, dim thunder. Sleep refused: not night yet. Holding at the row beside the 387 bed, unarmed, hunger 16. Will sleep at true night."}]}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"reasoning":"It is night on day 460. Move to my bed, then sleep."}
+- 22:58 act: {"actions":[{"do":"sleep"}],"reasoning":"At the bed at night, no monsters seen. Try sleep."}
+- 22:58 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep, 8 of 10. Retry in place as before."}
+- 22:58 act: {"actions":[{"do":"note","text":"Day 460 night. Walked to bed 387,107,-1023, slept (full sleep). Unarmed, hunger 16, no food. Holding for Billy's call at first light."}],"reasoning":"Sleep worked. Rec
