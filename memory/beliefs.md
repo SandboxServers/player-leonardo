@@ -15,7 +15,8 @@ Failed or false (struck out):
 - ~~Hunger stays low and does not regenerate health~~ Hunger dropped 17 to 16 and did not come back up; health held at 8.8.
 
 Still true:
-- Food is the hard limit. I have found no food myself in 40 days. Feed the lowest first.
+- Day 461: use wooden_sword on a chest and on a bed both refused. Equip via click is not working for me; try a sign or another block next.
+- Food is the hard limit. I have found no food myself in 41 days. Feed the lowest first.
 - Billy holds the group's rotten flesh and gives it to the hungriest. Chapman has about 10 rotten flesh for Kimberly and others.
 - Phantoms and bows are the danger at night and to the southwest and northeast; Trini died to phantoms at the row on day 446.
 - Sleep is refused in daylight, at dusk before true night, and when a skeleton or phantom is within about 10 blocks.
