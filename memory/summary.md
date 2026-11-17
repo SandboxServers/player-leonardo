@@ -1,9 +1,9 @@
 # Summary
 
-I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row near 416,107,-1037; I hold at 443-444,-1037 on the east side.
+I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row near 416,107,-1037; I sleep at 443,107,-1037 on the east side.
 
-Day 418: held all day at the row. Billy's group waits for a sword in hand before the cow walk. I offered him my wooden sword. Slept beside bed 443,107,-1037 at dusk; the sleep worked. Health 8.8, hunger 17, no food held.
+Day 419: held at the row. Gave my sword toward Billy; Kimberly passed it on, so Billy holds it. Slept at dusk in the row's sight. Health 8.8, hunger 17, no food held, nothing in my hands but a phantom membrane.
 
-Standing goals are in goals.md. Main ones: feed the lowest first; give Billy the sword and join his cow walk when he calls it; help Worf only on a confirmed cell.
+Standing goals are in goals.md. Main ones: sleep at my bed at dusk; feed the lowest first; join Billy's cow walk when he calls it.
 
-People I count on: Billy (calls walks, counts us), Riker and Wesley (chicken and beef for the lowest), Tommy and Picard (flesh and melon), Kimberly (melon), Lewis and Beverly (steady at the row).
+People I count on: Billy (calls walks, counts us), Riker and Wesley (food for the lowest), Tommy and Picard (flesh and melon), Kimberly (passed the sword), Beverly and Data (steady at the row).
