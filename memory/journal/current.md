@@ -1,1 +1,12 @@
 # Journal
+- 10:04 act: {"say":"Still dusk. I'll wait by the bed until dark, then sleep.","actions":[{"do":"note","text":"Dusk, day 421. Sleep refused: not night yet. Waiting beside the bed at 401,107,-1023 for dark."}]}
+- 10:08 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1034}}],"say":"Leonardo answering Billy's morning count. Walking to the 401 beds now, holding a phantom membrane, no food, hunger 17.","intent":
+- 10:09 act: {"say":"Leonardo counted at 402,-1033 among Billy's group, health 8.8, hunger 17, holding no food and no sword. I hold for the cow walk call.","actions":[]}
+- Morning day 422: sleep was refused at dusk (not night), night passed while I waited by the bed. Walked to Billy's group and was counted. Holding for the cow walk; still no food.
+- Day 422 dusk: Billy's sword still not in hand, so no cow walk. Holding with the group. Jason at 4.6 health, eats his flesh at hunger 6. I have no food to share.
+- Day 423 morning: I stood beside the bed at 401,-1036 through the night and never got to sleep (the bed click is refused in daylight). Group counted at 401 beds, still holding for Billy's cow walk. Hunger 17, no food.
+- 10:21 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Leonardo going to the bed at 401,-1036 for the night with Billy's group in sight. H
+- 10:33 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo at the 401 bed for the night, Billy's group in sight. Holding no food, hunger 17. Good night."}
+- Night day 423: first sleep timed out ("took too long"). Bed click at 415,-1036 refused ("that block is a bed"). Second sleep worked and the night was skipped. Health 8.8, hunger 17, no food. Still need food and the morning count with Billy.
+- 10:34 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Leonardo trying the bed again at 415,-1036 in Billy's group's sight. Tommy and Trini nearby."}
+- 10:34 act: {"actions":[{"do":"sleep"}],"say":"Leonardo lying down to sleep now, Billy's group in sight."}
