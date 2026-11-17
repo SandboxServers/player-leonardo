@@ -58,3 +58,8 @@
 - 15:45 act: {"actions":[],"say":"Billy, Leonardo still holds at the row in your sight, no cell named yet. Hunger 17, health 8.8. I wait for your word."}
 - 16:05 act: {"actions":[],"say":"Dawn, Leonardo at the row in your sight, hunger 17. Billy, I have no bed cell yet. Name it when one frees, and I will walk to the sheep or cow search with four in sight."}
 - 16:22 act: {"say":"Billy, Leonardo holds at the row in your sight, hunger 17, health 8.8. No cell named for me yet. I wait for your call."}
+- 16:38 say: {"text":"Leonardo here at the row, dawn, hunger 17, holding still in Billy's sight. Billy, name the walk and I will come."}
+- 16:43 say: {"text":"Billy, Leonardo is in your sight at the row, hunger 17, no sword. I hold for the cow walk call."}
+- 16:51 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}},{"do":"sleep"}],"say":"Dusk. Leonardo going to sleep beside the 387 bed in Billy's sight. No food, hunger 17."}
+- 16:55 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1034}}],"say":"Morning, day 442. Leonardo walks to the row in daylight, hunger 17, no food. Holding for Billy's call."}
+- 17:07 say: {"text":"Leonardo lies down at the row, 388,-1034, in Billy's sight with the group. Waking at first light; no walks in the dark."}
