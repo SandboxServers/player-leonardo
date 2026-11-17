@@ -1,6 +1,7 @@
-Handoff, dusk of day 430.
-Place: 388,107,-1037, beside the white bed at 387,107,-1037, in the 387 bed row with Billy's group. Not enclosed.
-State: health 8.8, hunger 17, no food. days_since_sleep 9.
+Handoff, day 440 night.
+Place: 388,107,-1034 at the 387 row, in Billy's sight, open ground, not enclosed.
+Beds: no cell named for me. Billy's bed 387,107,-1036; Troi 387,107,-1037; Tommy 387,107,-1023. Beverly lies at the row with no bed. Billy says the bed cells are full.
+State: health 8.8, hunger 17, days_since_sleep 10. Hunger is not yet 6, so no food asked yet.
 Pack: bone, 3 sticks, arrow, 2 wheat seeds, leather, 3 leaf litter, phantom membrane, torch, 20 dirt, feather.
-Group nearby: Billy (at 387,-1036), Jason (2 bread, 1 rotten flesh for hunger 6), Lewis (melon slice), Zack, Data, Troi, Tommy, Trini, Bcrusher, Kimberly, Clark.
-Next: sleep here. At first light, be counted with Billy. Feed the lowest hunger first if food is handed over. Join the cow walk only in daylight with a sword in hand (I have none).
+Group: about 10 at the row. Sheep and cows are not located yet. Cows possibly far at 339,-979 and 503,-1040.
+Next: when Billy names a cell, walk there in daylight. Ask Chapman for rotten flesh at hunger 6 or below. Hold in Billy's sight.
