@@ -1,5 +1,6 @@
-Handoff, day 460 night (waking 178).
+Handoff, day 461-462 dusk.
 Place: 388,107,-1023, beside the bed at 387,107,-1023, at the row, in Billy's sight.
-State: unarmed; wooden_sword in pack, not in hand. Health 8.8, hunger 16, no food. Slept day 460 night.
-Errands: none. No walk called; no cell named.
-Next: hold with Billy at first light. Ask Chapman (10 rotten flesh) or Wesley for food at hunger 6 or below. Join a walk only when Billy calls it with a weapon in hand. Do not walk in dim light.
+State: unarmed; wooden_sword in pack. Health 8.8, hunger 16, no food.
+Tried: sword use on cobblestone (failed). Dirt place at 388,107,-1024 (occupied). Sword-on-dirt not tested.
+Errands: none. No walk called.
+Next: sleep at night by the bed. At first light, hold with Billy. Ask for food at hunger 6 or below. Try sword on dirt or a sign.
