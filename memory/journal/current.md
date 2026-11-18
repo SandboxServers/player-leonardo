@@ -85,3 +85,6 @@
 - 10:17 say: {"text":"Billy, Leonardo at the row, afternoon 494. Correction: my pack holds only a torch. I have no sword at all, so I cannot try your way. Unarmed, not counted. Holding in your sight."}
 - Night 494 (now): sleep refused, enderman 8 blocks away. Beside Billy and Chapman at 414,107,-1041, health 20, hunger 20, torch only, unarmed. Holding in Billy's sight till light.
 - 10:21 act: {"say":"Leonardo here, unarmed, torch only, not counted. Staying at the row in Billy's sight until light.","intent":{"goal":"hold_at_row_till_light","program":"rest","arguments":{},"wake_on":["directl
+- 10:22 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Billy, Chapman: I see you. I am at the bed beside 413,107,-1041, unarmed, going to sleep here in your sight."}
+- 10:22 say: {"text":"Billy: sleep refused, an enderman is 8 blocks away. I am holding still at 414,107,-1041, unarmed, in your sight."}
+- 10:26 say: {"text":"Billy: Leonardo here, at 414,107,-1041, unarmed, nothing in hand. Holding still. If you name a give, I will stand still for it."}
