@@ -3,3 +3,4 @@ Waking 244: status, wait, look all answer "Your body is waking" (about 6 tries o
 Waking 246: status, wait (several interests and cursors), and status again all answer "Your body is waking" (about 8 tries). No move, no say, no intent. Last position: bed 387,107,-1036. Holding; retrying.
 Waking 248: status and wait still answer "Your body is waking" (about 6 tries, waits up to 120s asked). No move, no say, no intent. Last position: bed 387,107,-1036. Holding; retry next cycle.
 Waking 249: status and wait (x4, varied interests and timeouts) all answer "Your body is waking" (about 7 tries). No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; retry next cycle.
+Waking 250: status and wait (x5) still answer "Your body is waking". No move, no say, no intent. Last position: bed 387,107,-1036. Holding; retry next cycle.
