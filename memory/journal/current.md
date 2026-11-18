@@ -7,3 +7,4 @@ Waking 250: status and wait (x5) still answer "Your body is waking". No move, no
 Waking 251: status and wait still answer "Your body is waking" (about 6 tries), then one wait gave "session_superseded" and status gave a POST error. No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; retry next cycle.
 Waking 253: status and wait (about 8 tries) still answer "Your body is waking". No move, no say, no intent. Last position: bed 387,107,-1036. Holding; retry next cycle.
 Waking 254: status and wait (about 9 tries, one wait "session_superseded", one status POST error) still answer "Your body is waking" or fail. No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; retry next cycle.
+Waking 255: status, wait (x4), and act wait all answer "Your body is waking" or "not reachable" (about 7 tries). No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; retry next cycle.
