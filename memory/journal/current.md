@@ -65,3 +65,7 @@
 - 02:33 act: {"actions":[{"do":"note","text":"Dusk day 471 at 388,107,-1036 in Billy's sight. Health 20, hunger 20, food in pack none. Sword in pack. Holding until night, then sleep by bed."}],"say":"Leonardo at t
 - 02:37 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1040}},{"do":"use","item":"wooden_sword","at":{"x":384,"y":106,"z":-1040}}],"say":"Morning. Leonardo walking a few blocks off to plain ground to
 - 02:38 act: {"actions":[{"do":"note","text":"Day 471 morning. Walked to 384,107,-1040 (gravel, plain). Use wooden_sword on gravel failed: that block cannot be used that way. Sword still in pack. Health 20, hunger
+- 02:38 act: {"actions":[{"do":"use","at":{"x":384,"y":106,"z":-1039},"item":"wooden_sword"}],"say":"Morning. Picard, Jason. I am on open gravel away from the beds, trying the wooden sword into my hand by clicking
+- 02:43 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Billy, Trini's way: I am on open gravel, not a bed. Trying the wooden sword into hand with no block named, as she did. Will report.","reasoning":
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Billy, the sun is low. I have not got the sword into hand; the ground click failed for me. Walking back to the bed row at 387,107
+- 02:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Leonardo by the bed at 387,107,-1036, in Billy's sight, sword still in pack. No walk. Sleeping."
