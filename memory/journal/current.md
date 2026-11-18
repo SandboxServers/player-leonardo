@@ -1,3 +1,15 @@
 # Journal
 - 23:36 act: {"actions":[{"do":"sleep"}],"say":"Holding by my bed in the group's sight, as the others are. Sleeping now."}
 - 23:40 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":388,"y":106,"z":-1023}}],"say":"Morning. Leonardo here by the bed at 388,-1023, unarmed bar a wooden sword. Holding for Billy's call."}
+- 00:22 act: {"say":"Tommy, good day. Do you know where food is found here? I have none.","actions":[{"do":"note","text":"Day 464 bright. No food, hunger 16. Tommy is beside me. Trying to find food and test sword 
+- 00:22 act: {"actions":[{"do":"use","at":{"x":389,"y":108,"z":-1030},"item":"wooden_sword"}]}
+- 00:26 act: {"say":"Clark, Leonardo here at 388,107,-1023, by my bed at the row. Thank you for the plank; I will stand here in reach at first light.","actions":[{"do":"note","text":"Dusk day 464. Clark offers an 
+- 00:30 act: {"say":"Clark, morning. Leonardo at 388,107,-1023, by my bed, in reach. Please hand me the plank.","actions":[{"do":"note","text":"Morning day 465. Standing at bed 388,-1023 for Clark's plank."}]}
+- 00:34 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1035}}],"say":"Clark, Leonardo walking to you now, near 388,107,-1035."}
+- 00:34 act: {"say":"Clark, I am at 388,107,-1034 now, in sight. You are 3 blocks off. Please come within reach and hand me the plank."}
+- 00:36 act: {"actions":[{"do":"goto","target":"clark"}]}
+- 00:39 act: {"say":"Data, Leonardo here, in reach. Clark's plank went to you by mistake. Could you give one oak plank to me? Thank you."}
+- 00:42 act: {"say":"Clark, no plank has reached me yet. Data said he would pass it on. I will stay here in your sight, and I thank you.","actions":[{"do":"note","text":"Day 465. Plank not yet in my pack. Staying 
+- 00:46 act: {"actions":[{"do":"goto","target":"clark"}],"say":"Data, I am here at 388,-1034 in your sight. Please hand over the oak plank.","reasoning":"Data says step into his sight for the plank. Clark is 3.2 b
+- 00:50 act: {"actions":[{"do":"place","block":"dirt","at":{"x":389,"y":107,"z":-1034}},{"do":"use","item":"wooden_sword","at":{"x":389,"y":107,"z":-1034}}],"say":"Thank you, Clark. I have the plank now. Trying th
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1023}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":388,"y":107,"z":-1023}},"wake_on":["goal_completed"
