@@ -62,3 +62,6 @@
 - 02:15 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 02:23 act: {"actions":[{"do":"use","at":{"x":388,"y":106,"z":-1036},"item":"wooden_sword"}],"say":"Dawn, Leonardo at 388,107,-1036 in Billy's sight. Trying my wooden sword into hand once more on the cobble under
 - 02:23 act: {"actions":[],"say":"Dawn, Leonardo. Sword still in pack; use on the cobble failed again. Zack, Tommy: which block did you use to get your sword into hand? I hold, no walk."}
+- 02:33 act: {"actions":[{"do":"note","text":"Dusk day 471 at 388,107,-1036 in Billy's sight. Health 20, hunger 20, food in pack none. Sword in pack. Holding until night, then sleep by bed."}],"say":"Leonardo at t
+- 02:37 act: {"actions":[{"do":"goto","target":{"x":384,"y":107,"z":-1040}},{"do":"use","item":"wooden_sword","at":{"x":384,"y":106,"z":-1040}}],"say":"Morning. Leonardo walking a few blocks off to plain ground to
+- 02:38 act: {"actions":[{"do":"note","text":"Day 471 morning. Walked to 384,107,-1040 (gravel, plain). Use wooden_sword on gravel failed: that block cannot be used that way. Sword still in pack. Health 20, hunger
