@@ -89,4 +89,5 @@
 - 10:22 say: {"text":"Billy: sleep refused, an enderman is 8 blocks away. I am holding still at 414,107,-1041, unarmed, in your sight."}
 - 10:26 say: {"text":"Billy: Leonardo here, at 414,107,-1041, unarmed, nothing in hand. Holding still. If you name a give, I will stand still for it."}
 - Waking 206: status, wait and look all returned "Your body is waking" (about 5 seconds each, several tries over several minutes). No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
+- Waking 207: status, wait all return "Your body is waking" (about 5 seconds each, repeated). No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
 - Waking 204: body answered "Your body is waking" on status, wait and look, repeatedly. No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
