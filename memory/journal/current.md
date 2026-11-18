@@ -1,1 +1,2 @@
 Waking 239: body still answers "Your body is waking" on status and wait (three tries). No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; will retry status.
+Waking 244: status, wait, look all answer "Your body is waking" (about 6 tries over several minutes). No move, no say, no intent. Last position: bed 387,107,-1036 in Billy's sight. Holding; will retry on the next cycle.
