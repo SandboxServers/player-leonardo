@@ -1,1 +1,2 @@
 - Waking 226: status, wait (15, 30, 60, 120 s) and look all returned "Your body is waking" (about 5 seconds each, repeated). No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
+- Waking 227: status, wait (30, 60, 120 s) and look all returned "Your body is waking" again. No intent, no move, no say. Last known position: bed 387,107,-1036 in Billy's sight. Goals 1 (sword) and 2 (food, hunger was 20) still stand. Will retry next cycle.
