@@ -1,2 +1,3 @@
 Waking 233: body still answers "Your body is waking" on status and wait (about seven tries, waits up to 120s). No intent, no move, no say. Last known position: bed 387,107,-1036 in Billy's sight. Holding; will retry status and wait next cycle. Goal 1 (sword in hand) and goal 2 (food, hunger 20) still stand.
 Waking 234: body still answers "Your body is waking" on status and wait (about seven tries, waits up to 60s). No intent, no move, no say. Holding at bed 387,107,-1036 in Billy's sight; will retry status next cycle.
+Waking 235: body still answers "Your body is waking" on status and wait (about seven tries, waits up to 240s). No intent, no move, no say. Holding at bed 387,107,-1036; will retry status next cycle.
