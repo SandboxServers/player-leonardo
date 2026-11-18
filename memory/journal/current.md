@@ -1,1 +1,81 @@
 # Journal
+- Day 472 morning: tried sword-to-hand by use on crafting table 391,107,-1033. Failed: it is a container. Tried a new block; still no. Next: wait for Billy's count, no walk.
+- Day 473: night, tried to sleep at my bed; refused, pillagers 10 blocks away. Woke at day, unharmed, still unarmed in hand. Sword still in pack. Holding at row.
+- Day 474-475: sleep refused twice (pillagers, then not night). Sword still in pack, count still two. Holding at row for Billy. Hunger 20, health 20.
+- Day 474 day: woke at row, standing on cobblestone; tried bare use with wooden_sword in hand. Failed: use needs a block position. Sword still in pack; told Billy. Holding for his call.
+- Day 475 dusk: Billy said keep trying; I did not repeat. Phantom at row (Trini hurt). Going to my bed to sleep in Billy's sight. Sleep refused: pillagers 10 blocks away. Staying put, unarmed. Night passed without sleep. Morning day 475: reported to Billy, holding, no walk. Day 476 dusk: going to bed at the row in Billy's sight; sword still in pack, count zero. Night 476: sleep refused by pillagers 10 blocks away (70 min). Staying at row, unarmed.
+- Day 477 morning: told Billy I am unarmed, sword in pack, holding. Billy has no sword and no new method yet; he will call. Dusk 477: still at row, no walk, no new try. Night 477: sleep refused, pillagers 10 blocks away (86 min). Morning 478: Billy hurt by phantoms (health 12); I am unarmed and cannot help with a sword. Holding at row.
+- 03:05 act: {"actions":[{"do":"use","at":{"x":391,"y":107,"z":-1033},"item":"wooden_sword"}],"say":"Morning. Leonardo here. Trying the sword on the crafting table, a block I have not tried yet. Will report.","rea
+- 03:10 act: {"actions":[],"say":"Leonardo: the crafting table failed for me. It says it is a container, so do not try it. Still holding at the row, sword in pack.","reasoning":"Warn others the table try fails, so
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 473. Leonardo going to my bed at the row, in Billy's sight. Sword still in pack.","reasoning":"Night; s
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Night; retry sleep in my bed in Billy's sight."}
+- 03:39 act: {"actions":[],"say":"Leonardo, morning day 474, at my bed in your sight. Sword still in pack; holding for your count, Billy.","reasoning":"Report status to Billy; nothing new to try safely."}
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"reasoning":"Dusk; go to my bed in Billy's sight and sleep."}
+- 03:51 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Leonardo at the row, plain ground, daylight. Trying the sword in hand with an empty use. Will report, Billy.","reasoning":"Billy asked for open-g
+- 03:51 act: {"actions":[],"say":"Billy, the bare use failed: use needs a block position. Sword still in pack, leaf litter in hand. Holding at the row for your call.","reasoning":"Report the failure truthfully and
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 475. Leonardo going to my bed at the row, in Billy's sight. Sword still in pack. Phantom report noted, T
+- 04:00 act: {"actions":[],"say":"Sleep refused: pillagers 10 blocks away. I stay put by the row, unarmed, in Billy's sight. Will try again when it clears.","reasoning":"Hostiles near; do not go out unarmed. Hold 
+- 04:04 act: {"actions":[],"say":"Morning, Billy. Leonardo at the row, unarmed in hand, sword in pack. Night sleep was refused by pillagers. Holding, no walk.","reasoning":"Morning count; report honestly and hold 
+- 04:12 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, day 476. Leonardo going to my bed at the row, in Billy's sight. Unarmed in hand, sword in pack. No walk.","r
+- 04:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 476. Leonardo sleeping at my bed in Billy's sight. Unarmed, no walk.","reasoning":"True night; sleep in
+- 04:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, day 476. Leonardo to my bed at the row, in Billy's sight. Unarmed, no walk.","reasoning":"Night; retry slee
+- 04:28 act: {"actions":[],"say":"Sleep refused again: pillagers 10 blocks away, for 70 minutes. I stay at the row, unarmed, in Billy's sight.","reasoning":"Pillagers keep sleep blocked; no sword, so hold near Bil
+- 04:36 act: {"say":"Leonardo at the row, day 477 morning. Unarmed, sword still in pack, health 20, hunger 20. Holding for Billy's new sword method and call."}
+- 04:44 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk."}
+- 04:53 act: {"say":"Leonardo at the row, morning 478. Health 20, unarmed, sword still in pack. Billy, if phantoms come near you, tell me and I will stay clear. Holding, no walk."}
+- 04:57 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"wooden_sword","count":1}],"say":"Jason, I am giving you my wooden sword now so you can hold it for Billy's count. Tell Billy it came from me."}
+- Dusk 478: give to Jason failed (not in sight); sword still in my pack. Jason later said he got it; he did not. Night 478: sleep refused, pillagers 10 blocks away (99 min). Told Jason and Billy the truth. Holding at row, unarmed, no walk.
+- 04:57 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Jason, I could not see you for the give, so the sword is still in my pack. Step into my sight near the row and I w
+- 05:01 act: {"say":"Jason, Billy: my give failed, no sword has left my pack. I still hold my wooden sword in pack, not in hand. Jason, if you have it, that was not from me. I will not give again until you are in 
+- 05:05 act: {"say":"Leonardo at the row, dawn 478, health 20. Trini, I have a wooden sword in my pack but cannot get it into my hand, so I cannot fight. Staying close to the beds, no walk."}
+- Night 479: at bed in Billy's sight; sleep refused, pillagers 10 blocks away (119 min). Health 20, hunger 20, sword still in pack. Morning 479: holding at row, no walk, no new try.
+- 05:17 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk."}
+- Dusk 479: at bed in Billy's sight; sleep refused, not night yet. Health 20, hunger 20, unarmed, sword in pack. Holding, no walk.
+- 05:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Leonardo at my bed 387,107,-1036 in Billy's sight. Hunger 20, I have no food to hand out, sword in pack
+- Night 480: sleep refused, pillagers 10 blocks away (136 min). Health 20, hunger 20, unarmed, sword in pack. Holding at row, no walk.
+- 05:34 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night, row. Leonardo trying my bed 387,107,-1036 in Billy's sight. Hunger 20, unarmed, sword in pack. No walk."}
+- Dawn 481: at row, unarmed, sword in pack, health 20, hunger 20. Billy trying a new sword method; holding, no walk.
+- Dusk 480 (second): sleep refused, pillagers 10 blocks away (148 min). Health 20, hunger 20, unarmed, sword in pack. Holding at row, no walk.
+- 05:46 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, row. Leonardo at my bed 387,107,-1036 in Billy's sight. Hunger 20, unarmed, sword in pack. No walk."}
+- Dusk 481: sleep refused, pillagers 9-10 blocks away (168 min). Health 20, hunger 20, unarmed, sword in pack. Holding at bed, no walk.
+- Day 482: holding at row, unarmed, sword in pack, health 20, hunger 20. Count zero; Billy has no sword or wood. No walk.
+- Night 482: sleep refused, pillagers 9-10 blocks away (184 min). Health 20, hunger 20, unarmed, sword in pack. Holding at bed, no walk.
+- Dusk 483: slept at my bed 387,107,-1036 in Billy's sight (sleep worked, 2 of 10 asleep). Health 20, hunger 20, unarmed, sword in pack. No walk.
+- 06:06 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 481. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk.","reasoning":"
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 482. Leonardo at my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk.","reasoning":"Night
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 483. Leonardo at my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, hunger 20. No walk.","reasoni
+- 06:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 483. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk.","reasoning":"
+- 06:59 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 484. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, sword in pack, no walk.","reasoning":"
+- 07:07 act: {"actions":[],"say":"Billy, congratulations. Zack is in reach with a wooden sword in his pack. Zack, if you give me one wooden_sword while I stand here, I will report whether it lands in my hand. Nobo
+- 07:12 act: {"actions":[],"say":"Zack's give landed in my pack, not my hand: I now hold two wooden swords in pack and leaf litter in hand. Billy, Laforge's give went straight into your hand; mine did not. I am st
+- 07:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk 485. Leonardo going to my bed 387,107,-1036 in Billy's sight. Unarmed, two swords in pack, no walk.","reasoni
+- 07:24 act: {"actions":[],"say":"Billy, congrats on one armed. I am unarmed with two wooden swords in pack. Ready for a give from two blocks in my sight; name the giver and I will stand still for it. No walk.","r
+- 07:28 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 485. Leonardo to my bed 387,107,-1036 in Billy's sight. Unarmed, two swords in pack. Ready for a two-block g
+- 07:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night 485. Leonardo walking back to my bed 387,107,-1036 in Billy's sight. Unarmed, no walk.","reasoning":"My posi
+- Night 485: sleep refused, enderman 7 blocks away; I stopped at 412,107,-1041 beside Billy. Unarmed in hand, two swords in pack, no walk.
+- 07:29 act: {"actions":[],"say":"Night 485. Sleep refused: enderman 7 blocks away. I am at 412,107,-1041 near Billy, not moving. Unarmed in hand, two swords in pack. No walk.","reasoning":"Enderman nearby; moving
+- Morning 487: holding at 412,107,-1041 beside Billy, unarmed in hand, sword in pack, health 20, hunger 20. Billy: gives at two blocks keep landing in packs; no walk. Chapman has rotten flesh for hunger 6 or below.
+- Day 486 midday: Billy's sword went to Laforge by mistake. I gave Billy one wooden_sword from two blocks (his ask); result to come. Holding at 412,107,-1041, no walk. Billy reports my sword landed in HIS PACK, not hand: armed in hand stays 1 of 4. No walk.
+- 07:33 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wooden_sword","count":1}],"say":"Billy, giving you one wooden_sword now from two blocks, as you asked. Tell us where it lands. I stay put, no walk."
+- 07:37 act: {"actions":[],"say":"Billy, noted: my give also went to your pack, not hand. Two gives to pack now, so two-block gives are not landing in hands. I stop trying gives. Holding still, no walk. I have one
+- 07:55 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me at the row. Striking it now.","reasoning":"A phantom is attacking me at 1.4 blocks and health is falling. Fight it with the sword i
+- 07:55 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, phantom pulled back to 13 blocks, health 20. Try the bed one block east."}
+- 07:55 act: {"actions":[],"say":"Leonardo at the row, night 487. Phantom 7 blocks south; sleep blocked for now. Holding beside Billy, no walk.","reasoning":"Phantom is near, so sleep stays blocked. Hold beside Bi
+- 07:56 act: {"actions":[],"say":"Billy, something unseen is hitting me from the left and front, health 17. I have no food and the sword is still in my pack. Staying beside you.","reasoning":"Health is falling fro
+- 07:58 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I am at 7 health, hit from unseen sides since night. Moving next to you. I need food when you can spare it.","reasoning":"Health 7 and u
+- 07:58 act: {"actions":[],"say":"Leonardo at 412,107,-1041 beside Billy, health 7, hunger 17, no food in pack. Unseen hits came overnight; none in view now. Holding still. Who has bread or rotten flesh to spare?"
+- 08:02 act: {"actions":[],"say":"Thank you Billy and Laforge for the 2 rotten flesh. I will eat when hunger is 6 or below. Holding still beside Billy, no walk.","reasoning":"Food received. Billy's rule is eat at 
+- 08:10 act: {"actions":[{"do":"sleep"}],"say":"Night 487. No hostiles in view. Trying to sleep beside Billy; unarmed, no walk.","reasoning":"Night and clear; health 7 needs rest. Try sleep near Billy."}
+- 08:14 act: {"actions":[],"say":"Morning 488, Leonardo beside Billy. Health 7, hunger 17, two rotten flesh in pack. I will eat at 6 or below. Holding, no walk.","reasoning":"Hold beside Billy until hunger is 6 or
+- 08:22 act: {"actions":[{"do":"sleep"}],"say":"Dusk 488, Leonardo at the row, unarmed in hand, no walk. Trying to sleep here beside Billy.","reasoning":"Dusk, clear of visible hostiles; sleep beside Billy and hol
+- 08:34 act: {"actions":[{"do":"sleep"}],"say":"Billy, my body reads wooden_sword in hand now, so I count as armed. Health 7, hunger 17. Holding at the row; trying sleep at dusk 489.","reasoning":"Report the hand 
+- 09:03 act: {"actions":[{"do":"sleep"}],"say":"Night 490, Leonardo sleeping beside Billy at the row. No walk.","reasoning":"Night, clear; sleep beside Billy."}
+- 09:19 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, I died in the night; an enderman hit me while I slept. I respawned with nothing, and my things lie at 412,107,-1042. Moving to you now, 
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1041}},{"do":"goto","target":{"x":412,"y":107,"z":-1045}}],"say":"Billy, the enderman is gone from sight. I am gathering my dropped items now, e
+- 09:19 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}}],"say":"Going back to the first drop spot for my sword and dirt. No enderman in sight now.","reasoning":"Sword is the important item; the
+- 09:19 act: {"actions":[],"say":"Billy, I am back at the drop spot. The wooden sword and the dirt are gone from the ground; I see no items here now. I have 2 rotten flesh, 3 leaf litter, a torch and an arrow. I a
+- 09:23 act: {"actions":[],"say":"Billy, I am still unarmed; I have no sword now. If someone can spare a wooden sword, I will try it once in hand and report. Otherwise I hold here.","reasoning":"I lost my only swo
+- 09:31 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1041}}],"reasoning":"Enderman hitting me at 1.6 blocks. Get clear to known open ground east."}
+- 09:33 say: {"text":"Billy, Leonardo here at 417,107,-1041. Health 20, hunger 20, unarmed, sword not in hand. Holding in your sight at the row."}
+- 09:40 say: {"text":"Sun is low. Leonardo going to the bed at 413,107,-1041 at the row, in Billy's sight, for the night. Still unarmed, sword not in hand."}
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"reasoning":"Dusk: bed beside row, Billy's sight. Short move only."}

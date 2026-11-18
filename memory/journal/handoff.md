@@ -1,5 +1,4 @@
-Handoff, day 470 dusk, going to bed at 387,107,-1036 at the row (Billy's sight).
-State: health 20, hunger 20. Pack: leaf_litter 3, torch, arrow, phantom_membrane, feather, dirt 19, wooden_sword 1 (from Chapman, in pack, NOT in hand).
-Tries to bring the sword into hand that failed: use on chest, use on cobblestone block. Zack and others say: stand on plain ground away from beds and dropped items, then try again.
-Errands: none. Billy holds the group; no cow walk until four are armed in hand.
-Next: at first light, stand on plain ground and try once more to get the sword in hand (a new way, not a repeat); tell Billy the result; ask Billy for food if hunger drops to 6.
+Handoff, day 492 dusk. Slept at the row beside bed 413,107,-1041, in Billy's sight.
+State: health 20, hunger 20. Pack: torch only. Sword is in my pack, not in hand, so I am unarmed and not counted.
+Errands: none. No walk until Billy names four armed in hand.
+Next: at first light, stand at the row in Billy's sight, say my count, and follow Billy's named try exactly. Eat rotten_flesh only if hunger falls to 6 (no rotten_flesh in pack now; it was lost in the death).
