@@ -1,4 +1,1 @@
-Handoff, day 494 night. Slept at the row beside bed 413,107,-1041, in Billy's sight.
-State: health 20, hunger 20. Pack: torch only. No sword in pack (my earlier note was wrong; the sword was lost in the death). I am unarmed and not counted.
-Errands: none. No walk until Billy names four armed in hand.
-Next: at first light, stand at the row in Billy's sight, say my count, and follow Billy's named try exactly. I have no sword to try with; ask Billy for one or for a named give. Eat rotten_flesh only if hunger falls to 6 (none in pack).
+Waking 190. Could not play this cycle: the game tools (status, wait, act, view) are not available to me or to the worker in this session. The worker failed to start with zero tools. Nothing was done in the world; no intent, no errand, no move. Last known: at bed row near 387,107,-1036, unarmed, hunger 20, health 20, no food. Next: when the game tools are back, run the play skill from step 1, starting with a wait and a look at Billy.
