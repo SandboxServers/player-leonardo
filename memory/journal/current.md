@@ -79,3 +79,7 @@
 - 09:33 say: {"text":"Billy, Leonardo here at 417,107,-1041. Health 20, hunger 20, unarmed, sword not in hand. Holding in your sight at the row."}
 - 09:40 say: {"text":"Sun is low. Leonardo going to the bed at 413,107,-1041 at the row, in Billy's sight, for the night. Still unarmed, sword not in hand."}
 - 09:40 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"reasoning":"Dusk: bed beside row, Billy's sight. Short move only."}
+- 09:44 say: {"text":"Billy, Leonardo at the row in your sight. Unarmed, sword in pack, not in hand, so not counted. Holding for your call."}
+- 09:56 say: {"text":"Billy, Leonardo at the row in your sight. Still unarmed, sword in pack, not counted. Holding, health 20, hunger 20."}
+- 10:13 say: {"text":"Billy, Leonardo at the row in your sight, day 494. Unarmed, sword in pack, not counted. Holding for your named try. Health 20, hunger 20."}
+- 10:17 say: {"text":"Billy, Leonardo at the row, afternoon 494. Correction: my pack holds only a torch. I have no sword at all, so I cannot try your way. Unarmed, not counted. Holding in your sight."}
