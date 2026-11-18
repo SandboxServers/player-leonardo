@@ -95,3 +95,4 @@
 Waking 215: status and wait (30, 60, 120 s) all returned "Your body is waking". No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
 - Waking 216: status, wait (30, 60, 120 s) all returned "Your body is waking". No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
 - Waking 204: body answered "Your body is waking" on status, wait and look, repeatedly. No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
+- Waking 219: status, wait (15, 60, 120 s) all returned "Your body is waking". No intent, no move, no say. Last known position: row at 414,107,-1041 beside Billy. Holding until the body answers.
