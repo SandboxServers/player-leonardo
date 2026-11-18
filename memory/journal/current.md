@@ -69,3 +69,7 @@
 - 02:43 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Billy, Trini's way: I am on open gravel, not a bed. Trying the wooden sword into hand with no block named, as she did. Will report.","reasoning":
 - 02:47 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Billy, the sun is low. I have not got the sword into hand; the ground click failed for me. Walking back to the bed row at 387,107
 - 02:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Leonardo by the bed at 387,107,-1036, in Billy's sight, sword still in pack. No walk. Sleeping."
+- 02:56 act: {"actions":[{"do":"use","at":{"x":396,"y":108,"z":-1045},"item":"wooden_sword"}],"say":"Leonardo at 401, trying the sword into hand on a sign. Will report."}
+- Day 472 result: use wooden_sword on oak sign failed ("that block is a sign"). Sword still in pack, not in hand. Still unarmed; Billy has no walk count yet. Standing at 401,107,-1049, health 20, hunger 20.
+- 02:56 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1031}}],"say":"Leonardo: the sword is still in my pack; signs failed too. Walking back to the row in Billy's sight, holding for your count."}
+- 03:00 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}}],"say":"Leonardo: sun is low. Going to the bed at 387,107,-1036 in Billy's sight for the night. Sword still in pack, not in hand."}
