@@ -46,3 +46,5 @@
 - 10:38 act: {"actions":[{"do":"note","text":"Morning 567 at bed 416,107,-1037. Unarmed, hold nothing, health 20, hunger 20."}],"say":"Billy, Leonardo at bed 415,107,-1037 in your sight. Unarmed, hunger 20, holdin
 - 10:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk 567. Leonardo going to my bed at 415,107,-1037 in Billy's row sight. Unarmed, hunger 20, no errand running. H
 - 10:47 act: {"actions":[{"do":"sleep"}]}
+- 10:48 act: {"say":"Leonardo at bed 416,107,-1037, unarmed, hunger 20. Billy, I ask once for a sword to hold. I stay in sight at the row.","reasoning":"Goal 1: get a sword. Billy is the one who hands them out. As
+- 10:51 act: {"actions":[{"do":"note","text":"Morning 568. At bed 415,107,-1037 in Billy's row sight, unarmed, health 20, hunger 20. Billy: no sword to give yet. Holding at the row."}],"intent":{"goal":"hold_at_ro
