@@ -33,3 +33,8 @@
 - 09:34 act: {"actions":[{"do":"note","text":"Day 564 daytime. Leonardo at my bed in the row, unarmed, health 20, hunger 20. Asked Billy once for a sword; holding in sight."}],"say":"Billy, Leonardo at the row, da
 - 09:42 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at my bed in the row, unarmed, health 20, hunger 20. Going to sleep here in Billy's sight."}
 - 09:58 say: {"text":"Morning 565. Billy, Leonardo here, unarmed, hunger 20. Could I have a sword when one is free? I hold at 416,107,-1037."}
+- 10:11 act: {"actions":[{"do":"note","text":"Morning 565. At bed 416,107,-1037 in Billy's row sight, unarmed, health 20, hunger 20. Sword already asked this morning; holding for Billy's call."}],"intent":{"goal":
+- 10:15 act: {"actions":[{"do":"note","text":"Day 566 morning. At bed 416,107,-1037 in Billy's row sight, unarmed, health 20, hunger 20. Asked Billy once for a sword at first light."}],"say":"Billy, morning 566. L
+- 10:19 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 566. At bed 415,107,-1037 in Billy's row sight, unarmed, hunger 20. No sword, no wood yet. Sleeping."}],"say":"Night 566. Leonardo sleeping at the
+- 10:19 act: {"actions":[{"do":"sleep"}]}
+- 10:24 act: {"actions":[{"do":"note","text":"First light 567. At bed 415,107,-1037 in Billy's row sight, unarmed, health 20, hunger 20. No sword, no food, no wood named yet. Holding."}]}
