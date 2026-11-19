@@ -5,3 +5,4 @@
 - 11:15 say: {"text":"Morning 569. Billy, Leonardo at the row bed 415,107,-1037, in your sight, unarmed. Thank you for making one for me. I will wait here for it."}
 - 11:19 act: {"say":"Thank you, Billy. I have the wooden sword now. I stay in your sight and will join your named walk.","actions":[{"do":"note","text":"Got wooden sword from Billy, morning 569. Goal 1 done. Next:
 - 11:40 say: {"text":"Night 570. Leonardo at my bed 415,107,-1037, armed with the wooden sword, health 20, hunger 20, no food. Sleeping here in the row's sight."}
+- 11:41 act: {"actions":[{"do":"sleep"}],"say":"Going to rest by the bed row. Goodnight, Billy and Worf."}
