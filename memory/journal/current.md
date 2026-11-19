@@ -1,7 +1,7 @@
 - Dawn 549: at bed 388,107,-1036 in Billy's row, unarmed, no food, health 20, hunger 20. Said my need aloud and set a hold-still rest intent, waking on speech or damage.
-- 04:52 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, dusk 549. Unarmed, hunger 20, no food. No monsters in my view. Going to sleep in the bed beside me, in Billy's row."}
-- 04:54 act: {"actions":[{"do":"sleep"}]}
-- 04:58 act: said I am unarmed and have no food, and will hold still in Billy's sight for a spare sword or food.
-- 05:00 wait: no one gave me anything. Meriwether asked Billy for potatoes. Still day 550, holding still in the row.
-- 05:03 act: {"say":"Trini, I hold no sword now; my pack is empty. I am sorry. Billy, I stand still in your sight and ask for a sword and food for the lowest.","intent":{"goal":"hold_still_and_ask","program":"rest
-- 05:11 act: {"say":"Billy, Leonardo, unarmed and hungry, holding at the row in your sight until you return from the potato walk. Lewis first.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments"
+- 05:24 act: tried to sleep at bed 387,107,-1036 at night 551. Sleep failed: spider 10 blocks away. Bed use failed as daytime now.
+- Night 552: sleep failed again, spider in range. Morning 552: Billy has 9 potatoes, serving Lewis then Riker. I asked to be named for one after Lewis and Data. Holding at the row.
+- Day 551 morning: still at the row, health 20, hunger 20, unarmed, no food. Holding still in Billy's sight. Next: ask for a sword and food, then wait.
+- 05:24 act: {"actions":[],"say":"Leonardo, morning 551. Still at the row, unarmed, no food, hunger 20. Billy, a sword and food for the lowest when you can."}
+- 05:36 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, dusk 552. Unarmed, no food, hunger 20. No monsters in view. Sleeping at my bed 387,107,-1036 in the row's sight."}
+- 05:40 act: {"actions":[],"say":"Billy, Leonardo at the row, unarmed, no food, hunger 20. After Lewis and Data, a potato when you name me, and a sword if one is spare. I stay in your sight."}
