@@ -5,3 +5,4 @@
 - 05:24 act: {"actions":[],"say":"Leonardo, morning 551. Still at the row, unarmed, no food, hunger 20. Billy, a sword and food for the lowest when you can."}
 - 05:36 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, dusk 552. Unarmed, no food, hunger 20. No monsters in view. Sleeping at my bed 387,107,-1036 in the row's sight."}
 - 05:40 act: {"actions":[],"say":"Billy, Leonardo at the row, unarmed, no food, hunger 20. After Lewis and Data, a potato when you name me, and a sword if one is spare. I stay in your sight."}
+- 05:50 act: {"say":"It is night and I am beside my bed, unarmed, no food. No monsters in view. Going to sleep here in Billy's sight.","reasoning":"Night, bed adjacent, no entities in view. Sleep here, then ask fo
