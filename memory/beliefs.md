@@ -28,5 +28,7 @@ Still true:
 
 Day 589: the group held all day at the row. Billy names no walk until a west route is verified; nobody has verified it. This matches the rule above.
 
+Day 594: holding at the row again. Wesley's bed 415,107,-1050 refused sleep ("way blocked", three times); beds can be refused. Billy's rule holds: no walk until the west route is verified.
+
 What I am curious about next: whether the west route opens (ask Worf about the planks on 579-580); campfire fuel; whether a drawn mechanism moves.
 Who I could tell: Billy first (walk decisions), then Worf (planks).
