@@ -102,3 +102,6 @@ Waking 255: status, wait (x4), and act wait all answer "Your body is waking" or 
 - 01:24 say: {"text":"Trini, I hold no sword and nothing in my pack, so I have nothing to hand back. I am unarmed too."}
 - 03:02 say: {"text":"Riker, I am unarmed with no sword in my pack. Your way, use with no target, needs a sword I do not have. I will wait for Billy's call."}
 - 03:35 say: {"text":"Leonardo, awake at the row, day 546. Unarmed, no food, health 20. Ready on your call, Billy."}
+- 04:37 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Leonardo, dusk 549. Unarmed, health 20, hunger 20, no food. No walk from me. Going 
+- 04:38 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, night 549, unarmed, health 20, hunger 20, no food. Trying the bed at 401,107,-1036 in your sight."}
+- 04:38 act: {"actions":[],"say":"Leonardo, night 549. Sleep refused: a spider 10 blocks away. I am at 388,107,-1036 with no one in view, unarmed, health 20. Holding still until dawn."}
