@@ -5,3 +5,4 @@
 - 18:58 act: {"say":"Morning, row. Leonardo awake at my bed 401,107,-1037, health 20, hunger 20. Holding my wooden sword. Staying in Billy's sight; ready for any walk.","intent":{"goal":"hold_at_row_for_walk","pro
 - 18:58 act: {"say":"Morning. Leonardo at bed 401,107,-1037, health 20, hunger 20, holding my wooden sword. Holding at the row until Billy names a walk.","intent":{"goal":"hold_at_row_for_walk","program":"rest","a
 - Morning 592: Billy, William heard; no verified west route yet. Holding at bed in sight, sword only, no walk named.
+- 18:59 act: {"say":"Morning. Leonardo awake at my bed 401,107,-1037, health 20, hunger 20. Holding at the row, no walk. Billy, say the word.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_o
