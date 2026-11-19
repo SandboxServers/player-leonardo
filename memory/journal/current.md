@@ -38,3 +38,8 @@
 - 10:19 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night 566. At bed 415,107,-1037 in Billy's row sight, unarmed, hunger 20. No sword, no wood yet. Sleeping."}],"say":"Night 566. Leonardo sleeping at the
 - 10:19 act: {"actions":[{"do":"sleep"}]}
 - 10:24 act: {"actions":[{"do":"note","text":"First light 567. At bed 415,107,-1037 in Billy's row sight, unarmed, health 20, hunger 20. No sword, no food, no wood named yet. Holding."}]}
+- 10:25 act: {"say":"Morning 567. Leonardo at my bed in Billy's row, unarmed, health 20, hunger 20. Billy, I have asked once for a sword; I hold here in sight for your call."}
+- 567 day: Billy named Picard to search south for oak; named Zack and me to hold at the row. Picard found no oak and came back at dusk. I hold at bed 415,107,-1037, unarmed, hunger 20.
+- 10:33 act: {"actions":[{"do":"sleep"}]}
+- 10:34 act: {"actions":[{"do":"sleep"}]}
+- 567 night: slept at bed 415,107,-1037 in Billy's sight; first try 5 of 10 asleep, second try worked. Unarmed, hunger 20, no errand running. Waiting for first light.
