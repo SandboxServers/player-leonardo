@@ -1,3 +1,5 @@
 - Dawn 549: at bed 388,107,-1036 in Billy's row, unarmed, no food, health 20, hunger 20. Said my need aloud and set a hold-still rest intent, waking on speech or damage.
 - 04:52 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, dusk 549. Unarmed, hunger 20, no food. No monsters in my view. Going to sleep in the bed beside me, in Billy's row."}
 - 04:54 act: {"actions":[{"do":"sleep"}]}
+- 04:58 act: said I am unarmed and have no food, and will hold still in Billy's sight for a spare sword or food.
+- 05:00 wait: no one gave me anything. Meriwether asked Billy for potatoes. Still day 550, holding still in the row.
