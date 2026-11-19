@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-419, z -1023 to -1051.
 
-Where I am: bed 415,107,-1037 in Billy's row, in sight. Slept at night 571 (day 571 done).
+Where I am: bed 415,107,-1037 in Billy's row, in sight. Slept at night 572 (day 572 done).
 What I hold: a wooden sword. Hunger 20, health 20. No food.
 
 Lessons:
@@ -19,4 +19,4 @@ Places:
 I owe: Worf, oak logs for his planks (ask first).
 Owed to me: Clark, two oak planks. Billy, a bed cell and food for the lowest.
 
-Goodnight, day 571.
+Goodnight, day 572.
