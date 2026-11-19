@@ -1,0 +1,1 @@
+Handoff, day 582 night (waking 304). Slept at bed 415,107,-1037 in Billy's sight. Health 20, hunger 20. Holding: wooden sword. No food, no errand. Next: at first light hold in Billy's sight; wait for his named walk. Path west is blocked by oak planks.

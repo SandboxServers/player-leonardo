@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 581 night.
+Ranked, updated day 582 night.
 
 1. Stay in Billy's sight at the row; join his named daylight walks with my wooden sword. Reason: armed; walks are how food and oak come.
 2. Take food only when named or when I am at 6 or below. Reason: no food held.
