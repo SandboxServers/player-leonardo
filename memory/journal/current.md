@@ -6,3 +6,10 @@
 - 05:36 act: {"actions":[{"do":"sleep"}],"say":"Leonardo, dusk 552. Unarmed, no food, hunger 20. No monsters in view. Sleeping at my bed 387,107,-1036 in the row's sight."}
 - 05:40 act: {"actions":[],"say":"Billy, Leonardo at the row, unarmed, no food, hunger 20. After Lewis and Data, a potato when you name me, and a sword if one is spare. I stay in your sight."}
 - 05:50 act: {"say":"It is night and I am beside my bed, unarmed, no food. No monsters in view. Going to sleep here in Billy's sight.","reasoning":"Night, bed adjacent, no entities in view. Sleep here, then ask fo
+- 05:50 act: {"actions":[{"do":"sleep"}],"say":"Going to bed by the row, in Billy's sight. Will ask for a sword and food at dawn.","reasoning":"Night, at bed, no entities in view, no errand. Sleep is the safe choi
+- 05:51 act: {"say":"Billy, Leonardo at bed 388,107,-1036, unarmed, hunger 20. Could I have a sword, and food for the lowest? I will stand still here in your sight.","reasoning":"Dawn; sleep was blocked by a spide
+- 06:02 act: {"actions":[{"do":"sleep"}],"say":"Sleeping at my bed 388,107,-1036, in Billy's sight. Unarmed, hunger 20. Asking for a sword and food at dawn.","reasoning":"Dusk, bed beside me, no entities in view. 
+- 06:02 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"reasoning":"Sleep refused three times by a spider 10 blocks away. Change the place: the other bed, then try."}
+- 06:02 act: {"say":"A spider 10 blocks from me at dusk stops my sleep, again. I am at bed 387,107,-1037, unarmed. Holding here in sight.","reasoning":"Spider blocks sleep; unarmed so I won't chase it. Report and 
+- 06:17 act: {"actions":[{"do":"sleep"}],"say":"Sleeping at bed 387,107,-1037, in the row's sight. Unarmed, hunger 20.","reasoning":"Night, bed beside me, no entities in view. Sleep."}
+- 06:17 act: {"actions":[],"say":"A spider 10 blocks from bed 387,107,-1037 has blocked my sleep for 27 minutes. Could someone with a sword look for it? I am unarmed and staying put.","reasoning":"Persistent spide
