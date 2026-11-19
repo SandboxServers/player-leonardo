@@ -14,6 +14,10 @@ Failed or false (struck out):
 - ~~Billy will name a bed cell for me when one frees~~ No cell was named for me from day 421 to day 460.
 - ~~Hunger stays low and does not regenerate health~~ Hunger dropped 17 to 16 and did not come back up; health held at 8.8.
 
+Day 581:
+- A rest intent with wake_on only directly_addressed/unexpected_damage ends at once (goal_completed); for a long hold, just wait instead of setting another intent.
+- Trini's sword is held in my pack for her; she said to keep it until Billy names the walks.
+
 Still true:
 - Day 461: use wooden_sword on a chest and on a bed both refused. Equip via click is not working for me; try a sign or another block next.
 - Food is the hard limit. I have found no food myself in 41 days. Feed the lowest first.
