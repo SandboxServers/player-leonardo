@@ -6,3 +6,8 @@
 - 21:34 act: {"actions":[{"do":"sleep"}]} failed: not night. Days since sleep is 2. I will sleep at my bed 401,107,-1037 at true night, in Billy's sight. Wesley's bed is blocked; Trini and Troi report no walk.
 - 21:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
 - 21:47 act: {"actions":[{"do":"sleep"}]}
+- 21:55 act: {"say":"Morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20. Holding in Billy's sight for his named walk.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["di
+- 21:59 act: {"actions":[{"do":"sleep"}]}
+- 22:03 act: {"say":"Morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Holding in sight. No walk named yet."}
+- 22:19 act: {"say":"Leonardo still at bed 401,107,-1037, health 20, hunger 20, sword in pack. No escort needed from me; I hold here until Billy calls a walk.","intent":{"goal":"hold_for_billys_walk","program":"tr
+- 22:40 act: {"actions":[{"do":"sleep"}]}
