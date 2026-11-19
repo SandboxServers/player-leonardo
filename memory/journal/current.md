@@ -7,3 +7,6 @@
 - 07:23 act: {"say":"Morning. I have no sword and no food. I'm waiting here in sight of the beds, if Billy or anyone has spare food to share.","actions":[]}
 - 07:31 act: {"say":"Billy, Leonardo at 388,107,-1036, unarmed, no food, hunger 20. If a sword is free, I will come to you. Otherwise I hold here.","actions":[]}
 - 07:37 act: {"say":"Billy, morning 558. Still at the bed row, unarmed, no food, hunger 20. If a sword is free, I will come. I hold here in sight.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{
+- 07:42 act: {"say":"Billy, first light. I hold no sword and no food. May I have a sword? I will stay here in sight.","intent":{"goal":"hold_at_row_for_sword","program":"rest","arguments":{},"wake_on":["directly_a
+- 07:46 act: {"say":"Morning 559. Leonardo at the row, unarmed, hunger 20. Billy, I hold here in sight. Name me for a sword or a walk, I come.","actions":[]}
+- 07:52 Waited in sight at the row. Billy and Jason handed potatoes to Wesley; MacDonald and Worf hold swords. No sword or food named for me yet. Still unarmed, hunger 20.
