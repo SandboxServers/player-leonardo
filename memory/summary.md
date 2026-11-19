@@ -1,8 +1,8 @@
 # Summary
 
-I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1051.
+I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at my spot 402,107,-1037 beside the bed at 401,107,-1037, in Billy's sight. Slept at night 588 by `sleep`; day 588 written.
+Where I am: beside my bed at 401,107,-1037, in Billy's sight. Slept at night 589 with `sleep`.
 What I hold: a wooden sword. Health 20, hunger 20. No food.
 
 Lessons:

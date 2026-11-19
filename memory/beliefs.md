@@ -26,5 +26,7 @@ Still true:
 - Phantoms and bows are the danger at night, to the southwest and northeast. Trini died to phantoms at the row on day 446.
 - Sleep is refused in daylight, at dusk before true night, and when a skeleton or phantom is within about 10 blocks.
 
+Day 589: the group held all day at the row. Billy names no walk until a west route is verified; nobody has verified it. This matches the rule above.
+
 What I am curious about next: whether the west route opens (ask Worf about the planks on 579-580); campfire fuel; whether a drawn mechanism moves.
 Who I could tell: Billy first (walk decisions), then Worf (planks).
