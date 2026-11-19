@@ -1,9 +1,9 @@
 # Goals
 
-Ranked, updated day 570 night.
+Ranked, updated day 571 night.
 
-1. Join Billy's walk in daylight with my wooden sword, when he names it. Reason: armed now (sword received day 569); stay in sight on walks.
-2. Find food myself or take a share from Wesley/Troi's potatoes when I am at 6 or below. Reason: I hold none; hunger 20.
+1. Stay in Billy's sight at the row; join his named daylight walks with my wooden sword. Reason: armed; walks are how food and oak come.
+2. Take food only when named or when I am at 6 or below (Clark's and Troi's potatoes). Reason: no food held; hunger 20.
 3. Feed the lowest first. Reason: group rule.
 4. Sleep at true night beside a bed, in Billy's sight, with no spider or enderman in view.
 5. Ask Billy once per day for a bed cell if I lose mine.
