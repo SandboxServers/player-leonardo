@@ -10,3 +10,26 @@
 - 07:42 act: {"say":"Billy, first light. I hold no sword and no food. May I have a sword? I will stay here in sight.","intent":{"goal":"hold_at_row_for_sword","program":"rest","arguments":{},"wake_on":["directly_a
 - 07:46 act: {"say":"Morning 559. Leonardo at the row, unarmed, hunger 20. Billy, I hold here in sight. Name me for a sword or a walk, I come.","actions":[]}
 - 07:52 Waited in sight at the row. Billy and Jason handed potatoes to Wesley; MacDonald and Worf hold swords. No sword or food named for me yet. Still unarmed, hunger 20.
+- 07:56 act: {"actions":[{"do":"note","text":"Morning 559. Holding at the bed row in sight, unarmed, no food. Asked Billy once for a sword."}],"say":"Billy, morning 559. Leonardo at the bed row, unarmed, hunger 20
+- 08:04 act: {"actions":[{"do":"note","text":"Midday 559. Still at bed row in sight, unarmed, no food. Billy's group handing potatoes to Wesley; none for me yet. Holding."}]}
+- 08:04 act: {"actions":[],"say":"Holding at the bed row in sight, unarmed, no food. Billy, name me if there is a sword or food for me.","intent":{"goal":"hold_at_row_in_sight","program":"rest","arguments":{},"wak
+- 08:08 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1046}}],"say":"Coming to you now, Billy, for the potatoes. Unarmed."}
+- 08:08 act: {"actions":[],"say":"Leonardo here at 417,107,-1045 beside MacDonald, unarmed, no food. Billy, I do not see you. Name me when you are in sight and I will take the potatoes."}
+- 08:11 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Billy, I am coming to you for the potatoes. Unarmed, hunger 20."}
+- 08:11 act: {"actions":[{"do":"note","text":"Midday 559. Walked to 417,107,-1045 by MacDonald. Billy is out of my sight, so goto failed. Holding here unarmed, hunger 20, until Billy is in sight."}],"say":"Billy i
+- 08:11 act: {"actions":[{"do":"goto","target":"ag_billy_01"}]}
+- 08:11 act: {"actions":[{"do":"note","text":"Midday 559. Reached Billy at 417,107,-1045. My hunger is 20, so the potatoes are for Wesley first. Still no sword for me."}],"say":"Billy, I am beside you, hunger 20. 
+- 08:15 act: {"actions":[{"do":"note","text":"Afternoon 560. Holding in Billy's sight at 417,107,-1045. Still unarmed, hunger 20, no food named for me. Dusk coming; will sleep by the bed at 413,107,-1042 when true
+- 08:20 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Phantom on me, health 18, unarmed. Moving to the white bed at 413,107,-1042 near MacDonald to sleep in sight."}
+- 08:24 act: {"actions":[],"say":"Morning 560. Leonardo at the row, health 20, unarmed. Billy, I ask once for a sword. I stay in sight and will wait for your call."}
+- 08:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 08:36 act: {"actions":[],"say":"Morning 561. Leonardo at the row, health 20, hunger 20, unarmed. Billy, if a sword comes, I ask for it once today. I hold in sight for your walk call."}
+- 08:48 act: {"actions":[{"do":"sleep"}],"say":"Dusk 561, Leonardo at the bed by the row in sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call at first light."}
+- 08:53 act: {"actions":[],"say":"Morning 562. Leonardo at the row, health 20, hunger 20, unarmed. Billy, I ask once today for a sword. I hold in sight for your walk."}
+- 09:01 act: {"actions":[{"do":"sleep"}],"say":"Night 562, Leonardo in the row's sight at the bed, unarmed, health 20, hunger 20. Sleeping."}
+- 09:09 act: {"intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_bloc
+- 09:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk 562. Leonardo at my bed in the row, unarmed, health 20, hunger 20. Sleeping in Billy's sight; I hold for his 
+- 09:17 act: {"actions":[{"do":"note","text":"Morning 563. Leonardo at my bed in the row, unarmed, health 20, hunger 20. Asked Billy once for a sword; holding in sight."}],"say":"Billy, morning 563. Leonardo at th
+- 09:34 act: {"actions":[{"do":"note","text":"Day 564 daytime. Leonardo at my bed in the row, unarmed, health 20, hunger 20. Asked Billy once for a sword; holding in sight."}],"say":"Billy, Leonardo at the row, da
+- 09:42 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at my bed in the row, unarmed, health 20, hunger 20. Going to sleep here in Billy's sight."}
+- 09:58 say: {"text":"Morning 565. Billy, Leonardo here, unarmed, hunger 20. Could I have a sword when one is free? I hold at 416,107,-1037."}
