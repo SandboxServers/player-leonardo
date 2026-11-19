@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1051.
 
-Where I am: bed 415,107,-1037 at the row (my bed is 401,107,-1036 at 401,107,-1036 per recent sightings; use `sleep` when `use` fails). Slept at night 584 (day 584 done).
+Where I am: near bed 402,107,-1037 at the row. My bed is 401,107,-1036 or 401,107,-1037. Slept at night 584; day 584 written.
 What I hold: a wooden sword. Health 20, hunger 20. No food.
 
 Lessons:
