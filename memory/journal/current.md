@@ -43,3 +43,6 @@
 - 10:33 act: {"actions":[{"do":"sleep"}]}
 - 10:34 act: {"actions":[{"do":"sleep"}]}
 - 567 night: slept at bed 415,107,-1037 in Billy's sight; first try 5 of 10 asleep, second try worked. Unarmed, hunger 20, no errand running. Waiting for first light.
+- 10:38 act: {"actions":[{"do":"note","text":"Morning 567 at bed 416,107,-1037. Unarmed, hold nothing, health 20, hunger 20."}],"say":"Billy, Leonardo at bed 415,107,-1037 in your sight. Unarmed, hunger 20, holdin
+- 10:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk 567. Leonardo going to my bed at 415,107,-1037 in Billy's row sight. Unarmed, hunger 20, no errand running. H
+- 10:47 act: {"actions":[{"do":"sleep"}]}
