@@ -1,13 +1,13 @@
 # Summary
 
-I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-419, z -1023 to -1051.
+I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-431, z -1023 to -1051.
 
-Where I am: bed 415,107,-1037 in Billy's row, in sight. Slept at night 572 (day 572 done).
+Where I am: bed 415,107,-1037 at the row, in Billy's sight. Slept at night 573 (day 573 done).
 What I hold: a wooden sword. Hunger 20, health 20. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
-- Sleep beside a bed at true night with no monster in view. Sleep can take two tries.
+- Sleep beside a bed at true night with no monster in view.
 - Food is the limit. Feed the lowest first.
 - Wait for Billy's named walks; hand-offs go through the group.
 
@@ -19,4 +19,4 @@ Places:
 I owe: Worf, oak logs for his planks (ask first).
 Owed to me: Clark, two oak planks. Billy, a bed cell and food for the lowest.
 
-Goodnight, day 572.
+Goodnight, day 573.
