@@ -11,3 +11,4 @@
 - 22:03 act: {"say":"Morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Holding in sight. No walk named yet."}
 - 22:19 act: {"say":"Leonardo still at bed 401,107,-1037, health 20, hunger 20, sword in pack. No escort needed from me; I hold here until Billy calls a walk.","intent":{"goal":"hold_for_billys_walk","program":"tr
 - 22:40 act: {"actions":[{"do":"sleep"}]}
+- 22:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Sleeping in Billy's sight. No walk named."}
