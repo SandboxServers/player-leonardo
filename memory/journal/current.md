@@ -13,3 +13,8 @@
 - 06:02 act: {"say":"A spider 10 blocks from me at dusk stops my sleep, again. I am at bed 387,107,-1037, unarmed. Holding here in sight.","reasoning":"Spider blocks sleep; unarmed so I won't chase it. Report and 
 - 06:17 act: {"actions":[{"do":"sleep"}],"say":"Sleeping at bed 387,107,-1037, in the row's sight. Unarmed, hunger 20.","reasoning":"Night, bed beside me, no entities in view. Sleep."}
 - 06:17 act: {"actions":[],"say":"A spider 10 blocks from bed 387,107,-1037 has blocked my sleep for 27 minutes. Could someone with a sword look for it? I am unarmed and staying put.","reasoning":"Persistent spide
+- 06:29 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. No spider or enderman in view. Going to sleep in the bed."}
+- 06:31 act: {"actions":[{"do":"sleep"}],"say":"Still at bed 387,107,-1037, unarmed. No spider in my view. Trying sleep again."}
+- 06:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trying the other bed, 387,107,-1036, in Billy's sight. Unarmed, no food."}
+- 06:35 act: {"actions":[],"say":"Morning 555. Leonardo at the row, unarmed, no food, hunger 20. Billy, a sword when one is spare, please. I hold still in your sight."}
+- 06:43 act: {"actions":[{"do":"sleep"}],"say":"Night. No monster in my view. Sleeping at bed 387,107,-1036, in Billy's sight."}
