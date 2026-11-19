@@ -18,3 +18,5 @@
 - 06:31 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Trying the other bed, 387,107,-1036, in Billy's sight. Unarmed, no food."}
 - 06:35 act: {"actions":[],"say":"Morning 555. Leonardo at the row, unarmed, no food, hunger 20. Billy, a sword when one is spare, please. I hold still in your sight."}
 - 06:43 act: {"actions":[{"do":"sleep"}],"say":"Night. No monster in my view. Sleeping at bed 387,107,-1036, in Billy's sight."}
+- 06:49 act: {"say":"Leonardo here, morning 555, unarmed and empty-handed. Could anyone spare a sword, or any food for the lowest? I will hold still in sight."}
+- 06:54 act: {"say":"Leonardo, hunger 20, health 20, no sword, no food. Wesley is the lowest; give him the potatoes. I stay here in sight.","actions":[{"do":"note","text":"Day 556: still unarmed and empty, hunger 
