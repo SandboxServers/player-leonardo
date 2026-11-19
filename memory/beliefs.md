@@ -30,5 +30,7 @@ Day 589: the group held all day at the row. Billy names no walk until a west rou
 
 Day 594: holding at the row again. Wesley's bed 415,107,-1050 refused sleep ("way blocked", three times); beds can be refused. Billy's rule holds: no walk until the west route is verified.
 
+Day 598: no named walk from Billy all day. Trini's walk to her bed 429,107,-1037 was blocked; the bed takes her only at night. Holding in sight kept me safe; food stayed the limit (no food in pack).
+
 What I am curious about next: whether the west route opens (ask Worf about the planks on 579-580); campfire fuel; whether a drawn mechanism moves.
 Who I could tell: Billy first (walk decisions), then Worf (planks).
