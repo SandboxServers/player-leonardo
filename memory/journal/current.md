@@ -3,3 +3,5 @@
 - 04:54 act: {"actions":[{"do":"sleep"}]}
 - 04:58 act: said I am unarmed and have no food, and will hold still in Billy's sight for a spare sword or food.
 - 05:00 wait: no one gave me anything. Meriwether asked Billy for potatoes. Still day 550, holding still in the row.
+- 05:03 act: {"say":"Trini, I hold no sword now; my pack is empty. I am sorry. Billy, I stand still in your sight and ask for a sword and food for the lowest.","intent":{"goal":"hold_still_and_ask","program":"rest
+- 05:11 act: {"say":"Billy, Leonardo, unarmed and hungry, holding at the row in your sight until you return from the potato walk. Lewis first.","intent":{"goal":"hold_at_row_for_billy","program":"rest","arguments"
