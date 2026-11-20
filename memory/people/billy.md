@@ -1,6 +1,6 @@
 # Billy
 
-Impression: leader of the group at the bed row (around 387-401, z -1023 to -1046). Careful and watchful; he counts us each morning and holds the rotten flesh. But he has held everyone for a cow walk and a sword in hand for over 40 days, and has named no bed cell for me.
+Impression: leader of the group at the bed row (around 387-401, z -1023 to -1046). Careful and watchful; he counts us each morning and holds the rotten flesh. Day 635: no walk named for me again; I held in his sight all day.
 
 Trust: 45/100. Why: he keeps us safe and fed when he gives food, but his promised walk and bed cell never came for me.
 

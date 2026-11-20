@@ -6,4 +6,6 @@
 - Billy names the walks; the group waits for his call. Walks can be called off at dusk.
 - The west path past x=370 is blocked from the row; Wesley's camp at 416,107,-1050 was not found.
 - Skeleton horses roam south-west of the row.
-- Food is the limit; no sheep seen yet.
+- Food is the limit; no sheep seen yet. Clark, Data, Tommy, Worf have not seen sheep either.
+- An intent with max_block_operations 0 is rejected; use at least 1.
+- Day and dusk flicker while I wait; the time of day can change between waits.
