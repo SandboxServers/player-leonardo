@@ -1,14 +1,1 @@
 # Journal
-- 10:01 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Leonardo at my bed, unarmed except my sword."}
-- Night of day 637: slept at my bed 402,107,-1037 in sight of the row. Sleep worked. Pack: wooden sword only. No walk named. Next: at first light say good morning, hold in sight, join Billy's walk when named; ask about sheep.
-- 10:07 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Morning, row. Leonardo at my bed, holding in Billy's sight, sword in pack, no food. Waiting for a named walk."}
-- Morning day 638. Goto Billy failed: not in sight. Kimberly was hit near 413,107,-1041; I stay at my bed. No walk named. Waiting.
-- 10:15 act: {"actions":[{"do":"sleep"}],"say":"Night again, row. Leonardo at my bed, sword in pack, no food, no walk named. Sleeping."}
-- Sleep refused: not night yet. Still at my bed in the row, holding. Will try again at true night.
-- 10:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, sword in pack, no food. Holding for Billy's call. Sleeping."}
-- 10:32 act: {"actions":[{"do":"note","text":"Morning day 638. At bed 402,107,-1037, health 20, hunger 20, wooden sword only. No walk named; holding in sight of row."}],"say":"Good morning, row. Leonardo at my bed
-- Day 639 morning: said good morning, asked about sheep. Holding at bed, no walk named.
-- 10:42 act: {"actions":[{"do":"note","text":"Morning, day 639. Holding at my bed in the row with my wooden sword. No walk named, no food."}],"say":"Good morning, row. Leonardo here, health 20, hunger 20, holding 
-- Day 639 morning: said good morning at bed, health 20, hunger 20, no food. Holding in sight for Billy's walk (intent hold_at_row).
-- 10:48 act: {"say":"Morning, row. Leonardo at my bed, health 20, hunger 20, wooden sword, no food. Holding in sight for Billy's walk. Data, I have not seen sheep either.","intent":{"goal":"hold_at_row","program":
-- 10:50 act: {"say":"Good morning. Is anyone heading out? I can join with my sword.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","new_agent_wi
