@@ -11,3 +11,6 @@
 - 19:31 act: {"actions":[{"do":"note","text":"Day 666 morning. At bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. No walk named; no sheep seen."}],"say":"Good morning, Billy. Leonardo at my bed, health 2
 - 19:39 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Leonardo at my bed, health 20, hunger 20. No walk named; sleeping in Billy's sight."}
 - 19:43 act: {"actions":[{"do":"note","text":"Day 667 morning. At bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. Still no walk named; no sheep seen."}]}
+- 19:44 act: {"say":"Good morning. Is anyone heading out today? I can join a walk with my sword.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed
+- 19:52 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Leonardo at my bed, health 20, hunger 20. No walk named; sleeping in Billy's sight."}
+- 19:52 act: {"actions":[{"do":"sleep"}]}
