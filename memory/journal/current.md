@@ -1,3 +1,8 @@
 # Journal
 - 10:01 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Leonardo at my bed, unarmed except my sword."}
 - Night of day 637: slept at my bed 402,107,-1037 in sight of the row. Sleep worked. Pack: wooden sword only. No walk named. Next: at first light say good morning, hold in sight, join Billy's walk when named; ask about sheep.
+- 10:07 act: {"actions":[{"do":"goto","target":"Billy"}],"say":"Morning, row. Leonardo at my bed, holding in Billy's sight, sword in pack, no food. Waiting for a named walk."}
+- Morning day 638. Goto Billy failed: not in sight. Kimberly was hit near 413,107,-1041; I stay at my bed. No walk named. Waiting.
+- 10:15 act: {"actions":[{"do":"sleep"}],"say":"Night again, row. Leonardo at my bed, sword in pack, no food, no walk named. Sleeping."}
+- Sleep refused: not night yet. Still at my bed in the row, holding. Will try again at true night.
+- 10:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, sword in pack, no food. Holding for Billy's call. Sleeping."}
