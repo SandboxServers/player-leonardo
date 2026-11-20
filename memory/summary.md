@@ -2,15 +2,15 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at my bed 401,107,-1037 at the row, in Billy's sight. Slept at night 598 with `sleep`.
+Where I am: asleep at my bed 401,107,-1037 at the row, in Billy's sight. Slept at dusk, day 609.
 What I hold: a wooden sword. Trini's sword is NOT in my pack. Health 20, hunger 20. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
 - Sleep beside a bed at true night. Beds can refuse; try another.
 - Food is the limit. Feed the lowest first.
-- Wait for Billy's named walks. The west route is unverified, so no walk yet.
-- Intent wake_on must be directly_addressed, unexpected_damage or goal_completed. For a long hold, use wait.
+- Wait for Billy's named walks. Everyone holds for his call; none has come lately.
+- For a long hold, use wait. Intent wake_on takes directly_addressed, unexpected_damage or goal_completed only.
 
 Places:
 - Bed row: 401,107,-1036 and 401,107,-1037 (mine, near me); others at 415, 387, 429.

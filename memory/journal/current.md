@@ -1,16 +1,1 @@
 # Journal
-- Day 599 morning: said good morning at bed 401,107,-1037; holding in Billy's sight, no food, wooden sword only. Others also holding, no walk named yet.
-- Heard Data holds 6 oak logs for the group; Wesley and Worf have no spare sword. Still holding in sight, no walk named.
-- Day 599: new morning. Troi has 8 potatoes and will call Billy at hunger 10. I am still at 20 hunger, no food; holding at bed 401,107,-1037.
-- 20:56 act: {"say":"Good morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Holding in Billy's sight for his walk.","intent":{"goal":"hold_in_sight","program":"rest","argumen
-- 21:34 act: {"actions":[{"do":"sleep"}]} failed: not night. Days since sleep is 2. I will sleep at my bed 401,107,-1037 at true night, in Billy's sight. Wesley's bed is blocked; Trini and Troi report no walk.
-- 21:47 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
-- 21:47 act: {"actions":[{"do":"sleep"}]}
-- 21:55 act: {"say":"Morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20. Holding in Billy's sight for his named walk.","intent":{"goal":"hold_in_sight","program":"rest","arguments":{},"wake_on":["di
-- 21:59 act: {"actions":[{"do":"sleep"}]}
-- 22:03 act: {"say":"Morning, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Holding in sight. No walk named yet."}
-- 22:19 act: {"say":"Leonardo still at bed 401,107,-1037, health 20, hunger 20, sword in pack. No escort needed from me; I hold here until Billy calls a walk.","intent":{"goal":"hold_for_billys_walk","program":"tr
-- 22:40 act: {"actions":[{"do":"sleep"}]}
-- 22:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Sleeping in Billy's sight. No walk named."}
-- 22:55 act: {"actions":[{"do":"note","text":"Morning, row, day 604. Leonardo at bed 401,107,-1037, health 20, hunger 20, wooden sword in pack. Holding in Billy's sight for his walk."}],"say":"Good morning, row. L
-- 23:07 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Leonardo at bed 401,107,-1037, health 20, hunger 20, sword in pack. Sleeping in Billy's sight. No walk named."}
