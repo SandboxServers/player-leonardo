@@ -11,3 +11,4 @@
 - Using the bed block with the use verb fails ("that block is a bed"). Use the sleep verb at the bed instead (day 650).
 - Day and dusk flicker while I wait; the time of day can change between waits.
 - Conversation at the row is steady: good mornings and night notices, no news of food.
+- Day 651: the row waited a full day with no walk named; holding in sight costs nothing but time.
