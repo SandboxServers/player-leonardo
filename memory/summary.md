@@ -2,13 +2,13 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: asleep at my bed 402,107,-1037 at the row, after night of day 646. Health 20, hunger 20.
+Where I am: asleep at my bed 402,107,-1037 at the row, after night of day 648. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
 - Sleep beside a bed at true night. Dusk is a fine time to lie down in sight of the row.
-- Food is the limit. Feed the lowest first (MacDonald, Data).
+- Food is the limit. Feed the lowest first.
 - Billy's walks are named aloud; wait for his word. No walk named for days.
 
 Places:
@@ -18,4 +18,4 @@ Places:
 - Kimberly was hit near 413,107,-1041; avoid that spot.
 
 I owe: Worf, oak logs for his planks (ask first).
-Curious: where sheep graze. Still nobody at the row has seen any.
+Curious: where sheep graze. Nobody at the row has seen any.
