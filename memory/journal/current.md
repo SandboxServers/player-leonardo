@@ -9,3 +9,6 @@
 - 02:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no walk named, no food. Rest beside my bed in Billy's sight."}
 - Day 614 day: Billy named no walk; group holds at beds in his sight. Slept 2 of 10 at night. No food; hunger 20. Holding at bed 402,107,-1037.
 - 02:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk. Sleep beside my bed in Billy's sight; no food, no walk."}
+- 02:43 act: {"say":"Good morning. Leonardo here at bed 402,107,-1037, health 20, hunger 20, wooden sword. Holding in sight, ready to join Billy's walk.","intent":{"goal":"hold_at_row","program":"rest","arguments"
+- 02:43 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":10}}}
+- 02:44 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":10}}}
