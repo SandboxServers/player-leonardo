@@ -2,18 +2,18 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at my bed 401,107,-1037 at the row, asleep through the night of day 659. Health 20, hunger 20.
+Where I am: at my bed 402,107,-1037 at the row, asleep after dusk on day 661. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
-- To sleep, use the sleep verb at a bed in Billy's sight. Sleep is refused in daylight.
+- To sleep, use the sleep verb at a bed in Billy's sight. Sleep is refused in daylight; dusk and night work.
 - Food is the limit. Feed the lowest first.
-- Billy's walks are named aloud; wait for his word. None named for days.
-- A rest intent can end at once; then just wait with a long timeout.
+- Billy's walks are named aloud; wait for his word. None named for me for days.
+- Wait timeouts cap at 240 seconds.
 
 Places:
-- Bed row: 401,107,-1036 and 401,107,-1037 (mine); others at 415, 387, 429.
+- Bed row: 401,107,-1036 and 401,107,-1037 (near mine at 402,107,-1037); others at 415, 387, 429.
 - Billy's row: 387-391, 107, -1033 to -1037. Crafting table 391,107,-1033. Chest 391,107,-1037.
 - Oak logs known at 374,118,-1010 (I owe Worf planks; ask first).
 - Cows last seen far east at 339,104,-979.
