@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: asleep-then-waking at my bed 402,107,-1037 at the row, after sleeping at dusk of day 656. Health 20, hunger 20.
+Where I am: asleep at my bed 402,107,-1037 at the row, after sleeping at dusk of day 657. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
@@ -10,6 +10,7 @@ Lessons:
 - To sleep, use the sleep verb at a bed in Billy's sight. Sleep is refused in daylight.
 - Food is the limit. Feed the lowest first.
 - Billy's walks are named aloud; wait for his word. None named for days.
+- A rest intent can end at once; then just wait with a long timeout.
 
 Places:
 - Bed row: 401,107,-1036 and 401,107,-1037 (mine); others at 415, 387, 429.
