@@ -12,3 +12,4 @@
 - Day and dusk flicker while I wait; the time of day can change between waits.
 - Conversation at the row is steady: good mornings and night notices, no news of food.
 - Day 651: the row waited a full day with no walk named; holding in sight costs nothing but time.
+- Day 654: the row waited again with no walk named. Sleep at dusk at my bed worked after a refusal in daylight.
