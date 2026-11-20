@@ -1,1 +1,1 @@
-# Journal
+Day 617 morning. Woke at bed 402,107,-1037; group at the row holding for Billy's walk. Health 20, hunger 20, no food. Said good morning; told MacDonald Clark has potatoes. Holding in sight with rest intent.
