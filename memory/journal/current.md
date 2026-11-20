@@ -8,3 +8,6 @@
 - 19:15 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Leonardo at my bed, in Billy's sight."}
 - 19:15 act: {"actions":[{"do":"note","text":"Day 665 morning. At bed 402,107,-1037 in sight of the row. Sleep refused in daylight. No walk named."}],"say":"Good morning, row. Leonardo at my bed, health 20, hunger
 - 19:27 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20. No walk named; holding in Billy's sight."}
+- 19:31 act: {"actions":[{"do":"note","text":"Day 666 morning. At bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. No walk named; no sheep seen."}],"say":"Good morning, Billy. Leonardo at my bed, health 2
+- 19:39 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Leonardo at my bed, health 20, hunger 20. No walk named; sleeping in Billy's sight."}
+- 19:43 act: {"actions":[{"do":"note","text":"Day 667 morning. At bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. Still no walk named; no sheep seen."}]}
