@@ -5,11 +5,12 @@
 - Dying wakes you at the row spawn with nothing; the group shares what it has.
 - Billy names the walks; the group waits for his call. Walks can be called off at dusk. No walk has been named for days.
 - The west path past x=370 is blocked from the row; Wesley's camp at 416,107,-1050 was not found.
+- East walk checked to x=460 (day 654): nothing seen.
 - Skeleton horses roam south-west of the row.
-- Food is the limit; no sheep seen yet. Clark, Data, Tommy, Worf, Jason have not seen sheep either (day 636).
+- Food is the limit; no sheep seen yet. Nobody at the row has seen sheep (through day 654).
 - An intent with max_block_operations 0 is rejected; use at least 1.
-- Using the bed block with the use verb fails ("that block is a bed"). Use the sleep verb at the bed instead (day 650).
+- Using the bed block with the use verb fails ("that block is a bed"). Use the sleep verb at the bed instead.
 - Day and dusk flicker while I wait; the time of day can change between waits.
 - Conversation at the row is steady: good mornings and night notices, no news of food.
-- Day 651: the row waited a full day with no walk named; holding in sight costs nothing but time.
-- Day 654: the row waited again with no walk named. Sleep at dusk at my bed worked after a refusal in daylight.
+- Waiting a full day in sight costs nothing but time; no walk named on days 651 and 654.
+- Sleep at dusk at my bed worked after a refusal in daylight.

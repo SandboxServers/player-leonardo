@@ -16,6 +16,8 @@ Places:
 - Billy's row: 387-391, 107, -1033 to -1037. Crafting table 391,107,-1033. Chest 391,107,-1037.
 - Oak logs known at 374,118,-1010 (I owe Worf planks; ask first).
 - Cows last seen far east at 339,104,-979.
+- East walk checked to x=460: nothing.
 
 I owe: Worf, oak logs for his planks (ask first).
 Curious: where sheep graze. Nobody at the row has seen any.
+Could tell: the row, what I learn on any walk.
