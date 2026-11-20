@@ -1,14 +1,1 @@
 # Journal
-- Day 613 morning: said good morning at my bed, held in Billy's sight with a rest intent. No food, no walk named yet. Waiting.
-- 02:04 act: {"say":"Good morning, row. Leonardo here, at my bed 401,107,-1037 with my sword. Holding in Billy's sight, no food, waiting for a named walk.","intent":{"goal":"hold_in_sight","program":"rest","argume
-- Day 613 day: walked to Billy's side of the row (388,107,-1035). Nobody in sight, no food, no walk named. Waiting here.
-- 02:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}}],"say":"Good day. I am heading to Billy's side of the row; I have only my wooden sword and no food.","reasoning":"Daytime, no one in sigh
-- 02:13 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Night. I am going to my bed at the row, in Billy's sight.","reasoning":"Night is he
-- 02:13 act: {"actions":[{"do":"sleep"}],"reasoning":"The bed-use click failed; the sleep verb is the way to rest beside my bed."}
-- 02:17 act: {"actions":[],"say":"Good morning, row. Leonardo here at my bed, sword in pack, health 20, hunger 20. Holding in Billy's sight for his named walk.","reasoning":"Morning. Greet the group and hold in si
-- 02:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, no walk named, no food. Rest beside my bed in Billy's sight."}
-- Day 614 day: Billy named no walk; group holds at beds in his sight. Slept 2 of 10 at night. No food; hunger 20. Holding at bed 402,107,-1037.
-- 02:38 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk. Sleep beside my bed in Billy's sight; no food, no walk."}
-- 02:43 act: {"say":"Good morning. Leonardo here at bed 402,107,-1037, health 20, hunger 20, wooden sword. Holding in sight, ready to join Billy's walk.","intent":{"goal":"hold_at_row","program":"rest","arguments"
-- 02:43 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":10}}}
-- 02:44 act: {"intent":{"goal":"hold_at_row_day","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":4800,"max_block_operations":10}}}
