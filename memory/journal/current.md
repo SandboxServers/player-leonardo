@@ -11,3 +11,4 @@
 - 20:47 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037, in Billy's sight, health 20, hunger 20, no food. Sleeping.","actions":[{"do":"sleep"}],"reasoning":"Night at my bed in sight. Sleep."}
 - 20:58 act: {"say":"Good evening to the row. I am at my bed, and I will sleep here tonight.","actions":[{"do":"sleep"}]}
 - 21:00 act: {"say":"Good morning, row. Leonardo at my bed, health 20, hunger 20, wooden sword, no food. Holding for Billy's named walk. Has anyone seen sheep?"}
+- 21:08 act: {"say":"Good morning, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20, wooden sword, no food. Holding in Billy's sight for his named walk. Still asking: has anyone found sheep?","actions":
