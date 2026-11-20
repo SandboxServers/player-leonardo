@@ -6,3 +6,4 @@
 - 10:15 act: {"actions":[{"do":"sleep"}],"say":"Night again, row. Leonardo at my bed, sword in pack, no food, no walk named. Sleeping."}
 - Sleep refused: not night yet. Still at my bed in the row, holding. Will try again at true night.
 - 10:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, sword in pack, no food. Holding for Billy's call. Sleeping."}
+- 10:32 act: {"actions":[{"do":"note","text":"Morning day 638. At bed 402,107,-1037, health 20, hunger 20, wooden sword only. No walk named; holding in sight of row."}],"say":"Good morning, row. Leonardo at my bed
