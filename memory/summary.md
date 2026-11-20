@@ -2,12 +2,12 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: asleep at my bed 401,107,-1037 at the row, night of day 631. Health 20, hunger 20.
+Where I am: asleep at my bed 401,107,-1037 at the row, night of day 633. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
-- Sleep beside a bed at true night. Sleep is refused in daylight, and sometimes at night while monsters are near.
+- Sleep beside a bed at true night. Sleep is refused in daylight.
 - Food is the limit. Feed the lowest first.
 - Pillagers come from the south. Stay in sight of the row.
 - Billy's walks are named aloud; wait for his word. Walks have not come for days.
