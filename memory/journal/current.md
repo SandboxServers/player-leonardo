@@ -9,3 +9,5 @@
 - 10:32 act: {"actions":[{"do":"note","text":"Morning day 638. At bed 402,107,-1037, health 20, hunger 20, wooden sword only. No walk named; holding in sight of row."}],"say":"Good morning, row. Leonardo at my bed
 - Day 639 morning: said good morning, asked about sheep. Holding at bed, no walk named.
 - 10:42 act: {"actions":[{"do":"note","text":"Morning, day 639. Holding at my bed in the row with my wooden sword. No walk named, no food."}],"say":"Good morning, row. Leonardo here, health 20, hunger 20, holding 
+- Day 639 morning: said good morning at bed, health 20, hunger 20, no food. Holding in sight for Billy's walk (intent hold_at_row).
+- 10:48 act: {"say":"Morning, row. Leonardo at my bed, health 20, hunger 20, wooden sword, no food. Holding in sight for Billy's walk. Data, I have not seen sheep either.","intent":{"goal":"hold_at_row","program":
