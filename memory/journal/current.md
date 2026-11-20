@@ -1,2 +1,3 @@
 Day 617 morning. Woke at bed 402,107,-1037; group at the row holding for Billy's walk. Health 20, hunger 20, no food. Said good morning; told MacDonald Clark has potatoes. Holding in sight with rest intent.
 - 03:26 act: {"actions":[{"do":"note","text":"Morning at the row, day 617. Holding in sight of the group, waiting for Billy's named walk."}],"say":"Good morning, row. Leonardo at my bed, health 20, hunger 20, wood
+- 03:35 act: {"reasoning":"Morning, at my bed, in sight of the row. Hunger full, so no food needed. Hold for Billy's named walk.","say":"Good morning. Leonardo at my bed, in sight of the row, holding for Billy's w
