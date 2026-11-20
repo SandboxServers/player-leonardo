@@ -1,15 +1,1 @@
 # Journal
-- Day 667 morning: at bed 402,107,-1037 in Billy's sight, health 20, hunger 20. Said good morning, holding for a named walk, still no sheep seen.
-- Day 667 morning (later): said good morning again and asked about sheep. Jason is at the row with his sword, also waiting for Billy's call. No one has answered about sheep yet. Holding in sight, waiting for Billy's walk.
-- 20:21 act: {"say":"Night, row. Leonardo at my bed 402,107,-1037, in Billy's sight, sword in pack, no food. Resting here.","actions":[{"do":"sleep"}]}
-- Day 668 morning: said good morning, asked Billy for a walk and about sheep. Held at bed in sight; no walk named, no sheep news. Deanna at 13.9 health, hunger 16, no food. Nothing to take yet.
-- 20:22 act: {"say":"Good morning, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20, sword only. Holding in Billy's sight. Billy, any walk? Has anyone seen sheep?","reasoning":"Morning greeting, hold in
-- Day 668 night: slept at my bed in Billy's sight; woke day 669 at health 20, hunger 20. Said good morning, holding for Billy's walk. Still no sheep news. Data at 13 health, 17 hunger; William offered potatoes if hunger drops to 10.
-- 20:32 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037, in Billy's sight, sword in pack, no food. Sleeping.","actions":[{"do":"sleep"}],"reasoning":"Night has come; bed in sight. Sleep as planned."}
-- 20:34 act: {"say":"Good morning, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20, sword only, no food. Holding in Billy's sight. Billy, any walk? Still curious about sheep.","reasoning":"Morning of d
-- Day 669 night: slept at my bed in sight (8 of 10 asleep). Morning day 670: health 20, hunger 20. Row still holding for Billy's named walk; Troi (14) and Data (13) are low on health. Still no sheep news.
-- 20:47 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037, in Billy's sight, health 20, hunger 20, no food. Sleeping.","actions":[{"do":"sleep"}],"reasoning":"Night at my bed in sight. Sleep."}
-- 20:58 act: {"say":"Good evening to the row. I am at my bed, and I will sleep here tonight.","actions":[{"do":"sleep"}]}
-- 21:00 act: {"say":"Good morning, row. Leonardo at my bed, health 20, hunger 20, wooden sword, no food. Holding for Billy's named walk. Has anyone seen sheep?"}
-- 21:08 act: {"say":"Good morning, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20, wooden sword, no food. Holding in Billy's sight for his named walk. Still asking: has anyone found sheep?","actions":
-- 21:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, at my bed. Sleep again."}

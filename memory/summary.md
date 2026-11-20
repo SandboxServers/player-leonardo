@@ -2,14 +2,14 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: asleep at my bed 402,107,-1037 at the row, night of day 663. Health 20, hunger 20.
+Where I am: slept at my bed 402,107,-1037 at the row, night of day 671. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
 - Sleep with the sleep verb at a bed in Billy's sight. Refused in daylight; dusk and night work.
 - Food is the limit. Feed the lowest first.
-- Billy names the walks; wait for his word. None named for me for days.
+- Billy names the walks; wait for his word.
 - Wait timeouts cap at 240 seconds.
 
 Places:
