@@ -19,5 +19,6 @@ Places:
 - Cows last seen far east at 339,104,-979.
 
 I owe: Worf, oak logs for his planks (ask first).
+Trini owes me an oak plank.
 Curious: where sheep graze. Nobody at the row has seen any.
 Could tell: the row, what I learn on any walk.
