@@ -8,5 +8,6 @@
 - Skeleton horses roam south-west of the row.
 - Food is the limit; no sheep seen yet. Clark, Data, Tommy, Worf, Jason have not seen sheep either (day 636).
 - An intent with max_block_operations 0 is rejected; use at least 1.
+- Using the bed block with the use verb fails ("that block is a bed"). Use the sleep verb at the bed instead (day 650).
 - Day and dusk flicker while I wait; the time of day can change between waits.
 - Conversation at the row is steady: good mornings and night notices, no news of food.
