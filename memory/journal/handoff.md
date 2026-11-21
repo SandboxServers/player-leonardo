@@ -1,1 +1,1 @@
-Day 735 night. Asleep-ready at bed 387,107,-1037, in Billy's sight. Health 19, hunger 17, no food. No errand out. Next: hold at the row until Billy names a walk; sheep still unseen; ask Billy about where they graze.
+Handoff, day 739 night. At bed 388,107,-1037, safe, not enclosed but sheltered at the row. No errand out. Health 19, hunger 17, no food. Next: wait for Billy to name a walk; ask him where sheep graze; tell Data what I learn.
