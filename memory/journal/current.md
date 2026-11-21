@@ -2,3 +2,6 @@
 - Day 703 morning: said good morning at my bed 387,107,-1037. Health 20, hunger 20. Data holds at the row too, waiting for Billy's walk. Holding; no walk named yet.
 - 08:11 say: {"text":"Dusk. Holding at the row with my sword; no walk named yet."}
 - Day 703 dusk: holding at the row, no walk named, no food. Data went to bed. Waiting for Billy's word.
+- 08:25 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Dusk, and no one is near. I will sleep in my bed."}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
+- 08:25 act: {"actions":[{"do":"sleep"}]}
