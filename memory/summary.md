@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: asleep at my bed 402,107,-1037 after day 687. Health 20, hunger 20.
+Where I am: asleep-ready at my bed 402,107,-1037, after day 690. Health 20, hunger 20.
 What I hold: a wooden sword. No food.
 
 Lessons:
@@ -16,6 +16,7 @@ Places:
 - Billy's row: 387-391, 107, -1033 to -1037. Crafting table 391,107,-1033. Chest 391,107,-1037.
 - Oak logs known at 374,118,-1010 (I owe Worf planks; ask first).
 - Cows known at 339,104,-979 and 434,106,-1113.
+- Picard's bed 430,107,-1051: blocked for Worf on day 690.
 
 I owe: Worf, oak logs for his planks (ask first). Trini owes me an oak plank.
 Curious: where sheep graze. Nobody at the row has seen any.
