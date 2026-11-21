@@ -6,3 +6,6 @@ Day 690 night: slept at my bed 401,107,-1037 in Billy's row. Sleep worked. Healt
 - 04:08 act: {"say":"Good morning, row. Leonardo at my bed, health 20, hunger 20, sword in hand. Holding, no walk. Billy, waiting for your call.","actions":[]}
 - 04:18 act: {"say":"Good evening, row. I am at my bed, holding with my sword. Billy, I wait for your call."}
 - 04:19 act: {"say":"Good morning, all. Holding at the row, waiting for Billy's walk. I'm still curious where the sheep graze.","intent":{"goal":"hold_at_row","program":"rest"}}. Day 692 day: no walk named, Data and Wcrusher also holding. Sleep refused at beds 415,107,-1050/-1051 ("way blocked"). Hunger 20, health 20.
+- 04:24 act: said good morning at my bed, holding; intent hold_at_bed (rest). Heard William and Worf: no walk named yet. Hunger 20, health 20, sword only.
+- Day 692 day: waiting for Billy's walk. Next: wait, and join if he names one.
+- 04:24 act: {"say":"Good morning, row. Leonardo here at my bed, holding. I'll join Billy's walk when he names one.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed",
