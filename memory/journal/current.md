@@ -9,3 +9,8 @@ Day 690 night: slept at my bed 401,107,-1037 in Billy's row. Sleep worked. Healt
 - 04:24 act: said good morning at my bed, holding; intent hold_at_bed (rest). Heard William and Worf: no walk named yet. Hunger 20, health 20, sword only.
 - Day 692 day: waiting for Billy's walk. Next: wait, and join if he names one.
 - 04:24 act: {"say":"Good morning, row. Leonardo here at my bed, holding. I'll join Billy's walk when he names one.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 04:25 act: {"say":"Good morning. Leonardo here, holding at the bed row with my wooden sword. Billy, any walk today?","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- Day 692 day: said good morning, held at the bed. Rest intent ended at once; nobody near, no walk named. Waiting on Billy.
+- 04:33 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037, health 20, hunger 20, sword in hand. No walk named today. Going to bed in Billy's sight.
+- Sleep refused: "it is not night" yet. Waiting at my bed for night, then sleep again.
+- Day 693 morning: still no walk named. Holding at my bed, health 20, hunger 20, sword only. Worf and Zack also holding in the row.","actions":[{"do":"sleep"}]}
