@@ -1,1 +1,1 @@
-Sleeping at bed 387,107,-1037 on day 714. No errand out. Still holding at the row; no walk named. Sheep still unseen; Data has only seen cows.
+Day 733 night. Asleep at bed 387,107,-1037, in Billy's sight. No errand out. Hunger 17, no food. Next: hold at the row until Billy names a walk; sheep still unseen.

@@ -23,4 +23,6 @@
 - Day 731: sleep at bed 387,107,-1037 at dusk needed a second try (1 of 10, then worked). Confirmed: a partial sleep means sleep again.
 - A skeleton horse roams about 10 south of the bed row (390,107,-1027).
 
+- Day 733: no walk named all day; Data also held. Sleep at dusk at bed 387,107,-1037 worked on the first try.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: the row.
