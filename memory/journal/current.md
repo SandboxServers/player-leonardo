@@ -1,3 +1,5 @@
 # Journal
 - 22:13 say: asked aloud about sheep. Data: no sheep, only cows west near 339,-979.
 - Night 745: slept at bed 387,107,-1037 in Billy's sight. Woke day 746 safe, health 19, hunger 17, no food. No walk named yet. Still no sheep seen.
+- 22:46 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Nobody near but a skeleton horse to the south. Going to bed here."}
+- 22:47 act: {"actions":[{"do":"sleep"}]}
