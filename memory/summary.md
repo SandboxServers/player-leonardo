@@ -2,14 +2,13 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at my bed 387,107,-1037, slept at night on day 724. Health 20, hunger 20. What I hold: a wooden sword. No food.
+Where I am: at my bed 387,107,-1037, slept at night on day 726. Health 20, hunger 20. What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
-- Sleep at a bed in Billy's sight. Daytime sleep is refused; wait for night.
+- Sleep at a bed in Billy's sight. Sleep is refused until night; wait for dusk.
 - Food is the limit. Feed the lowest first.
 - Billy names the walks; wait for his word. Holding is fine when nothing is named.
-- Shouting into the row got only Data's reply.
 
 Places:
 - Bed row: 401,107,-1036 and 401,107,-1037; 387,107,-1036 and -1037.
