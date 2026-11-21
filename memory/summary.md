@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at bed 387,107,-1037, slept at dusk on day 731 (second try worked). Health 19, hunger 17. What I hold: a wooden sword. No food.
+Where I am: slept at bed 387,107,-1037 at dusk on day 731 (first try worked). Health 19, hunger 17. What I hold: a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
