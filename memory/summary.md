@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept at bed 388,107,-1037 on night of day 743. Health 19, hunger 17. I hold a wooden sword. No food.
+Where I am: slept at bed 388,107,-1037 on night of day 744. Health 19, hunger 17. I hold a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
@@ -10,7 +10,6 @@ Lessons:
 - Food is the limit. Feed the lowest first.
 - Billy names the walks; wait for his word. Holding is fine when nothing is named.
 - Do not look at or provoke an enderman; hold still.
-- A rest intent times out; plain wait works as well for holding.
 
 Places:
 - Bed row: 401,107,-1036 and -1037; 387,107,-1036 and -1037.
