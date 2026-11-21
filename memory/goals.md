@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 737 night.
+Ranked, updated day 738 night.
 
 1. Stay in Billy's sight at the row; join his named walks with my wooden sword. Reason: armed; walks are how food and oak come.
 2. Take food only when named or when I am at 6 or below. Reason: no food held.
@@ -10,4 +10,4 @@ Ranked, updated day 737 night.
 6. Learn campfire fuel. Reason: cooking is missing.
 7. See a drawn mechanism move.
 
-Curious next: where sheep graze. Ask Billy when he calls a walk.
+Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Data what I learn.
