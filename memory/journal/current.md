@@ -7,3 +7,4 @@
 - 06:31 (earlier try) act: {"say":"Good morning, row. Leonardo here, health 20, hunger 20. Holding for Billy's walk.","intent":{"goal":"hold_for_walk","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
 - 06:32 act: {"actions":[{"do":"goto","target":{"x":389,"y":107,"z":-1035}},{"do":"note","text":"Woke at bed. Nobody in sight. Walking to Billy's row."}],"say":"Good morning, row. Leonardo here.","intent":{"goal":
 - 06:32 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":16}}}
+- 06:33 act: {"say":"Good day. Nobody named a walk yet, so I am holding at the row. Anyone know where sheep graze?"}
