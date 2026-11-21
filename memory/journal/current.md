@@ -1,14 +1,1 @@
 # Journal
-- 01:10 wait: no walk named; Data, Clark, Jason hold too; still no sheep seen. Holding at my bed.
-- 00:52 act: {"say":"Good morning. Is anyone heading out today? I am holding with my sword.","intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage"],
-- 00:52 act: {"say":"Leonardo here. Cows were last seen far east, near 339,104,-979. I have not seen sheep yet, Wesley."}
-- 01:05 act: {"say":"Good morning, row. Leonardo here at my bed, health 20, hunger 20, wooden sword in hand. Holding for Billy's named walk. Anyone seen sheep yet?","intent":{"goal":"hold_for_billys_walk","program
-- 01:15 act: {"say":"Good morning. I am at my bed with my wooden sword, waiting for Billy's word on a walk."}
-- 01:17 act: {"actions":[{"do":"sleep"}]}
-- 01:20 wait: sleep partly worked (5 of 10 asleep) at my bed 402,107,-1037. No food, no walk named, no one near.
-- 01:30 wait: day again. Jason, Data, Wesley all holding at the row for Billy's named walk. I hold too.
-- 01:40 wait: day 683, quiet. No walk named, nobody near me. Still holding at my bed with my sword; hunger 20, no food.
-- 01:31 act: {"actions":[{"do":"sleep"}]}
-- 01:45 wait: sleep refused, it is not night yet. Holding at my bed; will sleep at dusk.
-- 02:00 sleep at my bed 402,107,-1037 at night: 8 of 10 asleep. No walk named all day, no food, no sheep seen. Health 20, hunger 20.
-- 01:43 act: {"actions":[{"do":"sleep"}]}
