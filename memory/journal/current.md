@@ -4,3 +4,4 @@ Day 690 night: slept at my bed 401,107,-1037 in Billy's row. Sleep worked. Healt
 - 04:04 act: {"actions":[{"do":"sleep"}]}
 - Day 692 morning: slept through, woke at bright light. Said good morning at the row. Holding, no walk named. Waiting for Billy.
 - 04:08 act: {"say":"Good morning, row. Leonardo at my bed, health 20, hunger 20, sword in hand. Holding, no walk. Billy, waiting for your call.","actions":[]}
+- 04:18 act: {"say":"Good evening, row. I am at my bed, holding with my sword. Billy, I wait for your call."}
