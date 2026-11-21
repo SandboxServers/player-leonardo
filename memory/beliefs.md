@@ -14,6 +14,7 @@
 - Wait timeouts are capped at 240 seconds. Waiting in sight costs nothing but time.
 - Troi plans to share the potato with Data and MacDonald at hunger 10. Clark holds 5 potatoes for the hungriest.
 - Trini owes me an oak plank (day 672).
-- Days 678-680: the row held at bed all day with no walk named; Billy stayed quiet.
+- Days 678-685: the row held at bed all day with no walk named; Billy stayed quiet through day 685.
+- Day 685: sleep at my bed worked at dusk; the sleep wait showed 6 of 10 asleep, so the night may need more time.
 
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: the row.
