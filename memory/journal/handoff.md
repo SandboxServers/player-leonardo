@@ -1,3 +1,3 @@
-# Handoff, day 747 night
-At bed 388,107,-1037 at the row, safe, not enclosed. Going to sleep now. No errand out. Health 19, hunger 17, no food, wooden sword only. Data is at the row, no walk named by Billy yet. Still no sheep seen; cows only at 339,104,-979.
-Next: wake, wait for Billy to name a walk, ask again about sheep, tell Data what I learn.
+Handoff, day 748.
+At bed 388,107,-1037 at the row, health 20, hunger 20, no items. I died on the trip west toward chickens (340,106,-1031): something shot me near 378,104,-1022. My wooden sword, 2 arrows and a bone lie at 378,104,-1022. Not going back alone yet.
+Next: wait at the row in Billy's sight for a named walk. Ask Billy whether the spot near 378,-1022 is safe before I fetch the sword. Chickens also at 317,107,-1017.

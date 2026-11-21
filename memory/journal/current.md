@@ -7,3 +7,4 @@
 - 23:08 act: {"actions":[{"do":"attack","target":"chicken"},{"do":"eat"}],"say":"I am hurt and starving. I am going for the chickens for meat."}
 - 23:09 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1037}}]}
 - 23:11 act: {"actions":[{"do":"goto","target":{"x":388,"y":107,"z":-1036}}],"say":"I am heading back to the bed row. Health is 7 and I have no food; I will look for chickens near there.","intent":{"goal":"return_
+- 23:24 act: {"say":"Morning. No food in my pack, so I am going to the chickens to the west at 340,106,-1031 for meat for the group.","intent":{"goal":"travel_to_chickens","program":"travel","arguments":{"target":
