@@ -18,4 +18,6 @@
 - Day 702: a rest intent ends at once and does not hold me; plain wait holds better. Data also holds at the row without a named walk.
 - Day 685: sleep at my bed worked at dusk; the sleep wait showed 6 of 10 asleep, so the night may need more time.
 
+- Day 710: sleep at dusk needed two tries (8 of 10 asleep, then worked). Holding with plain wait is fine.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: the row.
