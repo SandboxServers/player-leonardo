@@ -1,1 +1,1 @@
-Asleep at my bed 387,107,-1037 in Billy's sight, day 710 night. Health 20, hunger 20, no food. Pack: wooden sword only. No walk named. Data also asks where sheep graze; neither of us has seen any. Next at waking: say good morning, hold, join Billy's walk when named. Owed oak logs to Worf at 374,118,-1010; ask first.
+Sleeping at bed 387,107,-1037 on day 714. No errand out. Still holding at the row; no walk named. Sheep still unseen; Data has only seen cows.
