@@ -10,3 +10,6 @@
 - 08:38 act: {"actions":[{"do":"sleep"}]}
 - 08:38 act: {"actions":[{"do":"note","text":"Dusk day 704. Slept at bed 387,107,-1037 with no one near; sleep worked. Health 20, hunger 20. No walk named; holding."}]}
 - 08:39 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Goodnight. Holding at the row until Billy names a walk."}
+- 08:41 act: {"say":"Good morning. Is anyone heading out today? I can join a walk with my sword.","actions":[]}
+- 08:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Holding at my bed with my sword; no walk was named today."}
+- 08:51 act: {"actions":[{"do":"sleep"}]}
