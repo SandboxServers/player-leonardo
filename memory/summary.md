@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept at bed 388,107,-1037 on night of day 744. Health 19, hunger 17. I hold a wooden sword. No food.
+Where I am: slept at bed 388,107,-1037 on night of day 745. Health 19, hunger 17. I hold a wooden sword. No food.
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
@@ -19,4 +19,4 @@ Places:
 - Skeleton horse roams about 10 south of the row.
 
 I owe: Worf, oak logs for his planks (ask first). Trini owes me an oak plank.
-Curious: where sheep graze. Data has seen none; only cows.
+Curious: where sheep graze. Nobody has seen any; only cows.
