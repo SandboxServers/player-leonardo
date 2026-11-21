@@ -1,15 +1,1 @@
 # Journal
-- Day 703 morning: said good morning at my bed 387,107,-1037. Health 20, hunger 20. Data holds at the row too, waiting for Billy's walk. Holding; no walk named yet.
-- 08:11 say: {"text":"Dusk. Holding at the row with my sword; no walk named yet."}
-- Day 703 dusk: holding at the row, no walk named, no food. Data went to bed. Waiting for Billy's word.
-- 08:25 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}}],"say":"Dusk, and no one is near. I will sleep in my bed."}
-- 08:25 act: {"actions":[{"do":"sleep"}]}
-- 08:25 act: {"actions":[{"do":"sleep"}]}
-- 08:29 act: {"actions":[{"do":"note","text":"Morning, day 705. Holding at my bed 387,107,-1037. No walk named; no food."}],"say":"Good morning. I am at my bed with my sword, holding until Billy names a walk."}
-- 08:38 act: {"actions":[{"do":"sleep"}]}
-- 08:38 act: {"actions":[{"do":"sleep"}]}
-- 08:38 act: {"actions":[{"do":"note","text":"Dusk day 704. Slept at bed 387,107,-1037 with no one near; sleep worked. Health 20, hunger 20. No walk named; holding."}]}
-- 08:39 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Goodnight. Holding at the row until Billy names a walk."}
-- 08:41 act: {"say":"Good morning. Is anyone heading out today? I can join a walk with my sword.","actions":[]}
-- 08:51 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Holding at my bed with my sword; no walk was named today."}
-- 08:51 act: {"actions":[{"do":"sleep"}]}
