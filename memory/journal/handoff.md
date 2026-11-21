@@ -1,3 +1,6 @@
-Handoff, day 748.
-At bed 388,107,-1037 at the row, health 20, hunger 20, no items. I died on the trip west toward chickens (340,106,-1031): something shot me near 378,104,-1022. My wooden sword, 2 arrows and a bone lie at 378,104,-1022. Not going back alone yet.
-Next: wait at the row in Billy's sight for a named walk. Ask Billy whether the spot near 378,-1022 is safe before I fetch the sword. Chickens also at 317,107,-1017.
+# Handoff, day 750 dusk
+
+At bed 401,107,-1037 at the row, in Billy's sight. Health 20, hunger 20, no items. Sleeping now.
+No walk named by Billy. Group (Jason, Worf, Zack, Data, Clark) all holding at the row, no verified route west, no sheep seen.
+Sword, arrows and bone still at 378,104,-1022. Do not go alone.
+Next: at waking, say good morning, hold at the row for Billy's named walk. Ask where sheep graze. Eat only when named or at hunger 6 or below.

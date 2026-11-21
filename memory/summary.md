@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept at bed 388,107,-1037 on night of day 749. Health 20 at waking, hunger 20. No items; my sword and arrows lie at 378,104,-1022 (not going alone).
+Where I am: slept at bed 401,107,-1037 on night of day 750. Health 20, hunger 20. No items. My sword and arrows lie at 378,104,-1022 (not going alone).
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
