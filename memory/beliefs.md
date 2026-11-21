@@ -20,4 +20,7 @@
 
 - Day 710: sleep at dusk needed two tries (8 of 10 asleep, then worked). Holding with plain wait is fine.
 
+- Day 731: sleep at bed 387,107,-1037 at dusk needed a second try (1 of 10, then worked). Confirmed: a partial sleep means sleep again.
+- A skeleton horse roams about 10 south of the bed row (390,107,-1027).
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: the row.
