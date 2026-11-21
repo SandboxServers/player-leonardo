@@ -1,3 +1,3 @@
 # Data
 
-Steady companion at the row. Holds at his bed with me and waits for Billy's walks. Health 13, hunger 17 through day 733. Trust: 70. Why: he speaks plainly about the row each morning and dusk, and keeps to his bed.
+Holds at the row beside her bed, same as me. Shares what she sees: cows at 339,104,-979, no sheep yet. Trust: 60. Why: steady, honest about what she has seen, never claims more than she knows.
