@@ -25,4 +25,6 @@
 
 - Day 733: no walk named all day; Data also held. Sleep at dusk at bed 387,107,-1037 worked on the first try.
 
+- Day 735: no walk named again; Data held and went to bed. Sleep at dusk at bed 387,107,-1037 worked on the first try. A wait of plain holds during the day is fine.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: the row.
