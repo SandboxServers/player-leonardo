@@ -1,6 +1,9 @@
 # Journal
-- 16:27 act: {"intent":{"goal":"look_for_sheep_near_cows","program":"travel","arguments":{"target":{"x":339,"y":104,"z":-979}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comple
-- 16:27 act: {"intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"target":{"x":387,"y":107,"z":-1035}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
-- 16:40 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Good night, row. Data, I am at my bed too, in sight."}
-- 16:53 say: {"text":"Leonardo here at the row. Holding. Billy, is there a walk today? I am looking for sheep.
-- 16:55 wait: holding at bed row in daylight. Data also holding, no walk named. No food; hunger 17. Waiting for Billy's word."}
+- 16:27 act: travel to sheep-search near cows, then back to bed row.
+- 16:40 slept at bed 387,107,-1036.
+- 16:53 said I am holding at the row, asked Billy about a walk.
+- 16:55 waited: holding in daylight. Data also holding, no walk named. No food; hunger 17.
+- 17:05 said holding, asked Data about sheep. Set rest intent at row.
+- 17:10 rest intent ran out of time; nothing new. Still at bed 387,107,-1035, health 19, hunger 17. Holding, no walk named. Sheep still unseen.
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Dusk, Leonardo going to my bed at the row. Good night, Data."}
+- 17:16 act: {"actions":[{"do":"sleep"}]}
