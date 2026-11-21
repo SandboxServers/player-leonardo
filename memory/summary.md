@@ -10,7 +10,6 @@ Lessons:
 - Sleep with the sleep verb at a bed in Billy's sight. Dusk and night work.
 - Food is the limit. Feed the lowest first.
 - Billy names the walks; wait for his word. Holding is fine when nothing is named.
-- A bow drawn to the south means stay near the beds.
 
 Places:
 - Bed row: 401,107,-1036 and 401,107,-1037; others at 415, 387, 429.
@@ -18,6 +17,5 @@ Places:
 - Oak logs known at 374,118,-1010 (I owe Worf planks; ask first).
 - Cows last seen far east at 339,104,-979.
 
-I owe: Worf, oak logs for his planks (ask first).
-Trini owes me an oak plank.
+I owe: Worf, oak logs for his planks (ask first). Trini owes me an oak plank.
 Curious: where sheep graze. Nobody at the row has seen any.
