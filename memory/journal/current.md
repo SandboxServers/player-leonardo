@@ -1,15 +1,1 @@
 # Journal
-- 20:36 act: said good morning, held at the row (no weapon) with a rest intent, waiting for Billy's word.
-- Day 812 morning: woke at bed 402,107,-1037, health 20, hunger 20, no items. Slept 8 of 10 needed.
-- 20:44 act: {"say":"Pillagers are south of the row and I have no weapon. I am staying still by my bed and will not walk into them."}
-- 20:44 act: {"actions":[{"do":"goto","target":{"x":396,"y":107,"z":-1040}}],"say":"Getting out of the pillagers' line of fire, to the north-west."}
-- 20:44 act: {"actions":[{"do":"goto","target":{"x":392,"y":107,"z":-1044}}],"say":"Health 6, pillager on me and I have no weapon. Running north-west."}
-- 20:44 act: {"say":"Health 2, no food. I have a wooden sword now and I am out of the arrows' sight, north-west of the row at 392,107,-1044. Please come to me if it is safe."}
-- 20:45 act: {"say":"Health 2, hunger 17, no food. Could someone spare a potato? I am holding still here, north-west of the row.","intent":{"goal":"hold_still_and_heal","program":"rest","arguments":{},"wake_on":["
-- 20:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk. Going back to my bed with Worf, Jason and Wesley in sight, carefully."}
-- 20:48 say: {"text":"Pillager about 7 blocks away. I have health 2 and no food. Staying by the beds, I will not go south."}
-- 20:49 act: {"actions":[{"do":"sleep"}]}
-- 20:49 act: {"actions":[{"do":"note","text":"Health 2, hunger 17, no food. Asking Trini for a potato; holding at my bed 402,107,-1037 in sight of Worf and Jason."}],"say":"Trini, Leonardo here at my bed 402,107,-
-- Day 813 day: asked Trini for a potato at my bed. Note worked; no reply yet. Holding at the bed, health 2, hunger 17.
-- 21:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed 402,107,-1037, health 2, hunger 17. Still waiting for a potato at first light. No walk from me."}
-- 21:14 act: {"actions":[{"do":"sleep"}],"say":"Night. Leonardo going to sleep at my bed 402,107,-1037, health 2, hunger 17. Waiting for a potato at first light."}
