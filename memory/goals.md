@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 770.
+Ranked, updated day 771.
 
 1. Stay at the row in Billy's sight; do not wander alone. Reason: pillagers north-west, and I died alone before.
 2. Recover my sword, arrows and bone at 378,104,-1022 only with Billy or Data nearby and the area clear. Reason: I am unarmed.

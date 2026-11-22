@@ -1,5 +1,5 @@
-# Handoff, day 770 (night)
+# Handoff, day 771 (dusk)
 
-Asleep at bed 402,107,-1037, in the row's sight. Health 20, hunger 20, no items.
-No walk named by Billy. Sheep still not seen. Sword, arrows and bone at 378,104,-1022; do not go alone.
-Next: on waking, say good morning, hold for Billy's named walk, ask again where sheep graze.
+At bed 402,107,-1037, in the row's sight. Health 20, hunger 20, no items.
+No walk named by Billy. Worf, Jason and Clark all hold at the row. No sheep seen by anyone yet; no route past x=370.
+Next: on waking, good morning, hold for Billy's named walk, ask again about sheep.
