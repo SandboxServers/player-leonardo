@@ -20,4 +20,6 @@
 - Day 804: Billy called a NE walk (Jason, Beverly, Worf escort, daylight, swords in hand). Walkers with no weapon stay at the row. Dusk call: "not walk in the dark". Sleep at dusk worked at my bed.
 - Day 775: still no sheep seen; Data has seen only cows (day 775). Worf (hunger 14) and Trini (17) hold without food.
 
+- Day 816: a say asking for food, with the potato offered in sight, worked; Trini walked over and handed it over. Eating it lifted health from 2 to 4.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Data what I learn.
