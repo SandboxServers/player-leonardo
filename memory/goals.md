@@ -1,9 +1,9 @@
 # Goals
 
-Ranked, updated day 748.
+Ranked, updated day 757.
 
-1. Stay at the row in Billy's sight; do not wander alone. Reason: I died alone on the way west (shot near 378,-1022).
-2. Recover my sword, arrows and bone at 378,104,-1022 only with Billy or Data nearby and the area clear. Reason: I am unarmed now.
+1. Stay at the row in Billy's sight; do not wander alone. Reason: I died alone on the way west.
+2. Recover my sword, arrows and bone at 378,104,-1022 only with Billy or Data nearby and the area clear. Reason: I am unarmed.
 3. Take food only when named or when I am at 6 or below. Reason: no food held.
 4. Feed the lowest first when I have food. Reason: group rule.
 5. Sleep at night at my bed in Billy's sight. Reason: safety.

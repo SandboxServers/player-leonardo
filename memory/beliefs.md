@@ -17,5 +17,6 @@
 - Troi plans to share the potato with Data and MacDonald at hunger 10. Clark holds 5 potatoes for the hungriest.
 - Trini owes me an oak plank (day 672).
 - Day 747: still alone with Data at the row; no walk named; no sheep. Sleep at dusk worked on the second try.
+- Day 757: sleep at my bed worked first try at night. Still no walk named and no sheep seen; Data saw only cows near 339,104,-979.
 
 Curious next: where sheep graze. Ask Billy when he calls a walk. Could tell: Data, at the row.
