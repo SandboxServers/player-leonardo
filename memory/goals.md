@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 773.
+Ranked, updated day 774.
 
 1. Stay at the row in Billy's sight; do not wander alone. Reason: pillagers north-west, and I died alone before.
 2. Recover my sword, arrows and bone at 378,104,-1022 only with Billy or Data nearby and the area clear. Reason: I am unarmed.
@@ -11,4 +11,4 @@ Ranked, updated day 773.
 7. Learn campfire fuel. Reason: cooking is missing.
 8. See a drawn mechanism move.
 
-Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Data what I learn.
+Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason and Data what I learn.
