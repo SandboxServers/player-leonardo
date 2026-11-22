@@ -2,11 +2,12 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept at bed 402,107,-1037 on night of day 786 in the group's sight. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone).
+Where I am: slept on night of day 788 beside the row at 401,107,-1035, in Billy's sight. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone).
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
 - Sleep at a bed in Billy's sight. Sleep is refused in daylight; wait for dusk.
+- Clicking a bed may fail; the sleep verb worked.
 - Food is the limit. Feed the lowest first.
 - Billy names the walks; wait for his word. Hold at the row.
 - Do not look at or provoke an enderman; hold still.
