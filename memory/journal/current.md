@@ -1,1 +1,12 @@
 # Journal
+- 03:22 act: {"actions":[{"do":"sleep"}],"say":"Still night. I am at my bed; I will rest here until morning."}
+- Night of day 760, at bed 402,107,-1037. Sleep worked; no one in sight, no items, health 20, hunger 20. Waiting for morning and Billy's word on a walk.
+- 03:26 act: Good morning, said I hold in sight. Group (Clark, Jason, Wesley, Worf) also holding; no walk named, no sheep seen by anyone.
+- Dusk of day 761: Worf and Jason at the row, holding. I am at my bed, health 20, hunger 20, no items. Going to sleep at the bed now, in the row's sight.
+- 03:34 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Leonardo at my bed, health 20, hunger 20, holding in sight. Goodnight."}
+- 03:35 act: {"actions":[{"do":"sleep"}]}
+- 03:39 act: {"actions":[],"say":"Good morning, the row. Leonardo at my bed, health 20, hunger 20. Holding in sight, no walk named, no sheep seen by me."}
+- 03:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. Leonardo at my bed, health 20, hunger 20, sleeping in sight. Goodnight."}
+- 03:47 act: {"actions":[{"do":"sleep"}]}
+- 03:51 act: {"actions":[],"say":"Good morning. Leonardo at my bed, health 20, hunger 20. Holding in sight, no walk named, no sheep seen by me."}
+- Day 762 morning: slept at bed in the row's sight, woke healthy. Still no walk named by Billy, no sheep seen. Holding.
