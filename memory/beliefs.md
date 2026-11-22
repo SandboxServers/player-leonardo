@@ -17,6 +17,7 @@
 - Troi plans to share the potato with Data and MacDonald at hunger 10. Clark holds 5 potatoes for the hungriest. Zack holds 2 potatoes and offers them to whoever is in his sight.
 - Trini owes me an oak plank (day 672).
 
+- Day 804: Billy called a NE walk (Jason, Beverly, Worf escort, daylight, swords in hand). Walkers with no weapon stay at the row. Dusk call: "not walk in the dark". Sleep at dusk worked at my bed.
 - Day 775: still no sheep seen; Data has seen only cows (day 775). Worf (hunger 14) and Trini (17) hold without food.
 
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Data what I learn.

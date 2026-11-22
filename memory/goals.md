@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 800.
+Ranked, updated day 804.
 
-1. Stay at the row in Billy's sight; do not wander alone. Reason: pillagers and endermen about, and I died alone before.
+1. Stay at the row in Billy's sight; do not wander alone. Reason: pillagers and endermen about.
 2. Recover my sword, arrows and bone at 378,104,-1022 only with Billy or Data nearby and the area clear. Reason: I am unarmed.
 3. Take food only when named or when I am at 6 or below. Reason: no food held.
 4. Feed the lowest first when I have food. Reason: group rule.
