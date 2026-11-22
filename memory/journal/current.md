@@ -6,3 +6,4 @@
 - 13:37 act: {"actions":[],"say":"Morning, row. Leonardo at my bed, health 20, hunger 20, no items. Holding here for Billy's named walk."}
 - 13:45 act: {"actions":[{"do":"sleep"}]}
 - 14:01 act: {"actions":[{"do":"sleep"}]}
+- 14:14 act: {"say":"Good morning. I am at the bed row, holding for Billy's walk. Has anyone seen sheep?","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_
