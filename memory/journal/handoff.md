@@ -1,7 +1,6 @@
-# Handoff, day 820 (midday)
+# Handoff, day 821 (night)
 
-I am at 413,107,-1035 in Billy's sight, on the grass beside the bed row. Health 8, hunger 17. Pack holds only the wooden sword.
-Billy gave me his potato this morning; I ate it. Billy has no food left.
-Beverly is the weakest and has not yet come into sight. Feed her first if food reaches me.
-Potatoes still held by Zack and Troi (for the weakest). Owed: Worf oak logs (ask first).
-Next: hold in Billy's sight until dusk, then sleep in a bed in his sight (the bed at 415,107,-1036 or 415,107,-1037 is close). Do not walk alone.
+I am at 415,107,-1021 by the bed row, asleep in Billy's sight (9 of 10 asleep). Health 10, hunger 17. Pack holds only the wooden sword.
+No food yet. Billy went to the NE potato patch with Jason and Worf as escorts; I was not named, so I stayed and offered to escort.
+Chapman is holding for Billy's word at first light.
+Next: at waking, go into Billy's sight, ask for food for the weakest (Beverly first), offer escort if named. Do not walk alone. Owed: Worf oak logs (ask first).

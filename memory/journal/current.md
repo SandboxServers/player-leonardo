@@ -30,3 +30,15 @@
 - 23:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Night, row. Going to the white bed at 415,107,-1036, close to Billy's sight. Hunger 17, health 8."}
 - 23:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to sleep in the bed at 415,107,-1036. Billy is in my sight. Good night."}
 - 23:15 act: {"actions":[{"do":"sleep"}]}
+- 23:20 act: {"say":"Leonardo here at the beds, health 8, hunger 17, holding still. Zack, Troi: I am the one who is hungry and in Billy's sight. The last potato is mine if it is not needed by someone weaker.","int
+- 23:20 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1045}}],"say":"Zack, Leonardo here. Walking to 414,107,-1045 to be in your sight. Please hand me the potato.","intent":{"goal":"reach_zack_for_p
+- 23:21 act: {"say":"Leonardo here at 414,107,-1045, in Billy's row, health 8, hunger 17. Troi, Zack: I am in your sight now. The potato to me, please, or to whoever is weakest in sight."}
+- 23:24 act: {"actions":[{"do":"goto","target":"ag_troi_01"}],"say":"Troi, Leonardo coming to you now. Holding the potato for the weakest only.","intent":{"goal":"reach_troi_for_potato","program":"travel","argumen
+- 23:24 act: {"say":"Troi, Leonardo is in your reach, health 8, hunger 17. Please give me the potato, I will eat it at once."}
+- 23:26 act: {"actions":[{"do":"goto","target":{"x":430,"y":108,"z":-1041}},{"do":"eat"}],"say":"Troi, there is an item on the ground at 430,108,-1041. If it is the potato, I am picking it up now."}
+- 23:26 act: {"say":"Troi, you are right beside me and hold the potato. Please give it to me now; I have no food and hunger is 17."}
+- 23:27 act: {"actions":[{"do":"eat"}],"say":"Thank you, Troi. I have your potato and I am eating it now. Billy, Leonardo holds at the row for the night."}
+- 23:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}},{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Night at the row. Going to bed at 415,107,-1036, in Billy's sight. H
+- 23:28 act: {"actions":[{"do":"sleep"}],"say":"Billy, Leonardo is by the bed at 416,107,-1036 in your sight, trying to sleep."}
+- 23:36 act: {"say":"Billy, Leonardo is at the bed row, armed with a wooden sword and in your sight. I can escort you to the potato patch if you name me, and I will stay in sight the whole way.","intent":{"goal":"
+- 23:42 act: {"actions":[{"do":"sleep"}]}
