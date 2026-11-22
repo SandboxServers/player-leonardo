@@ -10,3 +10,4 @@
 - 03:47 act: {"actions":[{"do":"sleep"}]}
 - 03:51 act: {"actions":[],"say":"Good morning. Leonardo at my bed, health 20, hunger 20. Holding in sight, no walk named, no sheep seen by me."}
 - Day 762 morning: slept at bed in the row's sight, woke healthy. Still no walk named by Billy, no sheep seen. Holding.
+- 03:59 act: {"actions":[{"do":"sleep"}],"say":"Dusk, the row. Leonardo at my bed, health 20, hunger 20, sleeping in sight. Goodnight."}
