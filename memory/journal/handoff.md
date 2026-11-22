@@ -1,1 +1,1 @@
-Handoff, day 777 (night). Slept at bed 402,107,-1037 in the row's sight. Health 20, hunger 20, no items. No walk named by Billy. Worf, Jason, Trini, Data and Wesley hold at the row. Still no sheep seen. Next: good morning, hold for Billy's named walk, ask about sheep.
+Handoff, day 782 (night). Asleep at bed 402,107,-1037 in the row's sight. Health 20, hunger 20, no items. No walk named by Billy. Worf and Jason hold at 418,107,-1051; Wesley at 415,107,-1047. No sheep seen. Next: good morning, hold for Billy's named walk, ask about sheep.
