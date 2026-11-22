@@ -7,3 +7,5 @@
 - 20:44 act: {"say":"Health 2, no food. I have a wooden sword now and I am out of the arrows' sight, north-west of the row at 392,107,-1044. Please come to me if it is safe."}
 - 20:45 act: {"say":"Health 2, hunger 17, no food. Could someone spare a potato? I am holding still here, north-west of the row.","intent":{"goal":"hold_still_and_heal","program":"rest","arguments":{},"wake_on":["
 - 20:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk. Going back to my bed with Worf, Jason and Wesley in sight, carefully."}
+- 20:48 say: {"text":"Pillager about 7 blocks away. I have health 2 and no food. Staying by the beds, I will not go south."}
+- 20:49 act: {"actions":[{"do":"sleep"}]}
