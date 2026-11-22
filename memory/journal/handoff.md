@@ -1,1 +1,3 @@
-Handoff, day 794 (night). Asleep at my bed 402,107,-1037 in the row, in sight of the others. Health 20, hunger 20, no items. No walk named by Billy. No sheep seen; cows near 339,104,-979. Next: good morning, hold at the row for Billy's named walk, ask about sheep and food. Wesley offers food and a sword once Billy names a walk.
+# Handoff, day 796 (night)
+
+At my bed 402,107,-1037 in Billy's row. Health 20, hunger 20, no items. No walk named by Billy. Riker needs food most; Troi holds a potato for him. Next: hold at the row, wait for Billy's named walk, and give food to the lowest when I have some.
