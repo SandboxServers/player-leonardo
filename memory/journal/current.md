@@ -9,3 +9,7 @@
 - 20:47 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1037}}],"say":"Dusk. Going back to my bed with Worf, Jason and Wesley in sight, carefully."}
 - 20:48 say: {"text":"Pillager about 7 blocks away. I have health 2 and no food. Staying by the beds, I will not go south."}
 - 20:49 act: {"actions":[{"do":"sleep"}]}
+- 20:49 act: {"actions":[{"do":"note","text":"Health 2, hunger 17, no food. Asking Trini for a potato; holding at my bed 402,107,-1037 in sight of Worf and Jason."}],"say":"Trini, Leonardo here at my bed 402,107,-
+- Day 813 day: asked Trini for a potato at my bed. Note worked; no reply yet. Holding at the bed, health 2, hunger 17.
+- 21:02 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed 402,107,-1037, health 2, hunger 17. Still waiting for a potato at first light. No walk from me."}
+- 21:14 act: {"actions":[{"do":"sleep"}],"say":"Night. Leonardo going to sleep at my bed 402,107,-1037, health 2, hunger 17. Waiting for a potato at first light."}
