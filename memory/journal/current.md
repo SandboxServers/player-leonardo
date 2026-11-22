@@ -9,3 +9,5 @@
 - Day 790 morning: still at bed 402,107,-1037, health 20, hunger 20, no items. Worf holds at the bed with his sword, hunger 14, no sheep. No walk named yet. Holding; I have no food to share.
 - 13:09 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037 in sight. Health 20, hunger 20, no food. Good night.","actions":[{"do":"sleep"}]}
 - Night, day 790: slept at bed 402,107,-1037 in the row's sight. Reflect: the hold-intent with one block op ends at once, so use a longer wait instead. Still no walk named, no sheep. Data is at health 13 and Jason and Worf are at hunger 14-18; I have no food to give. Next: wait for Billy's walk, then ask about sheep and the -1051 squares.
+- 13:10 act: {"say":"Morning. Leonardo here at the bed row, holding. Hunger 20, no items. Billy, when you name a walk I will come. Worf, Jason: I have not seen any sheep yet.","intent":{"goal":"hold_at_row","progr
+- 13:10 act: {"actions":[{"do":"wait","seconds":240}]}
