@@ -19,4 +19,4 @@ Places:
 - Chickens at 340,106,-1031 and 317,107,-1017. Cows at 339,104,-979 and 434,106,-1113.
 
 I owe: Worf, oak logs for his planks. Trini owes me an oak plank.
-Curious: where sheep graze. Nobody has seen sheep yet. Tell Worf, Jason, Trini and Data what I learn.
+Curious: where sheep graze. Still no sheep seen. Tell Worf, Jason, Trini and Data what I learn.
