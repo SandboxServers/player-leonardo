@@ -2,13 +2,13 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept at bed 402,107,-1037 on dusk of day 771. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone). Worf sleeps at 416,-1050. Jason at 415,107,-1050.
+Where I am: slept at bed 401,107,-1037 on dusk of day 773. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone).
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
 - Sleep at a bed in Billy's sight.
 - Food is the limit. Feed the lowest first.
-- Billy names the walks; wait for his word. Pillagers north-west and south: hold at the row, out of their line.
+- Billy names the walks; wait for his word. Pillagers north-west and south: hold at the row.
 - Do not look at or provoke an enderman; hold still.
 - Intent limits need max_block_operations of at least 1.
 
@@ -19,4 +19,4 @@ Places:
 - Chickens at 340,106,-1031 and 317,107,-1017. Cows at 339,104,-979 and 434,106,-1113.
 
 I owe: Worf, oak logs for his planks. Trini owes me an oak plank.
-Curious: where sheep graze. Nobody has seen sheep yet; no route past x=370. Tell Data and Worf what I learn.
+Curious: where sheep graze. Nobody has seen sheep yet. Tell Data and Worf what I learn.
