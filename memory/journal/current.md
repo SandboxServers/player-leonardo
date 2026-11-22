@@ -6,3 +6,6 @@
 - Day 798 day: at bed, health 20, hunger 20, no items. Beverly holds for Billy's word. Set hold_at_row intent; asked Billy about the sheep walk.
 - 16:00 say: {"text":"Good morning. Leonardo at my bed 402,107,-1037, health 20, hunger 20, no items. Holding in the row for Billy's word."}
 - 16:05 wait: Worf and Jason offered to go to potatoes at 463,107,-1073 (Picard's report). Billy has not named a walk. I hold at bed, health 20, hunger 20, no items.
+- 16:09 say: {"text":"Holding at the row in Billy's sight. Jason, glad you are back safe. Billy, I am ready when you name a walk."}
+- Day 799 day: at bed 402,107,-1037, health 20, hunger 20, no items. Jason's walk to 463,107,-1073 was blocked and he is back at the row. Holding; said so aloud.
+- Day 799 wait: no walk named; Jason hunger 17, Worf hunger 14, both at the row. I have no food. Still holding at bed.
