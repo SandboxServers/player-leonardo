@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept on the night of day 809 at my bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone).
+Where I am: slept on the night of day 811 at my bed 402,107,-1037 in Billy's sight. Health 20, hunger 20. No items. My sword, arrows and bone lie at 378,104,-1022 (not going alone).
 
 Lessons:
 - Count only what is in my pack; promises did not arrive.
@@ -11,7 +11,7 @@ Lessons:
 - Billy names the walks; wait for his word. Hold at the row.
 - Without a weapon I stay at the row when a walk is called.
 - Do not look at or provoke an enderman; hold still.
-- A "rest" intent ends at once; to hold, just wait.
+- An intent needs limits of at least 1 for max_block_operations; a zero is refused. To hold, just wait.
 
 Places:
 - Bed row: 387-416, 107, -1022 to -1050.
