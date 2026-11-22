@@ -4,3 +4,8 @@
 - Night, day 789: at bed 402,107,-1037 in the row's sight, health 20, hunger 20, no items. Crusher holds at his bed; no sheep, no verified west route. Sleeping now.
 - Morning, day 789: woke at bed 402,107,-1037, health 20, hunger 20. Row all accounted for; no walk named, no sheep. Holding at the row.
 - 12:59 act: {"say":"Good morning, row. Leonardo awake at my bed, health 20, hunger 20. Holding for Billy's named walk.","actions":[]}
+- 13:01 act: {"say":"Morning. Leonardo at the bed row, health 20, hunger 20, holding for Billy's walk. Has anyone seen sheep?","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_ad
+- Day 789 13:02: woke at bed 402,107,-1037 in daylight, health 20, hunger 20, no items. Jason holds at 416,107,-1049, no sheep. Said morning and asked about sheep; holding at the row for Billy's walk.
+- Day 790 morning: still at bed 402,107,-1037, health 20, hunger 20, no items. Worf holds at the bed with his sword, hunger 14, no sheep. No walk named yet. Holding; I have no food to share.
+- 13:09 act: {"say":"Dusk, row. Leonardo at my bed 402,107,-1037 in sight. Health 20, hunger 20, no food. Good night.","actions":[{"do":"sleep"}]}
+- Night, day 790: slept at bed 402,107,-1037 in the row's sight. Reflect: the hold-intent with one block op ends at once, so use a longer wait instead. Still no walk named, no sheep. Data is at health 13 and Jason and Worf are at hunger 14-18; I have no food to give. Next: wait for Billy's walk, then ask about sheep and the -1051 squares.
