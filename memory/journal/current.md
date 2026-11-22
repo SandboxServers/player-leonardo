@@ -1,3 +1,32 @@
 # Journal
 - Day 817 dusk: at bed 402,107,-1037, health 4, hunger 16, no food. Said I am holding for Trini's potato and Billy's word; set a rest intent that wakes on speech or damage.
 - 22:20 act: {"say":"Holding at my bed. Waiting for Trini's potato and Billy's word.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","preconditio
+- 22:20 act: {"say":"Leonardo at bed 402,107,-1037, health 4, hunger 16, no food. Holding here in Billy's sight. Trini, bring the potato when Billy names the walk.","intent":{"goal":"hold_at_bed_for_potato","progr
+- 22:20 act: {"say":"Under fire at 402,107,-1037! Going to the group at the bed row.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1047}}],"intent":{"goal":"reach_group_out_of_fire","program":"flee","arg
+- 22:25 act: {"say":"Leonardo coming to Billy at the beds, health 4, hunger 16. Walking to 430,107,-1044 now, with my sword.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1044}}],"intent":{"goal":"walk_t
+- 22:25 act: {"say":"Troi, Leonardo here, health 4, hunger 16, no food. Please give me the potato, I am in reach.","actions":[]}
+- 22:26 act: {"say":"Billy, Leonardo walking to you at 417,107,-1046 for the potato. Holding in your sight.","actions":[{"do":"goto","target":"Billy"}],"intent":{"goal":"reach_billy_for_potato","program":"travel",
+- 22:28 act: {"say":"Thank you Troi. Picking up the potato at 430,107,-1044 now.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1044}},{"do":"eat"}]}
+- 22:28 act: {"say":"Billy, Troi's potato is not on the ground; I have no food. Leonardo walking to 418,107,-1046 to take your potato. Holding in sight.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1046
+- 22:28 act: {"say":"Billy, Leonardo at 418,107,-1045, in sight of the row. Please hand me your potato. I have none.","actions":[]}
+- 22:30 act: {"say":"Billy, Zack: my pack shows no potato yet. I am at 418,107,-1045, health 4, hunger 16. Zack, please hand me one if you can reach me.","actions":[]}
+- 22:32 act: {"actions":[{"do":"eat"}],"say":"Billy, Zack: I still see no potato in my pack. Hand it over directly, I am right beside you."}
+- 22:32 act: {"say":"No potato in my pack yet, Billy. Going to sleep at the bed near you, in your sight, and I will eat first thing at first light.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}},{"
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1038}}],"say":"Leonardo here. Health 4, hunger 17, no food in my pack. Holding in Billy's row. Troi or Zack, one potato for me when you can.","i
+- 22:36 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1045}}],"say":"Leonardo coming into Zack's sight at 415,107,-1045. Health 4, hunger 17. Zack, the potato for the weakest, please."}
+- 22:37 act: {"actions":[],"say":"Leonardo at 415,107,-1045, hunger 17, health 4, empty pack. Troi or Zack, whoever holds a potato, please hand me one. I will eat it at once."}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1046}}],"say":"Leonardo stepping to 414,107,-1046, in Zack's sight. Hunger 17, health 4, no food yet."}
+- 22:40 act: {"actions":[],"say":"Leonardo at 414,107,-1045, hunger 17. Zack, I am in your sight now and do not see your potato arrive. Please hand it over or say why not."}
+- 22:44 act: {"actions":[],"say":"Leonardo here at 414,107,-1045, next to Billy. Unarmed, hunger 17, health 4, pack empty. Billy or Zack, the potato to me now, please."}
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Leonardo going to the bed at 415,107,-1037 for the night, in the row's sight. Health 6, hunger 17 after a reflex e
+- 22:50 act: {"actions":[],"say":"Leonardo, health 8, hunger 16, holding at 415,107,-1021. Beverly is weakest, so she first. Trini, I see no potato in my pack; keep yours for Beverly if she is in sight."}
+- 22:54 act: {"actions":[],"say":"Leonardo: pack still empty of food, hunger 16, health 8. Bows are drawn to the east and southeast. I stay at 415,107,-1021 by Trini's bed, and I do not walk."}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1022}},{"do":"sleep"}],"say":"Leonardo going to bed by Trini at dusk. Still no food in my pack, hunger 16, health 8. Billy, first light I come t
+- 23:02 act: {"actions":[],"say":"Leonardo holding at 416,107,-1021 beside Trini. Hunger 16, health 8, no food. Billy, when you wake I am in your sight."}
+- 23:06 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1036}}],"say":"Leonardo moving to 413,107,-1036 into Billy's sight. Billy, I am here, hunger 16, health 8. Beverly first if she is closer."}
+- 23:07 act: {"actions":[],"say":"Leonardo here, at 413,107,-1035. Billy, I am in your sight now. Health 8, hunger 16, pack holds only my sword. I will take the potato if you can give it.","intent":{"goal":"hold_i
+- 23:07 act: {"actions":[{"do":"eat"}],"say":"Thank you, Billy. I have the potato and I am eating it now."}
+- 23:11 act: {"actions":[],"say":"Beverly comes first. I have no food now, and I will hold here in Billy's sight until dusk, then sleep in a bed."}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Night, row. Going to the white bed at 415,107,-1036, close to Billy's sight. Hunger 17, health 8."}
+- 23:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Going to sleep in the bed at 415,107,-1036. Billy is in my sight. Good night."}
+- 23:15 act: {"actions":[{"do":"sleep"}]}

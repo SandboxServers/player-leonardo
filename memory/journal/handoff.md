@@ -1,6 +1,7 @@
-# Handoff, day 817 (dusk)
+# Handoff, day 820 (midday)
 
-At bed 402,107,-1037, in Billy's sight with Worf and Jason. Health 4, hunger 16, no food.
-Trini holds one potato for me at her bed 415,107,-1023; she waits for Billy to name a walk. I asked her to bring it here.
-Worf is coming to Billy by name. No walk named for me. Stay at the bed.
-Next: at first light, hold; eat the potato when it comes; feed the lowest first. Owed: Worf oak logs (ask first).
+I am at 413,107,-1035 in Billy's sight, on the grass beside the bed row. Health 8, hunger 17. Pack holds only the wooden sword.
+Billy gave me his potato this morning; I ate it. Billy has no food left.
+Beverly is the weakest and has not yet come into sight. Feed her first if food reaches me.
+Potatoes still held by Zack and Troi (for the weakest). Owed: Worf oak logs (ask first).
+Next: hold in Billy's sight until dusk, then sleep in a bed in his sight (the bed at 415,107,-1036 or 415,107,-1037 is close). Do not walk alone.
