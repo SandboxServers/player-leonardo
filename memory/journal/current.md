@@ -42,3 +42,6 @@
 - 23:28 act: {"actions":[{"do":"sleep"}],"say":"Billy, Leonardo is by the bed at 416,107,-1036 in your sight, trying to sleep."}
 - 23:36 act: {"say":"Billy, Leonardo is at the bed row, armed with a wooden sword and in your sight. I can escort you to the potato patch if you name me, and I will stay in sight the whole way.","intent":{"goal":"
 - 23:42 act: {"actions":[{"do":"sleep"}]}
+- 23:44 act: {"actions":[{"do":"note","text":"Morning at the row. Trini is in reach. Asking for food; I have none."}],"say":"Morning, Trini. I have no food yet. Do you have a spare potato, or know where one is?"}
+- 23:47 act: {"actions":[{"do":"note","text":"Day 822 morning: at 416,107,-1023 by the row. Trini has no food. Hunger 17, health 10. Holding in sight; asking Billy for food and escort word."}],"say":"Billy, Leonar
+- 23:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night at the row. Going to the bed at 415,107,-1023 in Billy's sight. Still no food
