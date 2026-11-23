@@ -1,1 +1,7 @@
-Day 836, night. At my bed 416,107,-1023. Health 10, hunger 17, wooden sword only. No errand running. Kimberly may hand me a potato (Trini said so); eat it at once if it arrives. Otherwise hold at the bed until Billy names a daylight walk to the potatoes at 409,107,-1054. Stay in sight of the group; do not walk alone or south.
+# Handoff, day 838
+
+Leonardo at my bed 416,107,-1023. Health 10, hunger 17, wooden sword only, no food. Sheltered, no errand running, not in danger.
+
+Holding at the bed for Billy's named daylight walk to the potatoes at 409,107,-1054. Trini has seeds only. Troi, Data, Jason are at their beds in the row.
+
+Next: when it is true night, sleep at my bed. On waking, greet the row and keep holding. Do not walk alone or south/southeast.

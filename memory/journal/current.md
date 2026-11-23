@@ -15,3 +15,7 @@
 - 04:43 act: {"actions":[{"do":"sleep"}],"say":"Good night. I am at my bed, and I will hold here until Billy names a walk."}
 - 04:47 act: {"actions":[{"do":"note","text":"Day 837 dawn. Health 10, hunger 17, at bed. Holding for Billy's named walk."}],"say":"Morning. Leonardo at my bed, health 10, hunger 17, no food. Billy, is the potato 
 - 04:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed, health 10, hunger 17, no food. Still holding for Billy's walk. Goodnight."}
+- 05:00 act: {"say":"Good morning. I am still at my bed, hunger 17. Is anyone walking to the potatoes today?","intent":{"goal":"hold_at_bed_for_walk","program":"rest","arguments":{},"wake_on":["directly_addressed"
+- 05:05 act: {"say":"Troi, Trini, Data: Leonardo at my bed, health 10, hunger 17, still no food. Holding for Billy's walk. Good to hear you both.","actions":[{"do":"sleep"}]}
+- 05:09 act: {"say":"Trini, thank you. Leonardo staying at the bed for the night. Billy, I will go to the potatoes only when you name it.","actions":[{"do":"sleep"}]}
+- 05:17 act: {"say":"Morning, Trini and Troi. Leonardo here at the bed, health 10, hunger 17, no food. Still holding for Billy's walk."}
