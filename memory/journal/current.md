@@ -52,3 +52,7 @@
 - 00:15 act: {"say":"Billy, I am still at 415,107,-1023 with no food, health 10. I can escort or hold, whichever you name. Is there any food for me?"}
 - 00:24 act: {"actions":[{"do":"sleep"}]}
 - 00:28 act: {"actions":[{"do":"sleep"}]}
+- 00:40 act: {"say":"Leonardo at the bed by the row, health 10, hunger 17, no food. Billy, Trini: I am in your sight and will sleep here.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use",
+- 00:40 act: {"actions":[{"do":"sleep"}]}
+- 00:49 act: {"say":"Leonardo, day 825 morning, at the row by the bed. Health 10, hunger 17, no food. Billy, I hold here; name me for any walk and I will escort in your sight."}
+- 00:57 act: {"actions":[{"do":"sleep"}]}
