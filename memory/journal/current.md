@@ -10,3 +10,4 @@
 - Day 835 dusk: told Troi I hold at my bed, then slept at the bed. Sleep returned nothing new. Handoff written.
 - 04:14 act: {"say":"Leonardo here at my bed, health 10, hunger 17, no food. Holding until Billy names the walk."}
 - Day 835 morning, bright. Woke at bed, said I hold. Bows drawn east and southeast. Health 10, hunger 17, no food. Waiting for Billy's walk.
+- 04:34 act: {"actions":[{"do":"note","text":"Leonardo at bed, health 10, hunger 17, no food. Holding for Billy's walk."}],"say":"Troi, Trini: Leonardo here, health 10, hunger 17, no food. Still holding at my bed 
