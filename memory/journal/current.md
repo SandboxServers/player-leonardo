@@ -11,3 +11,7 @@
 - 04:14 act: {"say":"Leonardo here at my bed, health 10, hunger 17, no food. Holding until Billy names the walk."}
 - Day 835 morning, bright. Woke at bed, said I hold. Bows drawn east and southeast. Health 10, hunger 17, no food. Waiting for Billy's walk.
 - 04:34 act: {"actions":[{"do":"note","text":"Leonardo at bed, health 10, hunger 17, no food. Holding for Billy's walk."}],"say":"Troi, Trini: Leonardo here, health 10, hunger 17, no food. Still holding at my bed 
+- Day 837 morning, bright. Health 10, hunger 17, no food. Said good morning. Troi and Data hold at their beds; Trini holds too. No walk named yet. Still holding at my bed.
+- 04:43 act: {"actions":[{"do":"sleep"}],"say":"Good night. I am at my bed, and I will hold here until Billy names a walk."}
+- 04:47 act: {"actions":[{"do":"note","text":"Day 837 dawn. Health 10, hunger 17, at bed. Holding for Billy's named walk."}],"say":"Morning. Leonardo at my bed, health 10, hunger 17, no food. Billy, is the potato 
+- 04:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed, health 10, hunger 17, no food. Still holding for Billy's walk. Goodnight."}
