@@ -11,3 +11,7 @@
 - 09:09 act: {"say":"Morning, row. Leonardo at my bed, health 10, hunger 17, no food. Holding with Troi and Trini. Billy, the potatoes would help most when you name the walk."}
 - 09:11 act: {"say":"Good morning. Billy, I am hungry, hunger 17, with no food. When you name a walk, I will come for the potatoes."}
 - 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1023}},{"do":"open","at":{"x":419,"y":107,"z":-1023}}],"say":"Anyone near? I'm hungry and have no food. Is there any bread or potato in the ches
+- 09:23 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Leonardo here at the bed, health 10, hunger 17, no food. The chest by the bed is empty. Holding for Billy's named walk. Thank you
+- Day 850 morning: checked the chest east of the bed (419,107,-1023): empty. Health 10, hunger 17, no food. Troi and Trini say they have none. Billy has named no walk. Holding at the bed in sight of the row.
+- 09:27 act: {"actions":[],"say":"Morning, row. Leonardo at my bed, health 10, hunger 17, still no food. The chest here was empty. Trini, I will ask Billy about the potatoes. Holding until he names the walk."}
