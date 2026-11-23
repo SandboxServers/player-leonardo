@@ -5,3 +5,5 @@
 - 16:51 say: {"text":"Leonardo here at 444,107,-1036, health 11, hunger 17, no food. Holding in Billy's row until first light; I walk only when Billy names it."}
 - 16:55 say: {"text":"Morning. Leonardo holding at 444,107,-1037, health 11, hunger 17. Billy, I see you walking west; I stay here until you name my walk or hand me food."}
 - 17:03 say: {"text":"Dusk. Leonardo goes to the white bed at 443,107,-1036 beside Billy's row and rests there, unarmed, no food yet. First light, I come to Billy's sight."}
+- 17:03 act: {"say":"Morning. Leonardo at 444,107,-1037, health 11, hunger 17, no food. I hold here in the row and wait for Billy to name a walk or hand me food."}
+- 17:16 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1037}}],"say":"Night. Leonardo goes to the white bed 443,107,-1037 in Billy's row, hunger 17, no food. First light, I come to Billy's sight."}
