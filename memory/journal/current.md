@@ -9,3 +9,5 @@
 - 08:56 act: {"say":"Good morning, Troi. Leonardo here, health 10, hunger 17, no food. Billy, the potatoes at 409,107,-1054 would help me most. I will hold at the row until you name a walk."}
 - 09:05 act: {"actions":[{"do":"sleep"}]}
 - 09:09 act: {"say":"Morning, row. Leonardo at my bed, health 10, hunger 17, no food. Holding with Troi and Trini. Billy, the potatoes would help most when you name the walk."}
+- 09:11 act: {"say":"Good morning. Billy, I am hungry, hunger 17, with no food. When you name a walk, I will come for the potatoes."}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
