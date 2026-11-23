@@ -21,3 +21,7 @@
 - 11:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, health 10, hunger 17, no food. Holding for Billy's walk at first light."}
 - 11:43 act: {"say":"Morning, Troi, Trini. Leonardo at the bed, health 10, hunger 17, no food. Holding for Billy's word."}
 - 11:51 act: {"actions":[{"do":"sleep"}]}
+- 11:51 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, health 10, hunger 17, no food. Holding for Billy's walk at first light."}
+- 11:55 act: {"actions":[{"do":"note","text":"Morning, day 858. At my bed, health 10, hunger 17, no food. Holding for Billy's named walk to the potatoes."}],"say":"Morning, row. Leonardo at my bed, health 10, hung
+- 12:03 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo at my bed, health 10, hunger 17, no food. No walk in the dark. Sleeping; holding for Billy at first light."}
+- 12:07 act: {"actions":[{"do":"note","text":"Morning, day 859. At my bed, health 10, hunger 17, no food. Trini and Troi hold too. Still waiting for Billy's named walk."}],"say":"Morning, Troi, Trini. Leonardo at 
