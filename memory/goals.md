@@ -1,12 +1,12 @@
 # Goals
 
-Ranked, updated day 875.
+Ranked, updated day 876.
 
-1. Get food: when Billy names a daylight walk to 430,-1050, go and take the 2 potatoes he promised me. Reason: hunger 17, health 11, no food.
-2. Stay in sight of Billy's group; do not walk where I cannot see him. Reason: the goto failed when he was out of sight.
-3. Feed the lowest first: give any food I receive to whoever is lowest in hunger in reach. Reason: group rule.
+1. Stay in sight of Billy's group at first light; he names the walks. Reason: the group waits on his call, and I was fed only when in sight.
+2. Feed the lowest first: Beverly (health 7) gets any food before me. Reason: group rule.
+3. Keep the 1 potato I hold for whoever is lowest in hunger. Reason: food is the limit.
 4. Walk only when Billy names it in daylight; no south or southeast. Reason: bow sounds.
-5. Sleep at my bed 443,107,-1037 at night. Reason: safety.
+5. Sleep at dusk in a bed inside the group, at 429,107,-1050 or my bed 443,107,-1037. Reason: safety.
 6. Owe Worf oak logs for his planks (ask first).
 7. Recover sword, arrows and bone at 378,104,-1022 only with Billy nearby and the area clear.
 8. Learn campfire fuel.
