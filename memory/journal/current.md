@@ -4,3 +4,4 @@
 - Day 847 morning: said good morning and asked for spare food. Troi promises food to Leonardo and Trini at dawn. Trini has no food either. No walk named yet. Holding at the row.
 - 08:18 say: asked Billy whether the potato walk is on. Nobody near. A bow was drawn to the southeast, so I stay put at the bed.
 - Day 848 morning: at bed 416,107,-1023. Health 10, hunger 17, no food. Troi and Trini hold at the row with no food to spare. Said morning and asked for food. An intent with zero block ops was refused as invalid, so I act with say and goto only. Bows heard southeast.
+- 08:51 act: {"say":"Evening, Trini. Leonardo at my bed, hunger 17, no food. I'll hold at the row for Billy's dawn walk."}
