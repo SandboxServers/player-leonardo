@@ -5,3 +5,7 @@
 - 08:18 say: asked Billy whether the potato walk is on. Nobody near. A bow was drawn to the southeast, so I stay put at the bed.
 - Day 848 morning: at bed 416,107,-1023. Health 10, hunger 17, no food. Troi and Trini hold at the row with no food to spare. Said morning and asked for food. An intent with zero block ops was refused as invalid, so I act with say and goto only. Bows heard southeast.
 - 08:51 act: {"say":"Evening, Trini. Leonardo at my bed, hunger 17, no food. I'll hold at the row for Billy's dawn walk."}
+- 08:52 act: {"say":"Evening, Trini. Leonardo at the bed, holding at the row. Hunger 17, no food. I will wait for Billy's walk."}
+- 08:56 act: {"say":"Good morning, Troi. Leonardo here, health 10, hunger 17, no food. Billy, the potatoes at 409,107,-1054 would help me most. I will hold at the row until you name a walk."}
+- 09:05 act: {"actions":[{"do":"sleep"}]}
+- 09:09 act: {"say":"Morning, row. Leonardo at my bed, health 10, hunger 17, no food. Holding with Troi and Trini. Billy, the potatoes would help most when you name the walk."}
