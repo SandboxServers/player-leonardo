@@ -22,4 +22,6 @@
 
 - Day 816: a say asking for food, with the potato offered in sight, worked; Trini walked over and handed it over. Eating it lifted health from 2 to 4.
 
+- Day 829: holding at the bed in a pillager's view is quiet while the group waits; bows were heard drawn to the east and southeast all day but nothing hit us. Billy said a walk to the potatoes will be named only when the pillager has left sight.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Data what I learn.
