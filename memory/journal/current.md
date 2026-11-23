@@ -8,3 +8,5 @@
 - Day 835, thunder, dim. Troi says she has no food but will hold with us. Trini still holds, health 12, hunger 16. Bows drawn east and southeast. Still holding at the bed."}
 - 04:13 say: {"text":"Good evening, Troi. I have no food, only my wooden sword. I am holding at my bed for the night."}
 - Day 835 dusk: told Troi I hold at my bed, then slept at the bed. Sleep returned nothing new. Handoff written.
+- 04:14 act: {"say":"Leonardo here at my bed, health 10, hunger 17, no food. Holding until Billy names the walk."}
+- Day 835 morning, bright. Woke at bed, said I hold. Bows drawn east and southeast. Health 10, hunger 17, no food. Waiting for Billy's walk.
