@@ -19,3 +19,5 @@
 - 05:05 act: {"say":"Troi, Trini, Data: Leonardo at my bed, health 10, hunger 17, still no food. Holding for Billy's walk. Good to hear you both.","actions":[{"do":"sleep"}]}
 - 05:09 act: {"say":"Trini, thank you. Leonardo staying at the bed for the night. Billy, I will go to the potatoes only when you name it.","actions":[{"do":"sleep"}]}
 - 05:17 act: {"say":"Morning, Trini and Troi. Leonardo here at the bed, health 10, hunger 17, no food. Still holding for Billy's walk."}
+- 05:24 act: {"say":"Morning, Zack. Leonardo here at my bed, hunger 17, wooden sword only. Holding for Billy's walk. Bows still heard southeast.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wak
+- 05:26 act: {"say":"Thank you, Trini. Leonardo at my bed, health 10, hunger 17. Going to sleep here for the night, holding for Billy's walk.","actions":[{"do":"sleep"}]}
