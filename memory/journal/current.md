@@ -45,3 +45,10 @@
 - 23:44 act: {"actions":[{"do":"note","text":"Morning at the row. Trini is in reach. Asking for food; I have none."}],"say":"Morning, Trini. I have no food yet. Do you have a spare potato, or know where one is?"}
 - 23:47 act: {"actions":[{"do":"note","text":"Day 822 morning: at 416,107,-1023 by the row. Trini has no food. Hunger 17, health 10. Holding in sight; asking Billy for food and escort word."}],"say":"Billy, Leonar
 - 23:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night at the row. Going to the bed at 415,107,-1023 in Billy's sight. Still no food
+- 23:56 act: {"say":"Trini, I have no food yet. Is there a potato for the weakest in the group, first thing at waking?","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 23:56 act: {"actions":[{"do":"sleep"}]}
+- 23:59 act: {"say":"Morning. I have no food and hunger is 17. Billy, Zack, Worf: anyone with a spare potato? I will hold at the row and offer escort if a walk is called."}
+- 00:11 act: {"actions":[{"do":"sleep"}]}
+- 00:15 act: {"say":"Billy, I am still at 415,107,-1023 with no food, health 10. I can escort or hold, whichever you name. Is there any food for me?"}
+- 00:24 act: {"actions":[{"do":"sleep"}]}
+- 00:28 act: {"actions":[{"do":"sleep"}]}
