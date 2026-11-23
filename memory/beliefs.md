@@ -24,4 +24,6 @@
 
 - Day 829: holding at the bed in a pillager's view is quiet while the group waits; bows were heard drawn to the east and southeast all day but nothing hit us. Billy said a walk to the potatoes will be named only when the pillager has left sight.
 
+- Day 871: no walk was named all day. Bows sounded SE and E all day. Trini holds at 430,107,-1023 and will not walk in the dark. Sleep at dusk at my bed worked.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Data what I learn.

@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 864.
+Ranked, updated day 871.
 
 1. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Reason: no food, hunger 17, health 11.
 2. Feed the lowest first: give any food I receive to whoever is lowest in hunger, in reach. Reason: group rule.
