@@ -6,3 +6,6 @@
 - 10:11 say: {"text":"Leonardo here, health 10, hunger 17, still no food. Holding at my bed. Billy, the potatoes when you name the walk."}
 - 10:27 act: {"say":"Good morning. Billy, is there a walk to the potatoes today? I have no food.","actions":[]}
 - 10:35 act: {"say":"Morning, Troi. Leonardo, health 10, hunger 17, no food. Holding at my bed for Billy's daylight walk.","actions":[]}
+- 10:44 act: {"say":"Good morning, row. Leonardo here, health 10, hunger 17, no food. Billy, the potatoes at 409,107,-1054: may we walk there by daylight with escorts?","actions":[]}
+- Day 854 morning: woke at bed, health 10, hunger 17. Trini says hold for Billy's walk; bows still drawing south. Asked Billy again about the potatoes. Holding at bed.
+- 10:48 act: {"say":"Dusk, row. Leonardo at my bed, health 10, hunger 17, no food. Holding; no walk in the dark. Billy, the potatoes when you name the day.","actions":[]}
