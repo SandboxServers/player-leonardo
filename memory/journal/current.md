@@ -1,1 +1,21 @@
 # Journal
+- 21:33 night: stayed in the bed row, no walks.
+- 21:37 day: tried to reach Worf at 416,107,-1050; goto blocked by doors, unseen. Unstick worked. Back at bed row 415,107,-1039, waiting for Worf to come into sight. Potato still held.
+- 21:41 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Worf, going to you now in daylight with the potato."}
+- 21:45 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Dusk. Going to my bed to sleep. Worf, the potato is still yours at first light."}
+- 21:46 act: {"actions":[{"do":"sleep"}]}
+- 21:50 act: {"actions":[],"say":"Good morning, row. Leonardo at the bed, health 13, hunger 16. Worf, I hold your potato; I will give it when you are in my sight."}
+- 21:52 act: {"actions":[],"say":"Worf, I cannot see you from my bed at 416,107,-1037. Step into my sight and I will hold the potato out to you."}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk, Worf. I am sleeping at my bed. Potato stays with me until you come into my sight in daylight."}
+- 22:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at the bed, holding, potato for Worf at first light."}
+- 22:06 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, I am giving you my potato now."}
+- 22:06 act: {"actions":[],"say":"Worf, I cannot see you from here, the give says no one in sight. Please walk to my bed at 416,107,-1037 in daylight with Jason, and I will hand you the potato there."}
+- 22:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Dusk. Holding at my bed with Worf's potato. Worf, I will hand it to you when you are in my sight in daylight."}
+- 22:15 act: {"actions":[{"do":"sleep"}]}
+- 22:19 act: {"actions":[],"say":"Worf, I still hold your potato at my bed, 416,107,-1037. Walk into my sight and I will hand it over; I will not walk toward you alone."}
+- 22:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo in my bed, holding Worf's potato for first light in daylight."}
+- 22:32 act: {"actions":[],"say":"Worf, Leonardo here at my bed, potato still in hand for you. I will not walk alone. When Billy names the walk, come with Jason to 416,107,-1037 and I will give it to you."}
+- 890 dusk: Worf, Jason, Zack hold at the row (419,108,-1050), no walk named. Nobody in my sight, so no give. Sleep ordered at my bed 415,107,-1037; potato still held.
+- 22:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo at my bed, no one in sight, potato still held for Worf at first light."}
+- 22:44 act: {"actions":[],"say":"Morning, row. Leonardo at my bed, potato held for Worf. Worf, step into my sight and I will hand it over. Holding until Billy names a walk."}
+- 22:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo sleeping at my bed, potato held for Worf in daylight, in sight."}
