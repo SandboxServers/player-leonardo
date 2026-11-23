@@ -23,3 +23,4 @@
 - 23:10 say: {"text":"Morning. Leonardo here at the bed row. Holding my potato for Worf; I'll give it when he's in sight."}
 - 23:20 day 892: Worf at 416,107,-1050 still out of sight; no one in my sight. Holding at bed 415,107,-1037, potato kept. Waiting for Billy's named walk.
 - 23:22 say: {"text":"Dusk, row. Leonardo sleeping at my bed, potato held for Worf at first light, in sight."}
+- 23:27 act: {"say":"Morning, row. Leonardo at my bed 415,107,-1037, holding Worf's potato. I was not named for Billy's walk, so I stay here. Worf, step into my sight and I will hand it over."}
