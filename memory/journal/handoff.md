@@ -1,1 +1,1 @@
-Leonardo at my bed 416,107,-1023, asleep for the night of day 843. Health 10, hunger 17, wooden sword only, no food. Holding for Billy's named daylight walk to the potatoes at 409,107,-1054. Kimberly and Worf may hold potatoes for me. Do not walk alone or south/southeast.
+Day 843 dusk. Asleep in my bed 416,107,-1023 with the group at the row. Health 10, hunger 17, no food, wooden sword only. No errand running. Next waking: hold for Billy's named daylight walk to the potatoes at 409,107,-1054. Kimberly and Worf may hold potatoes for me. Do not walk alone or south/southeast.
