@@ -1,4 +1,5 @@
-# Handoff, day 876 (night)
+Handoff, day 876 (slept at dusk)
 
-In bed at 429,107,-1050, inside Billy's group, Billy adjacent. Asleep. Health 13, hunger 16. Holding 1 potato for whoever is lowest in hunger. Not in danger. No errand running.
-Next at first light: stay in sight of Billy. Beverly (health 7) is weakest; she gets food first. Zack waits for his 3 potatoes from Beverly. No walks alone, no south or southeast.
+Asleep in bed 429,107,-1051, inside Billy's group. Health 13, hunger 16. Holding 1 potato for whoever is lowest in hunger.
+Beverly (health 7) is weakest; Kimberly and Bcrusher are sorting her potatoes. Not in danger. No errand running.
+Next at first light: stay in sight of Billy, feed Beverly first, no walks alone, no south or southeast.
