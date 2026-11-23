@@ -1,6 +1,8 @@
-Handoff, day 870 (dusk, going to sleep)
+Handoff, day 873 (night, slept in Billy's row at 429,107,-1035)
 
-At bed 416,107,-1023. Health 11, hunger 17, no food, wooden sword only. No errand running. Nobody in sight.
-Billy has still not named a daylight walk to the potatoes at 409,107,-1054. Troi and Trini hold at their beds too.
-Bows keep sounding SE and E: do not walk alone or south/southeast.
-Next: at waking, wait for Billy to name a daylight walk. Owe Worf oak logs (ask first).
+Health 11, hunger 17, no food, wooden sword only. Not in danger; group nearby (Billy, Lewis, Beverly, Kimberly).
+No errand running.
+Billy's potatoes are owed first to Beverly, then Worf 5 and Zack 3; I am after them.
+Bed use at 429,107,-1036 failed (it is a bed, occupied or not usable that way).
+Bows still sounding SE and E: no walks alone, no south or southeast.
+Next: at first light, stay in Billy's sight and wait for a named walk or food handed to me. Owe Worf oak logs (ask first).
