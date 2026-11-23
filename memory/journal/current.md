@@ -1,13 +1,1 @@
 # Journal
-- 06:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. I'm in my bed, Trini. Holding for Billy at dawn."}
-- 06:51 act: {"actions":[],"say":"Morning, row. Leonardo at my bed, health 10, hunger 17, no food. Holding for Billy's named walk to the potatoes. Troi, if you can spare food, I will eat it."}
-- 07:03 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo sleeping at my bed, holding for Billy at dawn."}
-- 07:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo at my bed, health 10, hunger 17. Holding for Billy at dawn."}
-- 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, holding for Billy at dawn."}
-- 07:36 act: {"actions":[],"say":"Morning, Beverly. Leonardo at my bed, health 10, hunger 17, no food. If you hold potatoes, I would take one when you can spare it. Thank you."}
-- 07:44 act: {"actions":[{"do":"sleep"}]}
-- 07:49 act: {"say":"Leonardo here at my bed, health 10, hunger 17, no food. Holding at the row until Billy names a daylight walk. Troi, Trini, I hear you.","intent":{"goal":"hold_at_row","program":"rest","argumen
-- 07:50 Day 846 bright at my bed. Health 10, hunger 17, no food. Said I hold at the row for Billy's walk; set a rest intent to wait.
-- 08:05 Rest intent failed. Still at the row, no walk named, no food. Dim with thunder; going to my bed to sleep for the night.
-- 07:55 act: {"actions":[{"do":"sleep"}],"say":"Dusk at the row. Leonardo sleeping in my bed, holding for Billy at dawn."}
-- 07:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo sleeping in my bed, holding for Billy at dawn."}
