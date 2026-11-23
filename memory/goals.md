@@ -2,8 +2,8 @@
 
 Ranked, updated day 863.
 
-1. Feed the lowest first: I hold one potato from Billy. Give it to whoever is lowest in hunger (likely Trini), in sight. Reason: group rule.
-2. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Reason: hunger 17, health 11.
+1. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Reason: no food, hunger 17, health 11.
+2. Feed the lowest first: give any food I receive to whoever is lowest in hunger, in reach. Reason: group rule.
 3. Stay in sight of the group; do not walk alone; do not walk south or southeast. Reason: bows heard SE and E.
 4. Walk only when Billy names it in daylight.
 5. Sleep at night at my bed 416,107,-1023. Reason: safety.
