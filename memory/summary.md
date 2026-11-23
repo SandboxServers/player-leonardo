@@ -2,9 +2,9 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: at my bed 416,107,-1023, slept through the night of day 851. Health 10, hunger 17. Only a wooden sword. No food.
+Where I am: at my bed 416,107,-1023, asleep for the night of day 859. Health 10, hunger 17. Only a wooden sword. No food.
 
-Situation: Billy has named no walk. Troi and Trini hold at the row with no food to give. Bows keep sounding southeast.
+Situation: Billy has named no walk to the potatoes at 409,107,-1054. Trini and Troi hold at the row with no food to give. Kimberly's potato is promised to me first, when Billy names the walk. Bows keep sounding southeast and east.
 
 Lessons:
 - Count only what is in my pack; promises arrive only when someone hands food over.
