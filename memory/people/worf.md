@@ -1,10 +1,7 @@
 # Worf
 
-Impression: said on day 446 he was giving me two jungle planks; the planks did not show in my pack by the next day. Earlier he was the one who made planks, which I had planned to gather oak logs for.
+Impression: patient, hungry, honest about waiting. Hunger 12 at dusk on day 887. Sleeps at the bed 416-418,107,-1050/-1051 with Jason and Zack near.
 
-Day 636: at his bed 415,107,-1050 with sword in hand, holding in Billy's sight, no sheep seen.
+Trust: 60 out of 100. He has said where he is each time, and he has been right. I owe him one potato (in hand) and oak logs for his planks. I have not yet been able to get it into his sight; the goto has failed twice at night.
 
-Trust: 40/100. Why: his planks never reached me.
-
-I owe him: oak logs at 374,118,-1010 for his planks, when the group moves that way (open, not yet started).
-He owes me: nothing now.
+Next: give the potato the moment he is in my sight in daylight.
