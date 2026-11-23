@@ -7,3 +7,13 @@
 - 21:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1036}}],"say":"Dusk. I am going to Billy's bed row to sleep. Holding the potato for Beverly or Worf."}
 - 21:03 act: {"actions":[{"do":"sleep"}]}
 - 21:03 act: {"actions":[{"do":"sleep"}]}
+- 21:07 act: {"actions":[{"do":"goto","target":"ag_worf_01"}],"say":"Good morning. Leonardo here. Worf, I am coming to you with my potato, as I promised.","intent":{"goal":"reach_worf_with_potato","program":"trave
+- 21:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1049}}],"say":"Worf is not in my sight. I am walking to the row's west bed at 416,107,-1050 to find him."}
+- 21:09 act: {"actions":[],"say":"Leonardo in the row, holding one potato. Owed to Beverly first, then Worf. Whoever is near, call me and I will give it."}
+- 21:13 act: {"actions":[],"say":"Jason, Leonardo at 413,107,-1049 with the potato for Worf. Tell him to come into my sight and I will hand it over."}
+- 21:17 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, coming to you now with the potato."}
+- 21:17 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Going to the bed at 413,107,-1041 in the row to sleep. Worf, I keep your potato; I will give it at first light when you are in si
+- 21:21 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1048}}],"say":"Worf, Leonardo here, coming to your bed with the potato.","intent":{"goal":"reach_worf_with_potato","program":"travel","arguments
+- 21:22 act: {"actions":[],"say":"Worf, Jason, Zack: I am at the row's west end with Worf's potato. Walk me into your sight and I will hand it over."}
+- 21:26 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1049}}],"say":"Worf, I am coming by the east side of your bed. Holding the potato out for you."}
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Dusk. Going to my bed in the row now, holding the potato for Worf."}

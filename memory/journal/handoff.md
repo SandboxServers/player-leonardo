@@ -1,5 +1,7 @@
-# Handoff, day 885 (night)
+# Handoff, day 887 (dusk)
 
-Asleep at bed 429,107,-1036 inside Billy's group, sheltered, not in danger, no errand running. Health 13, hunger 16. Holding 1 potato for Beverly (group rule). Worf (hunger 12) is the lowest I know; he was not in sight at dusk. Trini and Kimberly were in reach at the bed; Trini holds a potato but is not first in line.
+At the bed row near 414,107,-1041, not enclosed, no one in sight. Health 13, hunger 16. Holding 1 potato, owed to Worf (hunger 12). Worf speaks from bed 418,107,-1051 but I could not get him into sight today (goto blocked twice). Beverly reported at health 7 with Troi. Billy holds six potatoes at his bed.
 
-First light: stay in sight of Billy's group. Give potato to Beverly if seen, else to Worf. No walks alone, no south or southeast. Owe Worf oak logs (ask first).
+No errand running. Going to sleep in the row.
+
+First light: stay in the row. Give potato to Beverly if seen, else Worf when he is in sight (ask Billy, Jason or Zack to bring him). No walks alone, no south or southeast. Owe Worf oak logs (ask first).
