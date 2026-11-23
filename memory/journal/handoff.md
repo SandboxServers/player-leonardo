@@ -1,4 +1,5 @@
-# Handoff, day 862
+# Handoff, day 863
 
-At my bed 416,107,-1023, going to sleep for the night of day 862. Health 10, hunger 17, no food, wooden sword only. No errand running. Billy gave his potatoes to Worf and Zack; none named for me yet. Trini, Troi and Data hold at their beds with no food, Troi and Data at health 20 and hunger 20.
-Next waking: say good morning, hold at the row, ask Billy for a daylight potato walk. Do not walk alone or south/southeast. Bows heard SE and E.
+At my bed 416,107,-1023, going to sleep for the night of day 863. Health 11, hunger 17. Holding one potato (from Billy) for the lowest hungry one, probably Trini. Wooden sword only. No errand running. Billy named the walk in daylight and gave me 2 potatoes; I ate one.
+Billy holds his potatoes at 415,107,-1037; Worf and Zack were first on his list.
+Next waking: say good morning, check the row, offer my potato to whoever is lowest. Do not walk alone or south/southeast. Bows heard SE and E.
