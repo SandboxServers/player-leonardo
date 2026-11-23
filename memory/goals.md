@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 833.
+Ranked, updated day 839.
 
-1. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Reason: hunger 17, health 10.
+1. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Ask Kimberly and Worf about their held potatoes. Reason: hunger 17, health 10.
 2. Stay in sight of the group; do not walk alone; do not walk south or southeast. Reason: bows heard southeast and east.
 3. Walk only when Billy names it in daylight.
 4. Sleep at night at my bed 416,107,-1023. Reason: safety.
