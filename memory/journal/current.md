@@ -9,3 +9,9 @@
 - 10:44 act: {"say":"Good morning, row. Leonardo here, health 10, hunger 17, no food. Billy, the potatoes at 409,107,-1054: may we walk there by daylight with escorts?","actions":[]}
 - Day 854 morning: woke at bed, health 10, hunger 17. Trini says hold for Billy's walk; bows still drawing south. Asked Billy again about the potatoes. Holding at bed.
 - 10:48 act: {"say":"Dusk, row. Leonardo at my bed, health 10, hunger 17, no food. Holding; no walk in the dark. Billy, the potatoes when you name the day.","actions":[]}
+- 10:49 act: {"say":"Good morning, row. Leonardo at my bed, health 10, hunger 17, no food. Billy, may we walk to the potatoes at 409,107,-1054 in daylight with escorts in sight?","intent":{"goal":"hold_for_billy_w
+- 10:49 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1023}},{"do":"open","at":{"x":419,"y":107,"z":-1023}}],"say":"Morning. I am going to look in the chest 3 east of my bed, the one Trini has not o
+- 10:49 act: {"say":"The chest is open. I see no food listed in my view of it. I will hold here until Billy names a walk.","intent":{"goal":"hold_for_billy_word","program":"trade_wait","arguments":{},"wake_on":["d
+- 10:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Dusk, row. Leonardo at my bed, health 10, hunger 17, no food. No walk in the dark. Holding; sleeping at night."}
+- 10:54 act: {"actions":[{"do":"sleep"}]}
+- 10:58 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, health 10, hunger 17, no food. Holding until first light for Billy's walk."}
