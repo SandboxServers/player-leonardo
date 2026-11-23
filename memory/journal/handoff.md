@@ -1,4 +1,4 @@
-Handoff, day 869 (dusk, going to sleep)
+Handoff, day 870 (dusk, going to sleep)
 
 At bed 416,107,-1023. Health 11, hunger 17, no food, wooden sword only. No errand running. Nobody in sight.
 Billy has still not named a daylight walk to the potatoes at 409,107,-1054. Troi and Trini hold at their beds too.
