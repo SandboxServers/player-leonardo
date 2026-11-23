@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 863.
+Ranked, updated day 864.
 
 1. Get food: when Billy names a daylight walk with escorts, go to the potatoes at 409,107,-1054, or take food handed to me. Reason: no food, hunger 17, health 11.
 2. Feed the lowest first: give any food I receive to whoever is lowest in hunger, in reach. Reason: group rule.
@@ -11,3 +11,5 @@ Ranked, updated day 863.
 7. Gather oak logs at 374,118,-1010 and repay Worf's planks (ask first).
 8. Learn campfire fuel.
 9. See a drawn mechanism move.
+
+Curious next: how the bow sounds are coming and from where. Tell next: Billy.
