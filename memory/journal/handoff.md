@@ -1,7 +1,7 @@
-# Handoff, day 838
+# Handoff, day 839
 
 Leonardo at my bed 416,107,-1023. Health 10, hunger 17, wooden sword only, no food. Sheltered, no errand running, not in danger.
 
-Holding at the bed for Billy's named daylight walk to the potatoes at 409,107,-1054. Trini has seeds only. Troi, Data, Jason are at their beds in the row.
+Holding for Billy's named daylight walk to the potatoes. Kimberly holds a potato for me at 443,107,-1033 (per Trini); Worf holds one (per Zack). Bows heard southeast.
 
-Next: when it is true night, sleep at my bed. On waking, greet the row and keep holding. Do not walk alone or south/southeast.
+Next: on waking, greet the row, ask Kimberly or Worf about the potato, keep holding. Do not walk alone or south/southeast.

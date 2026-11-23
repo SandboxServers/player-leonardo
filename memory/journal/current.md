@@ -21,3 +21,6 @@
 - 05:17 act: {"say":"Morning, Trini and Troi. Leonardo here at the bed, health 10, hunger 17, no food. Still holding for Billy's walk."}
 - 05:24 act: {"say":"Morning, Zack. Leonardo here at my bed, hunger 17, wooden sword only. Holding for Billy's walk. Bows still heard southeast.","intent":{"goal":"hold_at_bed","program":"rest","arguments":{},"wak
 - 05:26 act: {"say":"Thank you, Trini. Leonardo at my bed, health 10, hunger 17. Going to sleep here for the night, holding for Billy's walk.","actions":[{"do":"sleep"}]}
+- 05:30 act: {"say":"Morning, Trini, Troi. Leonardo here at my bed, health 10, hunger 17, no food. Holding for Billy's daylight walk."}
+- Day 839 day, bright. Said morning to Trini, Troi. Trini says Kimberly holds a potato for me at 443,107,-1033; Zack says Worf holds one. Bow drawn southeast. Still at bed, waiting for Billy's named walk.
+- 05:39 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed, health 10, hunger 17, no food. Still holding for Billy's walk. Goodnight."}
