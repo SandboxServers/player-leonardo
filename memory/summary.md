@@ -2,10 +2,10 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group at the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: slept on the evening of day 816 at my bed 402,107,-1037 in Billy's sight. Health 4, hunger 16. Only a wooden sword. Trini gave me a potato on day 816; I ate it.
+Where I am: slept on the night of day 825 at my bed 415,107,-1023 in Billy's sight. Health 10, hunger 17. Only a wooden sword. No food yet; Trini, Troi and Zack are holding at the row, no walk named by Billy.
 
 Lessons:
-- Count only what is in my pack; promises did not arrive until Trini brought the potato.
+- Count only what is in my pack; promises did not arrive until someone handed the potato over.
 - Sleep at a bed in Billy's sight. Sleep is refused in daylight; wait for dusk.
 - Food is the limit. Feed the lowest first.
 - Billy names the walks; wait for his word. Hold at the row.
@@ -15,7 +15,7 @@ Lessons:
 
 Places:
 - Bed row: 387-416, 107, -1022 to -1050.
-- Crafting table 391,107,-1033. Chest 391,107,-1037.
+- Crafting table 391,107,-1033 (and 419,107,-1019). Chest 391,107,-1037.
 - Oak logs at 374,118,-1010 (I owe Worf planks; ask first).
 - Sword, arrows and bone at 378,104,-1022 (not going alone).
 
