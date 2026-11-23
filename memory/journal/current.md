@@ -18,3 +18,6 @@
 - 11:02 act: {"say":"Morning, Troi, Trini. Leonardo at my bed, health 10, hunger 17, no food. Thank you, Trini. Billy, when you name the potato walk, I will go only in sight of you."}
 - 11:10 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, health 10, hunger 17, no food. Holding for Billy's walk at first light."}
 - 11:14 act: {"say":"Morning, Troi, Trini. Leonardo at my bed, health 10, hunger 17, no food. Still holding for Billy's named walk. Billy, the potatoes whenever you say."}
+- 11:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo at my bed, health 10, hunger 17, no food. Holding for Billy's walk at first light."}
+- 11:43 act: {"say":"Morning, Troi, Trini. Leonardo at the bed, health 10, hunger 17, no food. Holding for Billy's word."}
+- 11:51 act: {"actions":[{"do":"sleep"}]}
