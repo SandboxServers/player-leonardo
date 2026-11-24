@@ -1,5 +1,5 @@
-# Handoff, day 904 (dusk)
+# Handoff, day 912 (night)
 
-Going to bed at 429,107,-1049 inside the row. Health 13, hunger 16. Still holding 1 potato owed to Worf (hunger 12). Worf keeps saying he is in sight, but every give fails with "no such agent in sight". Worf is now at 416,107,-1050 with Zack and Jason, going to bed. Billy is at bed 415,107,-1036. Beverly holds 10 potatoes (owes Zack 3, Worf 5).
+Asleep in the bed at 415,107,-1023 inside the row (4 of 10 asleep). Health 1, hunger 17, no food. Wooden sword in pack, nothing in hand. Owe Worf oak logs (ask first). Pillagers shot Lewis (dead) and Macdonald; Billy at 417,107,-1036 with health 20, no items. Troi at her bed, health 20. Give to Worf only in daylight in his sight. No solo walks, no south, no night walks.
 
-On waking: give the potato to Worf (Beverly first if she is in sight and hungrier) in daylight, in his sight. Owe Worf oak logs (ask first). No walks alone, no south, no night walks. Wait for Billy's daylight call.
+On waking: check for food from anyone in sight; ask Worf or Troi in daylight for a potato. Get the sword into hand only with an armed one near. Stay in the row.
