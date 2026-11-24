@@ -31,3 +31,7 @@
 - 14:50 act: {"say":"Leonardo, morning at bed 415,107,-1023. Health 1, hunger 17, still no food. Trini, Worf, Zack, Lewis, Jason: any bread, potato, melon or meat, please give it here. I will eat at once.","action
 - 15:06 act: {"say":"Leonardo, morning day 940, at bed 415,107,-1023. Health 1, hunger 17, no food. Worf, Trini: if you find any food, please bring it here first.","actions":[]}
 - 15:19 act: {"say":"Leonardo, day 940, at bed 415,107,-1023. Health 1, hunger 17, no food. Anyone with food, please bring it to the bed row. I will eat at once."}
+- 15:31 act: {"say":"Leonardo, morning day 941, still at bed 415,107,-1023. Health 1, hunger 17, no food. Anyone with food: bring it to the row, I eat at once."}
+- 15:35 act: {"say":"Leonardo, holding at the bed, health 1, hunger 17, no food. Thank you, Troi, Billy, Data. No walks until someone armed names a daylight route."}
+- 15:47 act: {"say":"Leonardo, morning day 942, still at bed 415,107,-1023. Health 1, hunger 17, no food. Still holding. Troi, John, thank you. Anyone with food, bring it here."}
+- 15:51 act: {"say":"Troi, thank you. Trini, if you can bring the potatoes here to bed 415,107,-1023, I will eat them at once. I stay put in daylight."}
