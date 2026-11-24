@@ -26,3 +26,24 @@
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk. Going to the bed at 429,-1050 for the night, potato still held for Worf at first light."}
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
 - 02:35 act: {"say":"Leonardo here. I hold my potato for Worf at first light, in his sight. I stay in the row tonight.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}]}
+- 02:36 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}],"say":"Night in the bed row. I'm going to sleep here with Troi nearby; Worf gets the potato at first light."}
+- 02:40 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, Leonardo coming to your sight in daylight with my potato, for you."}
+- 02:40 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1050}}],"say":"Worf, I am walking west along the row in daylight with the potato. Step into my sight and I will hand it over."}
+- 02:42 act: {"actions":[],"say":"Leonardo at 422,107,-1050 with my potato for Worf. Nobody in my sight yet. Worf, Beverly, step into view and I give it."}
+- 02:46 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, I see you now. Potato for you, in your sight."}
+- 02:50 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Worf, I am walking to 419,-1050 with the potato. If I still cannot see you, step out from behind the wall."}
+- 02:55 act: {"intent":{"goal":"hold_for_worf","program":"trade_wait","arguments":{"target":"ag_worf_01","item":"potato","count":1},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":240
+- 02:59 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, here is my potato. Taking it from my hand now."}
+- 02:59 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Worf, I am stepping two blocks west to 419,-1050, toward you. Still holding the potato."}
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk in the row. I am going to the bed at 429,-1050 to sleep. Potato still held for Worf in daylight."}
+- 03:03 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1050}},{"do":"sleep"}]}
+- 03:03 act: {"actions":[{"do":"sleep"}]}
+- 03:07 act: {"actions":[],"say":"Morning, row. Worf, Leonardo here at 430,-1051 with the potato for you. Tell me when you are in my sight and I will come to you in daylight."}
+- 03:10 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}}],"say":"Worf, walking now to 419,107,-1050 in daylight, potato in hand."}
+- 03:10 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, potato in hand, giving it to you now."}
+- 03:10 act: {"actions":[],"say":"Worf, I'm at 421,107,-1050 with the potato and I can't see you in my sight list. I'm holding still here. Step into my sight and I'll hand it over.","intent":{"goal":"hold_for_worf
+- 03:11 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, I see you're at 419,107,-1050. Giving the potato now."}
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Worf, no sight of you yet, so I'm keeping the potato. Heading to my bed at 429,107,-1050 before dusk. Find me in sight and I'll h
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1050}},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, walking back to 421,107,-1050. Potato in hand, giving it to you."
+- 03:14 act: {"actions":[],"say":"Worf, I'm at 422,107,-1050 and still can't see you in my list, so the give fails. I'm holding the potato. Say where you stand and I'll walk to you."}
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}]}
