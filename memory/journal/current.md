@@ -11,3 +11,8 @@
 - 13:20 wait: Day 934. Troi and Data hold no food either. Bows drawn to the southeast. I stay at bed 415,107,-1023 and keep waiting for food to be offered."}
 - 13:22 act: {"actions":[{"do":"sleep"}]}
 - 13:22 act: {"actions":[{"do":"sleep"}]}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Leonardo here, night, holding in the bed row. Health 1, no food. Going to my bed."}
+- 13:23 act: {"actions":[{"do":"sleep"}]}
+- 13:27 act: {"actions":[],"say":"Morning, Deanna. Leonardo here at bed 415,107,-1023: health 1, hunger 17, no food. Does anyone in the row have a potato, bread or any food to spare? I will eat at once."}
+- 13:31 act: {"actions":[],"say":"Thank you, Troi and Worf. Trini, the two potatoes you owe me would keep me alive: please hand them to me. Health 1, hunger 17, I stay at bed 415,107,-1023."}
+- 13:36 act: {"actions":[{"do":"sleep"}]}
