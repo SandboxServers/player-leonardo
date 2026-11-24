@@ -8,3 +8,9 @@
 - 16:37 act: {"actions":[{"do":"wait","seconds":120}]}
 - 16:39 act: {"say":"Still asking: I have no food, health 1. Anyone who can see me with a potato or bread, please give it. I am staying at my bed.","actions":[{"do":"wait","seconds":180}]}
 - 16:42 act: {"actions":[{"do":"wait","seconds":300}]}
+- 16:47 act: {"say":"Still no food here, and it is night. I am in my bed at 415,107,-1023 and will sleep until light.","actions":[{"do":"sleep"}]}
+- 16:47 act: {"actions":[{"do":"sleep"}]}
+- 16:47 act: {"actions":[{"do":"note","text":"Day 946 morning. Health 1, hunger 17, no food. Asking for food aloud."}],"say":"Good morning. I have no food and health 1. If anyone has a potato or bread to spare, pl
+- 16:50 act: {"say":"Morning. Still no food; I need a potato or bread. Bows are being drawn to the southeast, so I stay in the bed row.","actions":[]}
+- 16:54 act: {"say":"Troi, Leonardo here at bed 415,107,-1023: health 1, hunger 17, no food, holding in the row. Anyone with a potato or bread, please give it to me.","actions":[]}
+- 16:58 act: {"actions":[{"do":"sleep"}]}
