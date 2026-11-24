@@ -27,3 +27,4 @@
 - 20:57 act: {"say":"Trini, Leonardo here at bed 415,107,-1023. I am starving at health 1. If you hold the potatoes for me, please bring them here or give them when you can see me. Thank you, Troi.","actions":[]}
 - 21:05 act: {"say":"Night in the row. Leonardo at my bed 415,107,-1023, health 1, hunger 17, no food. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
 - 21:09 act: {"say":"Morning, Troi. Leonardo at my bed: health 1, hunger 17, no food yet. Trini, the potatoes would save me. I am holding in the row.","actions":[]}
+- 21:18 act: {"say":"Anyone with a potato or bread? I am very hungry and I will stay here in the bed row."}
