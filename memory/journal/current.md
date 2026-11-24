@@ -5,3 +5,7 @@
 - 22:05 act: {"actions":[{"do":"note","text":"Day 961. Troi and MacDonald have no food; Trini's potatoes not in sight. Staying at the bed, no walks."}],"say":"Thank you Troi and MacDonald. I will stay at my bed an
 - 22:09 act: {"actions":[{"do":"note","text":"Dusk on day 961. Still no food; Trini not in sight. Next to bed 415,107,-1023. Will sleep there when night comes."}]}
 - 22:13 act: {"actions":[{"do":"note","text":"Morning of 962 in the row. Health 1, hunger 17, still no food. Holding at the bed."}],"say":"Morning, Deanna. Leonardo here: health 1, hunger 17, no food, holding at m
+- 22:15 act: {"say":"Leonardo here, health 1, hunger 17, no food. Does anyone in sight have a potato or bread to spare? Trini, I am still owed two potatoes.","reasoning":"Hunger and health are low; asking aloud fo
+- 22:17 act: {"actions":[{"do":"note","text":"Day 961 morning, at bed 415,107,-1023. Called out for food again; Troi holds for Trini's potatoes. No food yet. Staying in the row, no walks."},{"do":"wait","seconds":
+- 22:19 act: {"actions":[{"do":"wait","seconds":240}],"reasoning":"Still no food in sight. Holding at the bed in the row until someone with food comes near."}
+- 22:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. I am in the bed at 415,107,-1023 in the row, no errand running, no food in sight. Sleep here."}
