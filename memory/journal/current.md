@@ -2,3 +2,21 @@
 - 01:27 act: said to Worf I will not walk south alone; holding potato at bed 430,107,-1037 for him to come north.
 - Waited 240s; no one came into sight. Waiting on Worf or Billy's daylight call.
 - 01:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}}]}
+- 01:44 act: {"say":"Leonardo at bed 430,107,-1037, holding my potato. I cannot see you from here, Worf. I will not walk south alone. Call me in sight and I come.","actions":[]}
+- 01:48 act: {"say":"Coming north to Worf now, in daylight, with Billy and the row in view. Holding the potato.","actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1046}}]}
+- 01:48 act: {"say":"I am at 420,107,-1045 with the potato in hand. Worf, I do not see you yet. Step into my sight and I will hold it out.","actions":[]}
+- 01:59 act: {"say":"Morning. Leonardo walking to Worf, in daylight, potato in hand. Picard, I hear you; the potato goes to Worf's line first.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1048}}]}
+- 01:59 act: {"say":"Worf, here is my potato, in your sight, in daylight. I owe you oak logs when I have them.","actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 01:59 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 01:59 act: {"say":"Worf, my path is blocked, I am 3 blocks off at 417,107,-1053. Could you step one block toward me? I will hand the potato across.","actions":[]}
+- 02:00 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 02:04 act: {"say":"Worf, I am here at 419,107,-1053, in your sight now. Potato coming.","actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1052}}]}
+- 02:04 act: {"actions":[{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 02:07 act: {"say":"Leonardo to the bed at 429,107,-1051, in the row's sight. Potato waits for Worf at daylight.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}}]}
+- 02:07 act: {"say":"Worf, Leonardo coming into your sight now with the potato, holding it out.","actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"potato","count":1}]}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, Leonardo here in daylight, coming to your sight with the potato."
+- 02:13 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1050}},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, I am at 421,107,-1050, walking to your sight with the potato."}
+- 02:13 act: {"actions":[],"say":"Worf, the way west is blocked; I am at 423,107,-1050 with the potato. Come east into my sight, or tell me the way."}
+- 02:15 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, going to 419,107,-1050 as you asked."}
+- 02:15 act: {"actions":[],"say":"Worf, I am at 421,107,-1050 and cannot see you. Please step into my sight; I am holding the potato out."}
+- 02:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Dusk. Going to my bed in the row, east, not south. The potato stays with me for Worf at first light."}
