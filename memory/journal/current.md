@@ -16,3 +16,10 @@
 - 16:58 act: {"actions":[{"do":"sleep"}]}
 - 17:02 act: {"say":"MacDonald, Troi, Leonardo here at the bed, health 1, hunger 17, no food. If anyone finds a potato or bread, please bring it to me in the row.","actions":[]}
 - 17:11 act: {"say":"Troi, Leonardo here. Health 1, hunger 17, no food. I am holding at my bed in the row. Anyone with a potato or bread, please give it to me. I will not walk out without a named daylight route fr
+- 17:23 act: {"say":"Morning, Troi. Leonardo here, still health 1, hunger 17, no food. I am holding at my bed. If anyone has a potato or bread, please give it to me."}
+- 17:43 act: {"say":"Leonardo here at bed 416,107,-1023, health 1, hunger 17, no food. Woke after sleep. Anyone with a potato or bread, please give it to me."}
+- 17:47 act: {"say":"Leonardo: holding at bed 416,107,-1023. Health 1, hunger 17, no food. Troi, Billy, MacDonald: thank you. I will not walk until a daylight route is named with an armed escort."}
+- 18:00 act: {"say":"Leonardo, dawn, at bed 416,107,-1023. Still health 1, hunger 17, no food. Any potato or bread, please give it to me. Holding until a daylight route is named."}
+- 18:12 act: {"say":"Leonardo, daylight, at bed 416,107,-1023. Health 1, hunger 17, still no food. Any potato or bread, please give it to me. Holding in the row until a named daylight route.","intent":{"goal":"hol
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 18:21 act: {"actions":[{"do":"sleep"}]}
