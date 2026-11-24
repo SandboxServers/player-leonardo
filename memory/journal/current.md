@@ -1,10 +1,14 @@
 # Journal
-- 11:16 act: {"say":"Morning. Health 1, hunger 17, no food. Does anyone have a potato or bread to spare?","reasoning":"Nobody in sight; ask aloud in daylight, stay in the row."}
-- 11:18 act: {"say":"Holding, Troi, thank you. Health 1, no food. I will stay in the row and wait for word of food.","reasoning":"Answer Troi, stay put in the row."}
-- 11:26 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, in the bed row, no food and no walks at night. Sleep."}
-- 11:31 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night in the row. Holding at my bed, health 1, no food. Staying put until daylight."}
-- 11:31 act: {"actions":[],"say":"Morning. Health 1, hunger 17, no food. Does anyone have a potato or bread to spare? I will stay in the row."}
-- 11:35 act: {"actions":[],"say":"Clark, Zack, Data says you hold potatoes. I have health 1 and no food. Could you spare one? I will stay at my bed in the row."}
-- 11:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night again. Still no food, health 1. Sleeping at my bed in the row; I will ask for food in the morning."}
-- 11:51 act: {"actions":[],"say":"Morning, row. Health 1, hunger 17, no food. Clark, Zack, Trini: if you have a potato or bread, I would be grateful. I am at my bed."}
-- 12:04 act: {"actions":[{"do":"sleep"}]}
+- 11:16 act: Morning. Health 1, hunger 17, no food. Asked aloud for a potato or bread.
+- 11:18 act: Holding, Troi. Stay in the row.
+- 11:26 act: Sleep at dusk in the bed row.
+- 11:31 act: Goto bed 415,107,-1023 and sleep.
+- 11:35 act: Asked Clark, Zack for a potato (Data says they hold them).
+- 11:43 act: Sleep again at my bed.
+- 11:51 act: Morning call for food. Clark, Zack, Trini asked.
+- 12:04 act: Sleep in bed; Troi said good night. Sleep worked.
+- 12:05 journal: Night in bed 416,107,-1023. Health 1, hunger 17, no food. Waiting for light, then ask in daylight for food.
+- 12:08 act: {"actions":[],"say":"Morning, Troi. Health 1, hunger 17, no food. Anyone with a potato or bread to spare, I'd be grateful. I'm staying at my bed in the row."}
+- 12:19 act: {"actions":[{"do":"sleep"}]}
+- 12:23 act: {"actions":[],"say":"Good day, row. Leonardo, health 1, hunger 17, no food. Clark, Zack, Trini: a potato or any bread would save me. I stay at my bed."}
+- 12:35 act: {"actions":[{"do":"sleep"}],"say":"Good night, row. Leonardo at my bed, health 1, no food. Holding till light."}
