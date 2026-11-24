@@ -27,3 +27,4 @@
 - 14:09 act: {"say":"Morning, Troi. Still at bed 415,107,-1023, health 1, hunger 17, no food. Trini, Worf, Beverly, Riker: if you have any bread, potato, melon or meat, please give it to me here. I will eat at onc
 - 14:17 act: {"say":"Dusk, Troi. Still at bed 415,107,-1023, health 1, hunger 17, no food. Anyone with bread, potato, melon or meat, please give it to me here. I'm going to sleep at this bed for the night.","actio
 - 14:21 act: {"say":"Morning, row. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food yet. Trini, Worf, Beverly, Riker: any bread, potato, melon or meat, please give it here. I will eat at once.","actions
+- 14:42 act: {"say":"Leonardo at bed 415,107,-1023, health 1, hunger 17, still no food. Troi, Billy, Worf, Zack: if anyone finds bread, potato, melon or meat, please give it here. I'm holding still.","actions":[]}
