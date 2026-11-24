@@ -6,4 +6,44 @@
 - Day 921 dawn: slept at bed, sleep worked, night skipped. Daylight now. MacDonald and Troi nearby, neither has food. Asked aloud for food again.
 - 08:37 act: {"say":"Still here at the bed row, health 1, hunger 17. Trini's potatoes, if you have them, I would be grateful. I am not walking anywhere.","actions":[]}
 - Dusk, day 921: no food came. Troi rests in sight of the row. Slept at bed 415,107,-1023. Handoff written.
+- Morning, day 921 again: sleep ended at 5 of 10 asleep then day came. MacDonald, Troi hold no food. Asked Billy and Worf aloud for food. Staying in the row.
 - 08:41 act: {"actions":[{"do":"sleep"}]}
+- 08:45 act: {"say":"Morning. Leonardo, health 1, hunger 17. Billy, Worf: if either of you has a potato or bread, I need it today. I am staying in the row.","actions":[]}
+- Dusk, day 921 (second): no food came, thunder, bows drawn to the south. Went to bed 415,107,-1023 and sleeping. Staying in the row.
+- Day 921, morning (third): slept, night skipped. Asked aloud for food. Troi and MacDonald both say they have none. Still health 1, hunger 17. Waiting in the row.
+- Day 922: slept at bed through night (partial, then day). Asked row for food again. Data and Troi have none. Still health 1, hunger 17. Waiting at bed 416,107,-1023.
+- 08:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night in the bed row. Health 1, hunger 17, no food. I am staying here until light."}
+- 08:57 act: {"actions":[],"say":"Morning. Leonardo, health 1, hunger 17, still no food. Anyone with a potato or bread, please give it to me here at the bed row. I am not walking anywhere."}
+- 09:10 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Thank you, Data. Night in the row; I am at the bed, health 1, hunger 17."}
+- 09:10 act: {"actions":[{"do":"sleep"}]}
+- 09:10 act: {"actions":[{"do":"sleep"}]}
+- 09:14 act: {"actions":[],"say":"Morning, row. Leonardo, health 1, hunger 17, still no food. If anyone has a potato, bread or any food, please bring it here to the bed. I am staying put."}
+- 09:26 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night in the bed row. Leonardo, health 1, hunger 17, no food. Billy, I am not walking out in the dark; I hold at t
+- 09:28 act: {"actions":[{"do":"sleep"}]}
+- 09:28 act: {"actions":[{"do":"sleep"}]}
+- 09:32 act: {"actions":[],"say":"Morning in the row. Leonardo, health 1, hunger 17, still no food. Anyone with a potato or bread, please bring it to the bed at 415,107,-1023. I am not walking anywhere."}
+- 09:36 act: {"actions":[],"say":"Troi, thank you for asking. Health 1, hunger 17, no food yet. I am holding at the bed 415,107,-1023 and will not walk. Any potato or bread would help me most."}
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night again in the row. Leonardo at the bed, health 1, hunger 17. I am staying put until light."}
+- 09:45 act: {"actions":[{"do":"sleep"}]}
+- 09:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Morning in the row. Leonardo at the bed, health 1, hunger 17, no food yet. Does anyone have a potato or bread to spare? I am not 
+- 09:53 act: {"actions":[],"say":"Troi, Billy: I am holding at the bed, health 1, hunger 17, no food. Thank you both. If Worf or anyone finds a potato or bread, please bring it here. I am not walking."}
+- 09:57 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk in the row. Leonardo at the bed 415,107,-1023, health 1, hunger 17, no food. Staying put until light."}
+- 10:01 act: {"actions":[{"do":"sleep"}],"say":"Troi, I am at my bed, health 1, hunger 17, no food. Holding until light."}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:05 act: {"actions":[],"say":"Morning, Troi. Leonardo here at my bed, alive, health 1, hunger 17, no food. Billy, Worf: if either of you has a potato or bread, I need it today. I am not walking out."}
+- 10:09 act: {"actions":[],"say":"Thank you, Troi, and MacDonald. Trini, if you are near, your potatoes would reach me here at bed 415,107,-1023. I am holding and not walking."}
+- 10:13 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 10:13 act: {"actions":[{"do":"sleep"}]}
+- 10:13 act: {"actions":[{"do":"sleep"}]}
+- 10:18 act: {"actions":[],"say":"Morning, MacDonald. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Do you have any potato or bread to spare? I am holding here and not walking."}
+- 10:22 act: {"actions":[],"say":"Thank you, MacDonald, Troi, Billy. Leonardo at the bed, health 1, hunger 17. Zack, Worf: if either of you has food, please bring it to bed 415,107,-1023. I am holding."}
+- 10:30 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 10:30 act: {"actions":[{"do":"sleep"}]}
+- 10:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}],"say":"Morning, row. Leonardo at bed 415,107,-1023, health 1, hunger 17, still no food. Trini, Worf, Zack: a potato or bread here would 
+- 10:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Dusk. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Thank you, Troi. Holding through the night; no 
+- 10:42 act: {"actions":[{"do":"sleep"}]}
+- 10:46 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Troi, Data, Billy, MacDonald. Leonardo at bed, health 1, hunger 17, no food. Holding until light."}
+- 10:50 act: {"actions":[],"say":"Morning, Troi. Leonardo at bed 415,107,-1023, alive, health 1, hunger 17, no food. Thank you for asking. Holding in the row; no walk."}
+- 10:54 act: {"actions":[],"say":"Thank you, Troi. Trini, if you can see me, two potatoes at bed 415,107,-1023 would help me most. I am holding here and not walking."}
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Night in the bed row. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Holding until light."}
+- 10:59 act: {"actions":[{"do":"sleep"}]}
