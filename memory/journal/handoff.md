@@ -1,6 +1,6 @@
-# Handoff, day 914 (dusk, second)
+# Handoff, day 916 (night)
 
-In the bed row at 416,107,-1023, on the cobblestone by the bed at 415,107,-1023. Health 1, hunger 17, no food. Wooden sword in pack, nothing in hand.
-Spoke to Worf, Troi and Macdonald in sight; nobody has food yet. Worf's party went north-east in the morning.
-Stay in the row. No solo walks, no south, no night walks. Bow sounds to the southeast and east all day.
-On waking: ask in daylight in sight for food, Worf first. Owe Worf oak logs (ask first, do not promise).
+At 416,107,-1023 in the bed row, beside the white bed. Health 1, hunger 17, no food. Wooden sword in pack.
+Troi, Data and Macdonald are holding in the row with no food. I asked for a potato in daylight; Trini may bring one. I told her I would wait at the bed.
+Stay in the row. No solo walks, no south, no night walks. Owe Worf oak logs (ask first, do not promise).
+On waking: ask in daylight, in sight, for a potato or bread, Trini and Worf first.
