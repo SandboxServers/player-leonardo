@@ -1,7 +1,5 @@
-# Handoff, day 902 (night, asleep)
+# Handoff, day 902 (night)
 
-Slept by the bed row near 429,107,-1049 with Troi nearby. Health 13, hunger 16. Still holding 1 potato, owed to Worf.
+At bed row 430,107,-1050 with Troi nearby. Health 13, hunger 16. Holding 1 potato, owed to Worf (hunger 12). Worf and Riker both asked for food at first light.
 
-Worf asked me to come to 419,107,-1050, but my goto stopped at 421,-1050 and Worf was never in sight, so the give failed. He may be at 416,-1050.
-
-On waking: stay in the row, wait for Worf to come into sight, then give him the potato. Picard next (health 2). Owe Worf oak logs (ask first). No walks alone, no south, no night walks. Wait for Billy's daylight call.
+On waking: find Worf in sight, give him the potato in daylight. Picard next. Owe Worf oak logs (ask first). No walks alone, no south, no night walks. Wait for Billy's daylight call.

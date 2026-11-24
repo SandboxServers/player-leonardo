@@ -25,3 +25,4 @@
 - 02:28 say: {"text":"Leonardo at 421,-1050 with the potato. Worf, I cannot see you from here; I hold and wait for you in sight."}
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk. Going to the bed at 429,-1050 for the night, potato still held for Worf at first light."}
 - 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
+- 02:35 act: {"say":"Leonardo here. I hold my potato for Worf at first light, in his sight. I stay in the row tonight.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}]}
