@@ -20,3 +20,8 @@
 - 02:15 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}},{"do":"give","to":"ag_worf_01","item":"potato","count":1}],"say":"Worf, going to 419,107,-1050 as you asked."}
 - 02:15 act: {"actions":[],"say":"Worf, I am at 421,107,-1050 and cannot see you. Please step into my sight; I am holding the potato out."}
 - 02:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1049}}],"say":"Dusk. Going to my bed in the row, east, not south. The potato stays with me for Worf at first light."}
+- 02:23 say: {"text":"Leonardo here, at the bed row by 429,-1037. Holding for the night, will give Worf the potato at first light."}
+- 02:27 act: {"actions":[{"do":"goto","target":{"x":419,"y":107,"z":-1050}},{"do":"give","to":"Worf","item":"potato","count":1}],"say":"Morning. Coming to 419,-1050 with the potato for Worf."}
+- 02:28 say: {"text":"Leonardo at 421,-1050 with the potato. Worf, I cannot see you from here; I hold and wait for you in sight."}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}}],"say":"Dusk. Going to the bed at 429,-1050 for the night, potato still held for Worf at first light."}
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1050}},{"do":"use","at":{"x":429,"y":107,"z":-1050}}]}
