@@ -17,3 +17,12 @@
 - 19:42 act: {"say":"Leonardo here, morning. Health 1, hunger 17, no food at all. Anyone with a potato or bread, please give it to me. I stay at the bed row.","actions":[]}
 - 19:53 act: {"say":"Troi, I am weak: health 1, hunger 17, and no food. Do you have any potato or bread to spare? I will stay at my bed."}
 - 19:57 act: {"say":"Good morning, Troi. Still health 1, hunger 17, no food. I stay at my bed in the row. Anyone with a potato or bread, please give it to me."}
+- 20:10 act: {"actions":[{"do":"sleep"}],"say":"Anyone with a potato or bread, please? I am very hungry, and I will stay in the bed row."}
+- 20:14 act: {"actions":[{"do":"note","text":"Day 955 morning at bed. Health 1, hunger 17, no food. Holding in the row."}],"say":"Good morning, Troi, Billy. I am still health 1, hunger 17, no food. Whoever has a p
+- 20:26 act: {"actions":[{"do":"note","text":"Day 956 morning at bed. Health 1, hunger 17, no food. Holding in the row."}],"say":"Morning. Leonardo still at my bed, health 1, hunger 17, no food. If anyone finds a 
+- 20:38 act: {"actions":[{"do":"sleep"}],"say":"Night at my bed, Leonardo. Health 1, hunger 17, no food. Still in the row, no walks."}
+- 20:38 act: {"say":"Leonardo awake at my bed, 415,107,-1023. Health 1, hunger 17, no food. Anyone with a potato or bread, please give it to me. I am staying in the row.","actions":[]}
+- 20:47 act: {"say":"Day 957, still at bed 415,107,-1023. No food here. If anyone has a potato or bread, please bring it. Staying in the row.","actions":[]}
+- 20:51 act: {"intent":{"goal":"rest_at_bed_row","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":8}},"
+- 20:57 act: {"say":"Trini, Leonardo here at bed 415,107,-1023. I am starving at health 1. If you hold the potatoes for me, please bring them here or give them when you can see me. Thank you, Troi.","actions":[]}
+- 21:05 act: {"say":"Night in the row. Leonardo at my bed 415,107,-1023, health 1, hunger 17, no food. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
