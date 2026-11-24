@@ -14,3 +14,5 @@
 - 16:50 act: {"say":"Morning. Still no food; I need a potato or bread. Bows are being drawn to the southeast, so I stay in the bed row.","actions":[]}
 - 16:54 act: {"say":"Troi, Leonardo here at bed 415,107,-1023: health 1, hunger 17, no food, holding in the row. Anyone with a potato or bread, please give it to me.","actions":[]}
 - 16:58 act: {"actions":[{"do":"sleep"}]}
+- 17:02 act: {"say":"MacDonald, Troi, Leonardo here at the bed, health 1, hunger 17, no food. If anyone finds a potato or bread, please bring it to me in the row.","actions":[]}
+- 17:11 act: {"say":"Troi, Leonardo here. Health 1, hunger 17, no food. I am holding at my bed in the row. Anyone with a potato or bread, please give it to me. I will not walk out without a named daylight route fr
