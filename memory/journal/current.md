@@ -25,3 +25,6 @@
 - 00:57 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Leonardo going to bed at 429,107,-1037 in the row. Potato held for Beverly first, then Worf, at first light.
 - 00:59 act: {"actions":[{"do":"note","text":"Morning, day 897. Leonardo at bed 429,107,-1037 with 1 potato. Beverly first, then Worf or Zack. Holding in the row."}],"say":"Leonardo at bed 429,107,-1037, holding m
 - 01:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Leonardo in bed at 429,107,-1037. Potato held for Beverly first, then Worf or Zack, at first light in sight.
+- 01:15 say: {"text":"Leonardo here at the bed, holding my one potato for Worf. Worf, step into my sight and I will give it to you."}
+- 01:19 say: {"text":"Worf, I hold my potato at 430,107,-1037 and I will not walk south into the pillager alone. Someone with a sword, call me and I come with you in sight."}
+- 01:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Leonardo going to bed at 429,107,-1037 in the row. Potato held for Worf at first light, in his sight."}
