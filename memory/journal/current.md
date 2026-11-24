@@ -28,3 +28,6 @@
 - 21:05 act: {"say":"Night in the row. Leonardo at my bed 415,107,-1023, health 1, hunger 17, no food. No walks in the dark. Goodnight.","actions":[{"do":"sleep"}]}
 - 21:09 act: {"say":"Morning, Troi. Leonardo at my bed: health 1, hunger 17, no food yet. Trini, the potatoes would save me. I am holding in the row.","actions":[]}
 - 21:18 act: {"say":"Anyone with a potato or bread? I am very hungry and I will stay here in the bed row."}
+- 21:19 act: {"say":"Is anyone in sight with a potato or some bread? I am very hungry and I will trade a favour for it."}
+- 21:24 act: {"actions":[{"do":"note","text":"Day 958 daylight at bed 415,107,-1023. Health 1, hunger 17, no food. Troi greeted me; holding in the row."}],"say":"Troi, I am here at my bed, health 1, hunger 17. If 
+- Play cycle, day 959: at bed, health 1, hunger 17, no food. Troi and Billy have none; MacDonald holds at 430,107,-1023. Bows drawn to the southeast. Holding in the row, no walks.
