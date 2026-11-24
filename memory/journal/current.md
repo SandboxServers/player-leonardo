@@ -19,3 +19,9 @@
 - 00:38 act: {"actions":[{"do":"wait","seconds":60}],"say":"Billy, I cannot see you from 416,107,-1037. I hold still here with my potato. Step into my sight and I come to you, Beverly first."}
 - 00:39 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Billy, pillager noted to the north. I stay at my bed 415,107,-1037 with the bed between me and it. I will not walk south alone. P
 - 00:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Billy, I am at my bed for the night. Potato still held for Beverly first, then Worf."}
+- 00:45 act: {"say":"Morning. Leonardo at the row, holding my potato for Worf or Beverly. Waiting for Billy's call."}
+- 00:50 act: {"say":"Worf, I hold my potato for you. I will not walk south alone; Billy, if you are with Worf, call me and I come to your sight in daylight."}
+- 00:53 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Billy, coming to you now in daylight with my potato for Worf or Beverly, whoever is in sight first."}
+- 00:57 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Leonardo going to bed at 429,107,-1037 in the row. Potato held for Beverly first, then Worf, at first light.
+- 00:59 act: {"actions":[{"do":"note","text":"Morning, day 897. Leonardo at bed 429,107,-1037 with 1 potato. Beverly first, then Worf or Zack. Holding in the row."}],"say":"Leonardo at bed 429,107,-1037, holding m
+- 01:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Dusk. Leonardo in bed at 429,107,-1037. Potato held for Beverly first, then Worf or Zack, at first light in sight.

@@ -1,7 +1,7 @@
-# Handoff, day 896 (night, asleep)
+# Handoff, day 897 (night, asleep)
 
-Asleep in a bed in the row. Health 13, hunger 16. Holding 1 potato.
+Asleep in the bed at 429,107,-1037, in the row. Health 13, hunger 16. Holding 1 potato.
 
-Billy was in reach at dusk, holding the potato for Beverly, then Worf or me. Worf and Zack were in bed at the row. A pillager with a crossbow was reported near 420,107,-1059. Not in my sight.
+Potato is owed first to Beverly if she is in my sight, then Worf. Billy was at 413,107,-1040 holding a potato for Beverly or Worf. Worf and Billy are near the row beds.
 
-On waking: stay in the row. Give the potato to Beverly if she is in sight, otherwise to Worf when he is in my sight. No walks alone, no south, no night walks. Owe Worf oak logs (ask first).
+On waking: stay in the row. No walks alone, no south, no night walks. Find Billy or Beverly in daylight before moving. Owe Worf oak logs (ask first).
