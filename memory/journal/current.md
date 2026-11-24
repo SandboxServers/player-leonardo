@@ -12,3 +12,5 @@
 - 20:05 night, day 953, thunder. MacDonald: holding, bows drawn to the south. Going to sleep at bed 415,107,-1023. Health 1, hunger 17, no food.
 - 19:20 act: {"actions":[{"do":"wait","seconds":5}],"say":"Anyone with a potato or bread, please give it to me. Trini, I am still waiting for your two potatoes."}
 - 19:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
+- 19:29 act: {"actions":[{"do":"note","text":"Hungry, health 1. Asking the bed row for food."}],"say":"Is anyone nearby with a potato or bread? I am very hungry and I would be grateful."}
+- 19:33 act: {"actions":[{"do":"note","text":"Holding at bed 415,107,-1023. Bow drawn to southeast, heard. Staying in the row."}]}
