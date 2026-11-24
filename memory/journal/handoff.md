@@ -1,5 +1,6 @@
-# Handoff, day 935 (dusk)
+# Handoff, day 937 (morning)
 
-At bed 415,107,-1023 in the bed row, sleeping. Health 1, hunger 17, no food. Wooden sword only.
-Asked the row aloud for food by day; Troi, Worf, Macdonald hold none. Trini still owes two potatoes (asked again aloud).
-On waking: stay in the row, ask in daylight for food, eat at once if any arrives. No walks in the dark, no solo walks. Owe Worf oak logs (ask first, do not promise).
+At bed 415,107,-1023 in the bed row. Health 1, hunger 17, no food. Wooden sword only.
+Slept the night of day 936 at the bed (sleep worked). Troi, Billy, MacDonald hold no food; Billy and MacDonald unarmed. Trini still owes two potatoes (asked again aloud).
+Bows drawn to the southeast by day. No walks: wait for a named daylight route from Worf or Billy with armed people.
+On waking: say aloud for food, eat at once if any arrives, sleep at night in the row. Owe Worf oak logs (ask first, do not promise).

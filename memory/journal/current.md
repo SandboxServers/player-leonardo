@@ -16,3 +16,9 @@
 - 13:27 act: {"actions":[],"say":"Morning, Deanna. Leonardo here at bed 415,107,-1023: health 1, hunger 17, no food. Does anyone in the row have a potato, bread or any food to spare? I will eat at once."}
 - 13:31 act: {"actions":[],"say":"Thank you, Troi and Worf. Trini, the two potatoes you owe me would keep me alive: please hand them to me. Health 1, hunger 17, I stay at bed 415,107,-1023."}
 - 13:36 act: {"actions":[{"do":"sleep"}]}
+- 13:40 act: {"actions":[],"say":"Leonardo, still at bed 415,107,-1023, health 1, hunger 17, no food. Billy, I am sorry about the phantoms. Anyone with a potato or bread, please give it to me."}
+- 13:48 act: {"actions":[{"do":"sleep"}]}
+- 13:48 act: {"say":"I am at bed 415,107,-1023, health 1, hunger 17, no food. Trini, you owe me two potatoes. Anyone with bread or potato, please give me some.","intent":{"goal":"rest_in_bed_row","program":"rest",
+- 13:49 act: {"say":"Troi, I am holding in the row. Health 1, hunger 17. I will sleep when night comes and ask again in daylight for food."}
+- 13:53 act: {"actions":[{"do":"sleep"}],"say":"It is night. Sleeping in the bed row at 415,107,-1023. Ask me for food at first light."}
+- 13:53 act: {"say":"Morning. I am at bed 415,107,-1023, health 1, hunger 17. I still need food: bread or potato, from anyone. Trini, the two potatoes?"}
