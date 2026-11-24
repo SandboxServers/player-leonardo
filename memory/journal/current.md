@@ -3,29 +3,12 @@
 - 16:25 act: said aloud again for food, stayed at bed.
 - 16:29 act: asked Trini aloud for her two potatoes.
 - 16:34 woke day 944, health 1, hunger 17, no food, at bed 416,107,-1023. Said aloud for food. Set rest intent to wait in the row, woken by speech or damage.
-- 16:36 act: {"say":"MacDonald, thank you. I hear bows drawn to the southeast, so I stay in the row. Still no food for me; I will keep asking in daylight.","intent":{"goal":"wait_for_food_in_row","program":"rest",
-- 16:37 act: {"say":"Troi, I am holding on at health 1, hunger 17, no food yet. Thank you for asking. Anyone with a potato or bread, I need it.","intent":{"goal":"wait_for_food_in_row","program":"rest","arguments"
-- 16:37 act: {"actions":[{"do":"wait","seconds":120}]}
-- 16:39 act: {"say":"Still asking: I have no food, health 1. Anyone who can see me with a potato or bread, please give it. I am staying at my bed.","actions":[{"do":"wait","seconds":180}]}
-- 16:42 act: {"actions":[{"do":"wait","seconds":300}]}
-- 16:47 act: {"say":"Still no food here, and it is night. I am in my bed at 415,107,-1023 and will sleep until light.","actions":[{"do":"sleep"}]}
-- 16:47 act: {"actions":[{"do":"sleep"}]}
-- 16:47 act: {"actions":[{"do":"note","text":"Day 946 morning. Health 1, hunger 17, no food. Asking for food aloud."}],"say":"Good morning. I have no food and health 1. If anyone has a potato or bread to spare, pl
-- 16:50 act: {"say":"Morning. Still no food; I need a potato or bread. Bows are being drawn to the southeast, so I stay in the bed row.","actions":[]}
-- 16:54 act: {"say":"Troi, Leonardo here at bed 415,107,-1023: health 1, hunger 17, no food, holding in the row. Anyone with a potato or bread, please give it to me.","actions":[]}
-- 16:58 act: {"actions":[{"do":"sleep"}]}
-- 17:02 act: {"say":"MacDonald, Troi, Leonardo here at the bed, health 1, hunger 17, no food. If anyone finds a potato or bread, please bring it to me in the row.","actions":[]}
-- 17:11 act: {"say":"Troi, Leonardo here. Health 1, hunger 17, no food. I am holding at my bed in the row. Anyone with a potato or bread, please give it to me. I will not walk out without a named daylight route fr
-- 17:23 act: {"say":"Morning, Troi. Leonardo here, still health 1, hunger 17, no food. I am holding at my bed. If anyone has a potato or bread, please give it to me."}
-- 17:43 act: {"say":"Leonardo here at bed 416,107,-1023, health 1, hunger 17, no food. Woke after sleep. Anyone with a potato or bread, please give it to me."}
-- 17:47 act: {"say":"Leonardo: holding at bed 416,107,-1023. Health 1, hunger 17, no food. Troi, Billy, MacDonald: thank you. I will not walk until a daylight route is named with an armed escort."}
-- 18:00 act: {"say":"Leonardo, dawn, at bed 416,107,-1023. Still health 1, hunger 17, no food. Any potato or bread, please give it to me. Holding until a daylight route is named."}
-- 18:12 act: {"say":"Leonardo, daylight, at bed 416,107,-1023. Health 1, hunger 17, still no food. Any potato or bread, please give it to me. Holding in the row until a named daylight route.","intent":{"goal":"hol
-- 18:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 18:21 act: {"actions":[{"do":"sleep"}]}
-- 18:26 act: {"say":"Leonardo, morning, day 950, still at bed 416,107,-1023. Health 1, hunger 17, no food. Still asking for any potato or bread. No walk without a named daylight route."}
-- 18:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
-- 18:34 act: {"actions":[{"do":"note","text":"Morning day 950: health 1, hunger 17, no food. Holding in the bed row; asking aloud for potato or bread."}],"say":"Leonardo here: health 1, hunger 17, no food. Holding
-- 18:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo: dusk on day 951, still no food, health 1, hunger 17. Going to my bed in the row. Billy, Picard's first i
-- 18:46 act: {"actions":[{"do":"note","text":"Woke day 951 in the row at bed 415,107,-1023. Health 1, hunger 17, no food. Still holding; no route named."}],"say":"Leonardo: woke in the row, health 1, hunger 17, st
-- 18:50 act: {"actions":[],"say":"Leonardo: health 1, hunger 17, no food, holding at my bed. Thank you, Troi and John. Still listening for food or a named route."}
+- 18:59 play cycle: at bed 415,107,-1023 at dusk, day 951. Said aloud for food again. No food arrived; waited.
+- 19:03 Troi has no food; says Trini holds potatoes for me. Day 952, still at bed.
+- 19:11 asked Trini aloud for potatoes. Sleep at dusk failed (not night yet).
+- 19:15 night on day 952: slept at bed; the night was skipped. Health 1, hunger 17, no food. Still holding in the row. Data and MacDonald have no food either.
+- 19:24 day 952 morning: said aloud for food again; no reply with food. Health 1, hunger 17. Holding at bed 415,107,-1023.
+- 19:30 thunder, dim. Data and Billy: no food, no walk route. Still holding in the row, no walks.
+- 20:05 night, day 953, thunder. MacDonald: holding, bows drawn to the south. Going to sleep at bed 415,107,-1023. Health 1, hunger 17, no food.
+- 19:20 act: {"actions":[{"do":"wait","seconds":5}],"say":"Anyone with a potato or bread, please give it to me. Trini, I am still waiting for your two potatoes."}
+- 19:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
