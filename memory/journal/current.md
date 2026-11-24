@@ -5,3 +5,9 @@
 - 13:10 wait: Morning, day 934. Still no food in the row. Macdonald and Billy hold, no walk named. I stay at my bed and keep asking for food.
 - 13:00 act: {"actions":[],"say":"Morning, row. Leonardo still at bed 415,107,-1023, health 1, hunger 17. Anyone who can spare a potato, bread or any food, please give it to me; I will eat at once."}
 - 13:05 act: {"actions":[],"say":"Morning, Deanna and Billy. Leonardo still at bed 415,107,-1023, health 1, hunger 17, no food. If anyone in the row has a potato, bread or any food to spare, please give it to me. 
+- 13:09 act: {"actions":[{"do":"sleep"}],"say":"Nobody is near, and it is night. I'm going back to sleep in the bed row."}
+- 13:12 wait: Night, day 934. Sleep worked at bed 415,107,-1023. Health 1, hunger 17, no food. Nobody near. Staying in the row.
+- 13:13 act: {"actions":[],"say":"Morning, row. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Anyone holding a potato, bread or any food, please give it to me. I will not leave the row.
+- 13:20 wait: Day 934. Troi and Data hold no food either. Bows drawn to the southeast. I stay at bed 415,107,-1023 and keep waiting for food to be offered."}
+- 13:22 act: {"actions":[{"do":"sleep"}]}
+- 13:22 act: {"actions":[{"do":"sleep"}]}
