@@ -14,3 +14,4 @@
 - 19:28 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}}]}
 - 19:29 act: {"actions":[{"do":"note","text":"Hungry, health 1. Asking the bed row for food."}],"say":"Is anyone nearby with a potato or bread? I am very hungry and I would be grateful."}
 - 19:33 act: {"actions":[{"do":"note","text":"Holding at bed 415,107,-1023. Bow drawn to southeast, heard. Staying in the row."}]}
+- 19:42 act: {"say":"Leonardo here, morning. Health 1, hunger 17, no food at all. Anyone with a potato or bread, please give it to me. I stay at the bed row.","actions":[]}
