@@ -23,3 +23,9 @@
 - 18:12 act: {"say":"Leonardo, daylight, at bed 416,107,-1023. Health 1, hunger 17, still no food. Any potato or bread, please give it to me. Holding in the row until a named daylight route.","intent":{"goal":"hol
 - 18:21 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
 - 18:21 act: {"actions":[{"do":"sleep"}]}
+- 18:26 act: {"say":"Leonardo, morning, day 950, still at bed 416,107,-1023. Health 1, hunger 17, no food. Still asking for any potato or bread. No walk without a named daylight route."}
+- 18:34 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}]}
+- 18:34 act: {"actions":[{"do":"note","text":"Morning day 950: health 1, hunger 17, no food. Holding in the bed row; asking aloud for potato or bread."}],"say":"Leonardo here: health 1, hunger 17, no food. Holding
+- 18:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Leonardo: dusk on day 951, still no food, health 1, hunger 17. Going to my bed in the row. Billy, Picard's first i
+- 18:46 act: {"actions":[{"do":"note","text":"Woke day 951 in the row at bed 415,107,-1023. Health 1, hunger 17, no food. Still holding; no route named."}],"say":"Leonardo: woke in the row, health 1, hunger 17, st
+- 18:50 act: {"actions":[],"say":"Leonardo: health 1, hunger 17, no food, holding at my bed. Thank you, Troi and John. Still listening for food or a named route."}
