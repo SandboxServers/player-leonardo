@@ -22,3 +22,8 @@
 - 13:49 act: {"say":"Troi, I am holding in the row. Health 1, hunger 17. I will sleep when night comes and ask again in daylight for food."}
 - 13:53 act: {"actions":[{"do":"sleep"}],"say":"It is night. Sleeping in the bed row at 415,107,-1023. Ask me for food at first light."}
 - 13:53 act: {"say":"Morning. I am at bed 415,107,-1023, health 1, hunger 17. I still need food: bread or potato, from anyone. Trini, the two potatoes?"}
+- 13:57 act: {"say":"Good morning, Troi, Billy, MacDonald. Leonardo here at bed 415,107,-1023, health 1, hunger 17. Still no food. Anyone with bread, potato or melon, please give it to me. Worf, Billy: is there a 
+- 14:05 act: {"actions":[{"do":"sleep"}]}
+- 14:09 act: {"say":"Morning, Troi. Still at bed 415,107,-1023, health 1, hunger 17, no food. Trini, Worf, Beverly, Riker: if you have any bread, potato, melon or meat, please give it to me here. I will eat at onc
+- 14:17 act: {"say":"Dusk, Troi. Still at bed 415,107,-1023, health 1, hunger 17, no food. Anyone with bread, potato, melon or meat, please give it to me here. I'm going to sleep at this bed for the night.","actio
+- 14:21 act: {"say":"Morning, row. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food yet. Trini, Worf, Beverly, Riker: any bread, potato, melon or meat, please give it here. I will eat at once.","actions
