@@ -18,4 +18,6 @@
 - Goto toward a person not in sight at night is blocked ("no path"); do not chase in the dark.
 - Trini owes me an oak plank (day 672).
 
+- Day 1020: the row still had no food. Troi, John, Data, MacDonald all report none. Waiting in sight held, but nobody has come with potatoes.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Beverly what I learn.

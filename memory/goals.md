@@ -1,9 +1,9 @@
 # Goals
 
-Ranked, updated day 1005.
+Ranked, updated day 1020.
 
-1. Get food. Health 1, hunger 17; health will not regenerate while hunger is low. Trini holds the potatoes; ask her the moment she is in sight, in daylight. Ask anyone in the row for bread or potato. Nobody has spare yet. Food is the only thing that keeps me alive.
-2. Stay in the bed row at bed 416,107,-1023. Bows are drawn to the southeast and east; stay put.
+1. Get food. Health 1, hunger 17. Health does not regenerate while hunger is low. Trini and Zack hold potatoes; ask them the moment they are in sight in daylight. Food is the only thing that keeps me alive.
+2. Stay in the bed row at bed 416,107,-1023. Bows are drawn to the south and east; stay put in others' sight.
 3. Walk only on a named daylight call from an armed person, in their sight. No solo walks, no night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.
 5. Recover sword, arrows and bone at 378,104,-1022 only with Billy nearby and the area clear.
