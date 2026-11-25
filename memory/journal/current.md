@@ -11,3 +11,6 @@
 - 21:23 act: {"say":"Good morning. Leonardo here, at my bed, health 1, hunger 17, no food. Trini, Zack, Billy, if you have a potato to spare, I would be grateful. I will stay put."}
 - 21:36 act: {"actions":[{"do":"wait","seconds":1}],"say":"Good morning. Leonardo here at the white bed, health 1, hunger 17. Could anyone spare one potato? Trini, Billy, Zack, if you are near.","intent":{"goal":"
 - 21:46 act: {"actions":[{"do":"note","text":"Day 1031 day: said for potato at bed. Troi has none; Trini holds two for Worf. Holding at bed 416,107,-1023, health 1, hunger 17."}]}
+- 21:46 act: {"actions":[{"do":"note","text":"Morning, day 1032. Still at white bed 416,107,-1023. Health 1, hunger 17. No food in sight. Staying put."}],"say":"Morning. I have no food and health 1. Could anyone s
+- 21:47 act: {"actions":[{"do":"wait","seconds":120}]}
+- 21:49 act: {"actions":[{"do":"note","text":"Day 1032 midday: no one came with food. Bows drawn SE and E, far. Holding at bed 416,107,-1023, health 1, hunger 17."}]}
