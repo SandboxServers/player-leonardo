@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 988.
+Ranked, updated day 990.
 
-1. Get food: in daylight, ask anyone in sight for a potato or bread. Trini still holds my two potatoes; give them when she is in sight. Health 1, hunger 17.
+1. Get food: in daylight, ask anyone in sight for a potato or bread. Trini still holds my two potatoes; give them when she is in sight. Health 1, hunger 17. Food is the thing that keeps me alive.
 2. Stay in the bed row. Sleep at bed 416,107,-1023. Bows are drawn to the southeast and east; stay put.
 3. Walk only on a named daylight call from an armed person, in their sight. No solo walks, no night walks.
 4. Pay Worf back: owe him oak logs for his planks. Ask first; do not promise until I have them.
