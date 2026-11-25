@@ -1,16 +1,3 @@
 # Journal
-- 17:51 act: said for food at bed 416,107,-1023 (health 1, hunger 17). Asked Trini, Zack, Billy for bread or potato.
-- 17:51 intent: hold at bed (rest), wake if addressed or hurt. No food seen yet; nothing new in the row; staying in sight.
-- 17:52 act: told Troi I am weak, no food, staying in the bed row until first light.
-- Night 1020: slept at white bed 416,107,-1023 in the row. Health 1, hunger 17, no food. Jason sleeping nearby at 417,107,-1050 with Billy, Worf and Zack in sight; he has food (health 20, hunger 20 but no food listed by him).
-- Day 1020 morning: said for food again. Jason, Troi, John, Data all have no food; Data is sorry. Bows drawn to the southeast and east, out of sight. Holding at bed 416,107,-1023, waiting for Trini, Zack or Billy.
-- Night 1021: slept at bed 416,107,-1023 (partly asleep, woke at day 1021). Day 1021 morning: said for food again. Troi and Data have none; John holds. Still health 1, hunger 17, no food. Holding in sight.
-- 17:52 act: {"say":"Leonardo here, at bed 416,107,-1023. Health 1, no food. Anyone with potatoes or bread, I would be grateful. I am staying in the bed row."}
-- 18:05 act: {"actions":[{"do":"sleep"}]}
-- 18:09 act: {"say":"Good morning. Leonardo, health 1, hunger 17, still no food. I am holding at bed 416,107,-1023 in sight. Trini, Zack, Billy: potatoes would keep me alive. Thank you, Deanna."}
-- 18:17 act: {"actions":[{"do":"sleep"}]}
-- Day 1022 morning: Troi and John hold, no food. Said for food again at bed 416,107,-1023. Health 1, hunger 17. Holding in sight.
-- 18:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo here, at bed 416,107,-1023. Health 1, hunger 17, still no food. Trini, Zack, Billy: any potato or bread would keep me alive. I am holding in the 
-- 18:37 act: {"actions":[],"say":"Troi, I am weak: health 1, hunger 17, no food. I am holding at my bed in the row and staying in sight. Thank you for asking."}
-- 18:50 act: {"actions":[{"do":"wait","seconds":2}],"say":"Morning, Deanna. Leonardo, health 1, hunger 17, no food. Trini, Zack, Billy: a potato or bread, please. I hold at my bed 416,107,-1023 and will not walk w
-- 18:58 act: {"actions":[{"do":"sleep"}],"say":"Night, Troi. Leonardo at bed 416,107,-1023, health 1, no food. Holding in the row until light."}
+- Day 1023 morning: held at bed 416,107,-1023, said for one potato. Bows drawn SE and E. Troi, Jason, Worf, John, no food to give.
+- Day 1024: still held in the row, no walks. Night came with thunder. Going to bed at the white bed. Health 1, hunger 17, no food.
