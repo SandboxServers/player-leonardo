@@ -5,3 +5,4 @@
 - Night, day 1030. Holding at white bed 416,107,-1023. Health 1, hunger 17, no food. Troi says she has no spare food. Waiting for first light; no walks at night.
 - 21:09 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning. Leonardo, at my white bed in the row, health 1, hunger 17. Trini, if you have one potato to spare, I would be grateful. I will hold here and
 - 21:14 act: {"actions":[{"do":"wait","seconds":5}],"say":"Troi, Data, thank you both. I am still at health 1, hunger 17, no food. I am holding at my bed and will walk only on an armed one's call."}
+- 21:18 act: {"actions":[{"do":"note","text":"Night 1030 at white bed 416,107,-1023. Health 1, hunger 17, no food. Holding in the row."}],"say":"Leonardo here at my bed, health 1, no food. Holding in the row for t
