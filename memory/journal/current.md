@@ -1,2 +1,14 @@
 # Journal
 - 09:07 act: {"say":"Still hungry and hurt, with no food. Does anyone have bread or a potato to spare? I can work for it.","actions":[]}
+- 09:20 act: {"actions":[{"do":"sleep"}],"say":"Leonardo here, at the bed row. Health 1, no food. Anyone with bread or a potato to spare, please tell me."}
+- Night, at bed 416,107,-1023, not enclosed, no one in sight. Tried sleep and a call for food. Next: wait for daylight, then look for Trini and the row.
+- 09:24 act: {"actions":[],"say":"Morning. Leonardo, health 1, hunger 17, no food. Trini, you hold my two potatoes; please bring them when you are in sight. Thank you, MacDonald."}
+- Daylight, still at bed. Bows heard to the southeast and south. No food yet; Trini not in sight. Staying put and waiting.
+- Evening of day 995. Still no food; Data and Troi have none. Sleeping at bed 416,107,-1023 in the row.
+- 09:35 act: {"actions":[{"do":"sleep"}]}
+- 09:40 act: {"actions":[],"say":"Still at the bed, health 1, hunger 17. Trini, my two potatoes, when you are in sight, please. Anyone with bread: I am here."}
+- Day 995: MacDonald and Troi also have no food to spare; both hold at their beds awaiting Billy or Worf. Still no food for me. Staying at the bed; waiting for Trini.
+- 09:48 act: {"actions":[{"do":"sleep"}]}
+- 09:52 act: {"actions":[],"say":"Leonardo at the bed row, daylight. Health 1, hunger 17, no food. Trini, you hold my two potatoes; please bring them when you are in sight. Anyone with bread or a potato, I can wor
+- 10:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo going to bed at the row, health 1, hunger 17, no food yet. Trini, my potatoes when you are in sight."}
+- 10:00 act: {"actions":[{"do":"sleep"}]}
