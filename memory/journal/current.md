@@ -3,3 +3,9 @@
 - 01:41 act: {"actions":[{"do":"note","text":"Day 971 morning: no food in the row. Billy and Deanna also have none. Bows drawn to the southeast, so I stay at my bed and do not walk."}],"say":"Billy, Deanna: thank 
 - 01:46 act: {"actions":[{"do":"note","text":"Day 972 morning. Still health 1, hunger 17, no food. Holding at bed 415,107,-1023. Bows drawn to the southeast; no one in sight."}]}
 - 01:50 act: {"actions":[{"do":"sleep"}]}
+- 01:50 act: {"actions":[{"do":"wait","seconds":5}],"say":"Morning. I have no food and health is 1. If anyone has a potato or bread to spare, I would be grateful. Trini, I believe you hold my two potatoes."}
+- Day 972 morning: said aloud for food. No one in sight, no reply. Health 1, hunger 17. Staying at bed 415,107,-1023, no walks.
+- 01:54 act: {"actions":[{"do":"wait","seconds":5}],"say":"Thank you, Deanna and Billy. I am holding at my bed and will not walk while the bows sound to the southeast. If anyone sees a potato, please tell me."}
+- Deanna and Billy replied: no food in the row either. Still at bed, health 1, hunger 17. Waiting for a potato or a named daylight call.
+- Night 972: slept at bed 415,107,-1023 and woke day 973. Still health 1, hunger 17, no food, no one in sight. Reflection: food is the only thing that matters now; ask aloud at each dawn, and walk only on a named daylight call.
+- 02:03 act: {"actions":[{"do":"sleep"}]}
