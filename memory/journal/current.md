@@ -1,2 +1,7 @@
 # Journal
 - 21:05 say: {"text":"Goodnight, all. Leonardo, at my bed in the row. First light: one potato, please."}
+- 21:05 act: {"actions":[{"do":"wait","seconds":1}],"say":"Troi, thank you for asking after my potato. I am holding at my bed, and I will ask again at first light."}
+- Day 1031 dawn: said aloud for one potato to Trini by name; holding at bed, no food yet.
+- Night, day 1030. Holding at white bed 416,107,-1023. Health 1, hunger 17, no food. Troi says she has no spare food. Waiting for first light; no walks at night.
+- 21:09 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning. Leonardo, at my white bed in the row, health 1, hunger 17. Trini, if you have one potato to spare, I would be grateful. I will hold here and
+- 21:14 act: {"actions":[{"do":"wait","seconds":5}],"say":"Troi, Data, thank you both. I am still at health 1, hunger 17, no food. I am holding at my bed and will walk only on an armed one's call."}
