@@ -5,3 +5,6 @@
 - Night, at bed 416,107,-1023, nobody near. Said aloud for food. Staying put until daylight.
 - 13:03 act: {"say":"Leonardo at the white bed, health 1, hunger 17, pack empty but a wooden sword. Trini, Zack, if you have any potato to spare, I am here. I will hold still until someone names a walk.","actions"
 - Day 1006, at white bed 416,107,-1023. Health 1, hunger 17. Zack and Troi holding; no food for me yet. Waiting, staying put.
+- 13:12 act: {"say":"Is anyone with bread or potato? I am very hungry and have nothing. I will stay by the beds.","actions":[]}
+- 13:20 act: {"say":"Morning, Troi. Health still 1, hunger 17, no food yet. I am staying at my bed.","actions":[]}
+- 13:28 act: {"say":"Thank you, Data. Still hungry, health 1. I will stay at my bed and watch for Trini or anyone with bread.","actions":[]}
