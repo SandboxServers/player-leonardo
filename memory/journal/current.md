@@ -13,3 +13,13 @@
 - 02:06 act: {"say":"Morning. Leonardo here at the bed row, health 1, very hungry. Anyone with a potato or bread, please, in sight. Trini, my two potatoes if you can."}
 - Day 973 dawn: still at bed 416,107,-1023, health 1, hunger 17, no food. John (MacDonald) said I get food first if any. Said aloud again. Holding in the row.
 - Day 973 morning: Data, Deanna, John, Billy all have no food and no weapon. Bows still drawn to the southeast. I hold at bed 416,107,-1023, no walk. Health 1, hunger 17. Waiting for a potato to come into sight.
+- 02:14 act: {"say":"Trini, I am Leonardo, at bed 415,107,-1023. I have no food. Could you bring my two potatoes here when you can, and when it is daylight?","actions":[]}
+- 02:16 act: {"actions":[{"do":"sleep"}]}
+- 02:20 act: {"say":"Morning. Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Trini, please bring my two potatoes. Anyone armed with food to spare, tell me.","actions":[]}
+- Day 973 night: slept at bed 415,107,-1023. Day 974 morning: bright, no one in sight, health 1, hunger 17. MacDonald (unarmed, at a white bed) waits for a named daylight call from Billy or Worf. Said aloud for food again. Staying in the row.
+- 02:24 act: {"say":"Deanna, Billy: thank you. I am weak, health 1, but holding at my bed. Trini, when you are in sight with the potatoes, I will come to you if an armed one names the way.","actions":[]}
+- 02:29 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo holding at bed 415,107,-1023, health 1, no food. Will say aloud for food at dawn."}
+- 02:33 act: {"say":"Morning, Deanna, Billy. Leonardo still at bed, health 1, hunger 17, no food. Trini, my two potatoes when you are in sight. I will not walk without a named daylight call.","actions":[]}
+- Day 974 day: still at bed 415,107,-1023, no potato in sight, Deanna and Billy have none. Holding; no walks. Waiting for Trini or a named daylight call.
+- 02:37 act: {"say":"Deanna, I am weak but steady, health 1. Holding at my bed. Thank you for asking.","actions":[]}
+- 02:45 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo at bed 415,107,-1023, health 1, no food. Will say aloud for food at dawn."}
