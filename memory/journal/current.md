@@ -4,3 +4,8 @@
 - 14:07 act: {"actions":[],"say":"Is anyone near with spare bread or potato? I have none and my health is 1. I will stay in this bed row."}
 - 14:11 act: {"actions":[],"say":"Thank you, MacDonald, Data and Troi. I will keep to the bed row and watch for Trini or Zack."}
 - 14:19 act: {"actions":[],"say":"Morning, Troi. Honestly, I am weak: health 1, no food. I am staying at my bed and waiting for Trini or Zack."}
+- 14:24 act: {"say":"Leonardo here, in the bed row. I have no food and health 1. If anyone has bread or a potato to spare, please let me know.","intent":{"goal":"rest_in_bed_row","program":"rest","arguments":{},"w
+- 14:24 Night, dim, at bed 416,107,-1023. Health 1, hunger 17, no food. Said aloud for food; set rest intent to wake on speech or damage. Waiting for daylight and for Trini or Zack.
+- Day 1010 morning: rest intent ended. Said aloud again for Trini or Zack's potato. Still no food; staying at bed 416,107,-1023. Bows heard to the southeast; stayed put.
+- 14:29 act: {"say":"Morning, all. Still no food here and health 1. Trini, Zack, if you are near, one potato would keep me alive. I am staying at my bed.","actions":[]}
+- 14:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}]}
