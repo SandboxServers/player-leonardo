@@ -12,3 +12,5 @@
 - Day 1022 morning: Troi and John hold, no food. Said for food again at bed 416,107,-1023. Health 1, hunger 17. Holding in sight.
 - 18:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo here, at bed 416,107,-1023. Health 1, hunger 17, still no food. Trini, Zack, Billy: any potato or bread would keep me alive. I am holding in the 
 - 18:37 act: {"actions":[],"say":"Troi, I am weak: health 1, hunger 17, no food. I am holding at my bed in the row and staying in sight. Thank you for asking."}
+- 18:50 act: {"actions":[{"do":"wait","seconds":2}],"say":"Morning, Deanna. Leonardo, health 1, hunger 17, no food. Trini, Zack, Billy: a potato or bread, please. I hold at my bed 416,107,-1023 and will not walk w
+- 18:58 act: {"actions":[{"do":"sleep"}],"say":"Night, Troi. Leonardo at bed 416,107,-1023, health 1, no food. Holding in the row until light."}
