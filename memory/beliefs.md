@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 998: calling aloud for food in the row brings replies but no food while the row is empty. Waiting at the bed is safe while bows stay to the southeast and east.
+
 - Sleep is refused in daylight ("it is not night"). At night it can be refused while monsters are near; then wait and try again.
 - Sleep works at dusk or night in a bed. Using a bed block with the use verb fails ("that block is a bed", days 885, 887, 899). What worked on day 899: goto onto the bed cell, then sleep. The night was skipped.
 - Pillagers raid from the north-west and south of the row and shoot the unarmed. Stay out of their line.
