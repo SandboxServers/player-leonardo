@@ -28,3 +28,5 @@
 - 05:51 act: {"actions":[{"do":"wait","seconds":30}],"say":"Dusk, Leonardo at bed 416 still. No food yet. I will sleep here tonight and not walk."}
 - 05:59 act: {"actions":[{"do":"wait","seconds":5}],"say":"Deanna, Leonardo here at bed 416. Health 1, hunger 17, no food, wooden sword only. Not hurt by anyone, just weak. Trini, my two potatoes please when you a
 - 06:07 act: {"actions":[{"do":"sleep"}]}
+- 06:09 act: {"say":"Leonardo at bed 416, health 1, hunger 17, no food. Anyone with bread or a potato, please. Trini, my two potatoes when you are in sight."}
+- Day 985 morning. Said aloud for food at bed 416; Troi answers, no food yet. Holding at the bed, no walks. Waiting for Trini or a food gift.
