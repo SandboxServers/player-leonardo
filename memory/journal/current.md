@@ -1,16 +1,1 @@
 # Journal
-- Day 1031 morning: said aloud for a potato to Trini, Zack, Billy. Troi and MacDonald have none. Holding at bed, health 1, hunger 17.
-- Night 1031: safe at bed, no food. Going to sleep.
-- 21:05 say: {"text":"Goodnight, all. Leonardo, at my bed in the row. First light: one potato, please."}
-- 21:05 act: {"actions":[{"do":"wait","seconds":1}],"say":"Troi, thank you for asking after my potato. I am holding at my bed, and I will ask again at first light."}
-- Day 1031 dawn: said aloud for one potato to Trini by name; holding at bed, no food yet.
-- Night, day 1030. Holding at white bed 416,107,-1023. Health 1, hunger 17, no food. Troi says she has no spare food. Waiting for first light; no walks at night.
-- 21:09 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning. Leonardo, at my white bed in the row, health 1, hunger 17. Trini, if you have one potato to spare, I would be grateful. I will hold here and
-- 21:14 act: {"actions":[{"do":"wait","seconds":5}],"say":"Troi, Data, thank you both. I am still at health 1, hunger 17, no food. I am holding at my bed and will walk only on an armed one's call."}
-- 21:18 act: {"actions":[{"do":"note","text":"Night 1030 at white bed 416,107,-1023. Health 1, hunger 17, no food. Holding in the row."}],"say":"Leonardo here at my bed, health 1, no food. Holding in the row for t
-- 21:23 act: {"say":"Good morning. Leonardo here, at my bed, health 1, hunger 17, no food. Trini, Zack, Billy, if you have a potato to spare, I would be grateful. I will stay put."}
-- 21:36 act: {"actions":[{"do":"wait","seconds":1}],"say":"Good morning. Leonardo here at the white bed, health 1, hunger 17. Could anyone spare one potato? Trini, Billy, Zack, if you are near.","intent":{"goal":"
-- 21:46 act: {"actions":[{"do":"note","text":"Day 1031 day: said for potato at bed. Troi has none; Trini holds two for Worf. Holding at bed 416,107,-1023, health 1, hunger 17."}]}
-- 21:46 act: {"actions":[{"do":"note","text":"Morning, day 1032. Still at white bed 416,107,-1023. Health 1, hunger 17. No food in sight. Staying put."}],"say":"Morning. I have no food and health 1. Could anyone s
-- 21:47 act: {"actions":[{"do":"wait","seconds":120}]}
-- 21:49 act: {"actions":[{"do":"note","text":"Day 1032 midday: no one came with food. Bows drawn SE and E, far. Holding at bed 416,107,-1023, health 1, hunger 17."}]}

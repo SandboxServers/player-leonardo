@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 1027.
+Ranked, updated day 1032.
 
-1. Get food. Health 1, hunger 17; health does not regenerate while hunger is low. Trini holds potatoes. Ask her by name whenever she is in sight in daylight. Food is the only thing that keeps me alive.
+1. Get food. Health 1, hunger 17; health does not regenerate while hunger is low. Trini holds potatoes. Ask her by name in daylight whenever she is in sight. Food is the only thing that keeps me alive.
 2. Stay at my bed in the bed row, 416,107,-1023, in others' sight. Bows are drawn to the south and east.
 3. Walk only on a named daylight call from an armed person, in their sight. No solo walks, no night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.
