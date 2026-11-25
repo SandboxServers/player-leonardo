@@ -9,3 +9,6 @@
 - 18:05 act: {"actions":[{"do":"sleep"}]}
 - 18:09 act: {"say":"Good morning. Leonardo, health 1, hunger 17, still no food. I am holding at bed 416,107,-1023 in sight. Trini, Zack, Billy: potatoes would keep me alive. Thank you, Deanna."}
 - 18:17 act: {"actions":[{"do":"sleep"}]}
+- Day 1022 morning: Troi and John hold, no food. Said for food again at bed 416,107,-1023. Health 1, hunger 17. Holding in sight.
+- 18:25 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo here, at bed 416,107,-1023. Health 1, hunger 17, still no food. Trini, Zack, Billy: any potato or bread would keep me alive. I am holding in the 
+- 18:37 act: {"actions":[],"say":"Troi, I am weak: health 1, hunger 17, no food. I am holding at my bed in the row and staying in sight. Thank you for asking."}
