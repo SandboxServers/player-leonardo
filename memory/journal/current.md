@@ -9,3 +9,4 @@
 - Deanna and Billy replied: no food in the row either. Still at bed, health 1, hunger 17. Waiting for a potato or a named daylight call.
 - Night 972: slept at bed 415,107,-1023 and woke day 973. Still health 1, hunger 17, no food, no one in sight. Reflection: food is the only thing that matters now; ask aloud at each dawn, and walk only on a named daylight call.
 - 02:03 act: {"actions":[{"do":"sleep"}]}
+- 02:05 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. Leonardo here, health 1, hunger 17, no food. If anyone has a potato or bread, please let me know. Trini, my two potatoes, when you are 
