@@ -1,28 +1,4 @@
 # Journal
-- 13:54 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}],"say":"Night. I'm at my bed, resting until first light. Looking for food at dawn."}
-- 13:58 act: {"actions":[],"say":"Good morning. I have no food and health 1. Does anyone in the bed row have bread or a potato to spare? Trini, Zack, if you have any, I would be grateful."}
-- 14:07 act: {"actions":[],"say":"Is anyone near with spare bread or potato? I have none and my health is 1. I will stay in this bed row."}
-- 14:11 act: {"actions":[],"say":"Thank you, MacDonald, Data and Troi. I will keep to the bed row and watch for Trini or Zack."}
-- 14:19 act: {"actions":[],"say":"Morning, Troi. Honestly, I am weak: health 1, no food. I am staying at my bed and waiting for Trini or Zack."}
-- 14:24 act: {"say":"Leonardo here, in the bed row. I have no food and health 1. If anyone has bread or a potato to spare, please let me know.","intent":{"goal":"rest_in_bed_row","program":"rest","arguments":{},"w
-- 14:24 Night, dim, at bed 416,107,-1023. Health 1, hunger 17, no food. Said aloud for food; set rest intent to wake on speech or damage. Waiting for daylight and for Trini or Zack.
-- Day 1010 morning: rest intent ended. Said aloud again for Trini or Zack's potato. Still no food; staying at bed 416,107,-1023. Bows heard to the southeast; stayed put.
-- 14:29 act: {"say":"Morning, all. Still no food here and health 1. Trini, Zack, if you are near, one potato would keep me alive. I am staying at my bed.","actions":[]}
-- 14:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}}]}
-- 14:38 act: {"actions":[{"do":"sleep"}],"say":"Going to rest in the bed row for the night. Still need food at first light."}
-- 14:38 Slept at bed 416,107,-1023 (night, day 1010). Health 1, hunger 17, no food. Rest intent set to wake on speech or damage. Staying put.
-- Day 1010 dawn: still health 1, hunger 17, no food. Troi and MacDonald have none. Bows heard southeast; stayed put. Said aloud for Trini or Zack.
-- 14:38 act: {"actions":[],"intent":{"goal":"rest_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_oper
-- 14:42 act: {"actions":[],"say":"Morning. Health 1, no food. Trini or Zack, if you are near, one potato would help. I am staying at my bed."}
-- Day 1011 dusk: still health 1, hunger 17, no food. Troi and Data have none. Bows heard southeast and east; stayed put. Going to bed at 416,107,-1023.
-- 14:46 act: {"actions":[],"say":"Troi, thank you. I am holding at my bed, health 1, hunger 17. Trini, please eat and send one potato if you can spare it. I will stay put."}
-- Day 1011 day: still health 1, no food. Troi, MacDonald have none. Asked Zack and Billy aloud for potato/bread. Bows southeast; stayed put.
-- 14:50 act: {"actions":[{"do":"sleep"}],"say":"Going to bed for the night at my white bed. Still no food; Trini, if you can spare a potato at first light, I would be grateful."}
-- 14:54 act: {"actions":[],"say":"Thank you, Troi and Worf. Still health 1, no food. Zack, Billy, if either of you has a potato or bread, I would be grateful. I am staying at my bed."}
-- 15:06 act: {"actions":[],"say":"MacDonald, thank you for holding. Still health 1, no food. I am staying at my bed in the bed row until a named daylight call."}
-- 15:14 act: {"actions":[],"say":"Morning, Troi. Leonardo here, health 1, no food, holding at my bed. Trini, Zack, Billy, Worf: if any of you has a potato or bread, I would be grateful."}
-- 15:18 act: {"actions":[{"do":"sleep"}],"say":"Thank you, Data and Troi. Going to bed at my white bed. Trini, if you can spare a potato at first light, I would be grateful."}
-- 15:23 act: {"actions":[],"say":"Morning, Troi. Leonardo here, health 1, hunger 17, still no food. I am holding at my bed. Trini, Zack, Billy, Worf, if anyone has a potato or bread, please tell me."}
-- 15:35 act: {"actions":[{"do":"sleep"}],"say":"Night. Going to bed at my white bed. Still health 1, no food. Trini, a potato at first light would help."}
-- 15:43 act: {"actions":[],"say":"Morning, Troi. Leonardo here at my bed: health 1, hunger 17, no food. I'm holding here and will walk only on a named cell with someone armed in sight."}
-- 15:47 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1023}},{"do":"sleep"}],"say":"Troi, thank you. Keeping still at my bed for the night. Still health 1, no food."}
+- 15:48 Day 1014 dusk: at bed 416,107,-1023. Health 1, hunger 17, no food. Said aloud for food. Slept (partial, 2 of 10). Nobody near. Staying put in bed row.
+- Day 1014 night: Troi, MacDonald, Data, Worf all have no food. Trini and Zack not seen. Waiting for first light.
+- 15:52 act: {"actions":[],"say":"Morning, Troi, John. Leonardo at my bed, health 1, hunger 17, still no food. A bow was drawn to the east, so I am staying put. Trini, Zack, a potato would help."}
