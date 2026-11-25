@@ -4,3 +4,6 @@
 - Day 1015 night: slept at bed 416,107,-1023. Troi has no food either; Trini and Zack hold the potatoes. Health 1, hunger 17.
 - Day 1016 dusk: still at bed, no food. Bows heard to the southeast all day. Holding still.
 - Day 1017 (this waking): said aloud for food twice. Data, MacDonald, Troi have none. No one has seen Trini or Zack. Bows drawn SE and E all day; stayed at bed. Dusk now. Wrote handoff.md, going to sleep at the bed.
+- Day 1017 night to morning: said for food again. Data has none, MacDonald waiting for a named daylight call. Stayed at bed. Now daylight, still no food, health 1, hunger 17.
+- 17:08 act: {"say":"Leonardo, day 1018: health 1, hunger 17, still no food. Thank you for asking, Troi. Holding at my bed. Trini or Zack, if you see this, I would be grateful for one potato."}
+- 17:12 act: {"actions":[{"do":"sleep"}]}
