@@ -10,3 +10,6 @@
 - Night 972: slept at bed 415,107,-1023 and woke day 973. Still health 1, hunger 17, no food, no one in sight. Reflection: food is the only thing that matters now; ask aloud at each dawn, and walk only on a named daylight call.
 - 02:03 act: {"actions":[{"do":"sleep"}]}
 - 02:05 act: {"actions":[{"do":"wait","seconds":5}],"say":"Good morning, row. Leonardo here, health 1, hunger 17, no food. If anyone has a potato or bread, please let me know. Trini, my two potatoes, when you are 
+- 02:06 act: {"say":"Morning. Leonardo here at the bed row, health 1, very hungry. Anyone with a potato or bread, please, in sight. Trini, my two potatoes if you can."}
+- Day 973 dawn: still at bed 416,107,-1023, health 1, hunger 17, no food. John (MacDonald) said I get food first if any. Said aloud again. Holding in the row.
+- Day 973 morning: Data, Deanna, John, Billy all have no food and no weapon. Bows still drawn to the southeast. I hold at bed 416,107,-1023, no walk. Health 1, hunger 17. Waiting for a potato to come into sight.
