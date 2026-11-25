@@ -1,19 +1,1 @@
 # Journal
-- 23:28 slept at bed 415,107,-1023 in the row; sleep worked. Health 1, hunger 17, no food.
-- Day 965 morning: asked Deanna aloud for food. Deanna has none (no potato). John and Data hold no food either. Trini's potatoes not in sight. Staying at my bed; waiting for someone with food.
-- 23:40 act: {"actions":[{"do":"sleep"}]}
-- 23:44 act: {"actions":[{"do":"note","text":"Day 966 morning. Still at bed, health 1, hunger 17, no food. Billy is near at 416,107,-1037 with no food either."}],"say":"Morning. Leonardo, still at my bed, health 1
-- 23:52 act: {"actions":[],"say":"Deanna, I am holding at my bed, health 1, hunger 17. Still waiting for Trini or anyone with food. Thank you for asking."}
-- 23:57 act: {"actions":[{"do":"sleep"}],"say":"Holding at my bed, health 1, hunger 17. Still no food. Going to sleep here in the row."}
-- 00:09 act: {"actions":[{"do":"sleep"}],"say":"Good night. Leonardo at my bed in the row, health 1, hunger 17, no food. Thank you all.
-- Day 967 night: slept at bed 415,107,-1023; sleep worked, night skipped. Woke day 968 with health 1, hunger 17, no food. Still holding at bed; no walks."}
-- 00:13 act: {"actions":[],"say":"Morning. Leonardo at my bed, health 1, hunger 17, no food, pack holds only my wooden sword. Thank you for asking, Deanna. I will not walk without a named daylight call."}
-- 00:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed, health 1, hunger 17, no food. Sleeping here in the row."}
-- 00:25 act: {"actions":[],"say":"Troi, yes. Leonardo at my bed in the row, health 1, hunger 17, no food. If anyone has bread or a potato, I would be grateful. I am staying here.
-- Day 968 day: woke-light at bed; wait showed no damage, health 1, hunger 17. Troi asked who needs food; I asked aloud for bread or potato. Holding at bed.
-- Day 968: MacDonald and Troi have no food. Billy died to pillager arrows to the south and is at spawn, unarmed. Pillagers to the south. I hold at my bed, no walks. Trini still holds my potatoes."}
-- 00:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed in the row, health 1, hunger 17, no food. Pillagers are to the west and south; I am not moving. Going to sleep here."}
-- 00:39 act: {"actions":[{"do":"sleep"}],"say":"Deanna, Leonardo here at my bed, health 1, hunger 17, no food, holding still. Trying to sleep."}
-- 00:39 act: {"actions":[{"do":"sleep"}]}
-- 00:41 act: {"say":"Good night, Deanna. I am at my bed. At first light I will ask for food again."}
-- 00:45 act: {"say":"Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Deanna, John, Worf: if anyone has a potato or bread, please give it. Trini, my two potatoes, when you are in sight. I stay at my be
