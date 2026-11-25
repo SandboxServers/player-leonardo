@@ -15,3 +15,5 @@
 - 00:37 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo at my bed in the row, health 1, hunger 17, no food. Pillagers are to the west and south; I am not moving. Going to sleep here."}
 - 00:39 act: {"actions":[{"do":"sleep"}],"say":"Deanna, Leonardo here at my bed, health 1, hunger 17, no food, holding still. Trying to sleep."}
 - 00:39 act: {"actions":[{"do":"sleep"}]}
+- 00:41 act: {"say":"Good night, Deanna. I am at my bed. At first light I will ask for food again."}
+- 00:45 act: {"say":"Leonardo at bed 415,107,-1023, health 1, hunger 17, no food. Deanna, John, Worf: if anyone has a potato or bread, please give it. Trini, my two potatoes, when you are in sight. I stay at my be
