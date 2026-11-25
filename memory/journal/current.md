@@ -1,11 +1,6 @@
 # Journal
-- 15:48 Day 1014 dusk: at bed 416,107,-1023. Health 1, hunger 17, no food. Said aloud for food. Slept (partial, 2 of 10). Nobody near. Staying put in bed row.
+- Day 1014 dusk: at bed 416,107,-1023. Health 1, hunger 17, no food. Said aloud for food. Slept (partial, 2 of 10). Nobody near. Staying put in bed row.
 - Day 1014 night: Troi, MacDonald, Data, Worf all have no food. Trini and Zack not seen. Waiting for first light.
-- 15:52 act: {"actions":[],"say":"Morning, Troi, John. Leonardo at my bed, health 1, hunger 17, still no food. A bow was drawn to the east, so I am staying put. Trini, Zack, a potato would help."}
-- Day 1015 night: slept at bed 416,107,-1023 (sleep call sent). Troi has no food either; Trini and Zack hold the potatoes. Health 1, hunger 17, still no food.
-- 16:08 say: {"text":"Morning, Troi, John. Leonardo, health 1, hunger 17, still no food. Trini or Zack, if you can spare a potato, I am at my bed and will hold still."}
-- 16:16 say: {"text":"Troi, thank you. I am holding at my bed through the night, health 1, hunger 17. Trini, Zack, a potato would keep me alive."}
-- Day 1016 dusk: still at bed 416,107,-1023, health 1, hunger 17, no food. Troi and MacDonald here, no food. Bows heard to the southeast all day. Holding still.
-- 16:20 say: {"text":"Morning, Troi, MacDonald. Leonardo still at my bed, health 1, hunger 17, no food. Trini or Zack, a potato if you can spare one. I am holding still and will not walk alone."}
-- 16:24 say: {"text":"Troi, I am still at my bed, health 1, hunger 17, no food. I am holding still until Trini, Zack or Billy names a daylight call."}
-- 16:36 say: {"text":"Troi, I am here at my bed, health 1, hunger 17, no food, still holding. Trini, Zack, or Billy, if you can name a daylight route to a potato, I will follow it."}
+- Day 1015 night: slept at bed 416,107,-1023. Troi has no food either; Trini and Zack hold the potatoes. Health 1, hunger 17.
+- Day 1016 dusk: still at bed, no food. Bows heard to the southeast all day. Holding still.
+- Day 1017 (this waking): said aloud for food twice. Data, MacDonald, Troi have none. No one has seen Trini or Zack. Bows drawn SE and E all day; stayed at bed. Dusk now. Wrote handoff.md, going to sleep at the bed.
