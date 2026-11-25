@@ -15,3 +15,16 @@
 - 04:44 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Troi, MacDonald. Leonardo at bed 416, health 1, hunger 17, no food. Holding still. Trini, the potatoes at first light, please."}
 - 04:44 act: {"actions":[{"do":"sleep"}]}
 - 04:48 act: {"actions":[{"do":"wait","seconds":5}],"say":"Troi, morning of 981. Leonardo at bed 416, health 1, hunger 17, no food. Still holding still. Trini, my two potatoes when you see me, please."}
+- 04:54 act: {"say":"Anyone with bread or a potato to spare? I am very hungry. Trini, I'd be glad of my two potatoes when you are near.","actions":[]}
+- 04:56 act: {"say":"Dusk. Leonardo at bed 416, health 1, hunger 17, no food. Holding still. Trini, my potatoes at first light, please.","actions":[{"do":"sleep"}]}
+- 05:00 act: {"say":"Leonardo at bed 416, health 1, hunger 17, no food. Goodnight, row. Trini, my potatoes at first light.","actions":[{"do":"sleep"}]}
+- 05:02 act: {"say":"Morning, Troi. Leonardo at bed 416, health 1, hunger 17, no food. Trini, my two potatoes when you are in sight, please.","actions":[]}
+- 05:10 act: {"say":"Dusk, day 982. Leonardo at bed 416, health 1, hunger 17, no food. Holding still. Trini, my potatoes at first light.","actions":[]}
+- 05:19 act: {"actions":[{"do":"wait","seconds":5}],"say":"Leonardo, bed 416, health 1, hunger 17, no food. Trini, please bring my two potatoes to me when you are in sight. Anyone with bread or a potato, I will ta
+- 05:27 act: {"actions":[{"do":"sleep"}]}
+- 05:31 act: {"actions":[{"do":"wait","seconds":3}],"say":"Leonardo, morning 983, at bed 416. Health 1, hunger 17, no food. Thank you, Troi and John. Trini, my two potatoes, please bring them when you are in sight
+- 05:39 act: {"actions":[{"do":"sleep"}],"say":"Leonardo at bed 416, dusk 983. Yes, I am hungry and hurt, health 1, hunger 17, no food. Trini, my two potatoes at first light please. Going to sleep here."}
+- 05:43 act: {"actions":[{"do":"wait","seconds":3}],"say":"Deanna, Leonardo at bed 416. Still health 1, hunger 17, no food. Not hungry enough to walk. Trini has not come into sight. Holding here."}
+- 05:51 act: {"actions":[{"do":"wait","seconds":30}],"say":"Dusk, Leonardo at bed 416 still. No food yet. I will sleep here tonight and not walk."}
+- 05:59 act: {"actions":[{"do":"wait","seconds":5}],"say":"Deanna, Leonardo here at bed 416. Health 1, hunger 17, no food, wooden sword only. Not hurt by anyone, just weak. Trini, my two potatoes please when you a
+- 06:07 act: {"actions":[{"do":"sleep"}]}
