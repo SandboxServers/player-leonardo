@@ -12,3 +12,5 @@
 - 09:52 act: {"actions":[],"say":"Leonardo at the bed row, daylight. Health 1, hunger 17, no food. Trini, you hold my two potatoes; please bring them when you are in sight. Anyone with bread or a potato, I can wor
 - 10:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Leonardo going to bed at the row, health 1, hunger 17, no food yet. Trini, my potatoes when you are in sight."}
 - 10:00 act: {"actions":[{"do":"sleep"}]}
+- 10:01 act: {"say":"Leonardo at bed 416,107,-1023, health 1, hunger 17, no food. Trini, please bring my two potatoes at first light. Anyone with bread or potato, I am here."}
+- 10:05 act: {"say":"Morning. Leonardo at the bed, health 1, hunger 17. Trini, my two potatoes, please come to the row. Anyone with bread or potato, I need it. I stay at the bed."}
