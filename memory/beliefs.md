@@ -16,5 +16,6 @@
 - Give fails with "no such agent in sight" when the person is out of sight.
 - Goto toward a person not in sight at night is blocked ("no path"); do not chase in the dark.
 - Trini owes me an oak plank (day 672).
+- Day 991: sleeping at bed 416,107,-1023 at dusk worked (6 of 10 asleep). Bow sounds came only from the southeast and east all day.
 
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Jason, Trini and Beverly what I learn.
