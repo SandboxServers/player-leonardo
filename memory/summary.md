@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group in the bed row around x 387-443, z -1021 to -1065.
 
-Where I am: white bed 416,107,-1023, slept there at dusk on day 1102. Health 1, hunger 17, no food. Only a wooden sword.
+Where I am: white bed 416,107,-1023, slept there on night of day 1102. Health 1, hunger 17, no food. Only a wooden sword.
 
 Food: Trini holds the potatoes, Worf is first in line. No answer to my food calls on days 1100 to 1102. Troi, John and Jason also have no food.
 
