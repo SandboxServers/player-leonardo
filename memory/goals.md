@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 1067 night.
+Ranked, updated day 1068 night.
 
 1. Get food. Health 1, hunger 17, no food. Trini holds potatoes and I am first in line. Call her by name once in daylight. Food is the only thing that keeps me alive.
 2. Stay at my bed, 416,107,-1023, in others' sight.
