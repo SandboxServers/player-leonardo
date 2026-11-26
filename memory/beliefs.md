@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 1091: Holding at the bed in daylight worked; a rest intent with max_block_operations 0 is refused, use 1. An intent that wakes on precondition_failed ended at once, so use plain waits. Bows drawn all day to the southeast and east, none reached me. Night sleep at the bed worked.
+
 - Day 1080: Troi (Deanna) greeted the row at morning, health 20, no food. Still no food in the row. Dusk-to-night sleep at the bed worked again; bows drawn all night to east and south, none reached me.
 
 - Food is still the limit. Troi, John, Data, MacDonald, Beverly report none. Trini holds the potatoes, promised first to me, then Worf and Zack. Trini has not answered my name-calls since day 1051.
