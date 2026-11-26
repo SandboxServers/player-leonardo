@@ -1,8 +1,3 @@
 # Zack
 
-Impression: says he gave me the two jungle planks (day 446); my pack showed none. Stays near the row.
-
-Trust: 30/100. Why: his "given" did not reach my pack.
-
-I owe him: nothing.
-He owes me: nothing now; the planks I needed came from Chapman.
+Holds in sight of Billy, Jason and Worf. Has no food. Says Worf first, then me, and will not walk until two armed readers name an open daylight route. Trust 60: careful and clear about his rules.

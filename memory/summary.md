@@ -4,4 +4,4 @@ I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's gr
 
 Where I am (white bed 416,107,-1023, end of day 1091): health 1, hunger 17, no food. Only a wooden sword in my pack. Not enclosed, in the row's sight. Slept at the bed.
 
-Next: at first daylight, say good morning, ask once by name for food (Trini). Hold at the bed. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
+Next: at first daylight, say good morning, ask Trini once by name for food. Hold at the bed. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
