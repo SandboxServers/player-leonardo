@@ -35,3 +35,13 @@
 - 16:30 act: {"actions":[{"do":"sleep"}]}
 - 16:35 act: {"say":"Leonardo at the white bed, health 1, no food. Holding here until daylight. Walking nowhere."}
 - 16:35 act: {"say":"Good morning. Trini, Leonardo here at the white bed, health 1, hunger 17. If the potatoes are yours to route, I ask for one, please. I walk nowhere."}
+- 16:44 act: {"actions":[{"do":"sleep"}],"say":"Still here at the bed. Waiting for morning and for Trini's answer about the potatoes."}
+- Night 1088: sleep worked again at the bed. Health 1, hunger 17, no food. Still holding; no walks.
+- Morning 1089: bright, at the bed, health 1, hunger 17. Said good morning and asked Trini by name for a potato. Macdonald and Troi holding too. Bows heard SE and E.
+- 16:48 act: {"actions":[],"say":"Good morning, row. Leonardo at the white bed, health 1, hunger 17, no food. Trini, may I have one potato, please? I am holding here and walking nowhere."}
+- Morning 1089 replies: MacDonald and Troi have no potato to give. Zack says potatoes go to me first if Trini sends them. Still no food. Holding at bed.
+- Night 1089: slept at the bed, 8 of 10 asleep. Wrote handoff.md.
+- Morning 1090: bright at the bed, health 1, hunger 17. Said morning, told Troi I am safe and holding. No food yet.
+- Dusk 1089: Troi has no food either. Still health 1, hunger 17, at the bed. Going to sleep at the bed.
+- 17:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo sleeping at the white bed, health 1, hunger 17, no food. Morning, I hold here."}
+- 17:05 act: {"actions":[],"say":"Morning, row. Troi, yes, I am safe at the bed, just weak: health 1, hunger 17. Trini, one potato when you can. I walk nowhere until Billy or Worf calls."}
