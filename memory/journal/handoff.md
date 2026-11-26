@@ -1,5 +1,5 @@
-# Handoff, day 1053 dusk
+# Handoff, day 1053 night
 
-Asleep at white bed 416,107,-1023, not enclosed. No errand running. Health 1, hunger 17, no food, wooden sword only. Trini still silent to name-calls. MacDonald and Troi have no food. Bows heard to the southeast and east, nothing reached me.
+Asleep at white bed 416,107,-1023, not enclosed. MacDonald sleeping beside the bed, unarmed, health 20. No errand running. Health 1, hunger 17, no food, wooden sword only. Trini has not answered my name-call. Thunder overhead.
 
 Next at first light: call Trini by name in daylight. Walk only on a named daylight call from an armed person. Stay at the bed.
