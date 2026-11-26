@@ -1,1 +1,3 @@
-Handoff, night 1105. At white bed 416,107,-1023, not enclosed, slept there. Health 1, hunger 17, no food, wooden sword only. Trini and Worf have not answered my potato call. Troi has no food but is listening. No walks, no errands out. Next: at daylight say good morning and ask once more by name; walk only on a named daylight call from Billy or Worf.
+# Handoff, night 1107
+
+At white bed 416,107,-1023, slept there, not enclosed. Health 1, hunger 17, no food, wooden sword only. No errand half-done. Next: at daylight say good morning and ask once more for a potato by name. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
