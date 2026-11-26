@@ -31,3 +31,5 @@
 - 16:17 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Leonardo sleeping at the white bed 416,107,-1023, health 1, hunger 17, no food. Still holding for a named call."}
 - 16:21 act: {"actions":[],"say":"Morning, Troi and row. Leonardo at the white bed, health 1, hunger 17, still no food. Holding for Billy or Worf's named call."}
 - 16:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Leonardo at the white bed 416,107,-1023, health 1, hunger 17, still no food. Holding for Trini's potato or Billy or Worf's named daylight call."}
+- 16:30 act: {"say":"Dusk at the bed. I have no food and health 1. Trini, Worf, Billy: any spare potato, please.","intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","une
+- 16:30 act: {"actions":[{"do":"sleep"}]}

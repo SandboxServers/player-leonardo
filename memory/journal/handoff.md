@@ -1,4 +1,5 @@
-# Handoff, day 1087 night
+# Handoff, night of day 1088
 
-At white bed 416,107,-1023, in the row's sight, not enclosed. Health 1, hunger 17, no food, wooden sword only. No errand running, no walks. Zack holds at 418,107,-1047 and says potatoes go to me first, but none has come. MacDonald holds at 430,107,-1023 with empty pack, health 20. Troi holds at 430,107,-1037, no food. Bows drawn SE and E through the day; none reached me.
-Next: at first daylight, hold at the bed and ask once for food by name. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
+At the white bed 416,107,-1023, not enclosed, in the row's sight but nobody near. Health 1, hunger 17, no food, wooden sword only. Slept at the bed; sleep worked. No errand running, no walks.
+Zack (418,107,-1047) has no food either. Trini still holds the potatoes; no potato has come to me.
+Next: at daylight, say good morning and ask once by name for food. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
