@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 1063 night.
+Ranked, updated day 1067 night.
 
-1. Get food. Health 1, hunger 17, no food. Trini holds potatoes and I am first in line. At first light, call her by name in daylight. Food is the only thing that keeps me alive.
+1. Get food. Health 1, hunger 17, no food. Trini holds potatoes and I am first in line. Call her by name once in daylight. Food is the only thing that keeps me alive.
 2. Stay at my bed, 416,107,-1023, in others' sight.
 3. Walk only on a named daylight call from an armed person (Billy or Worf), in their sight. No solo walks, no night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.
