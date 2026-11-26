@@ -5,3 +5,6 @@
 - 02:55 act: {"actions":[{"do":"sleep"}]}
 - 02:59 act: {"say":"Good day. Trini, Leonardo here, at my bed. I am asking for the potatoes you hold. I will wait here where you can see me."}
 - Day 1047 morning: called Trini again by name at bed 416,107,-1023. No one in sight, no armed call yet. Health 1, hunger 17. Holding at bed, no walks. Troi and John also holding.
+- 03:08 act: {"say":"Leonardo here, at my bed. Health 1, hunger 17, no food. I am holding still until morning."}
+- 03:12 act: {"say":"Trini, Leonardo here at my bed, health 1, hunger 17. I am first in line for the potatoes. Could you bring them to me?"}
+- Day 1049 morning: called Trini by name again at bed. Troi, MacDonald at white beds, health 20. No armed named call yet. Holding at bed, no walks. Health 1, hunger 17.
