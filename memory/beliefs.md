@@ -18,4 +18,6 @@
 - Trini owes me an oak plank (day 672).
 - Day 1044: Troi says Trini holds two potatoes at 430,107,-1051, for me first, then Worf, then Zack, handed out when each is in her sight. Data has none. Sleep was refused at dusk until night came; it worked at night.
 
+- Day 1050: Sleep at dusk in a bed worked after a short wait (4 of 10 asleep, then sleep call). Trini did not answer my name-call at morning or at dusk. Troi and John are kind but have no food.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Trini and Beverly what I learn.
