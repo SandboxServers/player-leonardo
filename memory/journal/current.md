@@ -8,3 +8,5 @@
 - 10:14 act: {"say":"Morning. Trini, Leonardo here at the white bed. Could I have some potatoes, please? Health one, no food.","actions":[]}
 - Sleep only got 2 of 10 asleep, so I woke at the bed. Called Trini again at morning. No reply. Still at bed, health 1, hunger 17. Bows still drawn southeast. Holding.
 - 10:26 act: {"actions":[{"do":"sleep"}],"say":"Goodnight, row. Leonardo at the white bed, health one, no food."}
+- 10:28 act: {"say":"Good morning. Trini, I am Leonardo, at the white bed, hungry with no food. Could I have some of the potatoes?","actions":[]}
+- Waited after the call. Trini silent. Troi answers, has no food. Holding at bed, health 1, hunger 17.
