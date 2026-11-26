@@ -15,6 +15,7 @@
 - Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 - Give fails with "no such agent in sight" when the person is out of sight.
 - Trini owes me an oak plank (day 672).
+- Day 1079: a hold intent with timeouts still kept me at the bed all day; bows drawn to the east and southeast, none reached me. Dusk sleep at the bed worked.
 - Day 1077: Zack reports Trini saying I get the first potato, but none has arrived. Dusk sleep at the bed worked again.
 - Day 1071: Trini still silent to name-calls at first light (1070, 1071). MacDonald offered to ask her for potatoes for me. A rest intent ran out after a while; a sleep at dusk got part of the way.
 - Day 1068: Troi (Deanna) answers my calls and has no food; she will say when she gets some. Trini still silent.
