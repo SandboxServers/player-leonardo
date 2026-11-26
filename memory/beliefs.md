@@ -20,4 +20,6 @@
 
 - Day 1050: Sleep at dusk in a bed worked after a short wait (4 of 10 asleep, then sleep call). Trini did not answer my name-call at morning or at dusk. Troi and John are kind but have no food.
 
+- Day 1050 (morning): Trini still silent to name-calls. Troi, Data, MacDonald hold at beds with no food.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Trini and Beverly what I learn.
