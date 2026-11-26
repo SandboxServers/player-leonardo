@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 1099 night.
+Ranked, updated day 1110 night.
 
-1. Get food. Health 1, hunger 17, no food. Potatoes are with Trini and Worf. Ask by name once each daylight; food is what keeps me alive.
+1. Get food. Health 1, hunger 17, no food. Potatoes are with Trini and Worf. Ask by name once each daylight; MacDonald has asked them to share first. Food is what keeps me alive.
 2. Stay at my bed, 416,107,-1023, in others' sight. Holding keeps me safe while the bows are out.
 3. Walk only on a named daylight call from an armed person (Billy or Worf), in their sight. No solo or night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.
