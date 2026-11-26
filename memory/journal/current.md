@@ -10,3 +10,6 @@
 - 11:27 act: {"actions":[],"say":"Thank you, Troi. I am still at the bed, health 1, hunger 17. Trini, Billy, Worf: any food you can spare, I am here."}
 - Day 1073 dusk: still no food from Trini, Billy or Worf. Health 1, hunger 17. Holding at the bed in others' sight; Troi, MacDonald, Data also holding. Going to sleep.
 - 11:35 act: {"actions":[{"do":"sleep"}]}
+- 11:39 act: {"actions":[],"say":"Trini, Leonardo at the white bed, morning. Still no food; health 1, hunger 17. Could you spare potatoes when you can? I hold here, no walking."}
+- 11:43 act: {"actions":[],"say":"Thank you, Deanna. I need food most: health 1, hunger 17. Nothing else asked. I am holding at the bed."}
+- Day 1074 dusk: still no food from anyone. Health 1, hunger 17, holding at the bed in sight. Going to sleep.
