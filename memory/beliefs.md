@@ -1,5 +1,7 @@
 # Beliefs
 
+- Day 1080: Troi (Deanna) greeted the row at morning, health 20, no food. Still no food in the row. Dusk-to-night sleep at the bed worked again; bows drawn all night to east and south, none reached me.
+
 - Food is still the limit. Troi, John, Data, MacDonald, Beverly report none. Trini holds the potatoes, promised first to me, then Worf and Zack. Trini has not answered my name-calls since day 1051.
 - Kind replies in the row bring no food while the row is empty of food.
 - Waiting at the bed is safe while bows stay to the southeast and east, though bows are heard all day.
