@@ -22,4 +22,6 @@
 
 - Day 1050 (morning): Trini still silent to name-calls. Troi, Data, MacDonald hold at beds with no food.
 
+- Day 1055: Sleep at night in a bed worked twice (second sleep call also worked). Bow drawn heard to the south at night.
+
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Trini and Beverly what I learn.
