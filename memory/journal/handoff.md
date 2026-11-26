@@ -1,1 +1,3 @@
-Handoff, day 1043 dusk. At white bed 416,107,-1023 in the bed row, not enclosed, not in danger at the moment. Health 1, hunger 17, no food, wooden sword only. No errand running. Troi, Deanna and MacDonald near; none has food. Bows heard SE and E earlier. Next at first light: say need once more, wait for Trini or Billy to bring a potato. Walk only on a named daylight call from an armed person.
+# Handoff, day 1044 night
+
+At white bed 416,107,-1023, not enclosed, not in danger at the moment. Health 1, hunger 17, no food, wooden sword only. No errand running. Asked Trini (potatoes at 430,107,-1051, I am first in line) to bring one to my bed; Data has none. Bows heard SE and E. Next at first light: wait for Trini; walk only on a named daylight call from an armed person.

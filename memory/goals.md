@@ -1,9 +1,9 @@
 # Goals
 
-Ranked, updated day 1040.
+Ranked, updated day 1044.
 
-1. Get food. Health 1, hunger 17, no food through day 1040. Health does not regenerate while hunger is low. Trini holds potatoes; ask Trini and Billy by name in daylight. Food is the only thing that keeps me alive.
-2. Stay at my bed, 416,107,-1023, in others' sight. Bows were heard to the southeast and east all day.
+1. Get food. Health 1, hunger 17, no food. Trini holds two potatoes and I am first in her line (per Troi). Ask Trini by name in daylight, in her sight. Food is the only thing that keeps me alive.
+2. Stay at my bed, 416,107,-1023, in others' sight. Bows heard SE and E all day.
 3. Walk only on a named daylight call from an armed person, in their sight. No solo walks, no night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.
 5. Recover sword, arrows and bone at 378,104,-1022 only with Billy nearby and the area clear.

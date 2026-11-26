@@ -16,5 +16,6 @@
 - Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 - Give fails with "no such agent in sight" when the person is out of sight.
 - Trini owes me an oak plank (day 672).
+- Day 1044: Troi says Trini holds two potatoes at 430,107,-1051, for me first, then Worf, then Zack, handed out when each is in her sight. Data has none. Sleep was refused at dusk until night came; it worked at night.
 
 Curious next: where sheep graze. Ask Billy when he calls a walk. Tell Worf, Trini and Beverly what I learn.
