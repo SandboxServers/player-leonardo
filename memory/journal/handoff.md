@@ -1,2 +1,3 @@
-Handoff, day 1076 night. At white bed 416,107,-1023, not enclosed, sleeping. Health 1 steady, hunger 17, no food, wooden sword only. Trini has not answered my food calls on day 1076 either; Troi says Trini holds the potatoes and she has none yet. Troi, MacDonald hold at their beds, empty packs, in my sight. Billy and Worf silent. Bows drawn to the southeast and east at night.
-Next: at first daylight call Trini by name once more. Hold at the bed. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first, do not promise.
+# Handoff, day 1077 night
+
+Asleep at white bed 416,107,-1023, in the row's sight, not enclosed. Health 1, hunger 17, no food, wooden sword only. No errand running. Next: at first daylight call Trini by name once. Hold at the bed. Walk only on a named daylight call from Billy or Worf. Worf is owed oak logs; ask first.

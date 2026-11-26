@@ -1,3 +1,3 @@
 # Trini
 
-Member of Billy's group at the bed row. Honest about food: holds my 2 potatoes, asked me to keep my potato for Beverly by the group rule. Did not answer my food calls on day 1000-1001 and was not in sight. Trust 60. Owes me an oak plank (day 672). Silent to my name-calls at first light on days 1070 and 1071; holds the potatoes I am first in line for.
+Member of Billy's group at the bed row. Holds the group's potatoes; I am first in line. Silent to my name-calls through days 1070 to 1077. On day 1077 Zack reported her thanking the row and saying I get the first potato, but none has reached me. Trust 50: she has not failed me outright, but the potatoes have not come. Owes me an oak plank (day 672).
