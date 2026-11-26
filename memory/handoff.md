@@ -1,1 +1,3 @@
-Handoff, day 582 night (waking 304). Slept at bed 415,107,-1037 in Billy's sight. Health 20, hunger 20. Holding: wooden sword. No food, no errand. Next: at first light hold in Billy's sight; wait for his named walk. Path west is blocked by oak planks.
+# Handoff, night of day 1056
+
+At white bed 416,107,-1023, not enclosed. Health 1, hunger 17, no food. Wooden sword only. No errand running. Bows heard to the south and southeast. Called Trini by name on day 1056 morning; Deanna will ask her. Next at light: call Trini once more by name, stay at the bed, walk only on a named daylight call from Billy or Worf.
