@@ -6,3 +6,7 @@
 - 11:11 act: {"say":"Trini, Leonardo again, at the white bed. Still no food here for me. Could you spare some potatoes when you can?","actions":[]}
 - 11:19 act: {"actions":[{"do":"sleep"}]}
 - Day 1072: Troi says Trini holds potatoes for Worf, Leonardo, Zack in agreed order; none shared yet. Health 1, hunger 17 steady. Holding at bed, sleeping through the night, no walking.
+- 11:23 act: {"actions":[],"say":"Trini, Leonardo at the white bed. It is daylight. I have no food, health 1, hunger 17. Could you spare potatoes when you can? I will hold here."}
+- 11:27 act: {"actions":[],"say":"Thank you, Troi. I am still at the bed, health 1, hunger 17. Trini, Billy, Worf: any food you can spare, I am here."}
+- Day 1073 dusk: still no food from Trini, Billy or Worf. Health 1, hunger 17. Holding at the bed in others' sight; Troi, MacDonald, Data also holding. Going to sleep.
+- 11:35 act: {"actions":[{"do":"sleep"}]}
