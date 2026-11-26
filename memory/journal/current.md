@@ -1,11 +1,1 @@
 # Journal
-- 17:57 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Still here at the bed. Health 1, no food. I will wait for daylight and ask for food by name.","intent":{"goal":"hold_at_bed_till_
-- 17:59 act: {"actions":[],"say":"Good morning. Trini, I have no food and health 1. Could you spare some potatoes? Worf first if that is the rule, then me."}
-- 18:12 act: {"say":"Good morning, Troi. I am hungry with no food. Does anyone have spare food? Trini, Worf, Billy, if you can hear me, I would be grateful.","actions":[]}
-- 18:25 act: {"actions":[{"do":"wait","seconds":1}],"say":"Good morning, Troi. Leonardo here, at my white bed. Health 1, hunger 17, no food. Trini, could you spare some potatoes? Worf first, then me."}
-- 18:38 say: {"text":"Goodnight, row. Leonardo here, at the white bed. Holding, no food, health 1. I will ask for potatoes at daylight."}
-- night, day 1094: woke at bed 416,107,-1023. Health 1, hunger 17, no food. John says goodnight, holding. Waiting for daylight.
-- 18:42 say: {"text":"Good morning, row. Leonardo at the white bed, health 1, hunger 17, no food. Trini, Worf, Billy: if you have potatoes to spare, I would be grateful. I am holding here."}
-- day 1095: no reply to the food call yet. Bows heard to the southeast only. Holding at bed, no walks.
-- 18:50 say: {"text":"Morning, Troi. I am holding at the bed, health 1, still no food. Thank you for listening. Dusk now; I will stay here."}
-- day 1095 dusk: still holding at bed, health 1, hunger 17, no food. No answer from Trini, Worf or Billy. No walks.
