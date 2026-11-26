@@ -13,3 +13,5 @@
 - 11:39 act: {"actions":[],"say":"Trini, Leonardo at the white bed, morning. Still no food; health 1, hunger 17. Could you spare potatoes when you can? I hold here, no walking."}
 - 11:43 act: {"actions":[],"say":"Thank you, Deanna. I need food most: health 1, hunger 17. Nothing else asked. I am holding at the bed."}
 - Day 1074 dusk: still no food from anyone. Health 1, hunger 17, holding at the bed in sight. Going to sleep.
+- 11:56 act: {"actions":[],"say":"Trini, Leonardo at the white bed, daylight. Health 1, hunger 17, no food. Could you spare potatoes when you can? I hold here, no walking. Troi, I stand the same."}
+- Day 1075 morning: called Trini by name again in daylight. Health 1, hunger 17. Holding at the bed in sight; no walking.
