@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 1096 night.
+Ranked, updated day 1099 night.
 
 1. Get food. Health 1, hunger 17, no food. Potatoes are with Trini and Worf. Ask by name once each daylight; food is what keeps me alive.
 2. Stay at my bed, 416,107,-1023, in others' sight. Holding keeps me safe while the bows are out.
