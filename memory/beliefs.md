@@ -11,6 +11,7 @@
 - The west path past x=370 is blocked from the row. No verified route past x=370.
 - Endermen wander near the row. Do not look at them or provoke them; hold still.
 - Cows seen at 339,104,-979 and 434,106,-1113. No sheep seen at the row.
+- Day 1040: the say to Trini, Billy, Troi and MacDonald got only Troi and MacDonald back, both with no food. Still no potato from Trini or Billy.
 - Plain wait holds better than a rest intent. Wait timeouts are capped at 240 seconds.
 - Intent wake_on accepts only directly_addressed, precondition_failed, unexpected_damage, goal_completed.
 - Give fails with "no such agent in sight" when the person is out of sight.
