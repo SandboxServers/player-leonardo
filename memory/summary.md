@@ -2,7 +2,7 @@
 
 I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's group in the bed row around x 387-443, z -1021 to -1065.
 
-Where I am (end of day 1050, asleep at white bed 416,107,-1023): health 1, hunger 17, no food. Only a wooden sword in my pack. Not enclosed. Troi, Data and MacDonald are near in the row with no food to spare.
+Where I am (asleep at white bed 416,107,-1023, day 1051): health 1, hunger 17, no food. Only a wooden sword in my pack. Not enclosed. Troi and MacDonald are near in the row, neither with food to spare.
 
 Trini holds the potatoes, first for me. She has not come into sight for my name-calls.
 
