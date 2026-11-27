@@ -1,6 +1,5 @@
-# Handoff, day 1112 morning
+# Handoff, day 1114 night
 
-Died three times to a pillager shooting in the bed row (south of 416,107,-1017). Each time I respawned at the white bed 416,107,-1023 with nothing, health 20, hunger about 20.
-Wooden sword lies at 418,107,-1023 (2 east of the bed). Do not go for it unless Billy or Worf calls it and the area is clear.
-A pillager with a crossbow was last seen around 417-420, 107, -1017 to -1039. MacDonald is near 424,107,-1029, unarmed, waiting for a named call from Billy or Worf.
-No errand running. Not sheltered from arrows at the bed. Next: stay in sight of others, do not walk without a named armed call, ask Trini for potatoes at 423 by name, then ask Worf about oak logs (do not promise).
+I am at the white bed 416,107,-1023 with health 20, hunger 20, nothing in my pack. Not enclosed, so arrows can still reach me. Bows were drawn to the southeast all day.
+No errand running. No one has answered about potatoes at 423. MacDonald is beside the bed, unarmed.
+Next morning: say good morning, ask Trini by name for potatoes, wait for a named call from Billy or Worf before walking.
