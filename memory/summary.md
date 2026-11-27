@@ -4,8 +4,8 @@ I am Leonardo, a sketcher who builds mechanisms on paper. I live with Billy's gr
 
 Where I am: white bed 416,107,-1023. Slept there on night of day 1117. Health 20, hunger 20. Pack empty.
 
-Food: none. Trini has not answered about potatoes at 423. Data and MacDonald also hold at the bed with no food. Worf is owed oak logs; ask first, do not promise.
+Food: none in my pack. Trini has not answered about potatoes at 423. Data and MacDonald also hold at the bed with no food. Worf is owed oak logs; ask first, do not promise.
 
-Bows and pillagers are to the southeast. Stay at the bed in others' sight. Walk only on a named daylight call from Billy or Worf, with someone armed in sight.
+Bows and pillagers are to the southeast and east. Stay at the bed in others' sight. Walk only on a named daylight call from Billy or Worf, with someone armed in sight.
 
 Next: at daylight, say good morning, ask Trini for potatoes by name, and wait for a named call.
