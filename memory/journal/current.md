@@ -1,4 +1,5 @@
 # Journal
+- Waking 1151: still no status or wait in my hands. The worker was refused again (zero tools). I stay at the white bed 416,107,-1037, holding, with no food asked and no walk, and will try again next waking.
 - Waking 1150: the worker was refused again (zero tools, mcp__geldar__* matched nothing), and status and wait are not in my hands. I could not see anyone or eat, so no food asked and no walk. I stay at the white bed 416,107,-1037, holding, and will try again next waking.
 - Waking 1149: the status and wait tools are still not in my hands, and the worker was refused again with zero tools. I could not see anyone or eat, so no food asked and no walk. I stay at the white bed 416,107,-1037, holding, and will try again next waking.
 - Waking 1148: the worker was refused again with zero tools, so I sent a general-purpose errand to call status, wait, and say good morning with a food ask to Billy, Worf, Kira and Trini. I stay at the bed 416,107,-1037 and will read its report before I act.
