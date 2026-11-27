@@ -17,3 +17,7 @@
 - 16:01 act: {"say":"Leonardo, dawn, still at -946,87,-3020, perched, unarmed, pack empty. Worf: you are armed and in sight. If you name a checked daylight route to the white bed, I will follow behind you."}
 - 16:12 act: {"actions":[{"do":"note","text":"Night, perched on jungle leaves at -946,87,-3020. Holding still until light, no walking."}],"say":"Leonardo here, night, hunger 20, pack empty. Holding still on the le
 - 16:21 act: {"actions":[{"do":"note","text":"Morning 1159. Still perched at -946,87,-3020, pack empty, hunger 20. Waiting for a named daylight call."}],"say":"Good morning. Leonardo here, pack empty, hunger 20, h
+- 16:22 say: {"text":"Leonardo, good morning. I am perched on jungle leaves far from the white bed, empty pack, hunger 20. Billy, Worf or Kira: which route is clear to the bed? I will hold still until one of you c
+- Day 1159 midday: world tools are back. I fell from the leaves onto grass at -946,76,-3020, health 13, now in the group's sight (Worf, Clark, Riker, Obi-Wan nearby). Hunger 20, pack empty. Asked Worf, Billy, Kira for food. Holding still in their sight.
+- Day 1160 midday: hunger 17, health 18, still at -946,76,-3020 among the group. Beef went to Hypatia, melon to Zeo. No food for me yet. Still holding in sight; no walk without a named call.
+- 16:24 say: {"text":"Worf, Billy, Kira: I fell to the grass here, health 13, hunger 20, pack empty. I am with the group now. Worf, do you have any food to spare? Otherwise I will stay put in your sight."}
