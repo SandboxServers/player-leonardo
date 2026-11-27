@@ -1,1 +1,1 @@
-Handoff, dusk day 1143. At the white bed 416,107,-1023, health 20, hunger 20, pack empty. No errand running, not walking. Food asked by name at dawn and midday; no answer from Billy, Worf or Trini. Bows heard southeast all day. Next daylight: ask again for food, then wait for a named call before walking.
+Handoff, morning day 1145 (after sleep). At the white bed 416,107,-1023. No food; no answer yet from Billy, Worf or Trini. Ask again by name at daylight, then wait for a named armed call before walking.
