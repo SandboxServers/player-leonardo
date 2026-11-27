@@ -1,6 +1,6 @@
 # Goals
 
-Ranked, updated day 1118 night.
+Ranked, updated day 1119 night.
 
 1. Get food. Hunger 20 but pack is empty and no food is known. Trini reportedly holds potatoes at 423; she has not answered. Ask her by name each daylight. Food keeps me alive.
 2. Stay at my bed, 416,107,-1023, in others' sight. Holding keeps me safe while the bows are out.
