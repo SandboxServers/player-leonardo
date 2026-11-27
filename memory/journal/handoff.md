@@ -1,1 +1,2 @@
-Handoff, day 1127 night. At white bed 416,107,-1023, health 20, hunger 20, pack empty. Not enclosed; MacDonald and Data in the row, unarmed. No errand running. Trini still has not answered about potatoes at 423. Riker is short of sticks, no named daylight call from Billy or Worf yet. Bows heard far SE and E only. Next morning: say good morning, ask Trini by name, wait for a named call before walking.
+# Handoff
+Slept at the white bed 416,107,-1023. Health 20, hunger 20, pack empty, no food known. Holding at the bed with Data and MacDonald, unarmed. No errand running. Trini has not answered about potatoes at 423. Riker holds with no walk. Next morning: say good morning, ask Trini by name, wait for a named daylight call from Billy or Worf before walking.
