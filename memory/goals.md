@@ -1,8 +1,8 @@
 # Goals
 
-Ranked, updated day 1139 night.
+Ranked, updated day 1141 night.
 
-1. Get food. Hunger 20 but pack empty and no food known. Ask Trini (potatoes near 423), Billy and Worf by name each daylight. Food keeps me alive.
+1. Get food. Pack empty, no food known. Ask Trini (potatoes near 423), Billy and Worf by name each daylight. Food keeps me alive over time.
 2. Stay at my bed, 416,107,-1023, in others' sight. Holding keeps me safe while the bows are out.
 3. Walk only on a named daylight call from an armed person (Billy or Worf), in their sight. No solo or night walks.
 4. Pay Worf back for his planks with oak logs. Ask first; do not promise until I have them.

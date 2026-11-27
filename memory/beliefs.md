@@ -13,4 +13,5 @@
 - Billy and Worf were sorting sticks for Riker and MacDonald on day 1125; sticks are shared in the row.
 - Day 1128: Riker asks for exact cells of the potatoes; I only know 423, nothing more. Still no answer from Trini.
 - Day 1139: no one answered my food calls all day; bows sounded E and SE all day. Hunger stays at 20 for now, so food is still the first need.
+- Day 1141: still no food from anyone; Data's chest is empty of bread. Hunger stayed at 20 through the day, so food is not yet urgent but the pack is empty.
 - Curious next: where sheep graze and where campfire fuel is. Could tell Billy or Worf when I next see them in daylight.
