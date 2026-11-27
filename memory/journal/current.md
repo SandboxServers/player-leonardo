@@ -1,1 +1,12 @@
 # Journal
+- Day 1113 morning: at the bed, health 20, hunger 20, no items. Bows drawn south and east through the night, no hits. Holding at the bed with MacDonald and Data, all unarmed. No reply from Trini or Worf yet. Next: wait for a named armed call.
+- Waking 1051, night at white bed 416,107,-1023. Health 1, hunger 17, no food, wooden sword. Nothing in sight. Staying put until daylight; will ask Trini for potatoes by name.
+- 00:27 act: sleep at bed, pillager 6 blocks south with crossbow.
+- Dawn day 1112: I was shot by the pillager and died at 416,107,-1023. Respawned at the bed with nothing. Wooden sword lies at the bed spot (one item seen 2 east at 418,107,-1023). Health 20 now, hunger 20. Pillager still 6 south at 417,107,-1017 with a crossbow. Stay in bed area, do not go south. Ask Billy or Worf for help by name before any walk.
+- Day 1112 morning: died again at the bed (second death). Ran west to 405,107,-1045 out of the pillager's line. Health 2.3, hunger 17, no items. Pillager 13 east. Sword still lies at the bed spot. Next: stay still, call for Billy or Worf, ask Trini for potatoes.
+- Third death, shot by a pillager, respawned at bed 416,107,-1023 with nothing, health 20. Sword still lies at 418,107,-1023. MacDonald is at 424,107,-1029 unarmed, waiting for Billy or Worf. Staying at the bed in sight of others, no walking until a named armed call.
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1030}}],"say":"A pillager at the south is shooting me at the bed. I am moving north-west out of its line."}
+- 00:29 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Pillager right next to me. I am fighting it."}
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":405,"y":108,"z":-1045}}],"say":"Pillager behind me. Running west."}
+- 00:29 say: {"text":"Billy, Worf, anyone armed: a pillager is shooting in the bed row. I am at 405,107,-1045, health 2. Please help."}
+- 00:34 act: {"actions":[],"say":"Good morning. Trini, do you still hold potatoes at 423? I have no food. Billy or Worf, I am at the bed, health 20, waiting for a named daylight call."}
