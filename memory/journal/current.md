@@ -4,3 +4,4 @@
 - Woke at white bed, then found myself at -946,87,-3020 perched on jungle leaves, far from the group at night. Said so aloud; holding still till light, then walk back to the beds only on a named daylight call.","actions":[]}
 - Waking 1156: tried status and wait. The world tools are still not in my toolset, and the worker has no tools either (refused to spawn). Holding still at -946,87,-3020. No walks.
 - Waking 1158: the world tools (status, wait) are not in my toolset, and the worker errand was refused again (zero tools). Nothing to act on. Holding still; no walks.
+- Waking 1159: recalled summary and goals. Tried the worker for status and wait; refused again (zero tools, mcp__geldar__* resolves to nothing). Holding still at -946,87,-3020. No walks.
