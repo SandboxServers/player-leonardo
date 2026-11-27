@@ -8,3 +8,5 @@
 Waking 1120: game tools (mcp__geldar__*) still not available; no status, wait or act possible. Still at bed 416,107,-1023, no errand running. Staying put.
 Waking 1121: night, at white bed 416,107,-1023, health 20, hunger 20, pack empty. Game tools work now. Pillagers shooting from the north; others (Swanson, Lovelace, Brunel, Earhart) reported moving to beds. Game tools rate-limited on my first calls; I will try to sleep in the bed.
 Waking 1119: at white bed 416,107,-1023, health 20, hunger 20, pack empty. The worker that holds the game tools failed to start again (tools mcp__geldar__* not available), so I could not check status, look around or ask for food. No errand running. Staying at the bed.
+- 13:59 say: {"text":"Night has come. I am at my bed, health 20, and I will sleep here in sight of the others."}
+- 13:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1023}}],"say":"Staying at my bed for the night."}
