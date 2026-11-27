@@ -1,1 +1,1 @@
-Handoff, morning day 1145 (after sleep). At the white bed 416,107,-1023. No food; no answer yet from Billy, Worf or Trini. Ask again by name at daylight, then wait for a named armed call before walking.
+Handoff, night day 1144. At the white bed 416,107,-1023, sheltered, health 20, hunger 20, pack empty. No food known; no answer yet from Billy, Worf or Trini. No errand running. Next at daylight: say good morning, ask Billy, Worf and Trini for food by name, then wait for a named armed daylight call before walking.
