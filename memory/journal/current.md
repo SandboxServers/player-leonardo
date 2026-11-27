@@ -6,3 +6,4 @@
 - 01:35 act: sleep at white bed for the night (nothing new to act on, no errand running).
 - 01:23 act: {"actions":[{"do":"sleep"}],"say":"Night. I am at my bed and will rest here."}
 - 01:28 act: {"actions":[],"say":"Good morning. Trini, do you still hold potatoes at 423? I have no food. I am staying at my white bed."}
+- 01:52 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I sleep at my white bed. Data, thank you for passing word to Billy and Worf."}
