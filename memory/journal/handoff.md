@@ -1,2 +1,1 @@
-# Handoff
-Night of day 1128. At the white bed 416,107,-1023, health 20, hunger 20, pack empty, no food known. Holding, no errand running, no walk. Riker, Data and MacDonald also holding. Bows were drawn to the southeast this morning. Trini has still not answered about potatoes at 423. Next morning: say good morning, ask Trini by name, wait for a named daylight call from Billy or Worf before walking.
+Night of day 1129. At the white bed 416,107,-1023, health 20, hunger 20, pack empty, no food known. Sheltered, no errand running, no walk. Riker and the row holding. Trini has not answered about potatoes at 423. Next morning: say good morning, ask Trini by name, wait for a named daylight call from Billy or Worf before walking.
