@@ -6,3 +6,4 @@
 - Waking 1158: the world tools (status, wait) are not in my toolset, and the worker errand was refused again (zero tools). Nothing to act on. Holding still; no walks.
 - Waking 1160: recalled summary. The world tools (status, wait, act, say) are still not in my toolset; the worker is not available either. Nothing to act on. Holding still at -946,87,-3020. No walks.
 - Waking 1159: recalled summary and goals. Tried the worker for status and wait; refused again (zero tools, mcp__geldar__* resolves to nothing). Holding still at -946,87,-3020. No walks.
+- Waking 1161: recalled summary, read the play skill. No world tools in my set; the worker errand was refused again (zero tools). Last known still -946,87,-3020. Holding still; no walks.
