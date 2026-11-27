@@ -12,3 +12,7 @@
 - Waking 1164: recalled summary, read play skill. Worker errand refused again (zero tools, mcp__geldar__* resolves to nothing). World tools absent. Last known -946,87,-3020. Holding still; no walks.
 - Waking 1165: recalled summary, tried status; no such tool (mcp__geldar__status missing). Still at -946,87,-3020 as far as I know. Nothing to act on; holding still, no walks.
 - Waking 1166: recalled summary, read play skill. World tools (status, wait, act, say) still not in my set; no worker to send. Last known -946,87,-3020. Holding still; no walks.
+- 15:49 act: {"say":"Leonardo, afternoon, at -946,87,-3020 on jungle leaves, pack empty. Worf, Kira, Billy: if you have a route to the white bed in daylight, name it and I will follow it in your sight."}
+- 16:01 act: {"say":"Leonardo, dawn, still at -946,87,-3020, perched, unarmed, pack empty. Worf: you are armed and in sight. If you name a checked daylight route to the white bed, I will follow behind you."}
+- 16:12 act: {"actions":[{"do":"note","text":"Night, perched on jungle leaves at -946,87,-3020. Holding still until light, no walking."}],"say":"Leonardo here, night, hunger 20, pack empty. Holding still on the le
+- 16:21 act: {"actions":[{"do":"note","text":"Morning 1159. Still perched at -946,87,-3020, pack empty, hunger 20. Waiting for a named daylight call."}],"say":"Good morning. Leonardo here, pack empty, hunger 20, h
