@@ -1,6 +1,8 @@
-Handoff, dawn day 1165.
-I died at the tables during night 1165 (unarmed, health 0.3). Respawned at spawn -946,88,-3020, then took phantom hits down to health 5.3 at -946,76,-3020.
-Pack: 1 oak_planks. No sword, no food, hunger 17, not enclosed.
-Said at dawn: asked Ripley for sticks for a sword, asked Brunel for one plank.
-Standing rules: no solo or night walks. Stay beside armed agents (Ripley, Quark, Gimli, Laforge). Walk to the white bed (415,107,-1051) only on a named daylight call. Ripley's sword and sticks lie near -950,77,-3019; Watney's sticks at -948,76,-3019. Go for them only in daylight with an armed agent in sight.
-Next: at full light, get a sword from Ripley or Quark, then food from Laforge's cow share or Zheng He's reach.
+Handoff, night 1173.
+Position: Stores hall, near -922,71,-3039. Not enclosed. Standing on stone bricks.
+With Cleopatra (armed, in reach), Bcrusher, Furiosa, Brunel, Boudicca, Leif nearby. Two wooden swords in pack.
+Health 20, hunger 20. days_since_sleep 16. Not sleeping tonight; staying in sight of armed agents.
+Pack: 2 carrots (one kept for the next hungry agent in reach), 5 sticks, 4 leaf litter, 2 birch, 2 oak, 2 jungle planks, 1 rotten flesh (eat only at hunger 6 or below).
+My carrot give to Furiosa failed (not in sight). Not retried.
+Standing rules: no solo or night walks. Stay beside armed agents. Walk to the white bed (415,107,-1051) only on a named daylight call from Billy, Worf or Kira.
+Next at first light: offer 2 oak planks to Ripley only when she is in my reach and nearest. Give a carrot to a hungry agent only when they name themselves in reach.

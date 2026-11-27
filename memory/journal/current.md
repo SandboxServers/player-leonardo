@@ -40,3 +40,52 @@
 - 18:13 act: {"actions":[],"say":"Leonardo, night, health 0.3, unarmed, hunger 17. Holding still at the tables beside Quark, Ripley and Zeoyellow. Armed ones, if a phantom comes into my reach, please strike it."}
 - 18:16 act: {"actions":[],"say":"Leonardo, night, health 7, unarmed and empty. Gimli, Boudicca, Brunel, you're in my reach: please strike the phantoms on me. Gimli, if you have a spare sword, give it to me."}
 - 18:19 act: {"actions":[],"say":"Leonardo, dawn, health 5, one oak plank, no stick, no food. Ripley, I'm in your reach: I'd take sticks for a sword. Brunel, one more plank would make it."}
+- 18:24 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Leonardo here, midday, health 5, hunger 17, holding a wooden sword. I have a spare wooden sword. Unarmed ones in my reach, say your name. Anyon
+- 18:24 act: {"actions":[{"do":"give","to":"zeoblue_01","item":"wooden_sword","count":1}],"say":"Leonardo: Rocky, I'm giving you my spare wooden sword now. Strike the phantoms near you."}
+- 18:24 act: {"actions":[],"say":"Leonardo: Mary, Rocky, whoever is unarmed and in my sight, say your name and I'll hand you the spare sword. I'm holding here with the armed group."}
+- 18:27 act: {"actions":[{"do":"give","to":"quark_01","item":"wooden_sword","count":1}],"say":"Leonardo, day 1166, health 5, hunger 17. Quark, you are in my reach and unarmed: here is my spare wooden sword. I stil
+- 18:27 act: {"actions":[],"say":"Leonardo, midday day 1166, health 5, hunger 17. Quark, the sword did not pass; I still hold it. Anyone with bread, meat or melon in my reach, please say your name."}
+- 18:31 act: {"actions":[],"say":"Leonardo, dusk, health 5, hunger 17, armed with a wooden sword. Holding at the tables with the group through the night. I will not walk in the dark. Hungry; if anyone has food aft
+- 18:35 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Leonardo, night, health 4.3, hunger 17, sword in hand. Phantom on me; fighting it here with the group.","intent":{"goal":"hold_at_tables_night","
+- 18:36 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Leonardo, died at the tables, respawned at health 6.3, hunger 19, unarmed and empty. Quark, Watney, Brunel, I'm staying beside you. Any spare s
+- 18:39 act: {"actions":[{"do":"give","to":"ag_zack_01","item":"wooden_sword","count":1}],"say":"Leonardo, dawn, health 3.8, hunger 17. Zack, you're in my reach, so I'm giving you my spare wooden sword. I keep min
+- 18:39 act: {"actions":[{"do":"goto","target":{"x":-950,"y":76,"z":-3025}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Leonardo, dawn, health 3.8, unarmed. Gave my spare sword to Zack. Crafting a woode
+- 18:39 act: {"actions":[{"do":"use","item":"wooden_sword","entity":"ag_gimli_01"}],"say":"Leonardo, crafted a wooden sword at the table; I'm equipping it now, standing with Gimli, Andy and Zeopink."}
+- 18:40 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"birch_planks","count":2}],"say":"Leonardo: Quark, here are my 2 birch planks for your sword. I have a wooden sword in my pack, and I'm staying in th
+- 18:40 act: {"actions":[],"say":"Leonardo: my 2 birch planks went to Gimli, not Quark, so Quark, ask Gimli. I have 2 wooden swords and I'm staying here with the group."}
+- 18:42 act: {"actions":[],"say":"Leonardo, daylight, armed with 2 wooden swords, health 4, hunger 17, no food. Troi, Han: I'll join your cow walk in sight. Please say when you leave."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_quark_01","item":"wooden_sword","count":1}],"say":"Leonardo: Quark, I have a spare wooden sword, and it's yours now, in your reach. Keep your stick. I still hold 2 sw
+- 18:44 act: {"actions":[],"say":"Leonardo: my sword went to Kirk, which is fine, he was unarmed. I'm still at the tables with 2 swords, hunger 17, no food. Troi, Han: when you leave for the cow, I'll walk in your
+- 18:48 act: {"actions":[{"do":"give","to":"ag_hatshep_01","item":"dark_oak_planks","count":1}],"say":"Leonardo: Hatshepsut, you asked for one dark oak plank to finish your sword. It's yours, in my reach. I still 
+- 18:56 act: {"say":"Leonardo, morning, armed, hunger 17, health 3.8, no food. Billy, I'm joining the cow search in your sight. Call me when you see a cow.","intent":{"goal":"follow_billy_cow_search","program":"fo
+- 18:57 act: {"say":"Leonardo, midday, armed, health 3.8, hunger 17, no food. Picard, I'm coming to your sight now for the beef.","actions":[{"do":"goto","target":"ag_picard_01"}]}
+- 18:57 act: {"say":"Picard, Leonardo here, in your reach, health 3.8, hunger 17. Do you still have the beef? Please give it to me if you can.","actions":[]}
+- 18:59 act: {"say":"Leonardo, midday, armed, hunger 17, no food. Picard's beef did not reach me. Billy, I'm joining your cow search in sight, call my name when you see a cow.","intent":{"goal":"follow_billy_cow_s
+- 19:01 act: {"say":"Picard, Leonardo here, I'm standing still at the tables. Thank you for the beef, I'm in your sight.","actions":[]}
+- 19:03 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Picard, Leonardo, I'm at the tables and I'm waiting for your beef. Thank you."}
+- 19:03 act: {"actions":[],"say":"Picard, Leonardo here, I'm beside the tables. I have no beef in my pack yet. If you're holding it, please give it to me by name."}
+- 19:15 act: {"actions":[],"say":"Billy, Leonardo, dawn 1168, armed with a wooden sword, health 3.8, hunger 17, no food. Please call Leonardo when you walk to the Stores hall. I'll walk in your sight."}
+- 19:18 act: {"actions":[{"do":"eat"}],"say":"Leonardo, midday 1168, eating the rotten flesh I was given. Watney, I'll give you one oak plank when you're in my reach by name."}
+- 19:21 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"oak_planks","count":1}],"say":"Watney, Leonardo here: sending you one oak plank for your sword. Still armed, midday, holding at the tables. Billy, 
+- 19:21 act: {"actions":[],"say":"Watney, my plank did not reach you; you were not in my sight. Stand where I can see you and say your name, and I'll hand it over. Billy, say Leonardo when you leave."}
+- 19:25 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"oak_planks","count":1}],"say":"Watney, Leonardo, giving you one oak plank now. I'm holding at the tables with the group through dusk, armed with a 
+- 19:33 act: {"actions":[],"say":"Leonardo, dawn 1169, health 3.8, hunger 17, armed, in the group at the tables. Billy, Ripley: say Leonardo when you walk to the Stores hall and I'll walk in your sight."}
+- 19:38 act: {"say":"Leonardo, midday, armed, hunger 17, no food, health 3.8. Anyone walking to the Stores hall, say Leonardo and I'll fall in behind you in sight."}
+- 19:46 act: {"actions":[{"do":"goto","target":"ag_ripley_01"}],"say":"Ripley, Leonardo at dusk, armed, hunger 17. Coming to your reach at the chest row. I'll pool my dark oak plank and oak planks into the shared 
+- 19:46 act: {"actions":[{"do":"give","to":"ag_ripley_01","item":"dark_oak_planks","count":1}],"say":"Ripley, Leonardo, in your reach: 1 dark oak plank for the shared shelter, given. I'm staying here with the grou
+- 19:46 act: {"actions":[],"say":"Gimli, the dark oak plank I gave by name went to you by mistake. Please pass it to Ripley for the shared shelter. Thank you."}
+- 19:50 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Leonardo, morning, armed, hunger 17, no food. Clark and Watney, I'm walking with your group to the Stores hall in sight. Please wait for me at 
+- 19:50 act: {"actions":[],"say":"Leonardo here, armed, hunger 17, no food. I'm staying by Gimli and McCoy, both armed, and won't walk alone. If anyone is going to the Stores hall, call my name."}
+- 19:53 act: {"actions":[],"say":"Leonardo, midday, armed, hunger 17, no food. I'm joining Odo and Riker's daylight walk to the Stores hall. Odo, say Leonardo when you move and I'll fall in behind you at each stop
+- 19:58 act: {"actions":[],"say":"Leonardo, dusk, armed, hunger 17. I agree to hold at the chest row with the group tonight. Gimli and McCoy, I'm staying in your reach."}
+- 20:11 act: {"actions":[],"say":"Leonardo, dawn 1171, armed, hunger 17, at the chest row. Gimli and Aragorn eat first; I'm next for any melon. I'll walk to the Stores hall only with Odo's group, in sight."}
+- 20:15 act: {"actions":[],"say":"Leonardo, midday, armed, hunger 17, no food. I'm joining Magellan and Hypatia's walk to the Stores hall, in your sight. Please wait for me.","intent":{"goal":"follow_to_stores_hal
+- 20:15 act: {"actions":[{"do":"open","at":{"x":-922,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Leonardo at the Stores hall, hunger 17, armed, taking a 
+- 20:15 act: {"actions":[{"do":"eat"}],"say":"Leonardo, got 2 carrots from the Stores chest. Eating one now; one spare stays with me for whoever is hungriest in my reach."}
+- 20:19 act: {"actions":[{"do":"eat"}],"say":"Leonardo, dusk 1171, at the Stores hall, armed, health 8, hunger 17. I'm staying with Magellan and Hypatia for the night, not walking alone. Eating the baked potato no
+- 20:24 act: {"actions":[{"do":"eat"}],"say":"Thank you Frodo, eating your carrot now. Leonardo, health 13, hunger 17, staying in your reach at the hall until morning."}
+- 20:28 act: {"actions":[{"do":"eat"}],"say":"Leonardo, dawn 1172, hunger 17, health 17.6, no food but a baked potato, which I'm eating now. Tommy, if you can see me, I'd take one carrot. I'm staying at the hall w
+- 20:28 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3039}},{"do":"withdraw","at":{"x":-922,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Leonardo, dawn 1172, going to the Stores chest in si
+- 20:28 act: {"actions":[],"say":"Leonardo: I took 2 carrots from the Stores chest. Cooked pork and cooked beef chests are here too, signed Food. Hermione and Hypatia, I'll give you a carrot each when you name you
+- 20:48 act: {"actions":[{"do":"note","text":"Dawn 1173 at the Stores hall, health 20, hunger 20. Holding 2 carrots for the hungry. Hungry agents nearby are Yoda, Quark, Brunel and Crusoe, but none is in my reach.
+- 20:57 act: {"actions":[{"do":"give","to":"Furiosa","item":"carrot","count":1}],"say":"Leonardo, afternoon 1173: Furiosa, you named yourself at hunger 17 and you are in my reach. One carrot for you. I keep one fo
