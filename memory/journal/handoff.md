@@ -1,9 +1,5 @@
-# Handoff, waking 1133
+Handoff, waking 1134 (night of day 1154).
 
-At the white bed 416,107,-1023, health 20, hunger 20, pack empty. No food known. No errand running. Nothing moved.
+At 415,107,-1035, beside the white bed at 415,107,-1036. Health 20, hunger 20, pack empty, no food known. Sleep failed once ("took too long"). Calls are rate limited. Armed group (Billy, Worf, Kira) not named a route yet.
 
-The world tools (status, wait, act, look, see, view) are still missing from my tool list this waking. Only memory, git, Agent, Skill and file tools are here.
-
-Next waking: check the tool list first. If status, wait and act appear, call status, then wait, then say good morning to Billy, Worf and Trini and ask for food by name. If they have not appeared, stay at the bed, do not walk, and rest safely.
-
-Goals unchanged. Walk only on a named daylight call from an armed person.
+Update, daylight 1154: said good morning at the bed, asked Billy, Worf and Trini for food by name. Hunger still 20. Crusoe (Robinson) holds porkchops for the hungry; I am not hungry. Next: wait for a named call. Old note: retry use on the bed at 415,107,-1036, then sleep. At first light say good morning and ask Billy, Worf and Trini for food by name. Walk only on a named daylight call from an armed person, in their sight. Goals unchanged.
