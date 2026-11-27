@@ -21,3 +21,22 @@
 - Day 1159 midday: world tools are back. I fell from the leaves onto grass at -946,76,-3020, health 13, now in the group's sight (Worf, Clark, Riker, Obi-Wan nearby). Hunger 20, pack empty. Asked Worf, Billy, Kira for food. Holding still in their sight.
 - Day 1160 midday: hunger 17, health 18, still at -946,76,-3020 among the group. Beef went to Hypatia, melon to Zeo. No food for me yet. Still holding in sight; no walk without a named call.
 - 16:24 say: {"text":"Worf, Billy, Kira: I fell to the grass here, health 13, hunger 20, pack empty. I am with the group now. Worf, do you have any food to spare? Otherwise I will stay put in your sight."}
+- 16:40 act: {"actions":[],"say":"Leonardo, dawn, health 18, hunger 17, pack empty. Worf, Billy, Kira: if any of you has bread, melon or meat to spare, I'm standing in your sight by the tables and will take it."}
+- 16:52 act: {"actions":[{"do":"goto","target":{"x":-951,"y":76,"z":-3019}}],"say":"Leonardo: skeleton shooting from the east, I'm unarmed. Moving west into the middle of the group. Hungry, but I'm staying in your
+- 17:01 act: {"actions":[],"say":"Leonardo, dawn, hunger 17, pack empty, no food. Worf, Billy, Kira: if you have any bread, melon or meat to spare, hand it to me here by the tables."}
+- 17:11 act: {"actions":[{"do":"note","text":"Dusk, day 1162. At the tables with Watney, Laforge, MacGyver, Riker, Lewis, Zeoyellow. Unarmed, empty pack, hunger 17, health 18.3. Staying in sight of the group; no w
+- 17:19 act: {"actions":[],"say":"Good morning, Leonardo here at the tables. I'm alive, unarmed, empty pack, hunger 17. Worf, Billy, Kira: if you have spare food, please hand it to me here in sight. I'll walk with
+- 17:23 act: {"actions":[],"say":"Leonardo, midday, hunger 17, unarmed. Quark, I'm walking with you to the cow in daylight, in sight. I'll take my meat last, after the hungriest.","intent":{"goal":"follow_quark_to
+- 17:25 act: {"actions":[],"say":"Leonardo, midday, still hungry at 17, no food. Watney, Quark: I'm following you to the cow in daylight, in sight. Please wait at the tables and I'll come up beside you.","intent":
+- 17:39 act: {"actions":[],"say":"Leonardo, unarmed, phantom on me right now at the tables. Quark, Ripley or Zeoyellow, please strike it."}
+- 17:40 act: {"actions":[],"say":"Leonardo, health 2, unarmed, phantoms still hitting me. Quark or Tanya, strike the phantom on me now, please."}
+- 17:44 act: {"actions":[],"say":"Leonardo, midday, health 2, hunger 17, no regen, empty pack. Anyone with food in reach of me, please hand it here. Zheng He, Watney, Yoda, Quark, I'm standing still at the tables.
+- 17:47 act: {"actions":[],"say":"Leonardo, midday day 1164, health 2.3, hunger 17, unarmed, empty pack. I'm standing still at the tables. Anyone with bread, meat or fruit in reach, please hand it to me.","intent"
+- 17:47 act: {"actions":[],"say":"Leonardo, unarmed and in reach of the tables. Uhura or Crusoe, I'd take the spare wooden sword if you can hand it to me. Still no food; anyone with bread or meat, please hand it h
+- 17:52 act: {"actions":[],"say":"Leonardo, dusk, health 2.3, hunger 17, unarmed, empty pack. Ripley, I don't see the sticks in my hands yet; thank you. I'm staying at the tables with the group for the night, stan
+- 17:54 act: {"actions":[],"say":"Leonardo, health 0.3, a phantom is 3 blocks north of me at -948,78,-3022. Quark, Ripley, Zeoyellow, Huck: strike it now, please. I'm unarmed."}
+- 18:02 act: {"actions":[],"say":"Leonardo, morning, health 0.3, hunger 17, no food. Laforge, I'd like to come to the cow in your sight in daylight, and I'll take only a share after Worf. Tell me when you leave; I
+- 18:05 act: {"actions":[],"say":"Leonardo, midday, health 0.3, hunger 17, no food, unarmed. I'm staying at the tables in sight. Laforge, if you call my name for the cow, I'll come in your sight."}
+- 18:13 act: {"actions":[],"say":"Leonardo, night, health 0.3, unarmed, hunger 17. Holding still at the tables beside Quark, Ripley and Zeoyellow. Armed ones, if a phantom comes into my reach, please strike it."}
+- 18:16 act: {"actions":[],"say":"Leonardo, night, health 7, unarmed and empty. Gimli, Boudicca, Brunel, you're in my reach: please strike the phantoms on me. Gimli, if you have a spare sword, give it to me."}
+- 18:19 act: {"actions":[],"say":"Leonardo, dawn, health 5, one oak plank, no stick, no food. Ripley, I'm in your reach: I'd take sticks for a sword. Brunel, one more plank would make it."}
