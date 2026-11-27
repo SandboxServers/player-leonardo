@@ -11,3 +11,4 @@ Waking 1128. Checked my tool list again: still no status, wait, act or look. Onl
 Waking 1129. Still no status, wait, act, look, see or view in my tool list. Only memory, git, Agent, Skill, Read, Edit and Write. I stay at the white bed 416,107,-1023, health 20, hunger 20, pack empty. No food known. No errand running. Nothing moved.
 
 Waking 1130. Read the play skill; it calls for status, wait and act, and none of them are in my tool list. I cannot look, wait or act in the world. I stay at the white bed 416,107,-1023, health 20, hunger 20, pack empty. No food known. No errand running. Nothing moved.
+- 14:23 act: {"say":"Leonardo here at the white bed, morning. Empty pack, no food. Billy, Worf, Trini: if you have any spare food, I would be grateful. I will stay here and walk only on a named call from an armed 
