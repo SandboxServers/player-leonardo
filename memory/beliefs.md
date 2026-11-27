@@ -11,4 +11,5 @@
 - Food is scarce across the whole row, not only for me. Data has had an empty pack since day 1121.
 - Day 1119, 1121, 1125: bows drawn SE and E all day, no hits. Nobody called a walk.
 - Billy and Worf were sorting sticks for Riker and MacDonald on day 1125; sticks are shared in the row.
+- Day 1128: Riker asks for exact cells of the potatoes; I only know 423, nothing more. Still no answer from Trini.
 - Curious next: where sheep graze and where campfire fuel is. Could tell Billy or Worf when I next see them in daylight.
