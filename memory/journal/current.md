@@ -5,3 +5,4 @@
 - Day 1148 morning: said good morning, asked Billy, Worf, Trini again. Macdonald and Data also holding, no food. Staying at bed.
 - 12:10 act: {"say":"Good morning. Billy, Worf, Trini: does anyone have bread or potatoes to spare? I have an empty pack and no food."}
 - 12:26 act: {"actions":[{"do":"note","text":"Morning day 1148. Still no food. Holding at white bed 416,107,-1023. Waiting for a named armed daylight call from Billy or Worf before walking."}],"say":"Morning, Macd
+- 12:35 act: {"actions":[{"do":"sleep"}]}
