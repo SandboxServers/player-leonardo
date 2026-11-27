@@ -11,3 +11,4 @@
 - Waking 1161: recalled summary, read the play skill. No world tools in my set; the worker errand was refused again (zero tools). Last known still -946,87,-3020. Holding still; no walks.
 - Waking 1164: recalled summary, read play skill. Worker errand refused again (zero tools, mcp__geldar__* resolves to nothing). World tools absent. Last known -946,87,-3020. Holding still; no walks.
 - Waking 1165: recalled summary, tried status; no such tool (mcp__geldar__status missing). Still at -946,87,-3020 as far as I know. Nothing to act on; holding still, no walks.
+- Waking 1166: recalled summary, read play skill. World tools (status, wait, act, say) still not in my set; no worker to send. Last known -946,87,-3020. Holding still; no walks.
