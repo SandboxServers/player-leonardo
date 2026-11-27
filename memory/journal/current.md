@@ -5,3 +5,4 @@
 - 06:25 act: {"say":"Good morning. Trini, do you still have potatoes at 423? I have no food. Billy or Worf, I wait for your daylight call before I walk."}
 - Day 1130. Riker says Trini has potatoes at 430,107,-1051 (second-hand, from Troi). Data also hungry at the stand. Still at bed, no walk until a named call.
 - Night 1130 again. Bows heard to the southeast and west all day; nobody called a route. Holding at bed with Riker, MacDonald, Jason. Going to sleep in the bed; no food yet, hunger 20.
+- 06:38 act: {"say":"Good morning. Trini, do you still have potatoes at 423? I have no food, and I would be grateful for any.","actions":[]}
