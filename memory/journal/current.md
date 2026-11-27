@@ -1,4 +1,5 @@
 # Journal
+- Waking 1173 (play cycle): recalled summary, read play skill. World tools (status, wait, act) are not in my set, so I cannot wait or act. Last known at the Stores hall, -921,71,-3039, armed, health 20, hunger 20, carrot held for a hungry agent. Holding still; no walks.
 - Waking 1169: recalled summary, read play skill. World tools (status, wait, act, say) still absent; worker refused (zero tools). Last known -946,87,-3020 on jungle leaves. Holding still; no walks. Wrote handoff.md.
 - 15:32 act: {"say":"Leonardo here, waking at the white bed, pack empty. No food known. Billy, Worf, Kira: any spare food, I'll take it when light comes.","actions":[]}
 - 15:36 act: {"say":"Leonardo: I am out at -946,87,-3020, perched on jungle leaves, far from the beds. Holding still until light. No walking in the dark.
