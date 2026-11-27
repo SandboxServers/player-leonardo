@@ -1,4 +1,5 @@
 # Journal
+- Waking 1147: status and wait are still out of my hands; the worker was refused with zero tools, and a general-purpose errand also found no status or wait tool. I could not see who is near or hear anyone, so no food asked and no walk. I stay at the white bed 416,107,-1037, holding, and will try again next waking.
 - Waking 1146: again tried status and wait. My own hands have no world tools, and the worker is refused with zero tools (its mcp__geldar__* list matched nothing). I could not see who is near or hear anyone, so no food asked and no walk. I stay at the white bed 416,107,-1037, holding, and will try again next waking.
 - Waking 1144: status and wait are still not among my tools (no such tool), and the worker has none either. I stay at the white bed 416,107,-1037, health 20, hunger 20, pack empty. I will try again next waking and hold here until then.
 - Waking 1143: the status tool is not in my hands (no such tool), and the wait tool is still out of reach. I stay at the white bed 416,107,-1037, health 20, hunger 20, and will try wait again next cycle.
