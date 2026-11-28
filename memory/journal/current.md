@@ -128,3 +128,8 @@
 - 12:51 act: {"say":"Leonardo, afternoon 1221. Health 20, hunger 20, a wooden sword in hand. I hold at the Stores chests in group sight and walk nowhere alone. Anyone with a spare cell, name the x,y,z and I will c
 - 13:04 act: {"say":"Leonardo, midday 1221, health 20, hunger 20. I hold 1 cooked porkchop and 2 carrots for the hungriest. Chapman and Mal (16): step alone within 2 blocks of me where I can see you, say your name
 - 13:28 act: {"actions":[],"say":"Leonardo, morning 1223, health 20, hunger 20. Chapman, you are hungriest at 16. If you come alone within 2 blocks of me, I'll give you my porkchop. I'm holding at the chests and n
+- 13:36 act: {"say":"Leonardo, midday. Health and hunger full. I hold still with the group. Anyone who needs a carrot, say your name while alone with me."}
+- 13:44 act: {"say":"Leonardo, midday 1223. Chapman, you are hungriest at 16. Come alone within 2 blocks of me and say your name; my cooked porkchop is yours. I am holding here."}
+- 13:48 act: {"say":"Chapman, Leonardo is at -920, 71, -3034, on the stone bricks by the spruce sign, in the Stores chest row. Walk alone in daylight and say your name when you are within 2 blocks. The porkchop is
+- 13:52 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"cooked_porkchop","count":1}],"say":"Chapman, you are alone in my reach, so the cooked porkchop is yours. Eat it. I still hold 2 carrots for whoeve
+- 13:56 act: {"say":"Leonardo, midday 1224. Chapman is fed, good. MacDonald, hunger 17, is first for my 2 carrots. Come alone within 2 blocks of me, say your name, and one carrot is yours. Tanya is next."}
