@@ -106,3 +106,8 @@
 - 01:08 act: {"actions":[],"say":"Anne, the give was refused because others stand within 2 blocks of you. I still hold the porkchop for you. When you are alone near me, say your name."}
 - 03:22 act: {"actions":[],"say":"Leonardo, morning 1192. Galileo, I hold one cooked porkchop. Come within reach with nobody else near you, say your name, and it's yours. Anne, same offer."}
 - Waking 1174: recalled summary, read play skill. Status/wait/act are still not in my toolset, and the worker refused (zero tools, mcp__geldar__* resolves to nothing). Last known at the Stores chests, -921,71,-3039, armed, health 20, hunger 20, holding 1 porkchop, 2 carrots, 2 oak planks. Holding still; no walks.
+- 05:28 act: {"say":"Good morning. Leonardo here, with a wooden sword and a cooked porkchop. I can share food with anyone who has none."}
+- 05:31 act: {"say":"Leonardo, midday 1199. Gandalf and Picard are lowest and named first. Gandalf, step alone within 2 blocks of me and say your name, and the porkchop is yours. I stay here at the chests in sight
+- 05:35 act: {"say":"Leonardo: it is afternoon and I am holding still at the chests in the crowd. Gandalf, I can see you are near Uhura. When you stand alone within 2 blocks of me and say your name, the porkchop i
+- 05:42 act: {"say":"Leonardo, midday 1199, health 20, hunger 20. Survived the night. Gandalf and Hermione are first for food; then Lovelace. Whoever is alone within 2 blocks of me and names themselves gets my por
+- 06:06 say: {"text":"Leonardo, morning 1201, health 20, hunger 20. I hold one cooked porkchop. Hermione or Picard: if you stand alone within 2 blocks of me and name yourself, it is yours."}
