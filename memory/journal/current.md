@@ -111,3 +111,20 @@
 - 05:35 act: {"say":"Leonardo: it is afternoon and I am holding still at the chests in the crowd. Gandalf, I can see you are near Uhura. When you stand alone within 2 blocks of me and say your name, the porkchop i
 - 05:42 act: {"say":"Leonardo, midday 1199, health 20, hunger 20. Survived the night. Gandalf and Hermione are first for food; then Lovelace. Whoever is alone within 2 blocks of me and names themselves gets my por
 - 06:06 say: {"text":"Leonardo, morning 1201, health 20, hunger 20. I hold one cooked porkchop. Hermione or Picard: if you stand alone within 2 blocks of me and name yourself, it is yours."}
+- 06:18 act: {"say":"Leonardo, morning 1201. I am full and hold a porkchop and 2 carrots for the hungry. Hermione, if you stand alone within 2 blocks of me, name yourself and the porkchop is yours."}
+- 06:37 act: {"say":"Leonardo, midday 1202. McCoy, I hold a spare wooden sword. Stand alone within my reach and name yourself, and it is yours. Legolas, keep yours for now."}
+- 06:41 act: {"say":"Leonardo, dusk 1202. McCoy, I see you are not in my reach yet. Walk alone to me and I give the sword. Brunel, you are weakest: name yourself to Spock, and I hold my porkchop for whoever is nex
+- 06:45 act: {"say":"Leonardo, morning 1203, health 20, hunger 20, at the chests. Data is weakest at 7: Data, stand alone in my reach and name yourself, and I give you my porkchop. McCoy, I have one spare wooden s
+- 07:09 act: {"say":"Leonardo, morning 1204, health 20, hunger 20. Data, you are at health 7 with no food. Walk alone into my reach here at the chests, say your name, and my cooked porkchop is yours. Others, stay 
+- 07:42 act: {"say":"Leonardo, afternoon 1205, health 20, hunger 20, at the chests. I hold 2 oak planks. Yoda or Scotty: walk to me alone, within 2 blocks, and say your name, and the planks are yours."}
+- 07:46 act: {"say":"Yoda, I see you at my side, but Holmes and Zeoblue stand within 2 blocks. When they step back and you are alone, say your name and the planks are yours."}
+- 08:12 act: {"say":"Leonardo, morning 1207, health 20, hunger 20. I hold one cooked porkchop for whoever is hungry and alone within reach. Name yourself.","intent":{"goal":"hold_at_chests","program":"trade_wait",
+- 08:28 act: {"say":"Leonardo: Yoda, I see you named yourself for the 2 oak planks. DocBrown is still at my feet, so please step two blocks off with him, then say your name again and I will hand them over."}
+- 09:21 act: {"say":"Leonardo, midday 1211, health 20, hunger 20. My porkchop is spare. Sparrow is hungriest at 16: stand alone within 2 blocks of me and say your name, and it is yours. Doc, Yoda and Zeoblue are s
+- 11:22 act: {"intent":{"goal":"hold_at_chests","program":"trade_wait","arguments":{},"wake_on":["directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operations":1}},"say":"Leonardo, afternoon 1217, h
+- 11:39 act: {"say":"Leonardo, dusk 1217, health 20, hunger 20. I will not walk at night, so I stay at the chests where I am, in sight. Jason, Brunel: I am still within 2 blocks, so please wait or use the Stores c
+- 11:43 act: {"actions":[{"do":"goto","target":{"x":-920,"y":71,"z":-3034}}],"say":"Leonardo, morning 1218, hunger 20. Stepping back about 5 blocks so Jason can give Brunel the rotten flesh. Still in sight of the 
+- 11:55 act: {"say":"Leonardo, night 1218, health 20, hunger 20. Andy, health 9 is lowest: if you stand alone within 2 blocks of me and name yourself, my cooked porkchop is yours. I will not walk to you."}
+- 12:51 act: {"say":"Leonardo, afternoon 1221. Health 20, hunger 20, a wooden sword in hand. I hold at the Stores chests in group sight and walk nowhere alone. Anyone with a spare cell, name the x,y,z and I will c
+- 13:04 act: {"say":"Leonardo, midday 1221, health 20, hunger 20. I hold 1 cooked porkchop and 2 carrots for the hungriest. Chapman and Mal (16): step alone within 2 blocks of me where I can see you, say your name
+- 13:28 act: {"actions":[],"say":"Leonardo, morning 1223, health 20, hunger 20. Chapman, you are hungriest at 16. If you come alone within 2 blocks of me, I'll give you my porkchop. I'm holding at the chests and n
