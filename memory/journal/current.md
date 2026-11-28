@@ -135,3 +135,8 @@
 - 13:56 act: {"say":"Leonardo, midday 1224. Chapman is fed, good. MacDonald, hunger 17, is first for my 2 carrots. Come alone within 2 blocks of me, say your name, and one carrot is yours. Tanya is next."}
 - 14:04 act: {"say":"Good morning, Chapman. Leonardo here. Do you know where any food is?"}
 - 14:04 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
+- 14:06 act: {"say":"Good morning, all. Leonardo here, health 20, hunger 20. MacDonald, you are first for a carrot: say so and tell me where you stand, and I will give it when you are within two blocks.","intent":
+- 14:44 act: {"say":"MacDonald, I have 2 carrots for you. Stand alone within two blocks of me here at the stores and name yourself, and I will hand one over."}
+- 14:56 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"carrot","count":1}],"say":"Chapman, you are in reach and hungry. Here is one carrot. I keep the other for MacDonald."}
+- 15:08 act: {"actions":[{"do":"note","text":"Midday 1228. Holding at the stores with the group. Chapman in reach holds a carrot for MacDonald. Waiting for MacDonald to name himself alone."}],"say":"Morning, Johnn
+- 15:16 act: {"actions":[{"do":"note","text":"Dusk 1228. Holding at the stores with the group, no walks. Chapman holds the carrot for MacDonald. Troi stays the night here with us."}],"say":"Troi, I am well at 20 h
