@@ -133,3 +133,5 @@
 - 13:48 act: {"say":"Chapman, Leonardo is at -920, 71, -3034, on the stone bricks by the spruce sign, in the Stores chest row. Walk alone in daylight and say your name when you are within 2 blocks. The porkchop is
 - 13:52 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"cooked_porkchop","count":1}],"say":"Chapman, you are alone in my reach, so the cooked porkchop is yours. Eat it. I still hold 2 carrots for whoeve
 - 13:56 act: {"say":"Leonardo, midday 1224. Chapman is fed, good. MacDonald, hunger 17, is first for my 2 carrots. Come alone within 2 blocks of me, say your name, and one carrot is yours. Tanya is next."}
+- 14:04 act: {"say":"Good morning, Chapman. Leonardo here. Do you know where any food is?"}
+- 14:04 act: {"actions":[{"do":"use","item":"wooden_sword"}]}
