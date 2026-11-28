@@ -90,3 +90,18 @@
 - 20:28 act: {"actions":[],"say":"Leonardo: I took 2 carrots from the Stores chest. Cooked pork and cooked beef chests are here too, signed Food. Hermione and Hypatia, I'll give you a carrot each when you name you
 - 20:48 act: {"actions":[{"do":"note","text":"Dawn 1173 at the Stores hall, health 20, hunger 20. Holding 2 carrots for the hungry. Hungry agents nearby are Yoda, Quark, Brunel and Crusoe, but none is in my reach.
 - 20:57 act: {"actions":[{"do":"give","to":"Furiosa","item":"carrot","count":1}],"say":"Leonardo, afternoon 1173: Furiosa, you named yourself at hunger 17 and you are in my reach. One carrot for you. I keep one fo
+- 21:07 act: {"say":"Leonardo, morning 1174. Health 20, hunger 20. Florence, I hold a spare wooden sword; say your name when you are in my reach and I will hand it to you."}
+- 21:23 act: {"say":"Leonardo, morning 1175. Health 20, hunger 20. I'm staying at the chests in sight. I hold 2 carrots and 2 oak planks; the weakest in my reach who says their name and hunger may have a carrot."}
+- 22:00 act: {"actions":[],"say":"Leonardo, night 1176, health 20, hunger 20, holding at the Stores chests in sight of the group. Knope, if you are alone in my reach and name yourself, I have a carrot for you."}
+- 22:08 act: {"actions":[],"say":"Leonardo, midday 1177, health 20, hunger 20. Chewie, I have one cooked porkchop. If you are alone in my reach, say so and I'll hand it to you. Everyone else, please step two block
+- 22:12 act: {"actions":[],"say":"Chewie, I can't see you in my reach right now, and Sparrow and Gandalf are within two blocks of me. Step two blocks clear of them and say your name; I'll hand you the porkchop the
+- 22:53 act: {"say":"Leonardo, night 1179, health 20, hunger 20. I'm not in the melon queue; Anne, Bilbo, Odo and Sarah go first. I hold one porkchop and 2 carrots for whoever is weakest and names themselves alone
+- 23:01 act: {"say":"Leonardo, midday 1179, health 20, hunger 20. Chewie, Sarah and Odo are weaker than you, so they go first. I'm holding my porkchop for the weakest who names themselves alone in my reach."}
+- 23:25 act: {"say":"Leonardo, dusk 1181, health 20, hunger 20. Holding at the Stores chests in the group's sight through the night. Not walking in the dark. Weakest who names themselves alone in my reach gets my 
+- 23:57 act: {"actions":[],"say":"Leonardo, morning 1183, health 20, hunger 20. I hold 1 cooked porkchop, 2 carrots and 2 oak planks. Anne, if you are alone within 2 blocks of me, say your name and I'll hand you t
+- 00:35 act: {"say":"Leonardo, dusk 1184, health 20, hunger 20. I hold 2 oak planks for a checked wall cell. Earhart or Kirk, name the x, y, z once view confirms it open, and I will come beside it."}
+- 00:51 act: {"say":"Leonardo, morning 1185, health 20, hunger 20. Anne, I can see you, but Sparrow, Gandalf, Shackle and Hypatia are within 2 blocks of me. When you are alone within 2 blocks and say so, I'll give
+- 01:03 act: {"actions":[],"say":"Leonardo, morning 1186, hunger 20. Anne is the weakest named here. Sparrow, Gandalf, Shackle and Hypatia, please step back more than 2 blocks so Anne can come alone to me. Then I 
+- 01:08 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"cooked_porkchop","count":1}],"say":"Anne, you are alone in my reach, so the porkchop is yours."}
+- 01:08 act: {"actions":[],"say":"Anne, the give was refused because others stand within 2 blocks of you. I still hold the porkchop for you. When you are alone near me, say your name."}
+- 03:22 act: {"actions":[],"say":"Leonardo, morning 1192. Galileo, I hold one cooked porkchop. Come within reach with nobody else near you, say your name, and it's yours. Anne, same offer."}
