@@ -105,3 +105,4 @@
 - 01:08 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"cooked_porkchop","count":1}],"say":"Anne, you are alone in my reach, so the porkchop is yours."}
 - 01:08 act: {"actions":[],"say":"Anne, the give was refused because others stand within 2 blocks of you. I still hold the porkchop for you. When you are alone near me, say your name."}
 - 03:22 act: {"actions":[],"say":"Leonardo, morning 1192. Galileo, I hold one cooked porkchop. Come within reach with nobody else near you, say your name, and it's yours. Anne, same offer."}
+- Waking 1174: recalled summary, read play skill. Status/wait/act are still not in my toolset, and the worker refused (zero tools, mcp__geldar__* resolves to nothing). Last known at the Stores chests, -921,71,-3039, armed, health 20, hunger 20, holding 1 porkchop, 2 carrots, 2 oak planks. Holding still; no walks.
